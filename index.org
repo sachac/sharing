@@ -1,36 +1,22 @@
+#+INFOJS_OPT: view:overview toc:nil
+#+TITLE: Sharing Outline
 This is a rough outline of things I'd like to write about, screencast,
 draw, or share. index.org is written in Org Mode for Emacs, and it's
 the file that generates index.html. Issues and pull requests welcome
 (index.org preferred, but I can understand HTML patches too)!
+https://github.com/sachac/sharing
 
 Inspired by anything? Feel free to write your own posts, and send me
 a link. =)
 
 You can find my blog at http://sachachua.com .
 
+Click on the headings to expand them.
 
 * 5-year experiment
-So, what do you do?
-
-Many things! For example, I turn presentations and events into one-page visual sketchnotes that help people remember and share great ideas. It's part of my five-year experiment.
-
-What is this 5-year experiment?
-
-I wanted to learn more about business and life. After saving up and talking to lots of people, I quit a great job at IBM and started on my own. I
-
-Why five years?
-
-What are you learning?
-
-How has it been?
-
-What are you looking forward to?
-
-How have your income and expenses matched up?
-
-What could help you?
-
-What advice would you share with people starting out?
+** What I'm learning from my 5-year experiment
+** Experiment review: Income and expenses
+** Starting your own 5-year experiment
 * Visual thinking and sketchnoting
 ** Drawing banners/ribbons
 ** Quick lettering
@@ -167,6 +153,36 @@ To help you see the process, here’s a recording of my screen as I sketchnote a
 ** Learning keyboard shortcuts
 ** Why learn Emacs
 * Writing / blogging / sharing knowledge
+** Learning how to outline  :imagine:learn:
+Objective: Help other people improve their writing by learning how to
+outline; learn how to do this myself; share a list of things I'd like
+to write about
+
+- Breaking skills down into their components (Tim Ferris)
+- Why outlining?
+  - Pseudocode and prototypes
+  - Some moments of discipline to keep fleshing things out
+  - More about the freedom to make slow and steady progress, knowing
+    that a plan keeps me roughly on track
+  - Freedom to cut and rearrange
+- What I'm doing
+  - Tracking outlining time separately; butt-in-chair time
+  - Sharing my outline
+  - Tracking versions
+- Imagining wild success
+  - Outline of things I want to share
+  - The feel for how things flow together
+  - Tools
+    - Org Mode workflow
+      - Navigation
+      - Filtering
+      - Refiling?
+      - Publishing and archiving
+    - People can easily review the outline - maybe with org-info?
+    - People can tell me what they're interested in - maybe with a way
+      for me to note who I should follow up with, but in a way that
+      doesn't require me to keep a private repository? Maybe tied in
+      with e-mail...
 ** Building a resources page
 ** "It's not enough for a blog post"
 
@@ -417,6 +433,7 @@ Outcome: Collection of presentations
 ** Grocery update
 ** Building a price book
 ** Reviewing my clothing data
+** Virtual Quantified Self Show-and-Tell
 * Productivity and time
 ** Getting over my procrastination by deferring value judgments
 Other titles:
@@ -437,6 +454,7 @@ visualization?) Being halfway around the world from family is hard
 enough. I see the time pass for my parents in their Facebook pictures
 and on our Skype calls. As for here, W- is much older than I am, and I
 want to make the most of the time that I have with him.
+
 ** Not optimizing for productivity
 
 One of the people I was chatting with was interested in measuring
@@ -585,6 +603,7 @@ hack. =)
 ** Things to do with friends
 ** Learning more about communication
 ** Planning meetups
+** Connecting through code: Software as conversation
 * Family
 ** Family pictures
 ** Frozen lunches
@@ -654,6 +673,13 @@ When I project my current paths out to their peaks, I learn a lot about where I 
 ** Deep prizes
 (and marathons)
 ** Tweaking emotions through music
+** Death and stoicism
+Memento mori
+
+Negative visualization
+
+Take away the fear of losing people
+
 * Other snippets
 ** Planning a presentation 20 seconds at a time
 
@@ -663,3 +689,17 @@ When I project my current paths out to their peaks, I learn a lot about where I 
 
 
 ** Finding what different things have in common
+
+* Behind the scenes
+
+#+begin_html
+<style type="text/css">
+body { margin-left: 80px; font-family: Calibri, sans-serif }
+h1 { margin-left: -80px; }
+h2 { margin-left: -60px; }
+h3 { margin-left: -40px; }
+h4 { margin-left: -20px; }
+h1, h2, h3 { font-family: Calibri, sans-serif }
+</style>
+#+end_html
+
