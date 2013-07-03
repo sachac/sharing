@@ -1,0 +1,130 @@
+This is a rough outline of things I'd like to write about, screencast,
+draw, or share. index.org is written in Org Mode for Emacs, and it's
+the file that generates index.html. Issues and pull requests welcome
+(index.org preferred, but I can understand HTML patches too)!
+
+Inspired by anything? Feel free to write your own posts, and send me
+a link.
+
+You can find my blog at http://sachachua.com .
+
+* Visual thinking and sketchnoting
+** Drawing banners/ribbons
+** Quick lettering
+** Quick layouts and connectors
+** Sharing
+** Color
+** Visual hierarchy
+** Cleaning up your sketch
+** Sketching cheats
+** Digital tools
+** Paper tools
+** Space management
+* Emacs
+** How to learn Org Mode
+
+1. Get the hang of using Org as an outliner. See http://orgmode.org/org.html#Document-Structure
+2. Learn how to use Org to track TODO states. See http://orgmode.org/org.html#TODO-Items 
+3. Use C-c [ to add Org files to your agenda list, and learn how to schedule tasks. See http://orgmode.org/org.html#Dates-and-Times and http://orgmode.org/org.html#Agenda-Views
+4. Set up org-capture so that you can save notes to your Org file. http://orgmode.org/org.html#Capture-_002d-Refile-_002d-Archive
+5. Learn how to search and browse around
+6. Learn how to archive, now that your Org file is getting pretty big. http://orgmode.org/org.html#Capture-_002d-Refile-_002d-Archive
+7. Learn how to use tags and search. http://orgmode.org/org.html#Tags
+8. Customize your Org agenda even further
+
+** How to learn Emacs Lisp
+*** Interactive exploration with edebug
+* Future blog post titles
+** Writing blog posts by starting with titles
+Titles make blog posts easier to write
+Braindump titles to break through blogging bottlenecks
+** What makes you happy? Priorities and planning your life
+Fit for You: How a corporate career tool is an excellent way to improve your life
+Happiness update: What makes me happy at work and in life?
+** Getting over my procrastination by deferring value judgments
+Getting over my procrastination by getting rid of optimization
+Optimization is just another word for procrastination
+What are
+** Becoming more attentive: My quest to stop doing things half-way
+Becoming more mindful: My quest to stop doing things half-way
+Easily distractable: My quest to stop doing things half-way
+** Quantified Self Toronto survey results
+Partial numbers are in: Preliminary Quantified Self Toronto survey results
+Quantifying the Quantifiers: Survey results from Quantified Self Toronto
+** Quantified Time: Consulting Days vs. Open Days
+Does work really get in the way of living?
+
+** Random snippets
+*** Learning
+   Since she doesn’t like taking classes or workshops, she can use that time to get better at teaching herself. I don’t like taking classes either, so I know what that’s like. I should probably hack my way around that, though. There are many things that might be more cost- or time-effective for me to learn in a class than on my own or from books.
+*** Things I don't like about providing support - assumptions to question?
+Waiting for a response, and wanting to be able to respond quickly -
+maybe setting expectations?
+
+*** Investing in making the pie bigger
+My default approach is to save
+Where am I not investing
+*** Planner
+My blog grew out of Planner Mode, an organizer for Emacs. I used Planner to keep track of my tasks and notes. As an experiment, I published them on the web. 
+
+** Writing topics
+*** Writing
+**** Building a resources page
+**** "It's not enough for a blog post"
+
+**** Following the butterflies of your interest
+**** Hangout experiment
+**** How I got started
+**** Writing through resistance and self-doubt
+**** Tools
+***** Windows Live Writer
+***** Editorial Calendar
+***** Share a Draft
+**** Drawing your own illustrations for blog posts
+**** How to write a lot
+**** Writing is a way to think
+**** Blogging is a way to remember
+**** Things I don't write about (yet) - should I write about them?
+***** Semi-retirement
+Don't want to gloat or attract unwanted attention
+
+**** No lack of things to write about
+**** If you're not the writing type...
+**** Finding writing topics in conversations
+**** A platform for helping others
+*** Life
+**** Living an awesome life
+***** Figuring out what you want
+***** Keeping it simple
+**** Libraries
+**** Manifesto
+**** Discretionary expenses
+**** Semi-retirement
+*** Personal finance
+**** Mo' money, mo' opportunities
+*** Visual thinkers
+**** Drawing your future: Graphic organizers for planning and brainstorming
+**** How I got started drawing
+
+*** Quantified Self
+**** How to track your time with your smartphone
+Web
+iOS
+Android
+Exporting your data
+**** How to analyze your time data
+
+*** Emacs
+*** Geekery
+**** Key phrase extraction 
+http://pypi.python.org/pypi/topia.termextract/ ?
+https://code.google.com/p/maui-indexer/wiki/Installation ?
+*** Japanese
+**** Learning Japanese with Anki flashcards
+*** Productivity
+**** Automatically capturing screenshots on Windows
+... and the usefulness thereof
+
+
+
+
