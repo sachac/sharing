@@ -1,3 +1,4 @@
+#+TODO: TODO OUTLINED DRAFTED EDITED | DONE CANCELLED
 #+INFOJS_OPT: view:overview toc:nil
 #+TITLE: Sharing Outline
 This is a rough outline of things I'd like to write about, screencast,
@@ -18,24 +19,112 @@ Click on the headings to expand them.
 ** Experiment review: Income and expenses
 ** Starting your own 5-year experiment
 * Visual thinking and sketchnoting
-** Drawing banners/ribbons
-** Quick lettering
-** Quick layouts and connectors
+** OUTLINED Drawing emotions
+- Facial expressions
+- Express with the whole body - physicality
+- Express with relationships to each other
+- Express with icons 
+- Express with metaphors
+- Learning more
+  - Bikablo
+  - Actors
+** OUTLINED Drawing banners/ribbons
+- Draw the text first
+- Draw the part that encloses the text
+- Draw the scrolls
+- Shade it if desired
+** OUTLINED Quick digital lettering
+- Printed letters are the easiest to read
+- Thick letters
+- Square caps
+- Serifs
+- Doubled letters
+- Broad nibs
+- Outlines
+- Shadows
+- 3D letters
+** OUTLINED Quick layouts and connectors
+- Boxes
+- Ribbons
+- Arrows
+- Shaped arrows
+- Clouds
+- Shadows
+- Radial layouts
 ** Sharing
-** Color
-** Quick color schemes
+- Flickr
+- Blog
+  - Wordpress, NextGen Gallery etc.
+- Pinterest
+** OUTLINED Sketchnotes and digital color
+- Black and white
+- Color change
+- Highlighter
+- Shading
+- Eyedropper tool
+- Quick color schemes
+  - 10%, 90%
 ** Visual hierarchy
+- Weight
+- Emphasis
+- Space
 ** Cleaning up your sketch
+- Analog
+  - Taking a good picture
+- Move things around
+- Fix errors
+- Remove anything unnecessary
 ** Sketching cheats
 ** Digital tools
 ** Paper tools
-** Drawing the physicality of emotions
 ** Space management
-** Drawing your own illustrations for blog posts
+** OUTLINED Drawing illustrations for my blog posts
+- Tools and simple workflow
+  - Autodesk Sketchbook Pro
+  - Windows Live Writer
+- How to choose an image
+  - Metaphors
+  - Google Images
+  - Other blogs
+** Planning your life with Mural.ly and Evernote  
 ** Drawing your future: Graphic organizers for planning and brainstorming
+- Templates
+- Mural.ly
 ** How I got started drawing
+** OUTLINED Thinking about the Visual Thinkers Toronto meetup structure
+   DEADLINE: <2013-07-09 Tue>
 
-** Thinking about the Visual Thinkers meetup structure
+- Goals 
+  - Encourage people to share their work
+  - Be inspired by techniques and approaches
+  - Help people stretch and improve their visual thinking skills
+- Current structure
+  - Drawing game
+  - Speaker
+  - Open space
+  - Recap
+- Challenges of current approach
+- Proposed structure
+  - Share your work
+    - E-mail submissions or Flickr
+  - Game or exercise
+  - Presentation
+    - Technique: Maybe plan a calendar of topics, and see if we can
+      recruit specific speakers?
+  - Open space
+  - Challenge
+- Do you run a visual thinking meetup?
+- Next theme: Emotions
+- Survey
+** OUTLINED Thinking about a virtual meetup for sketchnoters    
+- Kevin Dulle organizing tweetchats
+- It would be great to go over different techniques
+- Finding speakers is always a challenge
+- But it's a great learning experience, so even if I sketch out a
+  "curriculum" and prepare many of the talks, that's fine. 
+- Also, people can always step forward and volunteer.
+- Next steps:
+  - Experiment with Google Hangout
 ** Not about drawing better
 
 Not better drawing
@@ -124,7 +213,7 @@ Depending on how quickly the speaker talks and how much interesting content they
 To help you see the process, here’s a recording of my screen as I sketchnote an hour-long presentation. I don’t draw that fast in real life - I’ve condensed the video to three minutes for your convenience. Enjoy!
 
 * Emacs
-** How to learn Org Mode
+** OUTLINED How to learn Org Mode
 
 1. Get the hang of using Org as an outliner. See http://orgmode.org/org.html#Document-Structure
 2. Learn how to use Org to track TODO states. See http://orgmode.org/org.html#TODO-Items 
@@ -135,7 +224,7 @@ To help you see the process, here’s a recording of my screen as I sketchnote a
 7. Learn how to use tags and search. http://orgmode.org/org.html#Tags
 8. Customize your Org agenda even further
 
-** Thinking with Emacs
+** OUTLINED Thinking with Emacs
 *** The basics
 *** Writing
 *** Sharing
@@ -153,7 +242,7 @@ To help you see the process, here’s a recording of my screen as I sketchnote a
 ** Learning keyboard shortcuts
 ** Why learn Emacs
 * Writing / blogging / sharing knowledge
-** Learning how to outline  :imagine:learn:
+** OUTLINED Learning how to outline                           :imagine:learn:
 Objective: Help other people improve their writing by learning how to
 outline; learn how to do this myself; share a list of things I'd like
 to write about
@@ -184,8 +273,9 @@ to write about
       doesn't require me to keep a private repository? Maybe tied in
       with e-mail...
 ** Building a resources page
-** "It's not enough for a blog post"
-
+** "It's not enough for a blog post"  :challenge:
+- Tidbits go in my weekly review
+** Brainstorming outlines
 ** Following the butterflies of your interest
 ** Hangout experiment
 ** How I got started
@@ -265,6 +355,7 @@ It's okay to be wrong.
 ** Getting the hang of passing everything through Evernote
 ** E-book tips
 * Business and career
+** Delegation
 ** Planning ahead in terms of people
 ** Paying myself
 ** What makes you happy? Priorities and planning your life
@@ -533,6 +624,7 @@ Intended uses:
 ** Taking it slowly
 I'm giving myself permission to take long walks, to draw for the sake of drawing, to write reflections, to be in silence. I want to find out what emerges from stillness. I recognize this fidgeting, this
 
+** Getting better at learning from online courses
 * Connecting
 ** I like being introverted
 
@@ -604,6 +696,21 @@ hack. =)
 ** Learning more about communication
 ** Planning meetups
 ** Connecting through code: Software as conversation
+** OUTLINED Experimenting with virtual meetups  
+- Motivation
+  - Lots of interesting people out there
+  - Prime the pump: Get the hang of doing it
+- See what's out there
+- Ramping up: content
+  - Blog posts
+  - YouTube
+- Building an audience
+  - Visual: Visual Thinking Hub, I Sketchnote
+  - Self-tracking: Quantified Self Toront, Quantified Self Labs
+  - Emacs: My blog, Planet Emacsen, Org mailing list
+- Next steps:
+  - Upcoming virtual meetups in August
+
 * Family
 ** Family pictures
 ** Frozen lunches
