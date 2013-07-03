@@ -7,3 +7,5 @@ the file that generates index.html. Issues and pull requests welcome
 (index.org preferred, but I can understand HTML patches too)!
 
 You can find my blog at http://sachachua.com .
+
+HTML version: https://dl.dropboxusercontent.com/u/3968124/sharing/index.html
