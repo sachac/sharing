@@ -1,5 +1,5 @@
 #+TODO: TODO OUTLINED DRAFTED EDITED | DONE CANCELLED
-#+INFOJS_OPT: view:overview toc:nil
+#+INFOJS_OPT: view:overview toc:nil path:https://dl.dropboxusercontent.com/u/3968124/sharing/org-info.js
 #+TITLE: Sharing Outline
 This is a rough outline of things I'd like to write about, screencast,
 draw, or share. index.org is written in Org Mode for Emacs, and it's
@@ -9,6 +9,8 @@ https://github.com/sachac/sharing
 
 Inspired by anything? Feel free to write your own posts, and send me
 a link. =)
+
+HTML version: https://dl.dropboxusercontent.com/u/3968124/sharing/index.html
 
 You can find my blog at http://sachachua.com .
 
@@ -34,6 +36,14 @@ Click on the headings to expand them.
   - Ledger
 - Investment results
 ** Starting your own 5-year experiment
+** Learning about business, learning about life
+- Why it's five years
+- Throw myself into it - learning how to build a business?
+- Keeping my needs small
+- Lifestyle business
+- More curious about life, creation - the things people can't pay you
+  to do
+- Backup plan
 * Visual thinking and sketchnoting
 ** OUTLINED Drawing emotions
 - Facial expressions
@@ -274,20 +284,28 @@ to write about
   - Tracking outlining time separately; butt-in-chair time
   - Sharing my outline
   - Tracking versions
+- Tools
+  - Org Mode workflow
+    - Outline
+    - Lists
+    - Navigation
+      - C-c j (org-goto) to jump around
+    - Filtering
+      - C-c v (org-show-todo-tree) shows the ones that have been
+        marked with a status (good to see which ones I've outlined)
+      - Tags
+    - Refiling?
+    - Publishing and archiving
+  - Github
 - Imagining wild success
   - Outline of things I want to share
   - The feel for how things flow together
-  - Tools
-    - Org Mode workflow
-      - Navigation
-      - Filtering
-      - Refiling?
-      - Publishing and archiving
-    - People can easily review the outline - maybe with org-info?
-    - People can tell me what they're interested in - maybe with a way
+  - People can easily review the outline - maybe with org-info?
+  - People can tell me what they're interested in - maybe with a way
       for me to note who I should follow up with, but in a way that
       doesn't require me to keep a private repository? Maybe tied in
       with e-mail...
+    
 ** Building a resources page
 ** "It's not enough for a blog post"  :challenge:
 - Tidbits go in my weekly review
@@ -418,6 +436,13 @@ up people.
 
 ** Year 2 Review
 ** Learning from how other people delegate
+** Brock Health review: Setting up your own HSPA
+** Salary or dividends? My calculations
+- Normal advice in Canada
+- Might not make as much sense for lower incomes
+- I don't need to pull that much money out of it
+- Personal exemption
+- RRSP contributions
 * Planning
 ** Pre-mortems and wild success stories
 ** Tag clouds for planning
@@ -430,7 +455,7 @@ up people.
 My default approach is to save
 Where am I not investing
 
-** Reinvesting in business and in life
+** OUTLINED Reinvesting in business and in life
 - Motivating conflict
   - My conflict: default is saving, lots of uncertainty, want security
   - also, technical skills/general interests; see the value in developing the skills myself, so tempted to do everything
@@ -467,7 +492,7 @@ Where am I not investing
 | Living                          |            |            |            | Edible landscaping, gardening advice |
 | Other                           |            |            |            |            |
 
-** What would you do with more money?
+** What would you do with more money?  :link:
 One of the downsides of building a really good frugality muscle (that reflexive reaction of "Oh, I don't really need this, do I?") is that
 
 I’ve been reading through Mr. Money Mustache’s blog archive, and his blog post on What would you do with WAY MORE money? made me think about what I value and what I would change. Like him, I’m comfortable with the way things are. I like eating at home. I like getting books and movies from the library instead of buying them. (No storage or waste issues, wide selection, and the satisfaction of boosting library circulation statistics…) I like my hobbies and interests. I like my freedom from the endless hedonic treadmill.
@@ -476,7 +501,7 @@ About the only thing that would be awesomer would be to make more frequent trips
 
 http://life-longlearner.com/want-a-lot-of-money/
 
-** Living an off-peak life
+** Living an off-peak life  :link:
 
 It’s finally spring in full force, and I’ve been biking whenever I can get away with it. The bike ride is a little faster than the subway commute to my client, and I like not have to squeeze into the crowded train. Free exercise along a well-maintained trail with plenty of flowers and trees…
 
@@ -580,15 +605,14 @@ but reliability
 space
 
 celebration
-** Rediscovering the renaissance life
+** Rediscovering the renaissance life :link:
 "It must be nice
 
 But my own favorite part of the book was in the description of the “Renaissance Man ideal”. This is the idea that you will have the most enjoyable life, AND the best chance at very early financial independence, by developing a whole load of interesting skills. The amazing part is that these skills don’t just sit independently in your mind like a bunch of unused kitchen appliances in a pantry. They start to reach out and connect to each other in unexpected ways, and start solving all of your problems for you. They build your curiosity and start sucking in still more skills that you can’t help acquiring. And before you know it, you are able to live a superb life on only a tiny fraction of the spending that a normal person does, even while you might end up accidentally earning money even more easily than before you embraced the Renaissance Ideal.
 
 Mr. Money Mustache, Book Review: Early Retirement Extreme
 
-** Open loops
-Open loops
+** Open loops :link:
 
 It’s been more than ten years since David Allen published Getting
 Things Done. I still haven’t come up with a fully trustable system,
@@ -653,7 +677,7 @@ I'm giving myself permission to take long walks, to draw for the sake of drawing
 
 ** Getting better at learning from online courses
 * Connecting
-** I like being introverted
+** I like being introverted  :snippets:
 
 Sometimes people tell me that they can’t believe I’m introverted. You
 organize meetups, they say. You share a lot online. You can’t possibly
@@ -741,6 +765,15 @@ hack. =)
 * Family
 ** Family pictures
 ** Frozen lunches
+** Freezer cooking - lunches
+- Some considerations
+  - Needs to be pre-cooked so that it can just be reheated in a microwave
+  - Tomato-based sauces can stain or pit plastic containers
+  - Fried stuff tends to get soggy
+*** Chicken and pork adobo
+*** Okonomiyaki
+*** Japanese croquettes
+*** Beef bulgogi
 * Decision review
 ** WIND Mobile
 ** Tablet PC
