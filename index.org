@@ -16,7 +16,23 @@ Click on the headings to expand them.
 
 * 5-year experiment
 ** What I'm learning from my 5-year experiment
-** Experiment review: Income and expenses
+- Rat race
+- Discretionary time is a wonderful thing
+** OUTLINED Experiment review: Income and expenses
+- Preparation
+  - Projecting my expenses
+  - Main costs: $10k a year
+  - GIC ladders
+- As expected
+  - Frugal lifestyle
+  - Delegation still worthwhile
+- Unexpected
+  - Consulting
+  - Easier and easier to substitute pleasures
+- Dealing with the unknown
+- Monthly reviews
+  - Ledger
+- Investment results
 ** Starting your own 5-year experiment
 * Visual thinking and sketchnoting
 ** OUTLINED Drawing emotions
@@ -616,7 +632,18 @@ Intended uses:
 - Clipped images for pasting into a layer; not transparent, so darken only?
 
 ** Things I use
-** Write down your processes
+** OUTLINED Write down your processes
+- Why
+  - Repeatability
+    - Value of checklists
+  - Easier to improve something when you can look at it
+  - If you share your processes with other people, they might have
+    suggestions
+  - Allows delegation
+- How
+  - Outlines
+  - Flow charts
+  - Special cases
 ** Take notes
 ** Without the excuse of time
 ** Improving my commute
@@ -720,6 +747,7 @@ hack. =)
 ** Tablet
 ** Starting my own business
 * Other geekery
+** Making my own URL shortening Wordpress plugin  :wordpress:code:
 ** RMagick and data-based photo mosaics
 ** Key phrase extraction 
 http://pypi.python.org/pypi/topia.termextract/ ?
