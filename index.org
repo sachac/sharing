@@ -4,22 +4,139 @@ the file that generates index.html. Issues and pull requests welcome
 (index.org preferred, but I can understand HTML patches too)!
 
 Inspired by anything? Feel free to write your own posts, and send me
-a link.
+a link. =)
 
 You can find my blog at http://sachachua.com .
 
+
+* 5-year experiment
+So, what do you do?
+
+Many things! For example, I turn presentations and events into one-page visual sketchnotes that help people remember and share great ideas. It's part of my five-year experiment.
+
+What is this 5-year experiment?
+
+I wanted to learn more about business and life. After saving up and talking to lots of people, I quit a great job at IBM and started on my own. I
+
+Why five years?
+
+What are you learning?
+
+How has it been?
+
+What are you looking forward to?
+
+How have your income and expenses matched up?
+
+What could help you?
+
+What advice would you share with people starting out?
 * Visual thinking and sketchnoting
 ** Drawing banners/ribbons
 ** Quick lettering
 ** Quick layouts and connectors
 ** Sharing
 ** Color
+** Quick color schemes
 ** Visual hierarchy
 ** Cleaning up your sketch
 ** Sketching cheats
 ** Digital tools
 ** Paper tools
+** Drawing the physicality of emotions
 ** Space management
+** Drawing your own illustrations for blog posts
+** Drawing your future: Graphic organizers for planning and brainstorming
+** How I got started drawing
+
+** Thinking about the Visual Thinkers meetup structure
+** Not about drawing better
+
+Not better drawing
+
+better use of what I draw
+
+better inspiration for others
+
+** Planning a sketch on index cards
+** Building your visual vocabulary
+** Printing sketchnotes
+I printed many of my sketchnotes and put them in a binder. That way, I
+can easily flip through them, and I can also spread them out. It was a
+good thing I did, because I found myself frequently referring to them
+in conversation. It was much more natural to flip through pages than
+to jump through images on a tablet, even with a tablet's enhanced
+search capabilities. If I find a binder that can double as a landscape
+presentation stand, I think that will be solid.
+
+Colour would make this much better. Highlights jump out more with
+colour. Different events are easier to distinguish with colour
+schemes. We have more of a visceral reaction to colour. The ING Orange
+coworking space has an a
+
+I should always keep black and white printing in mind, though, because
+that's what many people will have. Observations: foreground colour
+isn't enough of a distinguisher. Bright red becomes a dark gray, which
+recedes compared to black (or the darkest tone I use). A plain white
+background works best, then a dot grid, then a line grid.
+
+Landscape is harder to work with in compilations, but it's better for
+viewing on-screen - how do other people handle this well? Must
+prototype with binder...
+
+** How to draw abstract concepts
+** Better digital sketchnoting animations
+** Revising sketchnotes
+** Sketching faces on the go
+** Reviewing my book notes
+** Animating drawings with Artrage Studio
+** Finding the forms in words
+** Experimenting with stock
+** Organizing my sketchnotes
+Creating
+
+Why
+- digital workflow: grids and templates,can adapt in real-time, can colour-match logos
+
+Tools
+- Autodesk Sketchbook Pro; Artrage Studio Pro
+- paper for personal brainstorming, when I want to see the big picture
+- large pieces of paper, blackboards, or whiteboards for group facilitation
+
+How
+- add credits
+- add a light blue dotted grid for lines and proportions
+- write the event header (name, hashtag, date)
+- write the title and speaker name
+- draw the speakers' faces
+
+- the talk itself
+Keywords
+Capture more detail, can always edit later
+Duplicate and erase as needed
+
+Naming
+
+Publishing
+
+Publicizing
+
+Searching
+
+Showing
+
+Improving
+** Animation workflow
+** How to listen and draw at the same time
+
+How to listen and draw at the same time
+
+
+When people see the sketchnotes I post right after presentations , they often ask me: “How do you listen and do all that at the same time?”
+Let me let you in on a little secret: I don’t. Not all at the same time. Mostly because during live presentations, I have no idea where the presenter might go.
+Depending on how quickly the speaker talks and how much interesting content they pack into their sentences, I might be scrambling to quickly jot down some keywords. When they pause for breath or transition to a new topic, I’ll go back and add stick figures and diagrams. As I figure out which points are important, I move parts of my drawing around or erase and refine what I’ve written.
+To help you see the process, here’s a recording of my screen as I sketchnote an hour-long presentation. I don’t draw that fast in real life - I’ve condensed the video to three minutes for your convenience. Enjoy!
+
 * Emacs
 ** How to learn Org Mode
 
@@ -32,99 +149,517 @@ You can find my blog at http://sachachua.com .
 7. Learn how to use tags and search. http://orgmode.org/org.html#Tags
 8. Customize your Org agenda even further
 
+** Thinking with Emacs
+*** The basics
+*** Writing
+*** Sharing
+*** Remembering and organizing
+*** Planning your life
+*** Working with numbers
+*** Saving time with shortcuts
 ** How to learn Emacs Lisp
 *** Interactive exploration with edebug
-* Future blog post titles
+** Save time with keyboard macros
+** Getting started with configuring Emacs
+** Tracking people with org-contacts
+** Ledger and Org Mode
+** Reorganizing Org-Mode files
+** Learning keyboard shortcuts
+** Why learn Emacs
+* Writing / blogging / sharing knowledge
+** Building a resources page
+** "It's not enough for a blog post"
+
+** Following the butterflies of your interest
+** Hangout experiment
+** How I got started
+** Writing through resistance and self-doubt
+** Tools
+*** Windows Live Writer
+*** Editorial Calendar
+*** Share a Draft
+** How to write a lot
+** Writing is a way to think
+** Blogging is a way to remember
+** Things I don't write about (yet) - should I write about them?
+*** Semi-retirement
+Don't want to gloat or attract unwanted attention
+
+** There's always something to write about
+** If you're not the writing type...
+** Finding writing topics in conversations
+** A platform for helping others
+
 ** Writing blog posts by starting with titles
-Titles make blog posts easier to write
-Braindump titles to break through blogging bottlenecks
+Other titles:
+- Titles make blog posts easier to write
+- Braindump titles to break through blogging bottlenecks
+** The freedom of pay what you can
+** Give away advice
+** Breaking down the skills for writing
+** What to teach
+
+I miss teaching. I had tons of fun teaching computer science when I
+was in the Philippines, coming up with different analogies and
+exercises. 
+
+Stephanie Diamond suggested making a sketchnotes course on Udemy.
+People have asked me about teaching Emacs, or blogging, or Quantified
+Self tracking and analysis.
+
+- What would you want to learn for free?
+- What would you value at $49?
+- What would you value at $99?
+
+Help me figure out a good curriculum that could help you!
+
+** It's okay to be wrong
+At an applied rationality meetup in Toronto, the guest speaker
+confessed to being afraid of blogging because she didn't want to be
+pinned down to words. 
+
+People think of writing as final. The fuzziness of conversation in
+memory might let you argue, "That's not what I said," but writing
+leaves you no wiggle room. 
+
+It's okay to be wrong.
+
+- What people are afraid of
+  - Not being able to adjust
+  - Misunderstandings
+  - Unexpected audience
+- Being wrong
+  - Inevitable
+  - Story about class
+  - Story about blog
+  - Story about comics
+  - Keeps me honest
+- Going forward
+  - Not an expert
+  - Conversation
+  - Modeling it
+
+** What I like writing about
+** Writing everywhere
+** Collecting stories and quotes
+** Improving my writing system
+** The power of long lists
+** Organizing what I know
+** Flipping through my notes
+** Getting the hang of passing everything through Evernote
+** E-book tips
+* Business and career
+** Planning ahead in terms of people
+** Paying myself
 ** What makes you happy? Priorities and planning your life
-Fit for You: How a corporate career tool is an excellent way to improve your life
-Happiness update: What makes me happy at work and in life?
-** Getting over my procrastination by deferring value judgments
-Getting over my procrastination by getting rid of optimization
-Optimization is just another word for procrastination
-What are
-** Becoming more attentive: My quest to stop doing things half-way
-Becoming more mindful: My quest to stop doing things half-way
-Easily distractable: My quest to stop doing things half-way
-** Quantified Self Toronto survey results
-Partial numbers are in: Preliminary Quantified Self Toronto survey results
-Quantifying the Quantifiers: Survey results from Quantified Self Toronto
+Other titles:
+- Fit for You: How a corporate career tool is an excellent way to improve your life
+- Happiness update: What makes me happy at work and in life?
+** What I feel brilliant at
+** Learning flexible skills
+** Narrating your work
+** Combinations of skills
+** Delegating your calendar
+** So, what is it that you _do_?
+** Defining the problem
+** Imagining wild success: delegation   :imagine:
+Imagine I have amazing assistants and a smoothly-running team. What am I doing with those capabilities?
+
+2 days a week, I'm focused on talking to people. I'm booked efficiently; tea, lunch, tea, second tea. Some of these meetings involve walks instead of food. The meetings cluster in various locations in order to minimize travel time. I might have one day for face-to-face meetings and one day for virtual meetings.
+
+After each meeting, I have at least half an hour to define next actions and get the ball rolling. It's easy to prioritize based on time and importance. We get the first actions out right away, impressing people, and then we follow up with depth. My assistant fills in the time with other tasks from the next actions list. I have at least 20 hours of work for people, so it's easy for them to focus.
+
+Types of things I delegate:
+Scheduling - I forward them emails and get back neatly formatted calendar entries
+Email response handling - they read my mail, prioritize, send me action items, and work on tasks.
+Web research - I send them questions and get back summaries of the top ten resources I should read. I suggest search queries, and they add their own.
+Illustration - I have backup illustrators who can sketchnote things that I can't get to, or who can share different styles and metaphors.
+Development - When I have an idea about Rails or Wordpress, I can work with someone to make it happen.
+Web design - themes, tweaks, beautifully HTMLized pages...
+Copywriting and copyediting - I send things over and get polished, engaging content
+Calls - Assistants can take care of calling businesses when they're open and following up if needed, such as when setting appointments or making reservations.
+Layout - I share a Dropbox folder with a bunch of graphics or documents. The assistant lays things out so that they're well-balanced in terms of whitespace and size.
+Transcription - I save webinars and interviews (or set people up to record) into a Dropbox shared folder, and I send an email. I get a well-formatted blog post or document with the cleaned-up transcript.
+Outlining and writing - someone helps me brainstorm blog post topics and outlines, fleshing them out with research, and organizing the topics into books
+Video - editing, synchronizing sound, adding transitions, etc.
+...
+
+I also have recurring tasks for projects and initiatives I care about. Things just work smoothly. I get confirmations.
+
+I have this lovely web-based process manual and a visual overview of tasks.
+
+I'm always collecting people for my pipeline.
+Hiring is not stressful - I have good onboarding and offboarding
+processes. I hire shortly before I really need to, so that I can ramp
+up people.
+
+** Year 2 Review
+** Learning from how other people delegate
+* Planning
+** Pre-mortems and wild success stories
+** Tag clouds for planning
+** Making decisions with emotions
+** Planning my next mini-experiments
+* Personal finance
+** Discretionary expenses
+** Investing in making the pie bigger
+(rough thoughts)
+My default approach is to save
+Where am I not investing
+
+** Reinvesting in business and in life
+- Motivating conflict
+  - My conflict: default is saving, lots of uncertainty, want security
+  - also, technical skills/general interests; see the value in developing the skills myself, so tempted to do everything
+  - BUT if I invest, I can learn more, and I can be better-prepared for opportunities + shifts in time/energy/capabilities
+  - The trick is to focus on enduring benefits and constant improvement
+- Imagining wild success
+  - Set aside enough to calm my lizard brain and feel reasonably safe (FireCalc.com)
+  - Earmarked funds for things that are important to me (ex: opportunity fund, flights home, helping out around the house)
+  - Good sense for value
+  - Structured review process
+- Understanding my goals and how I can invest in them
+  - Business
+    - Consulting: Help people connect and collaborate better at work through internal social networking
+    - Sketchnoting: Help more people see sketchnoting as a great way to take and share notes
+      - Help it become a well-known option for events, and make it easier for organizers to connect with sketchnote artists
+      - Help people get started with sketchnoting on their own
+    - Life
+      - Quantified: Make better decisions through data, and build tools to simplify data collection and analysis
+      - Knowledge-sharing: Share what I'm learning - blog posts, drawings, screencasts, e-books, courses, and so on
+      - Living: Live an awesome life: relationships, health, happiness
+- What are some general categories that I can use to brainstorm investments?
+  - Experiments
+  - Tools and technologies
+  - Education and skill development
+  - People and skills
+
+|                                 | <10>       | <10>       | <10>       | <10>       |
+|                                 | Experiments | Tools and technologies | Education and skill development | People and skills |
+|---------------------------------+------------+------------+------------+------------|
+| Consulting (Social business)    |            | Data analysis tools, Javascript libraries for charting, Tools for drawing and video | Microsoft Excel, Javascript, CSS, statistics | n/a due to contract |
+| Sketchnoting                    | Webinar    | Adobe Creative Cloud (for Illustrator and Photoshop?) | Books, drawing workshops, lettering workshops, art classes | Critique and improvement |
+| Quantified Self / self-tracking |            | Gadgets    | Statistics, data visualization | Research (find comparable numbers), transcripts, data visualization, infographics |
+| Knowledge-sharing               |            | Meetup.com, webinars |            | Social media (improve consistency, keep an eye out for opportunities to engage), transcripts |
+| Living                          |            |            |            | Edible landscaping, gardening advice |
+| Other                           |            |            |            |            |
+
+** What would you do with more money?
+One of the downsides of building a really good frugality muscle (that reflexive reaction of "Oh, I don't really need this, do I?") is that
+
+I’ve been reading through Mr. Money Mustache’s blog archive, and his blog post on What would you do with WAY MORE money? made me think about what I value and what I would change. Like him, I’m comfortable with the way things are. I like eating at home. I like getting books and movies from the library instead of buying them. (No storage or waste issues, wide selection, and the satisfaction of boosting library circulation statistics…) I like my hobbies and interests. I like my freedom from the endless hedonic treadmill.
+Not even the latest apps or gadgets, aside from the occasional experiment. (Shh! I hope they don’t take away my geek card. ;) )
+About the only thing that would be awesomer would be to make more frequent trips to the Philippines (maybe every year! or on a whim!) or to join family and friends on their vacations. Although that’s constrained by other things too, like the fact that I like spending time with W- and he needs to be here in Toronto for J-.
+
+http://life-longlearner.com/want-a-lot-of-money/
+
+** Living an off-peak life
+
+It’s finally spring in full force, and I’ve been biking whenever I can get away with it. The bike ride is a little faster than the subway commute to my client, and I like not have to squeeze into the crowded train. Free exercise along a well-maintained trail with plenty of flowers and trees…
+
+http://www.mrmoneymustache.com/2013/04/07/a-peak-life-is-lived-off-peak/
+
+** Substituting pleasures
+It’s been easier and easier to substitute pleasures. A $12 bowl of pho is yummy, but a $2 banh mi sandwich will do just fine. Why buy a DVD (even a used one) if there are so many unwatched ones at the library? I have clothes I haven’t worn in ages.
+** Managing my personal and business finances
+** Time and gadget tradeoffs
+** What's worth spending on?
+I'd been contemplating this question for the past four years.
+
+What's worth spending on? I invest for the future, save for unexpected expenses, and support causes and people - but it's good to have that discretionary part of my budget which I can use to enjoy life and learn how to make better decisions.
+
+Many people care about stuff. I apporeciate that. There are many examples of things that have enabled me to enjoy and learn from life so much more, such as my tablet PC.
+
+Many people care about experiences. I appreciate that, too. I like how experiences can lead to deeper relationships.
+
+Many people know something else that I'm just beginning to figure out. You can spend on people, on time, on making things happen. This is awesome! There's a candy store of talent out there - a world full of people with unique experiences, skills, and passions.
+
+Like the way I've learned about what works well for me in terms of
+spending on stuff and experiences, I want to learn how to spend on
+making things happen. And who knows? If I can get good enough at it,
+maybe I can learn how to create so much value that it becomes a
+self-perpetuating machine.
+
+* Self-tracking
 ** Quantified Time: Consulting Days vs. Open Days
 Does work really get in the way of living?
+** How does tracking affect your happiness?
+** Time-tracking workshop
+*** Session 1: The Whys and Hows of Tracking Time
+Discuss objectives and motivations for tracking time. Plan possible questions you want to ask of the data (which influences which tools to try and how to collect data). Recommend a set of tools based on people’s interests and context (paper? iPhone? Android? Google Calendar?).
+Resources: Presentations on time-tracking, recommendations for tools, more detail on structuring data (categories, fields); possible e-mail campaign for reminders
+Output: Planning worksheet for participants to help people remember their motivations and structure their data collection; habit triggers for focused, small-scale data collection, buddying up for people who prefer social accountability
+*** Session 2: Staying on the Wagon + Preliminary Analysis
+Checking in to see if people are tracking time the way they want to. Online and/or one-on-one check-ins before the workshop date, plus a group session on identifying and dealing with obstacles (because it helps to know that other people struggle and overcome these things). Preliminary analysis of small-scale data.
+Resources: Frequently-encountered challenges and how to deal with them; resources on habit design; tool alternatives
+Output: Things to try in order to support habit change; larger-scale data collection for people who are doing well
+*** Session 3: Analyzing your data
+Massaging your data to fit a common format; simple analyses and interpretation
+Resources: Common analysis format and some sample charts/instructions; maybe even a web service?
+Output: Yay, charts!
+*** Session 4: More ways you can slice and dice your data
+Bring other questions you’d like to ask, and we’ll show you how to extract that out of your data (if possible – and if not, what else you’ll probably need to collect going forward). Also, understanding and using basic statistics
+Resources: Basic statistics, uncommon charts
+Output: More analyses!
+*** Session 5: Making data part of the way you live
+Building a personal dashboard, integrating your time data into your decisions
+Outcome: Be able to make day-to-day decisions using your time data; become comfortable doing ad-hoc queries to find out more
+*** Session 6: Designing your own experiments
+Designing experiments and measuring interventions (A/B/A, how to do a blind study on yourself)
+Outcome: A plan for changing one thing and measuring the impact on time
+*** Session 7: Recap, Show & Tell
+Participants probably have half a year of data and a personal experiment or two – hooray! Share thoughts and stories, inspire each other, and figure out what the next steps look like.
+Outcome: Collection of presentations
+** Looking for patterns
+** Learning how to analyze data
+** Learning R
+** Looking at my application use
+** Grocery update
+** Building a price book
+** Reviewing my clothing data
+* Productivity and time
+** Getting over my procrastination by deferring value judgments
+Other titles:
+- Getting over my procrastination by getting rid of optimization
+- Optimization: Procrastination by any other name...
+** Becoming more attentive: My quest to stop doing things half-way
+Other titles:
+- Becoming more mindful: My quest to stop doing things half-way
+- Easily distractable: My quest to stop doing things half-way
+** It's about time
 
-** Random snippets
-*** Learning
-   Since she doesn’t like taking classes or workshops, she can use that time to get better at teaching herself. I don’t like taking classes either, so I know what that’s like. I should probably hack my way around that, though. There are many things that might be more cost- or time-effective for me to learn in a class than on my own or from books.
-*** Things I don't like about providing support - assumptions to question?
+(personal motivation)
+More than anything, I wanted time. Ever since I was a kid, I had
+always been acutely aware of how short a time we actually have. (Can I
+blame this on reading about Raistlin's hourglass eyes in Dragonlance,
+which I suppose was my first introduction to Stoic negative
+visualization?) Being halfway around the world from family is hard
+enough. I see the time pass for my parents in their Facebook pictures
+and on our Skype calls. As for here, W- is much older than I am, and I
+want to make the most of the time that I have with him.
+** Not optimizing for productivity
+
+One of the people I was chatting with was interested in measuring
+productivity. As I started thinking about it, I realized that I care
+about making sure I’m not breaking many promises. Sometimes I slip up,
+and then I know I have to slow down and take my time. I’m curious
+about some things that might improve my effectiveness (dictation or
+podcasting for these posts, to make the words flow better? automated
+tests for my coding? visual vocabularies for my drawing?), but they
+tend to be more qualitative than...
+
+Not optimizing for productivity
+
+but reliability
+
+space
+
+celebration
+** Rediscovering the renaissance life
+"It must be nice
+
+But my own favorite part of the book was in the description of the “Renaissance Man ideal”. This is the idea that you will have the most enjoyable life, AND the best chance at very early financial independence, by developing a whole load of interesting skills. The amazing part is that these skills don’t just sit independently in your mind like a bunch of unused kitchen appliances in a pantry. They start to reach out and connect to each other in unexpected ways, and start solving all of your problems for you. They build your curiosity and start sucking in still more skills that you can’t help acquiring. And before you know it, you are able to live a superb life on only a tiny fraction of the spending that a normal person does, even while you might end up accidentally earning money even more easily than before you embraced the Renaissance Ideal.
+
+Mr. Money Mustache, Book Review: Early Retirement Extreme
+
+** Open loops
+Open loops
+
+It’s been more than ten years since David Allen published Getting
+Things Done. I still haven’t come up with a fully trustable system,
+but Emacs + Org + Evernote is getting there. I’m glad I’m back to
+using Org. I’m starting to run into the reminders I set for important
+business paperwork last year, and I might have missed that if I was
+relying on my memory or my calendar.
+
+From time to time, when I catch myself feeling frazzled, I stop and
+write down all of my open loops: the things that tug on my attention.
+Some of them must be ruthlessly demoted to “someday/maybe,” or even
+let go. And then I can methodically go through the others, crossing
+them off as I finish them. Getting it all down on paper helps me make
+sense of things and stops me from feeling overwhelmed.
+
+More:
+http://www.scotthyoung.com/blog/2008/02/28/relax-without-feeling-lazy-kill-open-loops/
+
+** Tool talk: Clipboard managers
+Clipboard managers
+
+Ditto - want more of a collection view
+ClipMate - does not keep transparent backgrounds, but otherwise interesting collection management. Fixed transparency by enabling DIB and TIFF! Okay, we're good to go.
+
+Decision criteria:
+- must be able to organize clips into collections that don't get buried under new clips (can select collection)
+- pen-friendly
+- always-on-top
+
+
+Stuf: transparent, good previous, but doesn't seem to have an always-on-top view
+
+Clipboard Master: not transparent
+
+Clipboard Fusion - can't handle images, I think
+
+Try ClipMate because of the interface for selecting clips
+
+Intended uses:
+- Text for filenames
+- Clipped images for pasting into a layer; not transparent, so darken only?
+
+** Things I use
+** Write down your processes
+** Take notes
+** Without the excuse of time
+** Improving my commute
+** Turning distractions into interruptions and vice versa
+** Taking it slowly
+I'm giving myself permission to take long walks, to draw for the sake of drawing, to write reflections, to be in silence. I want to find out what emerges from stillness. I recognize this fidgeting, this
+
+* Connecting
+** I like being introverted
+
+Sometimes people tell me that they can’t believe I’m introverted. You
+organize meetups, they say. You share a lot online. You can’t possibly
+be introverted. Not only do I need to recharge after conferences or
+other intense social interactions, I like being introverted – it’s
+good to be comfortable with yourself. That said, you learn a lot when
+you bump into other people, so I’ve been experimenting with ways to
+have more of those serendipitous conversations.
+
+I like group conversations more than one-on-ones because I get to
+learn from the intersections of people’s interests. I see different
+aspects of people than I might bring out on my own. Group
+conversations also reduce the pressure to carry the conversation
+myself – people bring their own questions and tips and ideas to the
+table.
+
+I’m particularly interested in virtual meetups because there are so
+many wonderful people out there whom I will probably never be in the
+same city with. Toronto is a great meetup city because there’s always
+something going on, but there’s no reason why knowledge-sharing should
+be unnecessarily privileged or limited by geographic proximity. If
+people are curious about blogging, drawing, Emacs, Quantified Self, or
+whatever we have in common, maybe we can have virtual show-and-tells
+instead of relying on the probability of finding critical mass for a
+meetup in our own areas.
+
+---
+I get my energy from a quiet and simple life. I’ve learned to say no
+when I need more space: no if I need quiet instead of networking (even
+if there could be someone who could change my life or vice versa just
+over there); no if I need silence instead of a taxi cab conversation;
+no to people’s requests in favour of spending time with W- or on my
+own projects.
+
+It’s hard to learn how to say no, or even to learn that you can. “Say
+yes to everything,” the advice goes. Seize the day. Grab those
+opportunities.
+
+But there’s a lot of power in being able to listen to your needs and
+carve out the time and space that you need—to meet the world on your
+own terms, and to be happy to give because you’re ready to do so.
+
+** Hacking my way into meeting people
+I try to minimize the number of things I’ve promised to other people
+so that I have the flexibility to follow opportunities when they come
+up. Conversations are an exception. It’s hard to not schedule those if
+I want to make sure they happen at some point. Left to my own devices,
+I might never get around to talking to people. So I pay someone a
+small amount to handle my scheduling, which neatly removes me from the
+back-and-forth hassles of coordinating times and also (useful and
+possibly more important!) prevents me from giving myself excuses not
+to do it. Then I remind myself that getting to and from these
+appointments is either reading time or free exercise (for in-person
+meetings), or possible podcast or blog material (if online). Introvert
+hack. =)
+
+** Staying in touch
+** Learning more about friends
+** Spending on people
+** My meetup workflow
+** How to follow up after an event
+** Working on being more social
+** Sending more letters
+** Choosing your events
+** Making the most of meetups
+** Things to do with friends
+** Learning more about communication
+** Planning meetups
+* Family
+** Family pictures
+** Frozen lunches
+* Decision review
+** WIND Mobile
+** Tablet PC
+** Tablet
+** Starting my own business
+* Other geekery
+** RMagick and data-based photo mosaics
+** Key phrase extraction 
+http://pypi.python.org/pypi/topia.termextract/ ?
+https://code.google.com/p/maui-indexer/wiki/Installation ?
+
+** Tablet development
+** APIdventures: Evernote
+
+** APIdventures: Meetup
+
+** APIdventures: Flickr
+** Using the Ledger command-line tool to manage your finances
+- Why
+- Basics
+- Register
+- Balance
+- Virtual transactions
+** Synchronizing video tracks
+
+** Dragon NaturallySpeaking and NatLink
+* Life
+** Creating space for myself
+** Making my own opportunities
+** Relaxing
+** Learning on your own
+
+(snippet from life)
+Since she doesn’t like taking classes or workshops, she can use that
+time to get better at teaching herself. I don’t like taking classes
+either, so I know what that’s like. I should probably hack my way
+around that, though. There are many things that might be more cost- or
+time-effective for me to learn in a class than on my own or from
+books.
+
+** Learning Japanese with Anki flashcards
+** Learning Cantonese
+** Things I don't like about providing support - assumptions to question?
 Waiting for a response, and wanting to be able to respond quickly -
 maybe setting expectations?
 
-*** Investing in making the pie bigger
-My default approach is to save
-Where am I not investing
-*** Planner
-My blog grew out of Planner Mode, an organizer for Emacs. I used Planner to keep track of my tasks and notes. As an experiment, I published them on the web. 
-
-** Writing topics
-*** Writing
-**** Building a resources page
-**** "It's not enough for a blog post"
-
-**** Following the butterflies of your interest
-**** Hangout experiment
-**** How I got started
-**** Writing through resistance and self-doubt
-**** Tools
-***** Windows Live Writer
-***** Editorial Calendar
-***** Share a Draft
-**** Drawing your own illustrations for blog posts
-**** How to write a lot
-**** Writing is a way to think
-**** Blogging is a way to remember
-**** Things I don't write about (yet) - should I write about them?
-***** Semi-retirement
-Don't want to gloat or attract unwanted attention
-
-**** No lack of things to write about
-**** If you're not the writing type...
-**** Finding writing topics in conversations
-**** A platform for helping others
-*** Life
-**** Living an awesome life
-***** Figuring out what you want
-***** Keeping it simple
-**** Libraries
-**** Manifesto
-**** Discretionary expenses
-**** Semi-retirement
-*** Personal finance
-**** Mo' money, mo' opportunities
-*** Visual thinkers
-**** Drawing your future: Graphic organizers for planning and brainstorming
-**** How I got started drawing
-
-*** Quantified Self
-**** How to track your time with your smartphone
-Web
-iOS
-Android
-Exporting your data
-**** How to analyze your time data
-
-*** Emacs
-*** Geekery
-**** Key phrase extraction 
-http://pypi.python.org/pypi/topia.termextract/ ?
-https://code.google.com/p/maui-indexer/wiki/Installation ?
-*** Japanese
-**** Learning Japanese with Anki flashcards
-*** Productivity
-**** Automatically capturing screenshots on Windows
-... and the usefulness thereof
+** Living an awesome life
+*** Figuring out what you want
+*** Keeping it simple
+** Libraries
+** Manifesto
+** Semi-retirement
+** The difference between what you do and who you are: a reflection on skills, talents, and identities
+** Dried fruits and nuts
+** Making my own things
+When I project my current paths out to their peaks, I learn a lot about where I want to go and how I want to get there. For example, I'm currently learning about sales by selling sketchnoting services. I'm starting with that because it's relatively easy to appreciate (yay visuals!), there are established companies in other geographies that have tested the business model and value proposition, and people want it. There's a lot of room to grow. If I imagine being a super-sketchnoter or a super-illustrator, though, I feel like there's something missing. I feel like the focus is on interpreting someone else's ideas instead of creating something marvelous and new. Artists create new things, and there's something fascinating in that.
+** Meditations in everyday moments
+** How I read
+** Getting ready for transitions
+** Taking more pictures
+** Helping people get started
+** Turning 30
+** Planning for emergencies
+** Deep prizes
+(and marathons)
+** Tweaking emotions through music
+* Other snippets
+** Planning a presentation 20 seconds at a time
 
 
 
 
+
+
+** Finding what different things have in common
