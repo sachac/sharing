@@ -8,9 +8,6 @@ a link.
 
 You can find my blog at http://sachachua.com .
 
-* auto-gen TOC:
-{:toc}
-
 * Visual thinking and sketchnoting
 ** Drawing banners/ribbons
 ** Quick lettering
