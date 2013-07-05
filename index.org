@@ -1,4 +1,4 @@
-#+TODO: TODO OUTLINED DRAFTED EDITED | DONE CANCELLED
+#+TODO: TODO(t) OUTLINED(o) DRAFTED(d) EDITED(e) | DONE(x) CANCELLED(c)
 #+INFOJS_OPT: view:overview toc:nil path:https://dl.dropboxusercontent.com/u/3968124/sharing/org-info.js
 #+TITLE: Sharing Outline
 This is a rough outline of things I'd like to write about, screencast,
@@ -45,15 +45,88 @@ Click on the headings to expand them.
   to do
 - Backup plan
 * Visual thinking and sketchnoting
-** OUTLINED Drawing emotions
+** DONE Drawing emotions                                               :link:
+   CLOSED: [2013-07-05 Fri 00:20]
+   :LOGBOOK:
+   CLOCK: [2013-07-04 Thu 21:55]--[2013-07-05 Fri 00:20] =>  2:25
+   :END:
+   :PROPERTIES:
+   :Effort:   1:00
+   :END:
+http://sachachua.com/blog/2013/07/sketchnote-lessons-drawing-emotions/
+- Why draw
+  - Quick way to spice up your drawing and add interest
+  - More communicative: instant, visceral feeling
+  - Can help you get better at reading other people's expressions
+  - Fun, great way to doodle
 - Facial expressions
+  - Easy to start with
+  - Basic vocabulary
+    - Eyebrows
+    - Eyes
+    - Mouth
+  - Joy, sadness, anger, fear, trust, distrust, surprise,
+    anticipation (Plutchik)
+  - Show the degree of an emotion
+    - Pleased, happy, delighted
+    - Annoyed, angry, furious
+    - Anxious, afraid, terrified
+  - Can communicate a lot
+    - Envy
+    - Pleading
+- Combinations
+  - Anger + joy
+  - Sadness + anticipation
+- Express with icons and stereotypes
+  - Aha!
+  - Confusion
+  - Drunk
+    - Happy drunk
+    - Sad drunk
+  - Impatient
+  - Hopeful
+  - Star-struck
 - Express with the whole body - physicality
+  - Not just the face
+  - Posture
+  - Minimal ways to indicate gestures
+  - Proud vs insecure
+  - Relaxed vs fatigued
 - Express with relationships to each other
-- Express with icons 
+  - Related to each other
+  - Confusion
+  - Betrayal
+  - Schadenfreude
 - Express with metaphors
+  - Burning with passion
+  - Floating on air
+  - Sneaking around
+  - Looking daggers
+  - Nose in the air
+  - Seeing red
+  - Carrying a grudge
+  - Worship the ground she walks on
+  - Walking on egg shells
+- Other applications for visual emotions
+  - Empathizing with others
+  - Untangling your own
 - Learning more
+  - Emoticons
   - Bikablo
+  - Comics
+  - Mr. Men and Little Miss, children's books
   - Actors
+  - Metaphor and Emotion (Kovecses), Metaphors We Live By (Lakoff
+    and Johnson)?
+  - Wikipedia, Bikablo, Google Image Search
+- Exercise
+  http://en.wikipedia.org/wiki/Contrasting_and_categorization_of_emotions
+  The emotion annotation and representation language (EARL) proposed
+  by the Human-Machine Interaction Network on Emotion (HUMAINE)
+  classifies 48 emotions (Wikipedia, July 2013)
+http://en.wikipedia.org/wiki/File:Plutchik-wheel.svg
+http://www.cnvc.org/Training/feelings-inventory
+
 ** OUTLINED Drawing banners/ribbons
 - Draw the text first
 - Draw the part that encloses the text
@@ -117,8 +190,9 @@ Click on the headings to expand them.
 - Templates
 - Mural.ly
 ** How I got started drawing
-** OUTLINED Thinking about the Visual Thinkers Toronto meetup structure
-   DEADLINE: <2013-07-09 Tue>
+** DONE Thinking about the Visual Thinkers Toronto meetup structure
+   CLOSED: [2013-07-04 Thu 20:31] DEADLINE: <2013-07-09 Tue>
+http://sachachua.com/blog/2013/07/redesigning-the-visual-thinkers-toronto-show-tell/
 
 - Goals 
   - Encourage people to share their work
@@ -388,6 +462,15 @@ It's okay to be wrong.
 ** Flipping through my notes
 ** Getting the hang of passing everything through Evernote
 ** E-book tips
+** Embracing the resistance in terms of writing
+The resistance is a symptom that you're on the right track. /The
+resistance is not something to be avoided; it's something to seek
+out./ ... The artist sees out the feeling of the resistance and then
+tries to maximize it. The cog, the day laborer, the compliant
+student--they seek to eliminate the feeling instead.
+- Seth Godin, The Icarus Deception
+
+
 * Business and career
 ** Delegation
 ** Planning ahead in terms of people
@@ -774,6 +857,10 @@ hack. =)
 *** Okonomiyaki
 *** Japanese croquettes
 *** Beef bulgogi
+** Acceptance
+- Coming back from India - Did you miss me?
+- Homesickness in Toronto
+- Acceptance
 * Decision review
 ** WIND Mobile
 ** Tablet PC
