@@ -1086,8 +1086,82 @@ https://code.google.com/p/maui-indexer/wiki/Installation ?
      http://khanhlong89.wordpress.com/2013/01/21/not-having-enough-time-is-always-an-excuse-why-you-should-test-your-assumptions/
   - http://puttylike.com/slicing-cucumbers-and-testing-assumptions-about-life/
 * Life
+** OUTLINED Replacing a lost Philippine passport (Part 1)
+- Renewing my passport
+  - Application form
+  - Lost passport
+- Started worrying around July
+  - Tracking it down
+- Canada Post lost my passport
+- Oh noes!
+  - Annoyed, but that's not going to stop me
+  - I'd thought about
+  - Well, I'd never lost a passport before. I can learn from this.  
+- Replacing a lost passport
+  - Birth certificate (thank goodness I had an extra)
+  - Other proof of Philippine citizenship (time to dig up those high
+    school transcripts!)
+  - Police report
+  - Application fee (hooray for travel budget)
+  - Affidavit of loss
+- Filing a police report
+  - Not at police headquarters
+  - Police station is fine
+  - Need information for new passport
+    - Called the consulate, they couldn't find the record in my new
+      system
+    - The usual challenges of spelling my name and confirming it when
+      people have strong accents...
+      G A E N?  No, J E A N. ... J as in Michael Jackson...
+  - Probably safer to get official copy of police report
+    - 7-10 business days
+    - processed every Thursday  
+** DONE Setting e-mail expectations                               :requested:
+http://sachachua.com/blog/?p=25301&shareadraft=baba25301_51e0562400db2
+   CLOSED: [2013-07-12 Fri 16:12]
+   :LOGBOOK:
+   CLOCK: [2013-07-12 Fri 14:45]--[2013-07-12 Fri 16:12] =>  1:27
+   :END:
+   :PROPERTIES:
+   :Effort:   0:30
+   :END:
+Requested by David Achkar
+
+- Why
+  - I don't want to spend a lot of time answering e-mail
+  - Pavlovian stimulus-response
+  - Actually, not many things are urgent
+- What kind of e-mail do I get
+  - Quick questions
+    - Links to blog posts, or
+  - In-depth questions
+    - Answered by blog posts
+- How I process my e-mail
+  - I check every so often on my phone
+    - Objective
+      - Get rid of stuff I don't need to pay attention to
+      - Find out if anything needs to be handled today, or if things
+        can wait until Friday
+    - When
+      - Waking up
+      - Walking around
+      - Waiting in line
+- Friday is my "catch up" day
+  - Balance my books, follow up on waiting tasks, and respond to
+    e-mail
+- I use Boomerang to remind me about important messages if I need to
+  follow up
+- Other people's advice
+  - Touch it once: Check mail only when I'm at my computer and ready
+    to respond to things
+    - Have to set aside time each day to respond to e-mail
+  - Be strict about checking only at specified times (ex: once a week)
+    - Sounded too... well... distant
+- So if you've written to me
+  - No need to apologize if it takes you a few weeks to reply
+  - 
 ** OUTLINED No good or bad, just different
-   SCHEDULED: <2013-07-10 Wed>
+   SCHEDULED: <2013-07-18 Thu>
 - Canada Post lost the passport that was sent through Xpresspost, so
   I need to go through the process of filing for a lost passport:
   official statement, police report, affidavit of
