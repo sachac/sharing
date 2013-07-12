@@ -10,7 +10,8 @@ https://github.com/sachac/sharing
 Inspired by anything? Feel free to write your own posts, and send me
 a link. =)
 
-HTML version: https://dl.dropboxusercontent.com/u/3968124/sharing/index.html
+HTML version:
+https://dl.dropboxusercontent.com/u/3968124/sharing/index.html
 
 You can find my blog at http://sachachua.com .
 
@@ -20,6 +21,8 @@ Click on the headings to expand them.
 ** What I'm learning from my 5-year experiment
 - Rat race
 - Discretionary time is a wonderful thing
+- It's okay to not optimize everything
+- There are lots of things I can learn (even without books or the Internet!)
 ** OUTLINED Experiment review: Income and expenses
 - Preparation
   - Projecting my expenses
@@ -31,6 +34,7 @@ Click on the headings to expand them.
 - Unexpected
   - Consulting
   - Easier and easier to substitute pleasures
+  - Embracing uncertainty and reducing income
 - Dealing with the unknown
 - Monthly reviews
   - Ledger
@@ -44,6 +48,31 @@ Click on the headings to expand them.
 - More curious about life, creation - the things people can't pay you
   to do
 - Backup plan
+** Preparing for uncertainties
+
+- Structure of 5-year experiment
+- The more I try things out, the more I learn, the more I wander from
+  my original plan
+- Useful tool: imagine worst-case scenario
+- http://sachachua.com/blog/2012/12/experiment-pre-mortem-imagining-and-dealing-with-causes-of-failure/
+
+** Anticipating experiment outcomes
+- How would I live if the outcome of this experiment is "I probably
+  don't have to work again"?
+  - Writing, drawing, coding based on my own interests
+  - Sharing as much as possible
+  - Open to receiving payment from other people as a way of funding
+    more experiments - maybe tie value directly to experiments in a
+    micro-Kickstarter sort of way?
+- How would I live if the outcome of this experiment is "I want to
+  'lean in' in terms of business?"
+- How would I live if the outcome of this experiment is "I don't have
+  to work a regular job again"?
+- How would I live if the outcome of this experiment is "I want to go
+  back to a regular job?"
+  - Rebuild my network and dust off my resume
+  - Probably go back to a technical position in a good team
+
 * Visual thinking and sketchnoting
 ** DONE Drawing emotions                                               :link:
    CLOSED: [2013-07-05 Fri 00:20]
@@ -174,6 +203,11 @@ http://www.cnvc.org/Training/feelings-inventory
 - Fix errors
 - Remove anything unnecessary
 ** Sketching cheats
+- Draw a little, then come back later
+- Cover up mistakes
+- Fill in space
+- Reorganize
+- Use layers
 ** Digital tools
 ** Paper tools
 ** Space management
@@ -265,7 +299,16 @@ prototype with binder...
 ** Sketching faces on the go
 ** Reviewing my book notes
 ** Animating drawings with Artrage Studio
-** Finding the forms in words
+** OUTLINED Finding the forms in words
+- make the letters feel like the word
+  - thin
+  - thick
+  - fast
+  - shaky
+- replace or modify a letter
+- wrap the word around an image
+- wrap an image around the word
+- add an image next to the word
 ** Experimenting with stock
 ** Organizing my sketchnotes
 Creating
@@ -312,6 +355,75 @@ Let me let you in on a little secret: I don’t. Not all at the same time. Mostl
 Depending on how quickly the speaker talks and how much interesting content they pack into their sentences, I might be scrambling to quickly jot down some keywords. When they pause for breath or transition to a new topic, I’ll go back and add stick figures and diagrams. As I figure out which points are important, I move parts of my drawing around or erase and refine what I’ve written.
 To help you see the process, here’s a recording of my screen as I sketchnote an hour-long presentation. I don’t draw that fast in real life - I’ve condensed the video to three minutes for your convenience. Enjoy!
 
+* Self-tracking
+** Data visualization
+*** Visualizing hierarchical data
+- What questions do you want to ask?
+  - How do the categories compare with each other?
+  - Within the categories, how do things break down?
+  - And then within that, I'm curious - how does it shift and change
+    over time?
+- Sunburst chaqrts
+  - Angles are hard to interpret
+- Icicles
+- Treemap
+- Small multiples
+  - Pie charts
+  - Bar charts
+- Bubble tree
+- Exploring my data
+  - Time
+  - Groceries
+- Partitions
+- D3
+
+http://www.timshowers.com/2008/12/visualization-strategies-hierarchical-data/
+
+** Naming your time
+- Watching a few people get started with time tracking and analysis
+  - Eric Boyd
+  - http://david.achkar.com/life-log-early-results/
+- Immediate benefits of time-tracking
+  - Hawthorne effect
+  - Focus
+  - Impulse
+** Quantified Time: Consulting Days vs. Open Days
+Does work really get in the way of living?
+** How does tracking affect your happiness?
+** Time-tracking workshop
+*** Session 1: The Whys and Hows of Tracking Time
+Discuss objectives and motivations for tracking time. Plan possible questions you want to ask of the data (which influences which tools to try and how to collect data). Recommend a set of tools based on people’s interests and context (paper? iPhone? Android? Google Calendar?).
+Resources: Presentations on time-tracking, recommendations for tools, more detail on structuring data (categories, fields); possible e-mail campaign for reminders
+Output: Planning worksheet for participants to help people remember their motivations and structure their data collection; habit triggers for focused, small-scale data collection, buddying up for people who prefer social accountability
+*** Session 2: Staying on the Wagon + Preliminary Analysis
+Checking in to see if people are tracking time the way they want to. Online and/or one-on-one check-ins before the workshop date, plus a group session on identifying and dealing with obstacles (because it helps to know that other people struggle and overcome these things). Preliminary analysis of small-scale data.
+Resources: Frequently-encountered challenges and how to deal with them; resources on habit design; tool alternatives
+Output: Things to try in order to support habit change; larger-scale data collection for people who are doing well
+*** Session 3: Analyzing your data
+Massaging your data to fit a common format; simple analyses and interpretation
+Resources: Common analysis format and some sample charts/instructions; maybe even a web service?
+Output: Yay, charts!
+*** Session 4: More ways you can slice and dice your data
+Bring other questions you’d like to ask, and we’ll show you how to extract that out of your data (if possible – and if not, what else you’ll probably need to collect going forward). Also, understanding and using basic statistics
+Resources: Basic statistics, uncommon charts
+Output: More analyses!
+*** Session 5: Making data part of the way you live
+Building a personal dashboard, integrating your time data into your decisions
+Outcome: Be able to make day-to-day decisions using your time data; become comfortable doing ad-hoc queries to find out more
+*** Session 6: Designing your own experiments
+Designing experiments and measuring interventions (A/B/A, how to do a blind study on yourself)
+Outcome: A plan for changing one thing and measuring the impact on time
+*** Session 7: Recap, Show & Tell
+Participants probably have half a year of data and a personal experiment or two – hooray! Share thoughts and stories, inspire each other, and figure out what the next steps look like.
+Outcome: Collection of presentations
+** Looking for patterns
+** Learning how to analyze data
+** Learning R
+** Looking at my application use
+** Grocery update
+** Building a price book
+** Reviewing my clothing data
+** Virtual Quantified Self Show-and-Tell
 * Emacs
 ** OUTLINED How to learn Org Mode
 
@@ -338,10 +450,19 @@ To help you see the process, here’s a recording of my screen as I sketchnote a
 ** Getting started with configuring Emacs
 ** Tracking people with org-contacts
 ** Ledger and Org Mode
+** Ledger tutorial
+- requested by henders254 on June 28, 2013
 ** Reorganizing Org-Mode files
 ** Learning keyboard shortcuts
 ** Why learn Emacs
 * Writing / blogging / sharing knowledge
+** Mapping skills and prerequisites
+- Limitations of outlining
+- skillpedia.herokuapp.com
+  - which I came across while browsing examples of D3.js
+    visualizations
+- Reminds me of the Civilization skill tree
+- Pieces, but if I define prerequisites and recommended next steps
 ** OUTLINED Learning how to outline                           :imagine:learn:
 Objective: Help other people improve their writing by learning how to
 outline; learn how to do this myself; share a list of things I'd like
@@ -387,6 +508,7 @@ to write about
 ** Following the butterflies of your interest
 ** Hangout experiment
 ** How I got started
+- Taking notes for myself
 ** Writing through resistance and self-doubt
 ** Tools
 *** Windows Live Writer
@@ -470,7 +592,6 @@ tries to maximize it. The cog, the day laborer, the compliant
 student--they seek to eliminate the feeling instead.
 - Seth Godin, The Icarus Deception
 
-
 * Business and career
 ** Delegation
 ** Planning ahead in terms of people
@@ -531,6 +652,39 @@ up people.
 ** Tag clouds for planning
 ** Making decisions with emotions
 ** Planning my next mini-experiments
+** Growing outwards
+** What I want
+*** What I want in terms of visual thinking
+- People know about sketchnotes and are encouraged to make them
+- People are encouraged to share their sketchnotes, and they know how
+  to do that effectively
+- Event organizers know about sketchnotes and look for people who can
+  provide this service
+- People value sketchnotes
+- I learn more effectively by capturing sketchnotes
+- I connect more effectively by sharing sketchnotes
+*** What I want in terms of Emacs
+- People learn Emacs a small bit at a time instead of getting
+  intimidated by it
+- I learn about interesting things that are out there
+*** What I want in terms of blogging
+- I learn more effectively through blogging
+- I can find things again
+- I live an interesting life and share my notes
+*** What I want in terms of Quantified Self
+- Challenge myself to measure and interpret more
+- Create resources to help other people learn
+- Improve my personal dashboard
+*** What I want in terms of living
+- Have a fun exercise habit so that I feel alert and healthy
+- Spend time gardening and growing things
+- Be mindful, organized, and good at remembering
+- Cook yummy meals that 
+
+
+
+*** What I want in terms of
+
 * Personal finance
 ** Discretionary expenses
 ** Investing in making the pie bigger
@@ -569,11 +723,11 @@ Where am I not investing
 |                                 | Experiments | Tools and technologies | Education and skill development | People and skills |
 |---------------------------------+------------+------------+------------+------------|
 | Consulting (Social business)    |            | Data analysis tools, Javascript libraries for charting, Tools for drawing and video | Microsoft Excel, Javascript, CSS, statistics | n/a due to contract |
-| Sketchnoting                    | Webinar    | Adobe Creative Cloud (for Illustrator and Photoshop?) | Books, drawing workshops, lettering workshops, art classes | Critique and improvement |
-| Quantified Self / self-tracking |            | Gadgets    | Statistics, data visualization | Research (find comparable numbers), transcripts, data visualization, infographics |
-| Knowledge-sharing               |            | Meetup.com, webinars |            | Social media (improve consistency, keep an eye out for opportunities to engage), transcripts |
-| Living                          |            |            |            | Edible landscaping, gardening advice |
-| Other                           |            |            |            |            |
+| Sketchnoting                    | Webinars, print book, stickers | Adobe Creative Cloud (for Illustrator and Photoshop?), iPad + Jot Pro + apps so that I can write about that, Microsoft Surface Pro?, supplies/materials | Books, drawing workshops, lettering workshops, art classes, museum visits | Critique and improvement, image processing, illustration, comic writing |
+| Quantified Self / self-tracking | Webinars   | Gadgets, ScanSnap | Statistics, data visualization, Excel workshops | Research (find comparable numbers), transcripts, data visualization, infographics, statistics coaching, Excel wizardry, data entry |
+| Knowledge-sharing               | Webinars   | Meetup.com, webinars, video camera, better webcam, audio, larger SSD | Workshops  | Social media (improve consistency, keep an eye out for opportunities to engage), transcripts, writing/editing coach, voiceovers, video, copywriting, e-book formatting and publishing, indexing, pay for guest posts |
+| Living                          |            | Larger saddlebags, 21-speed bike, blackout curtains, messenger bag | Sewing classes, Japanese games/books/media | Edible landscaping, gardening advice, tutors, massage |
+| Connecting, relationships       | Mailing list | Business cards, passport, visas, flights, conferences, network reminder tools, social media monitoring, home projects, lunch/coffee, grocery delivery | Cooking lessions | Menu planning |
 
 ** What would you do with more money?  :link:
 One of the downsides of building a really good frugality muscle (that reflexive reaction of "Oh, I don't really need this, do I?") is that
@@ -611,44 +765,6 @@ making things happen. And who knows? If I can get good enough at it,
 maybe I can learn how to create so much value that it becomes a
 self-perpetuating machine.
 
-* Self-tracking
-** Quantified Time: Consulting Days vs. Open Days
-Does work really get in the way of living?
-** How does tracking affect your happiness?
-** Time-tracking workshop
-*** Session 1: The Whys and Hows of Tracking Time
-Discuss objectives and motivations for tracking time. Plan possible questions you want to ask of the data (which influences which tools to try and how to collect data). Recommend a set of tools based on people’s interests and context (paper? iPhone? Android? Google Calendar?).
-Resources: Presentations on time-tracking, recommendations for tools, more detail on structuring data (categories, fields); possible e-mail campaign for reminders
-Output: Planning worksheet for participants to help people remember their motivations and structure their data collection; habit triggers for focused, small-scale data collection, buddying up for people who prefer social accountability
-*** Session 2: Staying on the Wagon + Preliminary Analysis
-Checking in to see if people are tracking time the way they want to. Online and/or one-on-one check-ins before the workshop date, plus a group session on identifying and dealing with obstacles (because it helps to know that other people struggle and overcome these things). Preliminary analysis of small-scale data.
-Resources: Frequently-encountered challenges and how to deal with them; resources on habit design; tool alternatives
-Output: Things to try in order to support habit change; larger-scale data collection for people who are doing well
-*** Session 3: Analyzing your data
-Massaging your data to fit a common format; simple analyses and interpretation
-Resources: Common analysis format and some sample charts/instructions; maybe even a web service?
-Output: Yay, charts!
-*** Session 4: More ways you can slice and dice your data
-Bring other questions you’d like to ask, and we’ll show you how to extract that out of your data (if possible – and if not, what else you’ll probably need to collect going forward). Also, understanding and using basic statistics
-Resources: Basic statistics, uncommon charts
-Output: More analyses!
-*** Session 5: Making data part of the way you live
-Building a personal dashboard, integrating your time data into your decisions
-Outcome: Be able to make day-to-day decisions using your time data; become comfortable doing ad-hoc queries to find out more
-*** Session 6: Designing your own experiments
-Designing experiments and measuring interventions (A/B/A, how to do a blind study on yourself)
-Outcome: A plan for changing one thing and measuring the impact on time
-*** Session 7: Recap, Show & Tell
-Participants probably have half a year of data and a personal experiment or two – hooray! Share thoughts and stories, inspire each other, and figure out what the next steps look like.
-Outcome: Collection of presentations
-** Looking for patterns
-** Learning how to analyze data
-** Learning R
-** Looking at my application use
-** Grocery update
-** Building a price book
-** Reviewing my clothing data
-** Virtual Quantified Self Show-and-Tell
 * Productivity and time
 ** Getting over my procrastination by deferring value judgments
 Other titles:
@@ -888,7 +1004,126 @@ https://code.google.com/p/maui-indexer/wiki/Installation ?
 ** Synchronizing video tracks
 
 ** Dragon NaturallySpeaking and NatLink
+* Living an awesome life
+** Enough time
+- Occasionally people write to me saying that they'd love to try
+  certain things, but they don't have enough time
+- Time abundance
+- Need help - has anyone made the switch?
+  - Why someone who has made the switch from time scarcity and time abundance
+- How did I get here? 
+  - My parents were always busy, but they also always had time for us
+  - There's time
+  - Splash Mountain?
+    - Return
+- Acceptance
+  - If I'm doing what I'm doing, it's because I feel I get enough
+    benefit out of it
+  - If it isn't, then I can use that room to work on more important
+    things
+  - See the value in everyday activities
+- Analogy with money
+  - Not wealthy, but...
+  - Emergency fund takes off the stress
+  - Opportunity fund lets me experiment and learn
+- Still want something to help people bridge the gap
+  - Comparison with other blog posts
+- Need help - has anyone made the switch?
+** Testing your assumptions
+- Most important skill
+  - Identify
+  - Observe
+  - Test
+- Assumptions are helpful
+  - They simplify the world
+  - They make it possible to make quick decisions. Making assumptions
+    helps us take advantage of our past experiences, and we can learn
+    from other people's experiences as well.
+  - Otherwise, you'd get stuck verifying everything
+- Why is it hard
+  - Don't know your assumptions
+  - Intimidated by measuring
+  - Don't want to be wrong
+  - Behaviour is hard to change.
+- Time
+  - Most likely the first thing you need to examine. If you always
+    feel rushed for time, you won't have the space to question and
+    explore your assumptions.
+  - Identify
+  - Observe
+  - Test
+- Desires
+  - Identify
+    - What makes you happy?
+  - Observe
+  - Test
+- Expectations and reactions
+- Money
+  - Identify
+  - Observe
+  - Test
+- Communication and relationships
+  - Identify
+  - Observe
+  - Test
+- Expectations
+- Outlook
+- Other areas
+- Here are some assumptions I'm looking forward to testing
+  - "Uncertainty is scary."
+  - "I'm too distractable and scattered to complete writing a book."
+  - "It'll be hard to find a form of exercise I like. Besides, gyms
+    are often rip-offs anyway."
+  - "Guest posts are more trouble than they're worth - hard to find
+    people who write well and aren't spammy."
+- Related links
+  - http://www.extension.harvard.edu/hub/blog/extension-blog/goal-setting-tips-overcoming-your-immunity-change
+  - http://advancedriskology.com/magic-assumption-tester/ -
+    split-tests article titles, nice!
+  - 
+     http://www.quickanddirtytips.com/productivity/challenge-your-assumptions
+  - 
+     http://khanhlong89.wordpress.com/2013/01/21/not-having-enough-time-is-always-an-excuse-why-you-should-test-your-assumptions/
+  - http://puttylike.com/slicing-cucumbers-and-testing-assumptions-about-life/
 * Life
+** OUTLINED No good or bad, just different
+   SCHEDULED: <2013-07-10 Wed>
+- Canada Post lost the passport that was sent through Xpresspost, so
+  I need to go through the process of filing for a lost passport:
+  official statement, police report, affidavit of
+  loss, a rather high lost passport replacement fee, and another
+  two months of waiting.
+
+- I was not happy to find out they had lost my passport. I pouted and
+  indulged in getting a few hugs from W-, who happened to be working
+  from home at the time.
+
+- Cheering up, I said, "I've never lost a passport before. Well, at
+  least I get to learn how the process works!" I started singing,
+  "Always look on the bright side of life..."
+
+- "Okay, that's a bit of a stretch," W- said. But I think he was
+  happy that I could bounce back easily. I know I was.
+
+- Here is something I'm starting to learn about life: situations
+  aren't bad or good, they're just different.
+
+- Different is okay. I can deal with different.
+
+- There's always something to be thankful for and something to learn
+  from. In this case, I'm glad that we didn't book an August trip
+  that we would have to cancel, and I'm glad that we have the space
+  to deal with issues like this.
+
+- There will be bigger challenges than this, so this is good
+  preparation.
+
+- wring out the most from it
+  - go through the process
+  - learn about it 
+  - write notes
+  - take advantage of the wait
+
 ** Creating space for myself
 ** Making my own opportunities
 ** Relaxing
@@ -934,6 +1169,28 @@ Memento mori
 Negative visualization
 
 Take away the fear of losing people
+
+** Dealing with power outages
+[2013-07-08]
+Object
+- Record rainfall, flooded power plant, rolling blackouts
+- Power's back to normal, I think
+- What I do in case of a power outage
+  - Get the hand-cranked radio/flashlight from my emergency bag
+  - Listen to AM radio while drawing or reading
+  - Munch on shelf-stable food, like Skyflakes and hazelnut-chocolate spread
+- Drawing from comic books and from life
+- A little odd not looking things up on the Internet
+- When I draw on paper, my hand gets tired faster.
+- Checked out nearby library, but there were lots of people. Didn't
+  need to eat out.
+- Childhood: lots of power outages during the Cory Aquino
+  administration in the Philippines
+- I remember my mom would try to make sure we could sleep in the
+  heat
+  - sometimes fanning us herself
+  - battery-operated fan, but she would still stay up and take care
+    of us
 
 * Other snippets
 ** Planning a presentation 20 seconds at a time
