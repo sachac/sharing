@@ -1086,80 +1086,87 @@ https://code.google.com/p/maui-indexer/wiki/Installation ?
      http://khanhlong89.wordpress.com/2013/01/21/not-having-enough-time-is-always-an-excuse-why-you-should-test-your-assumptions/
   - http://puttylike.com/slicing-cucumbers-and-testing-assumptions-about-life/
 * Life
-** OUTLINED Replacing a lost Philippine passport (Part 1)
-- Renewing my passport
-  - Application form
-  - Lost passport
-- Started worrying around July
-  - Tracking it down
-- Canada Post lost my passport
-- Oh noes!
-  - Annoyed, but that's not going to stop me
-  - I'd thought about
-  - Well, I'd never lost a passport before. I can learn from this.  
-- Replacing a lost passport
-  - Birth certificate (thank goodness I had an extra)
-  - Other proof of Philippine citizenship (time to dig up those high
-    school transcripts!)
-  - Police report
-  - Application fee (hooray for travel budget)
-  - Affidavit of loss
-- Filing a police report
-  - Not at police headquarters
-  - Police station is fine
-  - Need information for new passport
-    - Called the consulate, they couldn't find the record in my new
-      system
-    - The usual challenges of spelling my name and confirming it when
-      people have strong accents...
-      G A E N?  No, J E A N. ... J as in Michael Jackson...
-  - Probably safer to get official copy of police report
-    - 7-10 business days
-    - processed every Thursday  
-** DONE Setting e-mail expectations                               :requested:
-http://sachachua.com/blog/?p=25301&shareadraft=baba25301_51e0562400db2
-   CLOSED: [2013-07-12 Fri 16:12]
-   :LOGBOOK:
-   CLOCK: [2013-07-12 Fri 14:45]--[2013-07-12 Fri 16:12] =>  1:27
-   :END:
-   :PROPERTIES:
-   :Effort:   0:30
-   :END:
-Requested by David Achkar
+** OUTLINED Happiness
+What makes me happy?
 
-- Why
-  - I don't want to spend a lot of time answering e-mail
-  - Pavlovian stimulus-response
-  - Actually, not many things are urgent
-- What kind of e-mail do I get
-  - Quick questions
-    - Links to blog posts, or
-  - In-depth questions
-    - Answered by blog posts
-- How I process my e-mail
-  - I check every so often on my phone
-    - Objective
-      - Get rid of stuff I don't need to pay attention to
-      - Find out if anything needs to be handled today, or if things
-        can wait until Friday
-    - When
-      - Waking up
-      - Walking around
-      - Waiting in line
-- Friday is my "catch up" day
-  - Balance my books, follow up on waiting tasks, and respond to
-    e-mail
-- I use Boomerang to remind me about important messages if I need to
-  follow up
-- Other people's advice
-  - Touch it once: Check mail only when I'm at my computer and ready
-    to respond to things
-    - Have to set aside time each day to respond to e-mail
-  - Be strict about checking only at specified times (ex: once a week)
-    - Sounded too... well... distant
-- So if you've written to me
-  - No need to apologize if it takes you a few weeks to reply
-  - 
+- Family
+  - Kisses, hugs, and snuggling
+  - Taking care of house, life stuff
+  - Wordplay and fun
+  - In-jokes from shared experiences
+  - Hearing stories
+- Cats
+  - Neko sitting on my lap, especially when asking for head
+    scritches; kneading fuzzy things like my bathrobe; Neko sitting
+    on W's lap
+  - Leia wanting cuddles, or playing with the brush
+  - Luke purring really, really loudly while sitting on my lap
+- Learning
+  - Trying out new things and sharing what I'm learning
+  - Being able to turn a challenging situation into a learning
+    opportunity
+  - Picking up interesting ideas from friends and other people;
+    sharing my own
+  - Getting through flashcard decks
+  - Making discernable progress, especially with a map
+  - Feeling a skill become more automatic
+  - Feeling things snap together
+  - Building on things I'm learning
+- Autonomy
+  - Being able to do what I think I want the most
+  - Minimizing commitments and possibilities for embarrassing failures
+  - Being able to choose what to learn
+- Coding
+  - Aha! Getting stuff done
+  - Tweaking things to fit me
+  - Automation
+  - Hearing from people building on or using my stuff
+  - Saving time
+- Writing
+  - Untangling something
+  - Being able to answer a question with a link
+  - Hearing from people who have come across my posts
+  - Answering follow-up questions in areas I also want to explore
+- Tracking
+  - Being curious about something, and trying it out
+  - Seeing patterns over days, weeks, months, or years
+  - Questioning my assumptions
+  - Inspiring other people to ask questions
+- Drawing
+  - Untangling what I think
+  - Playing with drawing
+  - Condensing a topic to one or two pages
+  - Being able to dig up my notes and remember
+  - Warm and fuzzies from inspiring other people to sketchnote or draw
+- Cooking, food and drink
+  - Filling the freezer
+  - Trying a new recipe
+  - Making our favourites
+  - Having my standard breakfast: brown rice and a fried egg (even
+    two eggs!)
+  - Enjoying a yummy lunch at work
+  - Having a scoop or two of ice cream
+  - Being able to come up with varied recipes based on the sales
+- Finances
+  - Updating my books and getting things to balance
+  - Having a good buffer
+  - Trying small experiments
+  - Preparing for various possibilities
+- Gardening
+  - Eating something from the garden
+  - Cooking with herbs from the garden
+  - Watching things grow
+- Health and exercise
+  - Biking, especially in cool, overcast weather
+  - Doing poi
+  - Dancing and tango were fun
+  - Waking up at the right time for me
+- Other
+  - Watching a movie at home with W-
+  - Clearing my inbox
+  - Doing regular weekly, monthly, and yearly reviews
+  - Preparing for various possibilities
+  - Checking progress against my plans
 ** OUTLINED No good or bad, just different
    SCHEDULED: <2013-07-18 Thu>
 - Canada Post lost the passport that was sent through Xpresspost, so
@@ -1266,6 +1273,89 @@ Object
   - battery-operated fan, but she would still stay up and take care
     of us
 
+** DONE Setting e-mail expectations                               :requested:
+http://sachachua.com/blog/?p=25301&shareadraft=baba25301_51e0562400db2
+   CLOSED: [2013-07-12 Fri 16:12]
+   :LOGBOOK:
+   CLOCK: [2013-07-12 Fri 14:45]--[2013-07-12 Fri 16:12] =>  1:27
+   :END:
+   :PROPERTIES:
+   :Effort:   0:30
+   :END:
+Requested by David Achkar
+
+- Why
+  - I don't want to spend a lot of time answering e-mail
+  - Pavlovian stimulus-response
+  - Actually, not many things are urgent
+- What kind of e-mail do I get
+  - Quick questions
+    - Links to blog posts, or
+  - In-depth questions
+    - Answered by blog posts
+- How I process my e-mail
+  - I check every so often on my phone
+    - Objective
+      - Get rid of stuff I don't need to pay attention to
+      - Find out if anything needs to be handled today, or if things
+        can wait until Friday
+    - When
+      - Waking up
+      - Walking around
+      - Waiting in line
+- Friday is my "catch up" day
+  - Balance my books, follow up on waiting tasks, and respond to
+    e-mail
+- I use Boomerang to remind me about important messages if I need to
+  follow up
+- Other people's advice
+  - Touch it once: Check mail only when I'm at my computer and ready
+    to respond to things
+    - Have to set aside time each day to respond to e-mail
+  - Be strict about checking only at specified times (ex: once a week)
+    - Sounded too... well... distant
+- So if you've written to me
+  - No need to apologize if it takes you a few weeks to reply
+  - 
+** DONE Replacing a lost Philippine passport (Part 1)
+   CLOSED: [2013-07-12 Fri 17:33]
+   :LOGBOOK:
+   CLOCK: [2013-07-12 Fri 17:01]--[2013-07-12 Fri 17:33] =>  0:32
+   :END:
+   :PROPERTIES:
+   :Effort:   0:40
+   :END:
+1021 words, 32 minutes
+(/ 1021 32.0) 31.90625
+- Renewing my passport
+  - Application form
+  - Lost passport
+- Started worrying around July
+  - Tracking it down
+- Canada Post lost my passport
+- Oh noes!
+  - Annoyed, but that's not going to stop me
+  - I'd thought about
+  - Well, I'd never lost a passport before. I can learn from this.  
+- Replacing a lost passport
+  - Birth certificate (thank goodness I had an extra)
+  - Other proof of Philippine citizenship (time to dig up those high
+    school transcripts!)
+  - Police report
+  - Application fee (hooray for travel budget)
+  - Affidavit of loss
+- Filing a police report
+  - Not at police headquarters
+  - Police station is fine
+  - Need information for new passport
+    - Called the consulate, they couldn't find the record in my new
+      system
+    - The usual challenges of spelling my name and confirming it when
+      people have strong accents...
+      G A E N?  No, J E A N. ... J as in Michael Jackson...
+  - Probably safer to get official copy of police report
+    - 7-10 business days
+    - processed every Thursday  
 * Other snippets
 ** Planning a presentation 20 seconds at a time
 
