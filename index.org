@@ -448,6 +448,9 @@ Outcome: Collection of presentations
 *** Interactive exploration with edebug
 ** Save time with keyboard macros
 ** Getting started with configuring Emacs
+** Org Mode and Evernote
+http://sachachua.com/blog/2013/06/heres-the-recording-from-how-to-use-evernote-to-improve-your-visual-thinking/#comment-968427150
+
 ** Tracking people with org-contacts
 ** Ledger and Org Mode
 ** Ledger tutorial
@@ -456,6 +459,10 @@ Outcome: Collection of presentations
 ** Learning keyboard shortcuts
 ** Why learn Emacs
 * Writing / blogging / sharing knowledge
+** Unexpected benefit of outlining
+- More research, because I'm not worried about losing my thought!
+- Longer time, book research
+- Sub-outlines
 ** Mapping skills and prerequisites
 - Limitations of outlining
 - skillpedia.herokuapp.com
@@ -593,6 +600,7 @@ student--they seek to eliminate the feeling instead.
 - Seth Godin, The Icarus Deception
 
 * Business and career
+** Planning for uncertainty   :better:
 ** Delegation
 ** Planning ahead in terms of people
 ** Paying myself
@@ -600,9 +608,17 @@ student--they seek to eliminate the feeling instead.
 Other titles:
 - Fit for You: How a corporate career tool is an excellent way to improve your life
 - Happiness update: What makes me happy at work and in life?
+
+Work
+- Flexibility
+- Leverage
+- Helping people be happier
 ** What I feel brilliant at
 ** Learning flexible skills
 ** Narrating your work
+- Benefits of a social business platform
+- Weekly reviews
+- Activity stream
 ** Combinations of skills
 ** Delegating your calendar
 ** So, what is it that you _do_?
@@ -653,7 +669,8 @@ up people.
 ** Making decisions with emotions
 ** Planning my next mini-experiments
 ** Growing outwards
-** What I want
+- diagram
+** OUTLINED What I want
 *** What I want in terms of visual thinking
 - People know about sketchnotes and are encouraged to make them
 - People are encouraged to share their sketchnotes, and they know how
@@ -677,21 +694,15 @@ up people.
 - Improve my personal dashboard
 *** What I want in terms of living
 - Have a fun exercise habit so that I feel alert and healthy
-- Spend time gardening and growing things
 - Be mindful, organized, and good at remembering
-- Cook yummy meals that 
-
-
-
-*** What I want in terms of
-
+- Live an awesome life
 * Personal finance
 ** Discretionary expenses
 ** Investing in making the pie bigger
 (rough thoughts)
 My default approach is to save
 Where am I not investing
-
+** Saving versus spending
 ** OUTLINED Reinvesting in business and in life
 - Motivating conflict
   - My conflict: default is saving, lots of uncertainty, want security
@@ -983,6 +994,13 @@ hack. =)
 ** Tablet
 ** Starting my own business
 * Other geekery
+** Emacs and Ruby  
+   SCHEDULED: <2013-07-23 Tue>
+ruby-end / smartparens
+rinari and inf-ruby
+haml-mode
+toggle hash syntax
+ Robe and Rubocop - rdg
 ** Making my own URL shortening Wordpress plugin  :wordpress:code:
 ** RMagick and data-based photo mosaics
 ** Key phrase extraction 
@@ -1086,6 +1104,20 @@ https://code.google.com/p/maui-indexer/wiki/Installation ?
      http://khanhlong89.wordpress.com/2013/01/21/not-having-enough-time-is-always-an-excuse-why-you-should-test-your-assumptions/
   - http://puttylike.com/slicing-cucumbers-and-testing-assumptions-about-life/
 * Life
+** OUTLINED Learning more about learning
+- It starts with attitude
+  - Watch out for your excuses
+  - Be okay with dropping things you don't really care about
+- Work with your brain, instead of against it
+  - Energy and focus
+  - Top down or bottom up?
+- Break things down into small chunks
+  - Map things with other people's help
+  - Relate to other things you know
+- Take notes along the way
+- Celebrate progress
+- Make predictions and test them
+- Look for ways to get quick feedback
 ** OUTLINED Happiness
 What makes me happy?
 
@@ -1167,8 +1199,139 @@ What makes me happy?
   - Doing regular weekly, monthly, and yearly reviews
   - Preparing for various possibilities
   - Checking progress against my plans
+** Something I want to get better at: Planning my way through uncertainty
+
+- I don't know what next month will be like, or the months beyond
+  that.
+  - cloud of possibilities
+- Scary
+  - Why
+    - Uncomfortable making and possibly renegotiating commitments
+    - In limbo about some plans
+- Uncertainty is good
+  - Learning how to deal with it
+  - Learning
+- Good outcome
+  - Not blindsided by unknown risks; have a flexible contingency plan 
+  - Comfortable with decisions even if they turn out badly
+  - Documented decisions so that I can review and improve my
+    decision-making process
+  - Fire drill so that I have something in place
+- How I deal with uncertainty
+  - Minimize commitments
+    - Unexpected perks of semi-retirement: I can be open about
+      uncertainty
+
+  - Scenario planning
+    - Research
+      - What's out there?
+      - Which outcomes are more likely? less likely?
+    - Plan for the negative scenarios
+    - Plan for possibilities
+- Lessons from other places
+  - Lean
+    - No forecasts, less waste
+
+ 
+...deliberate attempt to separate what we do and do not know about the
+future, and to use that as a basis for exploring many possible futures
+... "A better approach now is to embrace uncertainty and examine it in
+detail to discover where the hidden opportunities lurk."
+- Paul J. H. Schoemaker (, in http://knowledge.wharton.upenn.edu/article.cfm?articleid=2298
+- Kristel van der Elst (World Economic Forum)
+  - Identify central question
+  - Identify driving forces and systemic changes that will transform
+    the playing field (social, technological, economic,
+    environmental, (geo)political)
+  - Look at things that could happen, not just extensions of the
+    present
+  - Determine critical uncertainties (impact vs certainty)
+  - Back into decision-making process - strategy that creates value
+    in several scenarios, backup plan
+
+The point of scenario planning, after all, is not to be right, which
+is such a human inclination that we find it hard to overcome—the point
+of scenario planning is to see the future from perspectives we would
+have a difficult time forcing ourselves to imagine because of our bias
+toward rightness, and therefore imagine new possibilities or see
+threats we might otherwise miss.
+The trick is to know we will always be wrong as we speculate about the
+future
+.
+http://future-of-work.spaces.live.com/blog/cns!C07907DBA0E3BEA6!1399.entry
+
+
+http://www.wired.com/wired/scenarios/build.html
+Yet, the purpose of scenario planning is not to pinpoint future events
+but to highlight large-scale forces that push the future in different
+directions. It's about making these forces visible, so that if they do
+happen, the planner will at least recognize them. It's about helping
+make better decisions today.
+Identify early warning 
+http://www.wired.com/special_multimedia/2009/ff_scenario_1708
+Personal scenario planning
+2x2, implications and actions,
+
+http://www.cprime.com/2010/02/how-uncertainty-works-by-kevin-thompson-phd-pmp-csp/
+- fixed schedule, fixed scope; success not always possible, add buffer
+- fixed schedule, adjustable scope
+- no schedule, unknown scope; kanban, limit work in progress
+
+http://www.webpages.uidaho.edu/css386/Readings/Abbot%20Risk,%20change%20and%20uncertainty.pdf
+- basic internal dynamic
+- external influences
+- human factors and strategies
+- chance
+known/unknown means/ends (Christensen, 1999, 143)
+
+http://tinybuddha.com/blog/7-ways-to-deal-with-uncertainty/
+- positive power of negative thinking
+
+Foxman, P. (1976). Tolerance for ambiguity and self-actualizing. Journal of
+Personality Assessment, 40, 67-72
+
+http://imetacomm.com/wp-content/themes/Structure%20Premium%20White/organic_structure_white/downloads/Metacomm_Conceptualizations.pdf
+ Table 1: Issues Linked to Tolerance of Uncertainty
+People with High Tolerance
+for Uncertainty Tend to
+People with Low Tolerance
+for Uncertainty Tend to
+· Be less dogmatic
+· Be less ethnocentric
+· Be less "generally" conservative
+· Perceive ambiguous stimuli as desirable and
+challenging
+· Rely less on authorities for opinions
+· Be more self actualized
+· Be more flexible
+· Prefer objective information
+· Be more dogmatic (Bochner, 1965)
+· Be more ethnocentric (Block & Block, 1950)
+· Be more "generally" conservative (Sidanuis,
+1978)
+· Avoid ambiguous stimuli (Furnham, 1995)
+· Rely more on authorities for opinions
+(Bhushan, 1970)
+· Be less self actualized (Foxman, 1976)
+· Be more rigid (Budner, 1962)
+· Prefer information supportive of their views
+(McPherson, 1983)
+Process, outcome, perceptual
+
+4. I’m comfortable making a decision on my gut instincts. .80
+ 8. I’m comfortable using my intuition to make a decision. .75
+13. I’m willing to make a decision based on a hunch. .71
+25. I’m comfortable deciding on the spur-of-the-moment. .69
+ 7. When I start a project, I need to know exactly where I’ll end up. (-) .76
+24. I need a definite sense of direction for a project (-) .73
+12. I need to know the specific outcome before starting a task. (-) .72
+21. I don’t need a detailed plan when working on a project. .67
+15. I actively try to look at situations from different perspectives. .78
+ 9. I’m always on the lookout for new ideas to address problems. .64
+ 5. I actively look for signs that the situation is changing. .63
+
 ** OUTLINED No good or bad, just different
-   SCHEDULED: <2013-07-18 Thu>
+   SCHEDULED: <2013-07-21 Sun>
 - Canada Post lost the passport that was sent through Xpresspost, so
   I need to go through the process of filing for a lost passport:
   official statement, police report, affidavit of
@@ -1188,14 +1351,14 @@ What makes me happy?
 
 - Here is something I'm starting to learn about life: situations
   aren't bad or good, they're just different.
-
+  
 - Different is okay. I can deal with different.
 
 - There's always something to be thankful for and something to learn
   from. In this case, I'm glad that we didn't book an August trip
   that we would have to cancel, and I'm glad that we have the space
   to deal with issues like this.
-
+  
 - There will be bigger challenges than this, so this is good
   preparation.
 
