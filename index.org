@@ -995,7 +995,7 @@ hack. =)
 ** Starting my own business
 * Other geekery
 ** Emacs and Ruby  
-   SCHEDULED: <2013-07-23 Tue>
+   SCHEDULED: <2013-07-29 Mon>
 ruby-end / smartparens
 rinari and inf-ruby
 haml-mode
@@ -1105,19 +1105,216 @@ https://code.google.com/p/maui-indexer/wiki/Installation ?
   - http://puttylike.com/slicing-cucumbers-and-testing-assumptions-about-life/
 * Life
 ** OUTLINED Learning more about learning
-- It starts with attitude
-  - Watch out for your excuses
-  - Be okay with dropping things you don't really care about
-- Work with your brain, instead of against it
-  - Energy and focus
-  - Top down or bottom up?
-- Break things down into small chunks
-  - Map things with other people's help
-  - Relate to other things you know
+- Mind
+  - It starts with attitude
+    - Can do it
+      - I remind myself that other people have figured it out
+    - Watch out for your excuses
+    - Be okay with dropping things you don't really care about
+  - Be curious
+    - Ask questions
+    - Notice the unusual
+  - Work with your brain, not against it
+    - How do you like learning?
+      - I fall asleep in lectures
+    - Energy and focus
+    - Top down or bottom up?
+  - Embrace uncertainty and intimidation
+  - See learning opportunities at many levels
+  - Think about thinking, learn about learning; observing and
+    improving your processes
+- Process
+  - Break things down into small chunks
+    - Map things with other people's help
+    - Relate to other things you know
+  - Reduce friction
+  - Ask questions, try experiments
+  - Take advantage of other people (in a good way)
+  - Do something with what you learn
+  - Relate what you're learning to what you know
+  - Share
+  - Practise continuous improvement
 - Take notes along the way
 - Celebrate progress
 - Make predictions and test them
 - Look for ways to get quick feedback
+
+- Skills for learning
+  - Identify something to learn
+    - Identify a possible gap, opportunity, or goal
+    - Identify the next steps towards a goal
+    - Identify the next steps from what you know
+    - Ask for or receive advice from other people
+    - Identify learning concepts based on other resources
+    - Recognize learning opportunities
+    - Recognize multiple opportunities to learn from the same
+      experience
+    - Follow up with questions
+    - Anticipate learning needs based on scenarios
+    - Observe what's different, unusual, or unexpected
+  - Break learning down
+    - Identify prerequisites and synergies
+    - Identify the smallest meaningful chunk
+    - Identify what you know and what you need to know
+    - See learning in context
+      - Keep your goals in mind
+      - Make a map
+  - Prioritize
+    - Estimate costs and benefits
+    - Deal with uncertainty
+    - Get advice from others
+    - Make time and space
+    - Let go
+  - Prepare
+    - Manage your energy and motivation
+    - Choose strategies and sources for learning
+      - Understand your learning styles
+      - Identify and connect with people
+      - Identify and learn from books or other resources
+      - Plan how to learn from experience
+        - Try things out
+        - Plan experiments
+      - Combine different strategies
+      - Observe and improve your learning skills
+    - Set aside time
+    - Prepare the things you need in order to learn
+  - Learn
+    - Learn from experiences
+      - Explore
+      - Deepen
+      - Drill
+    - Learn from people
+      - Identify potential people
+        - Learn from one-off connections
+        - Learn from regular connections
+        - Learn from peers
+        - Learn from mentors
+        - Learn from role models
+        - Learn from coaches or other professionals
+      - Connect with people
+      - Ask questions
+      - Listen actively
+      - Share your context
+      - Check your understanding
+      - Accept feedback or advice
+      - Share results
+    - Learn from resources
+      - Identify and learn from relevant resources
+        - Search
+        - Browse
+        - Follow "information scent"
+      - Understand research
+      - Understand and use models
+      - Research multiple perspectives
+      - Read critically and evaluate information for reliability
+    - Get your thoughts out of your head
+      - Take notes
+        - Phrase it in your own words
+        - Capture key information
+        - Highlight and review
+        - Identify action items
+      - Keep a journal or notebook
+      - Organize your learning
+        - Map what you are learning
+          - Create outlines
+          - Create diagrams
+        - Identify further gaps
+        - Resolve conflicts
+      - Examine processes, habits, assumptions, and conclusions
+    - Correct your course
+      - Set up feedback loops
+        - Get internal feedback
+        - Get feedback from people
+      - Evaluate your strategy
+      - Tweak your strategy
+  - Remember what you learn
+    - Review your notes
+    - Recognize situations to use your learning
+    - Associate other things you know
+    - Look up what you have learned
+    - Recall what you have learned
+    - Use memory aids
+      - Use spaced repetition study systems
+      - Use memory hooks
+  - Apply what you learn
+    - Plan how to successfully apply what you learn
+    - Apply what you learn in a similar context
+    - Apply what you learn in a different context
+    - Examine and evaluate previous knowledge
+    - Combine with other things you know
+  - Share what you learn
+    - Summarize what you have learned
+    - Share resources
+    - Create resources
+    - Translate for less experienced learners
+      - Map your learning
+      - Reorganize your learning  
+      - Simplify
+    - Translate for a different audience
+- Tools
+  - Phases
+    - Collect
+    - Organize
+    - Synthesize
+    - Create
+  - Index
+  - Outlines
+  - Index cards
+  - Evernote
+  - Org Mode
+  - org-capture
+  - Source code
+  - Interactive consoles - Ruby
+  - Chrome inspector and console
+  - Sketchnotes
+  - Mindmapping
+  - Scenario planning
+  - Spreadsheets
+  - Visualizations
+  - Blog posts
+  - Internet
+    - Searching
+    - Browsing
+    - Subscribing
+  - Rough drafts
+  - Clip file
+  - Map
+  - Diagram
+  - Model
+
+  - Sketchnotes
+    - Ideal outcome: People are inspired to take visual notes for their own use
+    - Learning and reviewing presentations and books
+    - Connecting with people
+    - Understanding your thoughts
+    - Sharing what you know
+  - Making the most of your blog through the years
+    - Ideal outcome: People are encouraged to blog for the long term; people who have been blogging a while are inspired to organize their work
+    - Weekly, monthly, yearly reviews
+    - Indexes
+    - Other people as part of your memory
+    - Collections
+    - Backups
+  - Tracking and experiments
+    - Ideal outcome: People are inspired to make better decisions by tracking
+    - Time
+    - Money and an opportunity fund
+    - Clothes, decisions, etc.
+    - 5-year experiment with retirement
+  - How it all fits together
+    - Ideal outcome: People see how the different techniques can support each other, and they are motivated to take the next step
+    - The flow of learning
+    - How different techniques work together
+    - Getting started
+    - Getting better
+    - Going from strength to strength
+  - Continuous improvement in everyday life
+    - Ideal outcome: People examine their processes
+    - Understanding your processes
+    - Handling weaknesses
+    - Building on strengths
+    - Learning from experiments
+
 ** OUTLINED Happiness
 What makes me happy?
 
@@ -1331,7 +1528,7 @@ Process, outcome, perceptual
  5. I actively look for signs that the situation is changing. .63
 
 ** OUTLINED No good or bad, just different
-   SCHEDULED: <2013-07-21 Sun>
+   SCHEDULED: <2013-07-28 Sun>
 - Canada Post lost the passport that was sent through Xpresspost, so
   I need to go through the process of filing for a lost passport:
   official statement, police report, affidavit of
