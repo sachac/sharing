@@ -10,8 +10,7 @@ https://github.com/sachac/sharing
 Inspired by anything? Feel free to write your own posts, and send me
 a link. =)
 
-HTML version:
-https://dl.dropboxusercontent.com/u/3968124/sharing/index.html
+HTML version: http://sach.ac/outline
 
 You can find my blog at http://sachachua.com .
 
@@ -74,6 +73,49 @@ Click on the headings to expand them.
   - Probably go back to a technical position in a good team
 
 * Visual thinking and sketchnoting
+** Accelerate Your Learning with Sketchnotes
+# <<accel-sketch>>
+
+(collaboration with Timothy Kenny, [[timothykenny.com]])
+
+Audience: Entrepreneurial visual thinkers who would like to learn more effectively
+
+Outcome: People have taken their first few sketchnotes and are ready to use it for learning
+
+- Why sketchnote?
+  - Benefits
+    - Understanding
+    - Reviewing
+    - Connecting
+- Common challenges
+  - “I don’t have time.”
+  - “I can’t draw.”
+  - “My handwriting sucks.”
+- Tools
+  - Paper
+    - Scan
+    - Camera tips
+  - Digital sketchnoting
+- Sketchnote basics
+  - Annotating printed text
+  - Starting with hand-written notes
+  - Adding emphasis
+  - Starting with stick figures
+  - Drawing symbols
+  - Drawing abstract concepts
+  - Organizing the page
+- How to sketchnote a presentation
+- How to sketchnote a book
+- How to sketch your plans
+- Sketchnotes and business
+- Organizing and reviewing your sketchnotes
+- Connecting through sketchnotes
+- Drawing practice
+  - Stick figures
+  - Emotions
+  - Body language
+  - Symbols
+
 ** DONE Drawing emotions                                               :link:
    CLOSED: [2013-07-05 Fri 00:20]
    :LOGBOOK:
@@ -156,12 +198,15 @@ http://sachachua.com/blog/2013/07/sketchnote-lessons-drawing-emotions/
 http://en.wikipedia.org/wiki/File:Plutchik-wheel.svg
 http://www.cnvc.org/Training/feelings-inventory
 
-** OUTLINED Drawing banners/ribbons
+** DONE Drawing banners/ribbons
+   CLOSED: [2013-07-28 Sun 12:54]
 - Draw the text first
 - Draw the part that encloses the text
 - Draw the scrolls
 - Shade it if desired
-** OUTLINED Quick digital lettering
+
+** DONE Quick digital lettering
+   CLOSED: [2013-07-28 Sun 14:51]
 - Printed letters are the easiest to read
 - Thick letters
 - Square caps
@@ -171,7 +216,9 @@ http://www.cnvc.org/Training/feelings-inventory
 - Outlines
 - Shadows
 - 3D letters
-** OUTLINED Quick layouts and connectors
+** DONE Quick connectors
+   CLOSED: [2013-07-28 Sun 15:07]
+** TODO Quick layouts and connectors
 - Boxes
 - Ribbons
 - Arrows
@@ -179,6 +226,29 @@ http://www.cnvc.org/Training/feelings-inventory
 - Clouds
 - Shadows
 - Radial layouts
+** Drawing cheats: Working around the limitations 
+- Digital drawing
+  - Can't see the big picture
+    - Grid
+    - Zooming
+    - Leaving plenty of space
+    - Rearranging as needed
+    - Use simple layouts
+  - Tools take up space
+    - Figure out a good layout
+  - Battery life can be an issue
+    - I bought an extra battery
+    - For longer events, I try to be near a power outlet, or I find
+      one during lunch
+  - Heavy
+    - Bike
+    - Padded backpack
+  - Can lose data if it crashes
+    - Reliable application
+    - Saving multiple versions
+  - Can't flip through sketches as easily
+
+
 ** Sharing
 - Flickr
 - Blog
@@ -202,6 +272,15 @@ http://www.cnvc.org/Training/feelings-inventory
 - Move things around
 - Fix errors
 - Remove anything unnecessary
+** DONE Visual metaphors for planning your life                   :requested:
+   CLOSED: [2013-07-27 Sat 16:34]
+http://sachachua.com/blog/2013/07/visual-metaphors-and-layouts-for-planning-your-life/
+
+- Arrow to goal
+- Journey
+- Tree and fruit
+
+Send to Marty Pauschke [2013-07-25]
 ** Sketching cheats
 - Draw a little, then come back later
 - Cover up mistakes
@@ -471,9 +550,17 @@ http://sachachua.com/blog/2013/06/heres-the-recording-from-how-to-use-evernote-t
 - Reminds me of the Civilization skill tree
 - Pieces, but if I define prerequisites and recommended next steps
 ** OUTLINED Learning how to outline                           :imagine:learn:
-Objective: Help other people improve their writing by learning how to
-outline; learn how to do this myself; share a list of things I'd like
-to write about
+   :LOGBOOK:
+   CLOCK: [2013-07-28 Sun 15:09]--[2013-07-28 Sun 15:10] =>  0:01
+   :END:
+   :PROPERTIES:
+   :Effort:   1:00
+   :END:
+Get "Thinking on Paper" first
+
+Objective: Be more effective at outlining my blog posts; Help other
+people improve their writing; Share a list of things I'd like to write
+about
 
 - Breaking skills down into their components (Tim Ferris)
 - Why outlining?
@@ -994,8 +1081,7 @@ hack. =)
 ** Tablet
 ** Starting my own business
 * Other geekery
-** Emacs and Ruby  
-   SCHEDULED: <2013-07-29 Mon>
+** Emacs and Ruby    :requested:
 ruby-end / smartparens
 rinari and inf-ruby
 haml-mode
@@ -1104,6 +1190,22 @@ https://code.google.com/p/maui-indexer/wiki/Installation ?
      http://khanhlong89.wordpress.com/2013/01/21/not-having-enough-time-is-always-an-excuse-why-you-should-test-your-assumptions/
   - http://puttylike.com/slicing-cucumbers-and-testing-assumptions-about-life/
 * Life
+** DONE Homebody
+   CLOSED: [2013-07-28 Sun 20:32]
+Saturday afternoon. It had started raining, so W- put away his tools and stopped working on the deck stairs. He asked if I wanted to go out and do something fun – maybe watch a movie, or have pho? 
+
+I checked the movie listings. Nothing particularly worth watching on the big screen instead of on our television, and we had food in the fridge. So we stayed home, watched one of the movies we’d checked out from the library, and enjoyed some home-made pizza.
+
+We haven’t been to a movie theatre in ages (ever since I decided that actually, even superhero blockbusters are just fine on the small screen). The library is the source of a constant stream of DVDs. While there are long waits for the latest releases, there are plenty of old movies we can go through. I’ve gotten accustomed to watching with subtitles and the ability to pause or rewind, which is great since many movies involve at least one mumbly moment. Besides, if we watch at home, we can make jokes.
+
+I am such a homebody. My default is to spend time at home, and I enjoy it. I love reading, writing, drawing, coding. Tidying up is slightly less fun, but it’s also useful. We’re not hermits – we go to the supermarket, the library, the hardware store – but we don’t often go out just for recreation.
+
+I go out occasionally – more often than W- goes out. I go to the clients’ offices. I go to HackLab to hang out with other geeks and learn from them. I go to friends’ get-togethers. And then I come home and recharge.
+
+Back when I lived at home, my parents took me and my sisters out a lot: eating at restaurants, strolling through the malls. I hardly go shopping here, aside from the occasional stressful sprint when I need to restock my shoes or clothes. I hardly go to restaurants, either. When I get together with friends, it’s usually in someone’s kitchen. 
+
+I think the trick is to embrace it instead of wondering what other people are doing. 
+
 ** OUTLINED Learning more about learning
 - Mind
   - It starts with attitude
@@ -1139,6 +1241,7 @@ https://code.google.com/p/maui-indexer/wiki/Installation ?
 - Make predictions and test them
 - Look for ways to get quick feedback
 
+# <<learning-skills>>
 - Skills for learning
   - Identify something to learn
     - Identify a possible gap, opportunity, or goal
@@ -1283,11 +1386,31 @@ https://code.google.com/p/maui-indexer/wiki/Installation ?
   - Model
 
   - Sketchnotes
-    - Ideal outcome: People are inspired to take visual notes for their own use
-    - Learning and reviewing presentations and books
-    - Connecting with people
-    - Understanding your thoughts
-    - Sharing what you know
+    - Ideal outcome: People are inspired to take visual notes for
+      their own use
+    - What are sketchnotes
+    - Why sketchnotes
+      - Doodling improves recall http://onlinelibrary.wiley.com/doi/10.1002/acp.1561/abstract
+      - Fun and fast
+      - Encourages me to stay engaged; used to always fall asleep in lectures!
+      - Encourages me to review
+      - Good way to connect with other people
+    - How
+      - Pen and paper
+      - I use a tablet PC because I like it
+      - Doesn't matter how you take it; find your style
+    - How I use sketchnotes
+      - Learning and reviewing presentations and books
+        - One-page summary if possible
+      - Understanding your thoughts
+      - Sharing what you know
+      - Connecting with people
+    - How to learn more
+      - Sketchnote Handbook
+      - Sketchnotearmy
+      - Look at examples
+      - Most important: Try it yourself!
+
   - Making the most of your blog through the years
     - Ideal outcome: People are encouraged to blog for the long term; people who have been blogging a while are inspired to organize their work
     - Weekly, monthly, yearly reviews
@@ -1396,7 +1519,33 @@ What makes me happy?
   - Doing regular weekly, monthly, and yearly reviews
   - Preparing for various possibilities
   - Checking progress against my plans
-** Something I want to get better at: Planning my way through uncertainty
+
+** Decisions
+- Goal: Understand how I want to make good decisions and what I want
+  to write down
+- Getting more comfortable making decisions that shape my life
+  - Contrast: master's degree in Canada
+  - Experiment
+  - Skills, focus
+- What makes a good decision?
+  - Goal: Maximize payoffs and minimize risks
+- Don't judge decisions by outcomes, but by processes
+  - Not about regretting the outcome, but the process
+  - Canada Post losing my passport: not a terrible
+    decision, but not the best one, although it reminds me that I should test more
+    assertive approaches like seeing if it's a real requirement
+  -
+- Scenario planning
+- Recognize and work around biases
+  - Confirmation
+  - Availability
+  - Loss aversion
+- Plan fire drills
+- Create space
+
+- What do
+
+*** Something I want to get better at: Planning my way through uncertainty
 
 - I don't know what next month will be like, or the months beyond
   that.
@@ -1528,7 +1677,6 @@ Process, outcome, perceptual
  5. I actively look for signs that the situation is changing. .63
 
 ** OUTLINED No good or bad, just different
-   SCHEDULED: <2013-07-28 Sun>
 - Canada Post lost the passport that was sent through Xpresspost, so
   I need to go through the process of filing for a lost passport:
   official statement, police report, affidavit of
