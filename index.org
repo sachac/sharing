@@ -7,8 +7,12 @@ the file that generates index.html. Issues and pull requests welcome
 (index.org preferred, but I can understand HTML patches too)!
 https://github.com/sachac/sharing
 
-Inspired by anything? Feel free to write your own posts, and send me
-a link. =)
+Does a topic here intrigue you, or can you think of some useful
+follow-ups ? E-mail me at [[mailto:sacha@sachachua.com][sacha@sachachua.com]] (or
+file an issue, if you're geeky that way ;) ).
+
+Inspired by anything? Feel free to write your own posts, and send me a
+link. =)
 
 HTML version: http://sach.ac/outline
 
@@ -16,64 +20,8 @@ You can find my blog at http://sachachua.com .
 
 Click on the headings to expand them.
 
-* 5-year experiment
-** What I'm learning from my 5-year experiment
-- Rat race
-- Discretionary time is a wonderful thing
-- It's okay to not optimize everything
-- There are lots of things I can learn (even without books or the Internet!)
-** OUTLINED Experiment review: Income and expenses
-- Preparation
-  - Projecting my expenses
-  - Main costs: $10k a year
-  - GIC ladders
-- As expected
-  - Frugal lifestyle
-  - Delegation still worthwhile
-- Unexpected
-  - Consulting
-  - Easier and easier to substitute pleasures
-  - Embracing uncertainty and reducing income
-- Dealing with the unknown
-- Monthly reviews
-  - Ledger
-- Investment results
-** Starting your own 5-year experiment
-** Learning about business, learning about life
-- Why it's five years
-- Throw myself into it - learning how to build a business?
-- Keeping my needs small
-- Lifestyle business
-- More curious about life, creation - the things people can't pay you
-  to do
-- Backup plan
-** Preparing for uncertainties
-
-- Structure of 5-year experiment
-- The more I try things out, the more I learn, the more I wander from
-  my original plan
-- Useful tool: imagine worst-case scenario
-- http://sachachua.com/blog/2012/12/experiment-pre-mortem-imagining-and-dealing-with-causes-of-failure/
-
-** Anticipating experiment outcomes
-- How would I live if the outcome of this experiment is "I probably
-  don't have to work again"?
-  - Writing, drawing, coding based on my own interests
-  - Sharing as much as possible
-  - Open to receiving payment from other people as a way of funding
-    more experiments - maybe tie value directly to experiments in a
-    micro-Kickstarter sort of way?
-- How would I live if the outcome of this experiment is "I want to
-  'lean in' in terms of business?"
-- How would I live if the outcome of this experiment is "I don't have
-  to work a regular job again"?
-- How would I live if the outcome of this experiment is "I want to go
-  back to a regular job?"
-  - Rebuild my network and dust off my resume
-  - Probably go back to a technical position in a good team
-
 * Visual thinking and sketchnoting
-** Accelerate Your Learning with Sketchnotes
+** Accelerate Your Learning with Sketchnotes  :book-idea:PROJECT:
 # <<accel-sketch>>
 
 (collaboration with Timothy Kenny, [[timothykenny.com]])
@@ -116,6 +64,153 @@ Outcome: People have taken their first few sketchnotes and are ready to use it f
   - Body language
   - Symbols
 
+** Drawing tutorials
+# <<drawing-tutorials>>
+*** Quick layouts and connectors
+- Boxes
+- Ribbons
+- Arrows
+- Shaped arrows
+- Clouds
+- Shadows
+- Radial layouts
+*** OUTLINED Finding the forms in words
+- make the letters feel like the word
+  - thin
+  - thick
+  - fast
+  - shaky
+- replace or modify a letter
+- wrap the word around an image
+- wrap an image around the word
+- add an image next to the word
+*** Visual hierarchy
+- Weight
+- Emphasis
+- Space
+*** Layout samples
+*** Adding depth
+*** Building your visual vocabulary: Business
+*** Building your visual vocabulary: Technology
+
+*** Building your visual vocabulary: Science
+
+*** Building your visual vocabulary: The Web
+*** Building your visual vocabulary: Math
+*** Building your visual vocabulary: Art
+
+*** Building your visual vocabulary: Life
+*** Building your visual vocabulary: Health
+
+
+
+*** Building your visual vocabulary: Metaphors
+** OUTLINED Sketchnotes and digital color
+- Black and white
+- Color change
+- Highlighter
+- Shading
+- Eyedropper tool
+- Quick color schemes
+  - 10%, 90%
+** DONE Drawing illustrations for my blog posts
+   CLOSED: [2013-08-02 Fri 09:26]
+- Tools and simple workflow
+  - Autodesk Sketchbook Pro
+  - Windows Live Writer
+- How to choose an image
+  - Metaphors
+  - Google Images
+  - Other blogs
+** OUTLINED Thinking about a virtual meetup for sketchnoters    
+- Kevin Dulle organizing tweetchats
+- It would be great to go over different techniques
+- Finding speakers is always a challenge
+- But it's a great learning experience, so even if I sketch out a
+  "curriculum" and prepare many of the talks, that's fine. 
+- Also, people can always step forward and volunteer.
+- Next steps:
+  - Experiment with Google Hangout
+** DONE Drawing banners/ribbons
+   CLOSED: [2013-07-28 Sun 12:54]
+- Draw the text first
+- Draw the part that encloses the text
+- Draw the scrolls
+- Shade it if desired
+
+** DONE Quick digital lettering
+   CLOSED: [2013-07-28 Sun 14:51]
+- Printed letters are the easiest to read
+- Thick letters
+- Square caps
+- Serifs
+- Doubled letters
+- Broad nibs
+- Outlines
+- Shadows
+- 3D letters
+** DONE Quick connectors
+   CLOSED: [2013-07-28 Sun 15:07]
+** DONE Drawing cheats: Working around the limitations 
+   SCHEDULED: <2013-07-31 Wed>
+Aug 20 2013: http://sachachua.com/blog/2013/08/working-around-the-limits-of-digital-sketchnoting/ 
+
+- Digital drawing
+  - Can't see the big picture
+    - Grid
+    - Zooming
+    - Leaving plenty of space
+    - Rearranging as needed
+    - Use simple layouts
+  - Tools take up space
+    - Figure out a good layout
+  - Battery life can be an issue
+    - I bought an extra battery
+    - For longer events, I try to be near a power outlet, or I find
+      one during lunch
+  - Heavy
+    - Bike
+    - Padded backpack
+  - Can lose data if it crashes
+    - Reliable application
+    - Saving multiple versions
+  - Can't flip through sketches as easily
+
+** DONE Visual metaphors for planning your life                   :requested:
+   CLOSED: [2013-07-27 Sat 16:34]
+http://sachachua.com/blog/2013/07/visual-metaphors-and-layouts-for-planning-your-life/
+
+- Arrow to goal
+- Journey
+- Tree and fruit
+
+Send to Marty Pauschke [2013-07-25]
+** DONE Thinking about the Visual Thinkers Toronto meetup structure
+   CLOSED: [2013-07-04 Thu 20:31] DEADLINE: <2013-07-09 Tue>
+http://sachachua.com/blog/2013/07/redesigning-the-visual-thinkers-toronto-show-tell/
+
+- Goals 
+  - Encourage people to share their work
+  - Be inspired by techniques and approaches
+  - Help people stretch and improve their visual thinking skills
+- Current structure
+  - Drawing game
+  - Speaker
+  - Open space
+  - Recap
+- Challenges of current approach
+- Proposed structure
+  - Share your work
+    - E-mail submissions or Flickr
+  - Game or exercise
+  - Presentation
+    - Technique: Maybe plan a calendar of topics, and see if we can
+      recruit specific speakers?
+  - Open space
+  - Challenge
+- Do you run a visual thinking meetup?
+- Next theme: Emotions
+- Survey
 ** DONE Drawing emotions                                               :link:
    CLOSED: [2013-07-05 Fri 00:20]
    :LOGBOOK:
@@ -198,89 +293,17 @@ http://sachachua.com/blog/2013/07/sketchnote-lessons-drawing-emotions/
 http://en.wikipedia.org/wiki/File:Plutchik-wheel.svg
 http://www.cnvc.org/Training/feelings-inventory
 
-** DONE Drawing banners/ribbons
-   CLOSED: [2013-07-28 Sun 12:54]
-- Draw the text first
-- Draw the part that encloses the text
-- Draw the scrolls
-- Shade it if desired
-
-** DONE Quick digital lettering
-   CLOSED: [2013-07-28 Sun 14:51]
-- Printed letters are the easiest to read
-- Thick letters
-- Square caps
-- Serifs
-- Doubled letters
-- Broad nibs
-- Outlines
-- Shadows
-- 3D letters
-** DONE Quick connectors
-   CLOSED: [2013-07-28 Sun 15:07]
-** TODO Quick layouts and connectors
-- Boxes
-- Ribbons
-- Arrows
-- Shaped arrows
-- Clouds
-- Shadows
-- Radial layouts
-** Drawing cheats: Working around the limitations 
-- Digital drawing
-  - Can't see the big picture
-    - Grid
-    - Zooming
-    - Leaving plenty of space
-    - Rearranging as needed
-    - Use simple layouts
-  - Tools take up space
-    - Figure out a good layout
-  - Battery life can be an issue
-    - I bought an extra battery
-    - For longer events, I try to be near a power outlet, or I find
-      one during lunch
-  - Heavy
-    - Bike
-    - Padded backpack
-  - Can lose data if it crashes
-    - Reliable application
-    - Saving multiple versions
-  - Can't flip through sketches as easily
-
-
 ** Sharing
 - Flickr
 - Blog
   - Wordpress, NextGen Gallery etc.
 - Pinterest
-** OUTLINED Sketchnotes and digital color
-- Black and white
-- Color change
-- Highlighter
-- Shading
-- Eyedropper tool
-- Quick color schemes
-  - 10%, 90%
-** Visual hierarchy
-- Weight
-- Emphasis
-- Space
 ** Cleaning up your sketch
 - Analog
   - Taking a good picture
 - Move things around
 - Fix errors
 - Remove anything unnecessary
-** DONE Visual metaphors for planning your life                   :requested:
-   CLOSED: [2013-07-27 Sat 16:34]
-http://sachachua.com/blog/2013/07/visual-metaphors-and-layouts-for-planning-your-life/
-
-- Arrow to goal
-- Journey
-- Tree and fruit
-
-Send to Marty Pauschke [2013-07-25]
 ** Sketching cheats
 - Draw a little, then come back later
 - Cover up mistakes
@@ -290,54 +313,11 @@ Send to Marty Pauschke [2013-07-25]
 ** Digital tools
 ** Paper tools
 ** Space management
-** OUTLINED Drawing illustrations for my blog posts
-- Tools and simple workflow
-  - Autodesk Sketchbook Pro
-  - Windows Live Writer
-- How to choose an image
-  - Metaphors
-  - Google Images
-  - Other blogs
 ** Planning your life with Mural.ly and Evernote  
 ** Drawing your future: Graphic organizers for planning and brainstorming
 - Templates
 - Mural.ly
 ** How I got started drawing
-** DONE Thinking about the Visual Thinkers Toronto meetup structure
-   CLOSED: [2013-07-04 Thu 20:31] DEADLINE: <2013-07-09 Tue>
-http://sachachua.com/blog/2013/07/redesigning-the-visual-thinkers-toronto-show-tell/
-
-- Goals 
-  - Encourage people to share their work
-  - Be inspired by techniques and approaches
-  - Help people stretch and improve their visual thinking skills
-- Current structure
-  - Drawing game
-  - Speaker
-  - Open space
-  - Recap
-- Challenges of current approach
-- Proposed structure
-  - Share your work
-    - E-mail submissions or Flickr
-  - Game or exercise
-  - Presentation
-    - Technique: Maybe plan a calendar of topics, and see if we can
-      recruit specific speakers?
-  - Open space
-  - Challenge
-- Do you run a visual thinking meetup?
-- Next theme: Emotions
-- Survey
-** OUTLINED Thinking about a virtual meetup for sketchnoters    
-- Kevin Dulle organizing tweetchats
-- It would be great to go over different techniques
-- Finding speakers is always a challenge
-- But it's a great learning experience, so even if I sketch out a
-  "curriculum" and prepare many of the talks, that's fine. 
-- Also, people can always step forward and volunteer.
-- Next steps:
-  - Experiment with Google Hangout
 ** Not about drawing better
 
 Not better drawing
@@ -378,16 +358,6 @@ prototype with binder...
 ** Sketching faces on the go
 ** Reviewing my book notes
 ** Animating drawings with Artrage Studio
-** OUTLINED Finding the forms in words
-- make the letters feel like the word
-  - thin
-  - thick
-  - fast
-  - shaky
-- replace or modify a letter
-- wrap the word around an image
-- wrap an image around the word
-- add an image next to the word
 ** Experimenting with stock
 ** Organizing my sketchnotes
 Creating
@@ -503,6 +473,11 @@ Outcome: Collection of presentations
 ** Building a price book
 ** Reviewing my clothing data
 ** Virtual Quantified Self Show-and-Tell
+** Excel: SUMIFS  :excel:
+** Excel: INDEX and MATCH  :excel:
+** Excel: Table magic                                                 :excel:
+** Excel: Pivot tables  :excel:
+** Excel: Working with dates and times                                :excel:
 * Emacs
 ** OUTLINED How to learn Org Mode
 
@@ -523,6 +498,142 @@ Outcome: Collection of presentations
 *** Planning your life
 *** Working with numbers
 *** Saving time with shortcuts
+** DONE How I organize my Org files                         :requested:emacs:
+   CLOSED: [2013-08-01 Thu 21:08]
+Requested by Michael Jones,
+http://www.youtube.com/watch?v=113FL6wzGbM&lcor=1&feature=em-comment_received&lc=KpT_4O34JGgJD_mmpkI68GQXwchUaxzf1QfTXJfEx4g&lch=email
+http://www.youtube.com/user/Kembread
+
+/Michael Jones wanted to know how I organized my Org Mode files. Here's how I do things!/
+
+[[http://orgmode.org][Org Mode for Emacs]] is an outliner that lets you add a little structure
+to plain text files. Not only can you use it to move around, hide, and
+show sections of your outline, but you can also:
+- schedule tasks and mark them as complete,
+- add hyperlinks and formatting,
+- estimate effort and track time,
+- export to HTML and other formats,
+- and even include code that you can run in-line.
+
+I started with a single Org Mode file (appropriately called
+organizer.org), but I've gradually fleshed this out into a number of
+files. My goals for organizing my files this way are to be able to:
+
+- Publish some files while keeping other files private,
+- Add or remove groups of tasks from my agenda, or focus my
+  agenda/search on the current file,
+- Simplify processing my weekly review (categorizing
+  accomplishments/tasks),
+- Get a quick overview of important things, and
+- Have file-specific options, like columns.
+
+I often use [[http://sachachua.com/blog/dotemacs#agenda_commands][Org agenda custom commands]] to jump around. For example,
+one agenda command lists projects, and pressing RET on an agenda line
+will take me to that project. I also use =org-capture= to take a note
+from anywhere, and I use =org-goto= to navigate my files. For finding
+specific files, I use =ido-find-file=. 
+
+I use several Org Mode files. The five files below have a little more
+than 1.3MB of text in total - tiny! - but they help me tremendously. I
+also have lots of other Org files like my [[http://sachachua.com/blog/dotemacs][Emacs configuration]] and [[http://dl.dropboxusercontent.com/u/3968124/blog.html][my
+blog index]] (I often use Org for publishing), but these are my main
+files.
+
+*Personal tasks and notes: organizer.org*
+
+This is the catch-all for any tasks or notes that don't belong to the
+files below. Here's the rough structure:
+
+- *Quick notes:* Tidbits that might not make it into their own blog
+  posts, but which can be included in weekly reviews
+- *Reference:* Hours, license keys, etc.
+- *Open loops:* Anything I need to check on every so often
+- *Projects:* High-level things I'm focusing on
+- *Financial goals:* Things to save up for
+- *Someday/maybe:* Projects to do someday
+- *Weekly review:* Divided by year
+- *Monthly review:* More summaries
+- *Plans:* Personal plans
+- *2011, 2012, 2013...*: I use org-capture to quickly jot down notes.
+  The datetree option automatically files them by day, which makes
+  older ones easier to archive.
+- *Tasks:* A bucket for miscellaneous tasks
+
+*Anything to do with business: business.org*
+
+I organize these by the types of tasks I focus on and the notes I
+want to keep.
+
+- Earn
+  - Clients
+  - Leads
+- Build
+  - Projects
+  - Research
+  - Business ideas
+  - Blog
+  - Delegation
+  - Planning
+  - Business hygiene (accounting, etc.)
+  - Learning
+- Connect
+  - Meetups
+  - Hangouts
+  - Other
+- Reference
+- Tasks
+
+*people.org*
+
+I organize these by relationships so that I can remember who's out
+there.
+
+- Family
+- Extended family
+- Canada friends
+- Hacklab
+- Barkada
+- Letters
+- Meetups
+- Bloggers
+- Family friends
+- Other tasks
+
+*routines.org*
+
+I organize these by frequency and omit the tasks from my weekly
+review. This also contains my "In case of..." scenarios and my backup
+documentation.
+
+- Every day
+- Once a week
+- Once a month
+- Once a quarter
+- Once a year
+- When...
+
+*[[http://sach.ac/outline][sharing/index.org]]*
+
+I organize this by topic. See http://sach.ac/outline for the
+published version!
+
+*decisions.org*
+
+I organize these by status. I also use org-choose markers (ex:
+CHOSEN, MAYBE) inside the categories, but the headings make it easier
+to review.
+
+- Pending
+- Current
+- For review
+- Someday / maybe
+- Archive
+
+*How do you organize your Org files?*
+
+Everyone's got different ways of organizing outlines, and people also
+also change over time. How do you organize yours?
+
 ** How to learn Emacs Lisp
 *** Interactive exploration with edebug
 ** Save time with keyboard macros
@@ -538,6 +649,95 @@ http://sachachua.com/blog/2013/06/heres-the-recording-from-how-to-use-evernote-t
 ** Learning keyboard shortcuts
 ** Why learn Emacs
 * Writing / blogging / sharing knowledge
+** Thinking about how I can use Evernote more effectively
+
+It took me a couple of hours, but I finally cleared the 700+ items
+that had piled up in my Evernote inbox. Every so often, I go on a
+tagging and filing spree. I was thinking about this because Timothy
+Kenny told me how he has a virtual assistant file the notes in his
+Microsoft OneNote notebooks.
+
+Is my filing really worth it? Is it something I value enough to pay
+someone else to do? Could I explain what I wanted clearly enough so
+that other people could do it? Could I benefit from organization even
+if I'm not the one organizing things myself?
+
+Before I dig into that, I should probably examine this question: *What
+do I use Evernote for, and what could "better" look like?*
+
+Here's a quick summary of the different reasons I use Evernote:
+
+  |                                | <20>                 |                                                         |                                                                               |
+  | Type of note                   | Description          | Organization                                            | Improvements                                                                  |
+  |--------------------------------+----------------------+---------------------------------------------------------+-------------------------------------------------------------------------------|
+  | Sketchnotes                    | Collection of my sketchnotes for easy searching | Shared notebook, tagged by type                         | Fine the way it is                                                            |
+  | Inspiration                    | Interesting sketchnotes, images, and web designs | Notebook, tagged by technique                           | Tag and file when clipping, identify key areas of focus                       |
+  | Visual library                 | Visual thesaurus / sketches of abstract and concrete stuff | Notebook, titles updated, duplicates merged             | Improve workflow - delegate titling?                                          |
+  | E-mail archives                | Keep important information no matter which e-mail inbox it's from | None at the moment; notebook and tags                   | Tag and file when forwarding                                                  |
+  | People, conversations          | Quick notes from my mobile | Notebook                                                | Add full names; consider Evernote Hello for mobile input?                     |
+  | Ideas and thoughts             | Quick notes from my mobile | Notebook                                                | Should have weekly task to review and act on; separate from main Inbox?       |
+  | Actions                        | Quick notes from my mobile, when I'm away from Org | Notebook                                                | Should have weekly task to review and act on / copy into my Org file          |
+  | Cooking                        | Recipes, usually with pictures | Notebook, tagged by technique or dietary considerations | Review periodically; update when cooked                                       |
+  | Wishlist                       | Resources to buy after more consideration | None at the moment; tags, probably                      | Tag and file when clipping                                                    |
+  | Reference books                | Books held by the Toronto Reference Library, to request next time I'm there | Notebook, search                                        | Go to the library more often                                                  |
+  | Letters                        | Scanned letters so that I can review correspondence | Notebook, tagged by person                              | Fine the way it is                                                            |
+  | PDFs                           | Makes PDFs more searchable | Inbox, occasionally tagged                              | Use Web Clipper to specify tags and file in Notes right away                  |
+  | Blog posts / casual browsing   | Interesting things that might be useful someday, especially for related items | Notebook                                                | Use Web Clipper to file in Notes right away                                   |
+  | Other sketches                 | Scanned sketchbook pages so that I can review | Notebook                                                | Fine the way it is                                                            |
+  | Private notes                  | Things that I might want to remember or write about someday, but not yet | Notebook                                                | Have an outline?                                                              |
+  | Blog post ideas                | Inspiration, drafts, links, images, checklists | Notebook, some tags                                     | Add links to outline?                                                         |
+  | Business and personal receipts | Back up business and personal receipts; possibly be able to search through them | Notebook; tags, or just use folders on my drive?        | Decide where to do the organization; have an assistant retitle before import? |
+  | Blog research?                 | Clipped pages so they'll show up in Google Search and related notes, and so that I can review them even if the source disappears (payoff > 2 years) | No organization; search by keywords or sourceurl:       | Clip, but remove from inbox quickly                                           |
+
+I have different types of clipping activities:
+- *A. Researching a topic*, which results in lots of clips related to a
+  single topic. Usually in preparation for a blog post or as a way to
+  answer a question.
+- *B. Casual browsing and clipping* based on blog posts, news items, or
+  other things I come across; roughly topical (ex: skill
+  development), although may be tagged and filed in different places
+- *C. Saving reference material from email or websites*, which should be filed
+- *D. Adding notes on the go using my phone*, which should be reviewed
+  and acted on or filed when I get back to my computer
+- *E. Automatically clipping things based on external input*, using
+  services like IFTTT to archive my blog posts.
+
+There are several strategies I could use to manage my Evernote
+collection. I can choose different strategies based on the results
+that I want. Here are some possibilities:
+
+- *A. Spend a few extra seconds tagging and filing things when I clip
+  them.* Advantage: I touch something once, so I don't have to recall
+  the context of an item.
+- *B. Capture everything into an !Inbox, then file shortly after
+  clipping.* Advantages: I can select multiple entries and tag them
+  give them the same tags, and copy all the note links in one go.
+- *C. Capture everything into an !Inbox, then file weekly.* This is my
+  current strategy. This isn't working out too well - things pile up.
+- *D. Capture everything into an !Inbox, then teach someone to file.*
+
+I think strategy B will give me a good improvement in performance
+without me needing to bring in someone else.
+
+One of the areas that I could generally improve in is integrating the
+notes into my outlines and plans. Instead of just collecting the
+information, maybe I can use Copy Note Link and then spend some time
+adding those links to my outline. Alternatively, I can copy the
+source URL right then and there, find where it fits into my outline,
+and paste the link. If org2blog respects comments, I could even use
+that as part of my workflow.
+
+So if I were to outsource more tasks in order to improve my
+effectiveness at learning, I think I'd gain more value from finding
+someone who can speed-read like I do, filtering through lots of cruft
+on the Internet to find high-quality resources. They could then clip
+those pages into Evernote for my review. That might be worth an
+experiment or two... Let's find out how that works!
+
+#+BEGIN_COMMENT
+Does org2blog respect comments? If so, I can use that to add more details.
+#+END_COMMENT
+
 ** Unexpected benefit of outlining
 - More research, because I'm not worried about losing my thought!
 - Longer time, book research
@@ -750,6 +950,148 @@ up people.
 - I don't need to pull that much money out of it
 - Personal exemption
 - RRSP contributions
+* Delegation
+** OUTLINED How I (want to) use outsourcing and automation to help me learn more effectively
+# <<outsource-learning>>
+
+- Learning from people
+  - [ ] Identify interesting people to learn from
+    - Hmm... is there a way I can do this more efficiently? Scanning
+      the first 50 Google Blog Search results gets me 5
+      high-quality resources, which I could probably filter just
+      based on the titles alone.
+    - Huh. This could be harder than I thought, because I'm not that
+      happy with the resources that are out there. Maybe I should
+      figure out a better strategy.
+    - What do I want in terms of learning from people?
+      - Write blog posts with links to other people's interesting perspectives
+      - Slowly collect interesting people to follow in my feed reader
+      - Keep in mind the specialties of my blog readers and other
+        people who don't blog on their own
+    - Possible outsourcing approach
+      - SPEC: Given a topic, give me an outline or spreadsheet
+       highlighting bloggers who have written good blog posts about the
+       topic
+        - well-written (good English, few grammar or spelling mistakes,
+          good paragraph separation, maybe uses bold/color/italics for
+          emphasis)
+        - includes personal experiences, not just generic advice or reblogging
+        - includes action items or recommendations
+        - includes links to other resources (and not just
+          selling content or promoting a business)
+        - discussed: has at least two comments, one of which should be
+          a reply from the author (unless the post is less than a week old)
+        - active: at least 1 post a month, and has posted recently
+      - Rubric:
+        - Excellent: 
+          - Went through ~10 pages of Google Blog Search and
+            narrowed it down to 5-10 excellent bloggers/posts
+          - Highlighted bloggers who wrote repeatedly about a topic, browsing through
+            categories or tags to find related posts
+          - Added a short description of how the bloggers' viewpoints
+            differ from each other  
+        - Good:
+          - Went through ~5 pages of Google Blog Search and narrowed it
+            down to 5-10 good bloggers/posts
+          - Organized the list of bloggers to put excellent/insightful
+            blogs at the top
+        - Mediocre: 
+          - Sends a list of URLs with no explanations
+          - Includes blog posts that are generic, self-promotional
+            advice
+  - Topics I want to learn more about
+    - Content marketing / information products
+    - Visual thinking
+    - Making decisions
+    - Personal time tracking
+    - Delegation, outsourcing, how to make the most of virtual
+      assistance
+  - Tips
+    - blogsearch.google.com 
+    - Look at the posts that good blog posts link to
+  - [ ] Prepare talking points / questions / links
+    - Review past blog posts looking for related items
+  - [X] Schedule interviews
+  - [ ] Edit in Camtasia
+    - Trim
+    - Zoom-and-pan as needed
+    - Add chapter markers with question text
+    - Send a list of chapter markets
+  - [ ] Draft show notes with links
+  - [ ] Export to MP3
+  - [ ] Transcribe (so that I can turn it into blog posts)
+  - [ ] Post to blog
+  - [ ] Update previous posts
+  - [ ] Find a tutor
+  - [ ] Tutor me on a topic
+- Learning from books and other resources
+  - [ ] Identify resources
+  - [ ] Request books (partially automated)
+  - [ ] Comparison-shop for books
+  - [ ] File notes
+- Learning from the Web
+  - [C] File Evernote notes (tip from Timothy Kenny)
+    - Add keywords
+    - Move to notebooks
+    - http://sachachua.com/blog/?p=25628&shareadraft=baba25628_51fabe102ea81
+  - [X] Transcribe other people's videos and podcasts
+  - [X] Find or develop a scraper that can page through a Wordpress
+    blog 
+    - Partially automated with https://gist.github.com/sachac/6131743
+- Learning by sharing
+  - [ ] Identify related blog posts
+    - Clip into Evernote
+    - Map links onto my outline
+  - [ ] Ask questions
+  - [ ] Edit for clarity and brevity
+  - [ ] Bring several posts together in an outline
+  - [ ] Improve my Excel workbook or dashboard
+  - [ ] Scrape data for analysis
+  - [ ] Research comparable statistics
+  - [ ] De-um audio
+  - [ ] Categorize old posts 
+    - Bayesian probabilities?
+  - [ ] Add PWYC buttons / turn PDFs into PWYC products
+  - [ ] Format documents as beautiful PDFs
+  - [ ] Cross-post to Pinterest and Flickr
+- Learning from conversation
+  - [ ] Identify new referrers and blog search results
+  - [ ] Send people links as things are published
+- Learning by making
+  - [ ] Build the bones of a web application (especially one that
+    uses APIs)
+  - [ ] Sketch out a Wordpress plugin
+  - [ ] Fix CSS or JS issues
+- Learning through virtual meetups
+  - [ ] Set up Google Event
+  - [ ] Publicize event
+  - [ ] Set up Hangout On Air and post links
+  - [ ] Trim recorded video
+- Learning through meetups
+  - [ ] Set up meetup
+  - [ ] Publicize meetup
+  - [ ] Post follow-up notes
+  - [ ] Post meetup reminder
+- Learning by experimenting
+  - [ ] Structure an experiment and its measures
+  - [ ] Review related literature and examples
+  - [ ] Enter data
+  - [ ] Analyze data
+  - [ ] Strengthen my conclusions (make sure they make sense)
+  - [ ] Tutor me in statistics
+  - [ ] Create visualizations
+  - [ ] Put everything together in a blog post
+- Learning by delegating
+  - [ ] Identify opportunities to delegate
+  - [ ] Document process
+  - [ ] Anticipate exceptions
+  - [ ] Draft job specs
+  - [ ] Find comparable samples of work
+  - [ ] Identify promising ODesk or Fiverr candidates
+  - [ ] Do cost-benefit analysis
+
+Nudged by Timothy Kenny
+
 * Planning
 ** Pre-mortems and wild success stories
 ** Tag clouds for planning
@@ -1676,6 +2018,20 @@ Process, outcome, perceptual
  9. I’m always on the lookout for new ideas to address problems. .64
  5. I actively look for signs that the situation is changing. .63
 
+*** ScanSnap?
+
+- Desired benefits
+  - Scan double-sided documents (infrequent)
+  - Scan larger pieces of paper (up to 11x17, infrequent)
+  - Scan long pieces of paper
+    - Includes Adobe PDF for making pretty articles
+- Options
+  - ScanSnap iX500 Deluxe (520.98) 
+  - ScanSnap S1100 Delux (230.99)
+  - ScanSnap S1300i (482.60)
+    - Automatic document feeder
+  - Continue with my scanner
+
 ** OUTLINED No good or bad, just different
 - Canada Post lost the passport that was sent through Xpresspost, so
   I need to go through the process of filing for a lost passport:
@@ -1864,6 +2220,62 @@ Requested by David Achkar
   - Probably safer to get official copy of police report
     - 7-10 business days
     - processed every Thursday  
+* 5-year experiment
+** What I'm learning from my 5-year experiment
+- Rat race
+- Discretionary time is a wonderful thing
+- It's okay to not optimize everything
+- There are lots of things I can learn (even without books or the Internet!)
+** OUTLINED Experiment review: Income and expenses
+- Preparation
+  - Projecting my expenses
+  - Main costs: $10k a year
+  - GIC ladders
+- As expected
+  - Frugal lifestyle
+  - Delegation still worthwhile
+- Unexpected
+  - Consulting
+  - Easier and easier to substitute pleasures
+  - Embracing uncertainty and reducing income
+- Dealing with the unknown
+- Monthly reviews
+  - Ledger
+- Investment results
+** Starting your own 5-year experiment
+** Learning about business, learning about life
+- Why it's five years
+- Throw myself into it - learning how to build a business?
+- Keeping my needs small
+- Lifestyle business
+- More curious about life, creation - the things people can't pay you
+  to do
+- Backup plan
+** Preparing for uncertainties
+
+- Structure of 5-year experiment
+- The more I try things out, the more I learn, the more I wander from
+  my original plan
+- Useful tool: imagine worst-case scenario
+- http://sachachua.com/blog/2012/12/experiment-pre-mortem-imagining-and-dealing-with-causes-of-failure/
+
+** Anticipating experiment outcomes
+- How would I live if the outcome of this experiment is "I probably
+  don't have to work again"?
+  - Writing, drawing, coding based on my own interests
+  - Sharing as much as possible
+  - Open to receiving payment from other people as a way of funding
+    more experiments - maybe tie value directly to experiments in a
+    micro-Kickstarter sort of way?
+- How would I live if the outcome of this experiment is "I want to
+  'lean in' in terms of business?"
+- How would I live if the outcome of this experiment is "I don't have
+  to work a regular job again"?
+- How would I live if the outcome of this experiment is "I want to go
+  back to a regular job?"
+  - Rebuild my network and dust off my resume
+  - Probably go back to a technical position in a good team
+
 * Other snippets
 ** Planning a presentation 20 seconds at a time
 
@@ -1886,4 +2298,5 @@ h4 { margin-left: -20px; }
 h1, h2, h3 { font-family: Calibri, sans-serif }
 </style>
 #+end_html
+
 
