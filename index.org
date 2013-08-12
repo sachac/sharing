@@ -23,9 +23,6 @@ Click on the headings to expand them.
 * Visual thinking and sketchnoting
 ** Accelerate Your Learning with Sketchnotes  :book-idea:PROJECT:
 # <<accel-sketch>>
-
-(collaboration with Timothy Kenny, [[timothykenny.com]])
-
 Audience: Entrepreneurial visual thinkers who would like to learn more effectively
 
 Outcome: People have taken their first few sketchnotes and are ready to use it for learning
@@ -33,8 +30,11 @@ Outcome: People have taken their first few sketchnotes and are ready to use it f
 - Why sketchnote?
   - Benefits
     - Understanding
+      - http://onlinelibrary.wiley.com/doi/10.1002/acp.1561/abstract, http://pignottia.faculty.mjc.edu/math134/homework/doodlingCaseStudy.pdf
     - Reviewing
-    - Connecting
+      - Easier
+      - More fun
+     - Connecting
 - Common challenges
   - “I don’t have time.”
   - “I can’t draw.”
@@ -53,10 +53,14 @@ Outcome: People have taken their first few sketchnotes and are ready to use it f
   - Drawing abstract concepts
   - Organizing the page
 - How to sketchnote a presentation
+  - http://sachachua.com/blog/2013/05/sketchnoting-finding-a-balance-of-details-and-diagrams-and-calibrating-your-writing-to-time/
 - How to sketchnote a book
+  - http://sachachua.com/blog/2013/04/how-i-read-books-and-do-visual-book-reviews/
 - How to sketch your plans
+  - http://sachachua.com/blog/2013/07/visual-metaphors-and-layouts-for-planning-your-life/
 - Sketchnotes and business
 - Organizing and reviewing your sketchnotes
+  - http://sachachua.com/blog/evernote
 - Connecting through sketchnotes
 - Drawing practice
   - Stick figures
@@ -64,16 +68,62 @@ Outcome: People have taken their first few sketchnotes and are ready to use it f
   - Body language
   - Symbols
 
-** Drawing tutorials
+   :LOGBOOK:
+   CLOCK: [2013-08-05 Mon 23:06]--[2013-08-05 Mon 23:06] =>  0:00
+   :END:
+
+(collaboration with Timothy Kenny, [[timothykenny.com]] ?)
+
+** Learning with Sketchnotes  :book-idea:PROJECT:
+Audience: Teachers, homeschoolers/unschoolers/parents who want to
+teach more engagingly and help their students develop notetaking
+skills
+Outcome: Ready to practise on their own, and possibly teaching others
+how to sketchnote in their classes
+
+- Why sketchnote?
+  - Understand things better?
+  - Share more effectively
+  - Engage students
+  - Model note-taking skills by example
+- Examples
+- Common challenges
+- Getting started
+- Sketchnote basics
+  - Annotating printed text
+  - Starting with hand-written notes
+  - Adding emphasis
+  - Starting with stick figures
+  - Drawing symbols
+  - Drawing abstract concepts
+  - Organizing the page
+- Sketching your preparatory notes
+- Sketching your lesson
+- Sketching worksheets
+- Teaching others how to sketchnote
+  - A one-page guide
+- Drawing practice
+  - Stick figures
+  - Emotions
+  - Symbols
+    - Science
+    - Technology
+    - Math
+    - History
+    - Art
+    - Language
+    - Music
+    - ...
+
+** Drawing tutorials  :series:
 # <<drawing-tutorials>>
-*** Quick layouts and connectors
-- Boxes
-- Ribbons
-- Arrows
-- Shaped arrows
-- Clouds
-- Shadows
-- Radial layouts
+*** Visual hierarchy
+- Weight
+- Emphasis
+- Space
+- Color
+- Size
+
 *** OUTLINED Finding the forms in words
 - make the letters feel like the word
   - thin
@@ -84,10 +134,14 @@ Outcome: People have taken their first few sketchnotes and are ready to use it f
 - wrap the word around an image
 - wrap an image around the word
 - add an image next to the word
-*** Visual hierarchy
-- Weight
-- Emphasis
-- Space
+*** Quick layouts and connectors
+- Boxes
+- Ribbons
+- Arrows
+- Shaped arrows
+- Clouds
+- Shadows
+- Radial layouts
 *** Layout samples
 *** Adding depth
 *** Building your visual vocabulary: Business
@@ -104,7 +158,10 @@ Outcome: People have taken their first few sketchnotes and are ready to use it f
 
 
 
+*** DONE Talk bubbles and thought bubbles
+    CLOSED: [2013-08-05 Mon 23:03]
 *** Building your visual vocabulary: Metaphors
+** Draw like other people
 ** OUTLINED Sketchnotes and digital color
 - Black and white
 - Color change
@@ -439,7 +496,7 @@ http://www.timshowers.com/2008/12/visualization-strategies-hierarchical-data/
 ** Quantified Time: Consulting Days vs. Open Days
 Does work really get in the way of living?
 ** How does tracking affect your happiness?
-** Time-tracking workshop
+** Time-tracking workshop  :book-idea:PROJECT:
 *** Session 1: The Whys and Hows of Tracking Time
 Discuss objectives and motivations for tracking time. Plan possible questions you want to ask of the data (which influences which tools to try and how to collect data). Recommend a set of tools based on people’s interests and context (paper? iPhone? Android? Google Calendar?).
 Resources: Presentations on time-tracking, recommendations for tools, more detail on structuring data (categories, fields); possible e-mail campaign for reminders
@@ -474,12 +531,21 @@ Outcome: Collection of presentations
 ** Reviewing my clothing data
 ** Virtual Quantified Self Show-and-Tell
 ** Excel: SUMIFS  :excel:
+I've used Microsoft Excel's =SUMIF= function to conditionally add up
+values before. For example, =SUMIF= is handy when you have a table of
+use cases and you want to sum the points for all the use cases with
+priority 1. =SUMIFS= (Microsoft Excel 2007 and later) is even more
+powerful - it allows you to specify multiple criteria.
+
 ** Excel: INDEX and MATCH  :excel:
 ** Excel: Table magic                                                 :excel:
 ** Excel: Pivot tables  :excel:
 ** Excel: Working with dates and times                                :excel:
 * Emacs
 ** OUTLINED How to learn Org Mode
+# <<learn-org>>
+
+Here's one way to learn Org
 
 1. Get the hang of using Org as an outliner. See http://orgmode.org/org.html#Document-Structure
 2. Learn how to use Org to track TODO states. See http://orgmode.org/org.html#TODO-Items 
@@ -490,7 +556,7 @@ Outcome: Collection of presentations
 7. Learn how to use tags and search. http://orgmode.org/org.html#Tags
 8. Customize your Org agenda even further
 
-** OUTLINED Thinking with Emacs
+** OUTLINED Thinking with Emacs  :book-idea:PROJECT:
 *** The basics
 *** Writing
 *** Sharing
@@ -638,6 +704,9 @@ also change over time. How do you organize yours?
 *** Interactive exploration with edebug
 ** Save time with keyboard macros
 ** Getting started with configuring Emacs
+** Cooking with Emacs   :requested:
+@cehter
+
 ** Org Mode and Evernote
 http://sachachua.com/blog/2013/06/heres-the-recording-from-how-to-use-evernote-to-improve-your-visual-thinking/#comment-968427150
 
@@ -649,6 +718,42 @@ http://sachachua.com/blog/2013/06/heres-the-recording-from-how-to-use-evernote-t
 ** Learning keyboard shortcuts
 ** Why learn Emacs
 * Writing / blogging / sharing knowledge
+** Writing while tired
+
+- Sleeping a lot lately
+- Not quite as alert or energetic as I'd like to be
+- Good as a dry run; there will be more times that I'll be sleepy or
+  sick or tired
+- Options
+  - Sleep/relax/answer e-mail/read
+  - Practise writing every day anyway
+    http://surlymuse.com/writing-when-youre-sick-tired-or-just-hate-the-world/
+
+- How to write when tired
+  - Outline
+  - Don't have to be brilliant
+  - Do more research
+
+** Thinking about stock photos
+- Featured image
+  - Blog readers
+  - Magazine theme
+  - Visually break up a page
+- Many blogs use photos to make the posts more visually interesting
+- Lifehacker does this well
+- Inhibitors
+  - I don't like the way stock photos of people feel staged. I don't
+    identify with the people.
+  - Stock photos without people feel a little cold.
+
+
+The advice these days is to include a large image in your blog post, somewhere “above the fold”, so that it can attract attention, visually break up the page, and make your blog post more interesting.
+
+I’m still trying to get the hang of how this might work. Other blogs do this pretty well – Lifehacker, for example. More often, though, stock photos look fake. Too posed. Too perfect. I could never quite get the hang of 
+
+
+
+
 ** Thinking about how I can use Evernote more effectively
 
 It took me a couple of hours, but I finally cleared the 700+ items
@@ -887,6 +992,15 @@ student--they seek to eliminate the feeling instead.
 - Seth Godin, The Icarus Deception
 
 * Business and career
+** Adapting my business to a changing life
+- Focus on people to help
+- Build up skills and content
+- Make useful and valuable things
+** Selling prints online
+
+** TODO Best tools for pay-what-you-can digital goods   :delegate:
+Gumroad
+
 ** Planning for uncertainty   :better:
 ** Delegation
 ** Planning ahead in terms of people
@@ -951,8 +1065,13 @@ up people.
 - Personal exemption
 - RRSP contributions
 * Delegation
-** OUTLINED How I (want to) use outsourcing and automation to help me learn more effectively
+** OUTLINED How I (want to) use outsourcing to help me learn more effectively
 # <<outsource-learning>>
+
+Goal: Learn, share, scale
+- Package lots of e-books on a pay-what-you-can basis, or whatever
+  people would like (support/subscription?)
+
 
 - Learning from people
   - [ ] Identify interesting people to learn from
@@ -984,16 +1103,18 @@ up people.
         - active: at least 1 post a month, and has posted recently
       - Rubric:
         - Excellent: 
-          - Went through ~10 pages of Google Blog Search and
-            narrowed it down to 5-10 excellent bloggers/posts
-          - Highlighted bloggers who wrote repeatedly about a topic, browsing through
-            categories or tags to find related posts
-          - Added a short description of how the bloggers' viewpoints
+          - Went through ~10 pages of Google search results and
+            narrowed it down to 5-10 excellent items
+          - Highlighted bloggers or websites who wrote repeatedly
+            about a topic, browsing through categories or tags to find
+            related posts
+          - Added a short description of how the pages differ from
+            each other
             differ from each other  
         - Good:
-          - Went through ~5 pages of Google Blog Search and narrowed it
-            down to 5-10 good bloggers/posts
-          - Organized the list of bloggers to put excellent/insightful
+          - Went through ~5 pages of Google search results and narrowed it
+            down to 5-10 good articles
+          - Organized the list of articles to put excellent/insightful
             blogs at the top
         - Mediocre: 
           - Sends a list of URLs with no explanations
@@ -1001,6 +1122,7 @@ up people.
             advice
   - Topics I want to learn more about
     - Content marketing / information products
+    - Connecting through blogs
     - Visual thinking
     - Making decisions
     - Personal time tracking
@@ -1019,7 +1141,7 @@ up people.
     - Send a list of chapter markets
   - [ ] Draft show notes with links
   - [ ] Export to MP3
-  - [ ] Transcribe (so that I can turn it into blog posts)
+  - [X] Transcribe (so that I can turn it into blog posts)
   - [ ] Post to blog
   - [ ] Update previous posts
   - [ ] Find a tutor
@@ -1065,6 +1187,7 @@ up people.
 - Learning through virtual meetups
   - [ ] Set up Google Event
   - [ ] Publicize event
+  - [ ] Moderate questions
   - [ ] Set up Hangout On Air and post links
   - [ ] Trim recorded video
 - Learning through meetups
@@ -1090,8 +1213,12 @@ up people.
   - [ ] Identify promising ODesk or Fiverr candidates
   - [ ] Do cost-benefit analysis
 
+Also
+http://www.authorsassistanttraining.com/author-services
+
 Nudged by Timothy Kenny
 
+** What services should I be taking advantage of?
 * Planning
 ** Pre-mortems and wild success stories
 ** Tag clouds for planning
@@ -1417,7 +1544,180 @@ hack. =)
 - Coming back from India - Did you miss me?
 - Homesickness in Toronto
 - Acceptance
-* Decision review
+* Decisions
+** Decisions
+- Goal: Understand how I want to make good decisions and what I want
+  to write down
+- Getting more comfortable making decisions that shape my life
+  - Contrast: master's degree in Canada
+  - Experiment
+  - Skills, focus
+- What makes a good decision?
+  - Goal: Maximize payoffs and minimize risks
+- Don't judge decisions by outcomes, but by processes
+  - Not about regretting the outcome, but the process
+  - Canada Post losing my passport: not a terrible
+    decision, but not the best one, although it reminds me that I should test more
+    assertive approaches like seeing if it's a real requirement
+- Scenario planning
+- Recognize and work around biases
+  - Confirmation
+  - Availability
+  - Loss aversion
+- Plan fire drills
+- Create space
+
+- What do
+
+** Something I want to get better at: Planning my way through uncertainty
+
+- I don't know what next month will be like, or the months beyond
+  that.
+  - cloud of possibilities
+- Scary
+  - Why
+    - Uncomfortable making and possibly renegotiating commitments
+    - In limbo about some plans
+- Uncertainty is good
+  - Learning how to deal with it
+  - Learning
+- Good outcome
+  - Not blindsided by unknown risks; have a flexible contingency plan 
+  - Comfortable with decisions even if they turn out badly
+  - Documented decisions so that I can review and improve my
+    decision-making process
+  - Fire drill so that I have something in place
+- How I deal with uncertainty
+  - Minimize commitments
+    - Unexpected perks of semi-retirement: I can be open about
+      uncertainty
+
+  - Scenario planning
+    - Research
+      - What's out there?
+      - Which outcomes are more likely? less likely?
+    - Plan for the negative scenarios
+    - Plan for possibilities
+- Lessons from other places
+  - Lean
+    - No forecasts, less waste
+
+ 
+...deliberate attempt to separate what we do and do not know about the
+future, and to use that as a basis for exploring many possible futures
+... "A better approach now is to embrace uncertainty and examine it in
+detail to discover where the hidden opportunities lurk."
+- Paul J. H. Schoemaker (, in http://knowledge.wharton.upenn.edu/article.cfm?articleid=2298
+- Kristel van der Elst (World Economic Forum)
+  - Identify central question
+  - Identify driving forces and systemic changes that will transform
+    the playing field (social, technological, economic,
+    environmental, (geo)political)
+  - Look at things that could happen, not just extensions of the
+    present
+  - Determine critical uncertainties (impact vs certainty)
+  - Back into decision-making process - strategy that creates value
+    in several scenarios, backup plan
+
+The point of scenario planning, after all, is not to be right, which
+is such a human inclination that we find it hard to overcome—the point
+of scenario planning is to see the future from perspectives we would
+have a difficult time forcing ourselves to imagine because of our bias
+toward rightness, and therefore imagine new possibilities or see
+threats we might otherwise miss.
+The trick is to know we will always be wrong as we speculate about the
+future
+.
+http://future-of-work.spaces.live.com/blog/cns!C07907DBA0E3BEA6!1399.entry
+
+
+http://www.wired.com/wired/scenarios/build.html
+Yet, the purpose of scenario planning is not to pinpoint future events
+but to highlight large-scale forces that push the future in different
+directions. It's about making these forces visible, so that if they do
+happen, the planner will at least recognize them. It's about helping
+make better decisions today.
+Identify early warning 
+http://www.wired.com/special_multimedia/2009/ff_scenario_1708
+Personal scenario planning
+2x2, implications and actions,
+
+http://www.cprime.com/2010/02/how-uncertainty-works-by-kevin-thompson-phd-pmp-csp/
+- fixed schedule, fixed scope; success not always possible, add buffer
+- fixed schedule, adjustable scope
+- no schedule, unknown scope; kanban, limit work in progress
+
+http://www.webpages.uidaho.edu/css386/Readings/Abbot%20Risk,%20change%20and%20uncertainty.pdf
+- basic internal dynamic
+- external influences
+- human factors and strategies
+- chance
+known/unknown means/ends (Christensen, 1999, 143)
+
+http://tinybuddha.com/blog/7-ways-to-deal-with-uncertainty/
+- positive power of negative thinking
+
+Foxman, P. (1976). Tolerance for ambiguity and self-actualizing. Journal of
+Personality Assessment, 40, 67-72
+
+http://imetacomm.com/wp-content/themes/Structure%20Premium%20White/organic_structure_white/downloads/Metacomm_Conceptualizations.pdf
+ Table 1: Issues Linked to Tolerance of Uncertainty
+People with High Tolerance
+for Uncertainty Tend to
+People with Low Tolerance
+for Uncertainty Tend to
+· Be less dogmatic
+· Be less ethnocentric
+· Be less "generally" conservative
+· Perceive ambiguous stimuli as desirable and
+challenging
+· Rely less on authorities for opinions
+· Be more self actualized
+· Be more flexible
+· Prefer objective information
+· Be more dogmatic (Bochner, 1965)
+· Be more ethnocentric (Block & Block, 1950)
+· Be more "generally" conservative (Sidanuis,
+1978)
+· Avoid ambiguous stimuli (Furnham, 1995)
+· Rely more on authorities for opinions
+(Bhushan, 1970)
+· Be less self actualized (Foxman, 1976)
+· Be more rigid (Budner, 1962)
+· Prefer information supportive of their views
+(McPherson, 1983)
+Process, outcome, perceptual
+
+4. I’m comfortable making a decision on my gut instincts. .80
+ 8. I’m comfortable using my intuition to make a decision. .75
+13. I’m willing to make a decision based on a hunch. .71
+25. I’m comfortable deciding on the spur-of-the-moment. .69
+ 7. When I start a project, I need to know exactly where I’ll end up. (-) .76
+24. I need a definite sense of direction for a project (-) .73
+12. I need to know the specific outcome before starting a task. (-) .72
+21. I don’t need a detailed plan when working on a project. .67
+15. I actively try to look at situations from different perspectives. .78
+ 9. I’m always on the lookout for new ideas to address problems. .64
+ 5. I actively look for signs that the situation is changing. .63
+
+** ScanSnap?
+
+- Desired benefits
+  - Scan double-sided documents (infrequent)
+  - Scan larger pieces of paper (up to 11x17, infrequent)
+  - Scan long pieces of paper
+    - Includes Adobe PDF for making pretty articles
+- Options
+  - ScanSnap iX500 Deluxe (520.98) 
+  - ScanSnap S1100 Delux (230.99)
+  - ScanSnap S1300i (482.60)
+    - Automatic document feeder
+  - Continue with my scanner
+
+** Process, not outcome
+- What makes a decision a good decision?
+- Good decision or bad decision - process, not outcome
+
 ** WIND Mobile
 ** Tablet PC
 ** Tablet
@@ -1532,6 +1832,8 @@ https://code.google.com/p/maui-indexer/wiki/Installation ?
      http://khanhlong89.wordpress.com/2013/01/21/not-having-enough-time-is-always-an-excuse-why-you-should-test-your-assumptions/
   - http://puttylike.com/slicing-cucumbers-and-testing-assumptions-about-life/
 * Life
+** Library, language learning
+evernote:///view/70669/s1/2a328411-becb-420b-aa26-7903c6f39dc8/2a328411-becb-420b-aa26-7903c6f39dc8/
 ** DONE Homebody
    CLOSED: [2013-07-28 Sun 20:32]
 Saturday afternoon. It had started raining, so W- put away his tools and stopped working on the deck stairs. He asked if I wanted to go out and do something fun – maybe watch a movie, or have pho? 
@@ -1862,176 +2164,6 @@ What makes me happy?
   - Preparing for various possibilities
   - Checking progress against my plans
 
-** Decisions
-- Goal: Understand how I want to make good decisions and what I want
-  to write down
-- Getting more comfortable making decisions that shape my life
-  - Contrast: master's degree in Canada
-  - Experiment
-  - Skills, focus
-- What makes a good decision?
-  - Goal: Maximize payoffs and minimize risks
-- Don't judge decisions by outcomes, but by processes
-  - Not about regretting the outcome, but the process
-  - Canada Post losing my passport: not a terrible
-    decision, but not the best one, although it reminds me that I should test more
-    assertive approaches like seeing if it's a real requirement
-  -
-- Scenario planning
-- Recognize and work around biases
-  - Confirmation
-  - Availability
-  - Loss aversion
-- Plan fire drills
-- Create space
-
-- What do
-
-*** Something I want to get better at: Planning my way through uncertainty
-
-- I don't know what next month will be like, or the months beyond
-  that.
-  - cloud of possibilities
-- Scary
-  - Why
-    - Uncomfortable making and possibly renegotiating commitments
-    - In limbo about some plans
-- Uncertainty is good
-  - Learning how to deal with it
-  - Learning
-- Good outcome
-  - Not blindsided by unknown risks; have a flexible contingency plan 
-  - Comfortable with decisions even if they turn out badly
-  - Documented decisions so that I can review and improve my
-    decision-making process
-  - Fire drill so that I have something in place
-- How I deal with uncertainty
-  - Minimize commitments
-    - Unexpected perks of semi-retirement: I can be open about
-      uncertainty
-
-  - Scenario planning
-    - Research
-      - What's out there?
-      - Which outcomes are more likely? less likely?
-    - Plan for the negative scenarios
-    - Plan for possibilities
-- Lessons from other places
-  - Lean
-    - No forecasts, less waste
-
- 
-...deliberate attempt to separate what we do and do not know about the
-future, and to use that as a basis for exploring many possible futures
-... "A better approach now is to embrace uncertainty and examine it in
-detail to discover where the hidden opportunities lurk."
-- Paul J. H. Schoemaker (, in http://knowledge.wharton.upenn.edu/article.cfm?articleid=2298
-- Kristel van der Elst (World Economic Forum)
-  - Identify central question
-  - Identify driving forces and systemic changes that will transform
-    the playing field (social, technological, economic,
-    environmental, (geo)political)
-  - Look at things that could happen, not just extensions of the
-    present
-  - Determine critical uncertainties (impact vs certainty)
-  - Back into decision-making process - strategy that creates value
-    in several scenarios, backup plan
-
-The point of scenario planning, after all, is not to be right, which
-is such a human inclination that we find it hard to overcome—the point
-of scenario planning is to see the future from perspectives we would
-have a difficult time forcing ourselves to imagine because of our bias
-toward rightness, and therefore imagine new possibilities or see
-threats we might otherwise miss.
-The trick is to know we will always be wrong as we speculate about the
-future
-.
-http://future-of-work.spaces.live.com/blog/cns!C07907DBA0E3BEA6!1399.entry
-
-
-http://www.wired.com/wired/scenarios/build.html
-Yet, the purpose of scenario planning is not to pinpoint future events
-but to highlight large-scale forces that push the future in different
-directions. It's about making these forces visible, so that if they do
-happen, the planner will at least recognize them. It's about helping
-make better decisions today.
-Identify early warning 
-http://www.wired.com/special_multimedia/2009/ff_scenario_1708
-Personal scenario planning
-2x2, implications and actions,
-
-http://www.cprime.com/2010/02/how-uncertainty-works-by-kevin-thompson-phd-pmp-csp/
-- fixed schedule, fixed scope; success not always possible, add buffer
-- fixed schedule, adjustable scope
-- no schedule, unknown scope; kanban, limit work in progress
-
-http://www.webpages.uidaho.edu/css386/Readings/Abbot%20Risk,%20change%20and%20uncertainty.pdf
-- basic internal dynamic
-- external influences
-- human factors and strategies
-- chance
-known/unknown means/ends (Christensen, 1999, 143)
-
-http://tinybuddha.com/blog/7-ways-to-deal-with-uncertainty/
-- positive power of negative thinking
-
-Foxman, P. (1976). Tolerance for ambiguity and self-actualizing. Journal of
-Personality Assessment, 40, 67-72
-
-http://imetacomm.com/wp-content/themes/Structure%20Premium%20White/organic_structure_white/downloads/Metacomm_Conceptualizations.pdf
- Table 1: Issues Linked to Tolerance of Uncertainty
-People with High Tolerance
-for Uncertainty Tend to
-People with Low Tolerance
-for Uncertainty Tend to
-· Be less dogmatic
-· Be less ethnocentric
-· Be less "generally" conservative
-· Perceive ambiguous stimuli as desirable and
-challenging
-· Rely less on authorities for opinions
-· Be more self actualized
-· Be more flexible
-· Prefer objective information
-· Be more dogmatic (Bochner, 1965)
-· Be more ethnocentric (Block & Block, 1950)
-· Be more "generally" conservative (Sidanuis,
-1978)
-· Avoid ambiguous stimuli (Furnham, 1995)
-· Rely more on authorities for opinions
-(Bhushan, 1970)
-· Be less self actualized (Foxman, 1976)
-· Be more rigid (Budner, 1962)
-· Prefer information supportive of their views
-(McPherson, 1983)
-Process, outcome, perceptual
-
-4. I’m comfortable making a decision on my gut instincts. .80
- 8. I’m comfortable using my intuition to make a decision. .75
-13. I’m willing to make a decision based on a hunch. .71
-25. I’m comfortable deciding on the spur-of-the-moment. .69
- 7. When I start a project, I need to know exactly where I’ll end up. (-) .76
-24. I need a definite sense of direction for a project (-) .73
-12. I need to know the specific outcome before starting a task. (-) .72
-21. I don’t need a detailed plan when working on a project. .67
-15. I actively try to look at situations from different perspectives. .78
- 9. I’m always on the lookout for new ideas to address problems. .64
- 5. I actively look for signs that the situation is changing. .63
-
-*** ScanSnap?
-
-- Desired benefits
-  - Scan double-sided documents (infrequent)
-  - Scan larger pieces of paper (up to 11x17, infrequent)
-  - Scan long pieces of paper
-    - Includes Adobe PDF for making pretty articles
-- Options
-  - ScanSnap iX500 Deluxe (520.98) 
-  - ScanSnap S1100 Delux (230.99)
-  - ScanSnap S1300i (482.60)
-    - Automatic document feeder
-  - Continue with my scanner
-
 ** OUTLINED No good or bad, just different
 - Canada Post lost the passport that was sent through Xpresspost, so
   I need to go through the process of filing for a lost passport:
@@ -2220,6 +2352,11 @@ Requested by David Achkar
   - Probably safer to get official copy of police report
     - 7-10 business days
     - processed every Thursday  
+** Disputing my cellphone bill
+
+Oddly, WIND Mobile was under the impression that I spent at least
+three minutes in Ottawa last month - one minute on July 11, and
+another two minutes on July 25. The funny thing is 
 * 5-year experiment
 ** What I'm learning from my 5-year experiment
 - Rat race
@@ -2276,6 +2413,13 @@ Requested by David Achkar
   - Rebuild my network and dust off my resume
   - Probably go back to a technical position in a good team
 
+** Experimenting with semi-retirement  :PROJECT:book-idea:
+- How long
+- Preparation
+- Transition
+- Leaving familiar shores
+- Onward
+- Other people's stories
 * Other snippets
 ** Planning a presentation 20 seconds at a time
 
