@@ -162,6 +162,54 @@ how to sketchnote in their classes
     CLOSED: [2013-08-05 Mon 23:03]
 *** Building your visual vocabulary: Metaphors
 ** Draw like other people
+** DRAFTED How to get started with sketchnoting  :one-pager:
+Draw this
+
+1. Take notes
+- Why
+
+2. Take hand-written notes
+
+3. Slow down and write legibly
+   You don't have to write everything
+   Leave yourself space, then come back and fill things in later
+   A good ink helps: find one that's readable and doesn't smear
+   Tip: stash pens everywhere so that you're never without one!
+
+4. Emphasize important concepts
+   Boxes, highlighter, color pencils, etc
+   (Test the highlighter - sometimes ink can get messed up!)
+
+5. Use simple shapes.
+   Star - important point
+   Box, check - TODO
+   Arrow - next step
+   Speech bubble - quote
+   Thought cloud - what you were thinking
+   Lightbulb - idea
+   
+   Make rough copies of diagrams
+
+6. Have fun by drawing faces. This is a surprisingly good way to
+   remember an event, and it's also a good way to settle in if you're
+   early. (Being early is great for grabbing good seats.)
+
+   Write down the topic title and the speaker name, then spend a few
+   minutes sketching the person's face. You can start with a simple
+   rectangle with roughly the right proportions. Hair style? Glasses
+   or eyes? Nose? Facial hair? Smile? Doesn't have to be perfect.
+
+7. Draw other icons. People often repeat themselves or say things you
+   don't have to write down, so you can doodle during those parts.
+   Draw simple images related to what people are talking about. (Or
+   draw things that are completely unrelated - up to you!) Listen for
+   visual metaphors and try to draw them. Leave yourself space, and
+   then come back and doodle when you have time.
+
+Related:
+http://learni.st/users/boonyew.chew/boards/28983-10-first-steps-towards-sketchnotes
+sachachua.com/blog/sketchnote-handbook
+
 ** OUTLINED Sketchnotes and digital color
 - Black and white
 - Color change
@@ -718,7 +766,230 @@ http://sachachua.com/blog/2013/06/heres-the-recording-from-how-to-use-evernote-t
 ** Learning keyboard shortcuts
 ** Why learn Emacs
 * Writing / blogging / sharing knowledge
-** Writing while tired
+** Blogging-related skills                                            :skill:
+# <<blogging-skills>>
+[[http://sach.ac/outline#blogging-skills]]
+
+Here's my evolving break-down of blogging-related skills, including
+notes for future blog posts. I'm currently working on getting better
+at *outlining* (from high-level down to chunks of ~100 words)
+and *synthesizing* (especially combining other people's insights with
+my experiences). I'm using this outline to think of ways to
+deliberately practise certain aspects of blogging, to plan posts that
+will help people learn, and to clarify what I would like to delegate
+to assistants or work with coaches for.
+
+- Manage your time and energy 
+  - https://www.google.ca/search?q=how+to+find+time++to+write - well-covered
+  - Take advantage of small chunks of time
+    - This is good for your blogging! [[http://www.instigatorblog.com/5-steps-to-writing-the-best-blog-posts/2007/05/01/][more]]
+    - This makes writing less intimidating. Transitions can be awkward, but you can fix that while editing. [[http://mysterywritingismurder.blogspot.ca/2012/12/writing-in-small-chunks-of-timepros-and.html][more]]
+    - Get rid of your rituals and requirements (must do this first, can't have that...). Stop in the middle of a sentence so that you'll find it easier to resume. [[http://www.fromthewriteangle.com/2013/06/5-tips-for-busy-writers.html][more]]
+    - Don't edit as you write. Save that for another day. [[http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy/][more]]
+    - ... or edit as you go. Whichever way works for you. [[http://www.instigatorblog.com/5-steps-to-writing-the-best-blog-posts/2007/05/01/][more]] 
+    - People write books on commutes, lunch hours, ferry rides, etc. Plan ahead so that you always know what the next task is. That way, when you find yourself with a moment of spare time, you can make the most of it. [[http://www.themomwrites.com/2013/07/how-i-wrote-a-print-book-in-my-free-time.html][more]] 
+    - don't give yourself excuses [[http://whatever.scalzi.com/2010/09/16/writing-find-the-time-or-dont/][more]]
+    - break it down into tasks [[http://procrastinatingwritersblog.com/2009/07/break-your-writing-into-manageable-pieces/][more]]
+    - Outline all the way down to chunks of 100 words [[http://theblossomingfledglingresearcher.wordpress.com/2013/07/29/ive-almost-overcome-my-i-need-huge-chunks-of-time-to-write-problem-with-this-excerptadvice-of-rowena-murrays/][more]] 
+    - Brainstorm things you can do in 15 minutes [[http://www.inc.com/jason-womack/productivity-time-management-tips.html][more]]
+    - Use those little chunks of time to get ahead [[http://www.lifehack.org/articles/productivity/micro-productivity-accomplishing-major-goals-with-minor-effort.html][more]]
+  - Regularly set aside half an hour or an hour per day.
+    - Do your writing first, before you do e-mail. [[http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy/][more]]
+    - Try doing this really early in the morning. (4 AM?) [[http://yareview.net/2013/06/goodbye-a-balancing-act/][more]]
+    - Schedule time blocks and make steady progress. [[http://www.december.com/simple/live/caretime.html][more]]
+    - Set a timer and stay in the chair
+      - Consider the Pomodoro technique http://www.thedailymuse.com/career/the-secrets-to-staying-productive-when-you-have-a-big-project/
+    - Don't break the chain [[http://lifehacker.com/281626/jerry-seinfelds-productivity-secret][more]]
+  - Don't beat yourself up about it - [[http://calnewport.com/blog/2013/01/13/write-every-day-is-bad-advice-hacking-the-psychology-of-big-projects/][more]]
+  - Write on the go
+    - Smartphone
+      - Capture notes [[http://writetodone.com/2010/02/08/a-writers-greatest-tool-the-smartphone/][more]]
+      - Read and learn [[http://writetodone.com/2010/02/08/a-writers-greatest-tool-the-smartphone/][more]]
+      - Get feedback from social networks [[http://writetodone.com/2010/02/08/a-writers-greatest-tool-the-smartphone/][more]]
+    - Audio recordings can help you get a lot down  [[http://www.fromthewriteangle.com/2013/03/tips-tricks-for-writing-on-go.html][more]]
+    - Notebook or index cards [[http://www.fromthewriteangle.com/2013/03/tips-tricks-for-writing-on-go.html][more]]
+  - Take care of yourself
+    - Eat well, exercise, and take care of yourself. [[http://www.themomwrites.com/2013/07/how-i-wrote-a-print-book-in-my-free-time.html][more]]
+- Plan what to write
+  - [[http://www.copyblogger.com/brainstorm-blog-topics/][list]], [[http://www.profkrg.com/blog-ideas-are-everywhere][another list]], [[http://www.nichepursuits.com/14-surefire-ways-to-find-great-blog-content-ideas/#][yet another list]]
+  - Brainstorm ideas to explore or questions to answer
+  - Outline topic [[http://www.chrisg.com/chunking-and-outlining-blog-topic-ideas/][more]]
+  - Choose a subtopic for a blog post [[http://www.problogger.net/archives/2008/08/14/how-to-choose-a-topic-for-your-next-blog-post/][more]], [[http://www.chrisg.com/chunking-and-outlining-blog-topic-ideas/][more]]
+  - Ask for and respond to requests
+  - Brainstorm follow-up topics for future posts [[http://www.thebookdesigner.com/2012/12/endless-stream-of-blog-post-ideas/][more]]
+  - Follow up on past entries
+  - Review your metrics [[http://www.myinkblog.com/brainstorming-tips-techniques-for-bloggers/][more]]
+  - Make creative associations [[http://victoriamontemayor.com/2013/07/02/jellyfish-blogging-how-to-brainstorm-blog-post-ideas/][more]] 
+  - Check out related blogs [[http://www.myinkblog.com/brainstorming-tips-techniques-for-bloggers/][more]]
+  - Collect questions and ideas from other sources 
+    - Internet: blogs, forums, Q&A sites [[http://www.fahrenheitmarketing.com/content-posts/five-resources-to-help-you-brainstorm-blog-topics/][more]]
+    - Life [[http://contently.com/strategist/2011/10/13/how-to-brainstorm-incredible-blog-posts-like-copyblogger/][more]]
+    - Publications [[http://www.searchenginejournal.com/how-to-generate-a-years-worth-of-blog-post-ideas/66614/][more]]
+  - Research keywords
+  - Test ideas on Twitter or other networks in order to get different
+    perspectives and check for resonance
+  - Set up editorial calendar so that people know when to come back 
+    for content [[http://www.chrisg.com/planning-blog-post-topics/][more]]
+- Research
+  - Identify good blog posts and articles to refer to
+  - Identify good books to read
+  - Identify full-text research papers
+  - Take notes
+    - Summarize a blog post or article
+    - Summarize a book
+    - Summarize a research paper
+    - Organize notes for easy reference
+  - Synthesize information from blog posts
+  - Synthesize information from research papers
+  - Synthesize information from books
+- Write
+  - Brainstorm titles [[http://blog.supermedia.com/how-to-write-truly-epic-blog-post-titles/][more]], [[http://ustandout.com/blogging/how-to-create-a-blog-post-title-that-gets-serious-traffic-101-ideas][more (fill in the blanks)]]
+  - Choose a format [[http://blog.hubspot.com/how-to-choose-blogging-post-format-ht][more]]
+  - Draft blog post based on outline
+  - Draft blog post starting with an idea or a question
+  - Write a technical post
+    - Explain how something works
+    - Share trouble-shooting experiences
+    - Teach people about a useful feature
+  - Write about news and other topical events
+  - Write a list post
+  - Write a debate post
+  - Write a summary post that links to several articles
+  - Write a link round-up
+  - Ask a question or run a poll [[http://www.problogger.net/archives/2009/12/02/7-questions-to-ask-on-your-blog-to-get-more-reader-engagement/][more]],
+  - Plan longer articles [[http://www.nngroup.com/articles/write-articles-not-blogs/][more]]
+  - Find and share interesting things
+    - Role model: Boingboing
+  - Share personal stories
+    - Role models: Brazen Careerist by Penelope Trunk, Mel Chua
+  - Set up experiments and share experiences
+    - Role models: A.J. Jacobs
+  - Share resources that other people might not have access to (ex:
+    summarize a book or presentation)
+  - Write a business post
+    - Help people identify a need for your services
+    - Help people make better use of your services
+    - Share complementary services or tips
+- Format your post
+  - http://www.problogdesign.com/blog-usability/30-ways-to-improve-readability/
+  - Break post into paragraphs and lists
+  - Emphasize key points
+  - Add relevant hyperlinks
+  - Package as PDF or other resources
+- Make posts more engaging
+  - Choose stock photo or illustration, and attribute it properly - [[http://sachachua.com/blog/2013/08/learning-how-to-work-with-stock-photos/][post]]
+    - Modify the image and make a title [[http://www.blogworld.com/2013/04/24/3-ways-to-create-better-images-for-your-blog-posts/][more]]
+  - Add relevant quotes or epigraphs [[http://www.theguardian.com/books/booksblog/2010/mar/30/epigraphs-toby-lichtig][more]] [[http://grammar.about.com/od/e/g/epigraphterm.htm][more]]
+    - Watch out for frequently mis-attributed quotes
+  - Draw an illustration
+  - Make a short presentation
+  - Make a short animation
+  - Record a podcast
+  - Record video
+- Proofread and revise
+  - Read post out loud
+  - Check if the post answers a question or addresses a need
+  - Check if the post makes sense
+  - Determine what can be removed from a post
+  - Determine what needs to be added to a post
+- Revisit old posts to see how they can be improved
+  - Update old posts
+    - http://www.blogherald.com/2007/08/21/cleaning-up-old-posts-the-gateway-to-your-blog/
+  - Link to old posts
+    - http://www.blogherald.com/2007/06/26/seo-tips-increase-page-rank-by-revitalizing-your-old-posts/
+- Organize 
+  - Organize and review drafts
+  - Organize previously-published resources
+- Reach out
+  - Identify blog posts with similar topics
+  - Write thoughtful, insightful, and not overly self-promotional comment
+  - Identify target blogs for guest posts
+  - Pitch target blog for guest posts
+  - Identify related blogs in niche
+  - Share your posts on social media
+  - Invite and work with guest bloggers
+- Work with your blogging platform
+  - Set up or improve your blog
+  - Experiment with plugins and add-ons
+  - Experiment with blog editors
+  - Analyze metrics
+  - Back up and restore
+- Study
+  - Identify the differences between writing styles
+  - Imitate other people's writing styles
+  - Get feedback and use it appropriately
+
+
+** How to blog, five minutes at a time: Making the most of little chunks of time  :writing:
+
+see the possibilities
+
+prepare
+
+- Brainstorm ideas and questions: Keep a text file and add to it whenever something inspires you.
+- Brainstorm titles: Come up with three or more possible titles. Note: this is a separate step from brainstorming ideas, so you don't have to come up with an idea and an awesome title right from the start
+- Make a rough outline: Outline topics (one line per post idea) or outline posts (one line per paragraph) to speed up writing.
+- Research your topic and clip the pages: See what else is out there. Don't forget to bookmark or save the pages so that you can refer to it easily. Better yet, add links to your outline right away.
+- Write a few sentences: 
+- Proofread
+- Edit
+- Look for an image 
+
+** What's your favourite excuse to NOT take notes?
+
+
+
+** How to manage a free-ranging blog
+Role model: boingboing.net
+http://whatever.scalzi.com/
+** OUTLINED Learning how to outline                           :imagine:learn:
+   :LOGBOOK:
+   CLOCK: [2013-07-28 Sun 15:09]--[2013-07-28 Sun 15:10] =>  0:01
+   :END:
+   :PROPERTIES:
+   :Effort:   1:00
+   :END:
+Get "Thinking on Paper" first
+
+Objective: Be more effective at outlining my blog posts; Help other
+people improve their writing; Share a list of things I'd like to write
+about
+
+- Breaking skills down into their components (Tim Ferris)
+- Why outlining?
+  - Pseudocode and prototypes
+  - Some moments of discipline to keep fleshing things out
+  - More about the freedom to make slow and steady progress, knowing
+    that a plan keeps me roughly on track
+  - Freedom to cut and rearrange
+- What I'm doing
+  - Tracking outlining time separately; butt-in-chair time
+  - Sharing my outline
+  - Tracking versions
+- Tools
+  - Org Mode workflow
+    - Outline
+    - Lists
+    - Navigation
+      - C-c j (org-goto) to jump around
+    - Filtering
+      - C-c v (org-show-todo-tree) shows the ones that have been
+        marked with a status (good to see which ones I've outlined)
+      - Tags
+    - Refiling?
+    - Publishing and archiving
+  - Github
+- Imagining wild success
+  - Outline of things I want to share
+  - The feel for how things flow together
+  - People can easily review the outline - maybe with org-info?
+  - People can tell me what they're interested in - maybe with a way
+      for me to note who I should follow up with, but in a way that
+      doesn't require me to keep a private repository? Maybe tied in
+      with e-mail...
+    
+** DONE Writing while tired
+   CLOSED: [2013-08-11 Sun 18:06]
 
 - Sleeping a lot lately
 - Not quite as alert or energetic as I'd like to be
@@ -734,7 +1005,21 @@ http://sachachua.com/blog/2013/06/heres-the-recording-from-how-to-use-evernote-t
   - Don't have to be brilliant
   - Do more research
 
-** Thinking about stock photos
+** DONE Get better at choosing stock photos for your blog posts       :skill:
+   CLOSED: [2013-08-13 Tue 21:22]
+
+- Brainstorm nouns and adjectives
+
+- People?
+  - Pay attention to gaze
+- Cliché
+- Metaphor
+- Abstract
+- Role models
+
+
+** DONE Thinking about stock photos
+   CLOSED: [2013-08-11 Sun 18:06]
 - Featured image
   - Blog readers
   - Magazine theme
@@ -747,14 +1032,23 @@ http://sachachua.com/blog/2013/06/heres-the-recording-from-how-to-use-evernote-t
   - Stock photos without people feel a little cold.
 
 
-The advice these days is to include a large image in your blog post, somewhere “above the fold”, so that it can attract attention, visually break up the page, and make your blog post more interesting.
+The advice these days is to include a large image in your blog post,
+somewhere “above the fold”, so that it can attract attention, visually
+break up the page, and make your blog post more interesting.
 
-I’m still trying to get the hang of how this might work. Other blogs do this pretty well – Lifehacker, for example. More often, though, stock photos look fake. Too posed. Too perfect. I could never quite get the hang of 
+I’m still trying to get the hang of how this might work. Other blogs
+do this pretty well – Lifehacker, for example. More often, though,
+stock photos look fake. Too posed. Too perfect. I could never quite
+get the hang of
 
 
+Hypothesis:
+- I can get better at visually communicating if I learn how to use
+  stock photos effectively.
+- What does it mean to effectively use stock photos?
 
-
-** Thinking about how I can use Evernote more effectively
+** DONE Thinking about how I can use Evernote more effectively
+   CLOSED: [2013-08-11 Sun 18:06]
 
 It took me a couple of hours, but I finally cleared the 700+ items
 that had piled up in my Evernote inbox. Every so often, I go on a
@@ -854,52 +1148,6 @@ Does org2blog respect comments? If so, I can use that to add more details.
     visualizations
 - Reminds me of the Civilization skill tree
 - Pieces, but if I define prerequisites and recommended next steps
-** OUTLINED Learning how to outline                           :imagine:learn:
-   :LOGBOOK:
-   CLOCK: [2013-07-28 Sun 15:09]--[2013-07-28 Sun 15:10] =>  0:01
-   :END:
-   :PROPERTIES:
-   :Effort:   1:00
-   :END:
-Get "Thinking on Paper" first
-
-Objective: Be more effective at outlining my blog posts; Help other
-people improve their writing; Share a list of things I'd like to write
-about
-
-- Breaking skills down into their components (Tim Ferris)
-- Why outlining?
-  - Pseudocode and prototypes
-  - Some moments of discipline to keep fleshing things out
-  - More about the freedom to make slow and steady progress, knowing
-    that a plan keeps me roughly on track
-  - Freedom to cut and rearrange
-- What I'm doing
-  - Tracking outlining time separately; butt-in-chair time
-  - Sharing my outline
-  - Tracking versions
-- Tools
-  - Org Mode workflow
-    - Outline
-    - Lists
-    - Navigation
-      - C-c j (org-goto) to jump around
-    - Filtering
-      - C-c v (org-show-todo-tree) shows the ones that have been
-        marked with a status (good to see which ones I've outlined)
-      - Tags
-    - Refiling?
-    - Publishing and archiving
-  - Github
-- Imagining wild success
-  - Outline of things I want to share
-  - The feel for how things flow together
-  - People can easily review the outline - maybe with org-info?
-  - People can tell me what they're interested in - maybe with a way
-      for me to note who I should follow up with, but in a way that
-      doesn't require me to keep a private repository? Maybe tied in
-      with e-mail...
-    
 ** Building a resources page
 ** "It's not enough for a blog post"  :challenge:
 - Tidbits go in my weekly review
@@ -1831,9 +2079,34 @@ https://code.google.com/p/maui-indexer/wiki/Installation ?
   - 
      http://khanhlong89.wordpress.com/2013/01/21/not-having-enough-time-is-always-an-excuse-why-you-should-test-your-assumptions/
   - http://puttylike.com/slicing-cucumbers-and-testing-assumptions-about-life/
+** Learning
+*** How to keep up when taking notes
+- How to get faster at taking notes
+
+evernote:///view/70669/s1/64927092-876d-466d-a357-3efc128a5b63/64927092-876d-466d-a357-3efc128a5b63/
+*** Taking notes
+
+**** Why
+What's your favourite excuse to NOT take notes? Ex: "I don't need to
+take notes because I'll get the slides or recording."
+
+#+BEGIN_COMMENT
+Do I really need to write about this? It seems sanctimonious to tell
+people who aren't taking notes that they should take notes. I do want
+to help people who /want/ to take notes, but are afraid that they'll
+be rude or distracting or that they won't be able to keep up. 
+#+END_COMMENT
+
+- No more pencils, no more books, no more teachers' dirty looks!
+- "I don't want to be rude or distracting."
+- "I don't want to get distracted from what the speaker is saying."
+- "I don't need to take notes. I can just get the slides or
+  recording."
+- "I can't keep up and I don't want to miss anything."
+- "I tried taking notes, but I never used them."
 * Life
 ** Library, language learning
-evernote:///view/70669/s1/2a328411-becb-420b-aa26-7903c6f39dc8/2a328411-becb-420b-aa26-7903c6f39dc8/
+[[evernote:///view/70669/s1/2a328411-becb-420b-aa26-7903c6f39dc8/2a328411-becb-420b-aa26-7903c6f39dc8/]]
 ** DONE Homebody
    CLOSED: [2013-07-28 Sun 20:32]
 Saturday afternoon. It had started raining, so W- put away his tools and stopped working on the deck stairs. He asked if I wanted to go out and do something fun – maybe watch a movie, or have pho? 
