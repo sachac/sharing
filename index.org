@@ -21,60 +21,59 @@ You can find my blog at http://sachachua.com .
 Click on the headings to expand them.
 
 * Visual thinking and sketchnoting
-** Accelerate Your Learning with Sketchnotes  :book-idea:PROJECT:
+** TODO [#C] Accelerate Your Learning with Sketchnotes  :book-idea:PROJECT:
 # <<accel-sketch>>
 Audience: Entrepreneurial visual thinkers who would like to learn more effectively
 
 Outcome: People have taken their first few sketchnotes and are ready to use it for learning
+*** Why sketchnote?
+    - Benefits
+        - Understanding
+            - http://onlinelibrary.wiley.com/doi/10.1002/acp.1561/abstract, http://pignottia.faculty.mjc.edu/math134/homework/doodlingCaseStudy.pdf
+        - Reviewing
+            - Easier
+            - More fun
+        - Connecting
+*** Common challenges
+    - “I don’t have time.”
+    - “I can’t draw.”
+    - “My handwriting sucks.”
+*** Tools
+    - Paper
+        - Scan
+        - Camera tips
+    - Digital sketchnoting
+*** Sketchnote basics
+    - Annotating printed text
+    - Starting with hand-written notes
+    - Adding emphasis
+    - Starting with stick figures
+    - Drawing symbols
+    - Drawing abstract concepts
+    - Organizing the page
+*** How to sketchnote a presentation
+    - http://sachachua.com/blog/2013/05/sketchnoting-finding-a-balance-of-details-and-diagrams-and-calibrating-your-writing-to-time/
+*** How to sketchnote a book
+    - http://sachachua.com/blog/2013/04/how-i-read-books-and-do-visual-book-reviews/
+*** How to sketch your plans
+    - http://sachachua.com/blog/2013/07/visual-metaphors-and-layouts-for-planning-your-life/
+*** Sketchnotes and business
+*** Organizing and reviewing your sketchnotes
+    - http://sachachua.com/blog/evernote
+*** Connecting through sketchnotes
+*** Drawing practice
+    - Stick figures
+    - Emotions
+    - Body language
+    - Symbols
 
-- Why sketchnote?
-  - Benefits
-    - Understanding
-      - http://onlinelibrary.wiley.com/doi/10.1002/acp.1561/abstract, http://pignottia.faculty.mjc.edu/math134/homework/doodlingCaseStudy.pdf
-    - Reviewing
-      - Easier
-      - More fun
-     - Connecting
-- Common challenges
-  - “I don’t have time.”
-  - “I can’t draw.”
-  - “My handwriting sucks.”
-- Tools
-  - Paper
-    - Scan
-    - Camera tips
-  - Digital sketchnoting
-- Sketchnote basics
-  - Annotating printed text
-  - Starting with hand-written notes
-  - Adding emphasis
-  - Starting with stick figures
-  - Drawing symbols
-  - Drawing abstract concepts
-  - Organizing the page
-- How to sketchnote a presentation
-  - http://sachachua.com/blog/2013/05/sketchnoting-finding-a-balance-of-details-and-diagrams-and-calibrating-your-writing-to-time/
-- How to sketchnote a book
-  - http://sachachua.com/blog/2013/04/how-i-read-books-and-do-visual-book-reviews/
-- How to sketch your plans
-  - http://sachachua.com/blog/2013/07/visual-metaphors-and-layouts-for-planning-your-life/
-- Sketchnotes and business
-- Organizing and reviewing your sketchnotes
-  - http://sachachua.com/blog/evernote
-- Connecting through sketchnotes
-- Drawing practice
-  - Stick figures
-  - Emotions
-  - Body language
-  - Symbols
-
-   :LOGBOOK:
-   CLOCK: [2013-08-05 Mon 23:06]--[2013-08-05 Mon 23:06] =>  0:00
-   :END:
+     :LOGBOOK:
+     CLOCK: [2013-08-05 Mon 23:06]--[2013-08-05 Mon 23:06] =>  0:00
+     :END:
 
 (collaboration with Timothy Kenny, [[timothykenny.com]] ?)
 
-** Learning with Sketchnotes  :book-idea:PROJECT:
+** [#C] Learning with Sketchnotes  :book-idea:PROJECT:
 Audience: Teachers, homeschoolers/unschoolers/parents who want to
 teach more engagingly and help their students develop notetaking
 skills
@@ -509,102 +508,74 @@ Let me let you in on a little secret: I don’t. Not all at the same time. Mostl
 Depending on how quickly the speaker talks and how much interesting content they pack into their sentences, I might be scrambling to quickly jot down some keywords. When they pause for breath or transition to a new topic, I’ll go back and add stick figures and diagrams. As I figure out which points are important, I move parts of my drawing around or erase and refine what I’ve written.
 To help you see the process, here’s a recording of my screen as I sketchnote an hour-long presentation. I don’t draw that fast in real life - I’ve condensed the video to three minutes for your convenience. Enjoy!
 
-* Self-tracking
-** Data visualization
-*** Visualizing hierarchical data
-- What questions do you want to ask?
-  - How do the categories compare with each other?
-  - Within the categories, how do things break down?
-  - And then within that, I'm curious - how does it shift and change
-    over time?
-- Sunburst chaqrts
-  - Angles are hard to interpret
-- Icicles
-- Treemap
-- Small multiples
-  - Pie charts
-  - Bar charts
-- Bubble tree
-- Exploring my data
-  - Time
-  - Groceries
-- Partitions
-- D3
-
-http://www.timshowers.com/2008/12/visualization-strategies-hierarchical-data/
-
-** Naming your time
-- Watching a few people get started with time tracking and analysis
-  - Eric Boyd
-  - http://david.achkar.com/life-log-early-results/
-- Immediate benefits of time-tracking
-  - Hawthorne effect
-  - Focus
-  - Impulse
-** Quantified Time: Consulting Days vs. Open Days
-Does work really get in the way of living?
-** How does tracking affect your happiness?
-** Time-tracking workshop  :book-idea:PROJECT:
-*** Session 1: The Whys and Hows of Tracking Time
-Discuss objectives and motivations for tracking time. Plan possible questions you want to ask of the data (which influences which tools to try and how to collect data). Recommend a set of tools based on people’s interests and context (paper? iPhone? Android? Google Calendar?).
-Resources: Presentations on time-tracking, recommendations for tools, more detail on structuring data (categories, fields); possible e-mail campaign for reminders
-Output: Planning worksheet for participants to help people remember their motivations and structure their data collection; habit triggers for focused, small-scale data collection, buddying up for people who prefer social accountability
-*** Session 2: Staying on the Wagon + Preliminary Analysis
-Checking in to see if people are tracking time the way they want to. Online and/or one-on-one check-ins before the workshop date, plus a group session on identifying and dealing with obstacles (because it helps to know that other people struggle and overcome these things). Preliminary analysis of small-scale data.
-Resources: Frequently-encountered challenges and how to deal with them; resources on habit design; tool alternatives
-Output: Things to try in order to support habit change; larger-scale data collection for people who are doing well
-*** Session 3: Analyzing your data
-Massaging your data to fit a common format; simple analyses and interpretation
-Resources: Common analysis format and some sample charts/instructions; maybe even a web service?
-Output: Yay, charts!
-*** Session 4: More ways you can slice and dice your data
-Bring other questions you’d like to ask, and we’ll show you how to extract that out of your data (if possible – and if not, what else you’ll probably need to collect going forward). Also, understanding and using basic statistics
-Resources: Basic statistics, uncommon charts
-Output: More analyses!
-*** Session 5: Making data part of the way you live
-Building a personal dashboard, integrating your time data into your decisions
-Outcome: Be able to make day-to-day decisions using your time data; become comfortable doing ad-hoc queries to find out more
-*** Session 6: Designing your own experiments
-Designing experiments and measuring interventions (A/B/A, how to do a blind study on yourself)
-Outcome: A plan for changing one thing and measuring the impact on time
-*** Session 7: Recap, Show & Tell
-Participants probably have half a year of data and a personal experiment or two – hooray! Share thoughts and stories, inspire each other, and figure out what the next steps look like.
-Outcome: Collection of presentations
-** Looking for patterns
-** Learning how to analyze data
-** Learning R
-** Looking at my application use
-** Grocery update
-** Building a price book
-** Reviewing my clothing data
-** Virtual Quantified Self Show-and-Tell
-** Excel: SUMIFS  :excel:
-I've used Microsoft Excel's =SUMIF= function to conditionally add up
-values before. For example, =SUMIF= is handy when you have a table of
-use cases and you want to sum the points for all the use cases with
-priority 1. =SUMIFS= (Microsoft Excel 2007 and later) is even more
-powerful - it allows you to specify multiple criteria.
-
-** Excel: INDEX and MATCH  :excel:
-** Excel: Table magic                                                 :excel:
-** Excel: Pivot tables  :excel:
-** Excel: Working with dates and times                                :excel:
 * Emacs
+** How to change the background color in Emacs :search:
+- customize-face
+- theme, packages
+** OUTLINED Emacs newbie: Tips for learning keyboard shortcuts
+
+The tutorial (C-h t) is useful and well worth going through several times. Getting used to marking a region with C-SPC versus using shift- takes some doing, but it’s really quite powerful once you get the hang of it – mainly because you can then use all sorts of navigational commands without getting RSI.
+
+Incidentally, you may want to look into mapping your Caps Lock to Control. Many people like the way it makes keyboard shortcuts easier to type.
+
+I find it hard to remember keyboard shortucts too, so I use M-x a lot. M-x lets you call a command by its name. You can use C-h k to find out more about which function is called by a given keyboard shortcut, and then you can use M-x to call it by name if you don’t remember where it is. For example, if you don’t remember where split-window-vertically is bound, you can use M-x split-window-vertically.
+
+Incidentally, M-x where-is will tell you the keyboard shortcuts if you know a function name, and C-h f (describe-function) will give you more information if you give it a function name.
+
+Writing-wise, Org Mode (http://www.orgmode.org) is totally awesome. I use it to write some of my more structured blog posts and web pages, and I also use it to keep this gigantic outline of things I’m planning to write about: http://sach.ac/outline . People have used it to write technical books and other lengthy documents. It’s also a fantastic planner for running your daily life. =)
+
+If you have any questions, please don’t hesitate to reach out. I want
+to help make Emacs easier to learn!
+
+Oh, another tip: use M-x icomplete-mode to turn on incremental completion, which will then show you hints when you start typing M-x [command-name]. You can use TAB to complete as far as you can, and then type in a few more characters to disambiguate. To turn this on by default whenever you start Emacs, add the following to your ~/.emacs.d/init.el (you might need to create this file):
+
+(icomplete-mode 1)
+
+- Conventions
+    - =C-...=
+    - =M-...=
+    - =SPC=
+- Tutorial
+    - =C-h t (help-with-tutorial)=
+    - Learn basic commands
+- Call commands by name
+    - M-x
+    - What if you don't remember what the command is called?
+        - TAB
+        - read the tutorial again
+        - apropos-command
+        - check out the manual
+- Get help
+    - =C-h f (describe-function)=
+    - =C-h k (describe-key)=
+    - =C-h m (describe-mode)=
+    - =... C-h= at the end of a long keyboard shortcut
+- Find out what the command's name is
+  - apropos-command
+    - more than one word: matches anything with at least two of the keywords
+- Ergonomic tips
+    - Caps as Control
+    - ESC for Meta
+    - holding down keys
+    - changing keyboard shortcuts
+        - =C-c <lowercase letter>=
+        - function keys
+ 
 ** OUTLINED How to learn Org Mode
 # <<learn-org>>
 
-Here's one way to learn Org
+Here's one tip for learning
 
 1. Get the hang of using Org as an outliner. See http://orgmode.org/org.html#Document-Structure
-2. Learn how to use Org to track TODO states. See http://orgmode.org/org.html#TODO-Items 
-3. Use C-c [ to add Org files to your agenda list, and learn how to schedule tasks. See http://orgmode.org/org.html#Dates-and-Times and http://orgmode.org/org.html#Agenda-Views
-4. Set up org-capture so that you can save notes to your Org file. http://orgmode.org/org.html#Capture-_002d-Refile-_002d-Archive
-5. Learn how to search and browse around
+2. Learn how to search and browse around.
+3. Learn how to use Org to track TODO states. See http://orgmode.org/org.html#TODO-Items 
+4. Use C-c [ to add Org files to your agenda list, and learn how to schedule tasks. See http://orgmode.org/org.html#Dates-and-Times and http://orgmode.org/org.html#Agenda-Views
+5. Set up org-capture so that you can save notes to your Org file. http://orgmode.org/org.html#Capture-_002d-Refile-_002d-Archive
 6. Learn how to archive, now that your Org file is getting pretty big. http://orgmode.org/org.html#Capture-_002d-Refile-_002d-Archive
 7. Learn how to use tags and search. http://orgmode.org/org.html#Tags
-8. Customize your Org agenda even further
+8. Customize your Org agenda even further (org-agenda-custom-commands).
 
-** OUTLINED Thinking with Emacs  :book-idea:PROJECT:
+** [#B] Thinking with Emacs  :book-idea:PROJECT:
 *** The basics
 *** Writing
 *** Sharing
@@ -612,6 +583,7 @@ Here's one way to learn Org
 *** Planning your life
 *** Working with numbers
 *** Saving time with shortcuts
+
 ** DONE How I organize my Org files                         :requested:emacs:
    CLOSED: [2013-08-01 Thu 21:08]
 Requested by Michael Jones,
@@ -765,8 +737,22 @@ http://sachachua.com/blog/2013/06/heres-the-recording-from-how-to-use-evernote-t
 ** Reorganizing Org-Mode files
 ** Learning keyboard shortcuts
 ** Why learn Emacs
+** DONE When I blog with Emacs and when I blog with Windows Live Writer :org:blogging:
+   :PROPERTIES:
+   :ID:       o2b:0729f136-bd6e-4a1d-9341-ced8fe3c7039
+   :POST_DATE: [2013-08-28 Wed 18:55]
+   :POSTID:   25995
+   :BLOG:     sacha
+   :END:
+
+I would love to be able to write all of my blog posts within Emacs. I like the outline tools and simple markup of [[http://orgmode.org][Org Mode]]. Org Mode and org2blog are invaluable when I'm writing a post with lots of code or keyboard commands, because it's easy to set up syntax highlighting or add teletype text. [[http://www.pablumfication.co.uk/2012/01/15/blog-posting-with-emacs-using-org2blog/][Here's an interesting self-referential example of org2blog's power]] - using =#INCLUDE= to include the Org blog post source in the post itself.
+
+If I expect that a post will have lots of images, I tend to use Windows Live Writer because it takes care of resizing and aligning images, linking to the original size. Because it uses my blog's stylesheet, I can get a sense of how the text will flow around it. I can quickly draw an idea in Autodesk Sketchbook Pro, copy and paste it into Windows Live Writer, and then resize it until it feels balanced on the page. Sometimes I draft a post in Emacs and then open it in Windows Live Writer or ScribeFire so that I can add images. 
+
+Org Mode also supports images, but it's not as easy to resize things there. If I wrote a function that used ImageMagick to save the clipboard image to a file, resize it to the appropriate dimensions, and link it to the full-size image, maybe that would do the trick. Still, that sounds like it would be a fair bit of work. Maybe someday. Hmm - any chance someone reading this blog happens to already have that snippet handy? =)
+
 * Writing / blogging / sharing knowledge
-** Blogging-related skills                                            :skill:
+** OUTLINED Blogging-related skills                                   :skill:
 # <<blogging-skills>>
 [[http://sach.ac/outline#blogging-skills]]
 
@@ -778,6 +764,8 @@ my experiences). I'm using this outline to think of ways to
 deliberately practise certain aspects of blogging, to plan posts that
 will help people learn, and to clarify what I would like to delegate
 to assistants or work with coaches for.
+
+See also [[blogging-help][http://sach.ac/outline#blogging-help]]
 
 - Manage your time and energy 
   - https://www.google.ca/search?q=how+to+find+time++to+write - well-covered
@@ -793,6 +781,7 @@ to assistants or work with coaches for.
     - Outline all the way down to chunks of 100 words [[http://theblossomingfledglingresearcher.wordpress.com/2013/07/29/ive-almost-overcome-my-i-need-huge-chunks-of-time-to-write-problem-with-this-excerptadvice-of-rowena-murrays/][more]] 
     - Brainstorm things you can do in 15 minutes [[http://www.inc.com/jason-womack/productivity-time-management-tips.html][more]]
     - Use those little chunks of time to get ahead [[http://www.lifehack.org/articles/productivity/micro-productivity-accomplishing-major-goals-with-minor-effort.html][more]]
+    - Write and publish a little at a time [[http://aspirecode.com/why-im-publishing-my-ebook-100-words-at-a-time/][more]]
   - Regularly set aside half an hour or an hour per day.
     - Do your writing first, before you do e-mail. [[http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy/][more]]
     - Try doing this really early in the morning. (4 AM?) [[http://yareview.net/2013/06/goodbye-a-balancing-act/][more]]
@@ -813,7 +802,7 @@ to assistants or work with coaches for.
 - Plan what to write
   - [[http://www.copyblogger.com/brainstorm-blog-topics/][list]], [[http://www.profkrg.com/blog-ideas-are-everywhere][another list]], [[http://www.nichepursuits.com/14-surefire-ways-to-find-great-blog-content-ideas/#][yet another list]]
   - Brainstorm ideas to explore or questions to answer
-  - Outline topic [[http://www.chrisg.com/chunking-and-outlining-blog-topic-ideas/][more]]
+  - Outline topic [[http://www.chrisg.com/chunking-and-outlining-blog-topic-ideas/][more]], [[http://www.advancedfictionwriting.com/articles/snowflake-method/][more (with fractals!)]]
   - Choose a subtopic for a blog post [[http://www.problogger.net/archives/2008/08/14/how-to-choose-a-topic-for-your-next-blog-post/][more]], [[http://www.chrisg.com/chunking-and-outlining-blog-topic-ideas/][more]]
   - Ask for and respond to requests
   - Brainstorm follow-up topics for future posts [[http://www.thebookdesigner.com/2012/12/endless-stream-of-blog-post-ideas/][more]]
@@ -825,7 +814,7 @@ to assistants or work with coaches for.
     - Internet: blogs, forums, Q&A sites [[http://www.fahrenheitmarketing.com/content-posts/five-resources-to-help-you-brainstorm-blog-topics/][more]]
     - Life [[http://contently.com/strategist/2011/10/13/how-to-brainstorm-incredible-blog-posts-like-copyblogger/][more]]
     - Publications [[http://www.searchenginejournal.com/how-to-generate-a-years-worth-of-blog-post-ideas/66614/][more]]
-  - Research keywords
+  - Research keywords [[research-keywords][outline]], [[http://dumbpassiveincome.com/how-to-use-keyword-research-for-blog-post-optimization/][more]] [[http://blog.kissmetrics.com/keyword-research-smart-way/][more]]
   - Test ideas on Twitter or other networks in order to get different
     perspectives and check for resonance
   - Set up editorial calendar so that people know when to come back 
@@ -839,9 +828,14 @@ to assistants or work with coaches for.
     - Summarize a book
     - Summarize a research paper
     - Organize notes for easy reference
-  - Synthesize information from blog posts
-  - Synthesize information from research papers
-  - Synthesize information from books
+  - Synthesize information
+    - http://quoteinvestigator.com/2010/09/20/plagiarism/
+    - Make an outline or list [[http://blog.journalistics.com/2010/use-outlines-to-write-better-faster/][more]]
+    - Compare viewpoints and line up arguments for alternatives
+    - Wrap up with a conclusion or summary
+    - Avoid plagiarism
+      - Cite sources
+      - Indicate quotations
 - Write
   - Brainstorm titles [[http://blog.supermedia.com/how-to-write-truly-epic-blog-post-titles/][more]], [[http://ustandout.com/blogging/how-to-create-a-blog-post-title-that-gets-serious-traffic-101-ideas][more (fill in the blanks)]]
   - Choose a format [[http://blog.hubspot.com/how-to-choose-blogging-post-format-ht][more]]
@@ -887,6 +881,8 @@ to assistants or work with coaches for.
   - Record a podcast
   - Record video
 - Proofread and revise
+  - Strengthen first paragraph (you-focus, question or contradiction, promise)
+  - Strengthen last paragraph (conclusion, call to action, question)
   - Read post out loud
   - Check if the post answers a question or addresses a need
   - Check if the post makes sense
@@ -918,9 +914,8 @@ to assistants or work with coaches for.
   - Identify the differences between writing styles
   - Imitate other people's writing styles
   - Get feedback and use it appropriately
-
-
-** How to blog, five minutes at a time: Making the most of little chunks of time  :writing:
+  - Create and work with checklists/templates [[http://michaelhyatt.com/how-to-use-evernote-as-a-blogger.html][more]]
+** OUTLINED How to blog, five minutes at a time: Making the most of little chunks of time :writing:
 
 see the possibilities
 
@@ -935,13 +930,455 @@ prepare
 - Edit
 - Look for an image 
 
-** What's your favourite excuse to NOT take notes?
+** Stuff that works for me
 
+- Writing works better than interviews or speaking
+    - Outlines, links
+    - Even though I say a lot more words in an interview
+    - Things I like about interviews
+        - Other people's questions
+        - Back and forth
+        - 
+
+
+** Managing a daily blog
+   :LOGBOOK:
+   CLOCK: [2013-08-29 Thu 19:16]--[2013-08-29 Thu 19:57] =>  0:41
+   CLOCK: [2013-08-29 Thu 18:59]--[2013-08-29 Thu 19:16] =>  0:17
+   CLOCK: [2013-08-29 Thu 12:45]--[2013-08-29 Thu 12:57] =>  0:12
+   :END:
+   :PROPERTIES:
+   :Effort:   4:00
+   :END:
+- There's so much to learn and so much to write about.
+    - Read books, blog posts, and manuals
+    - Try something new
+    - Learn at least one thing a day.
+- One complete thought per post
+    - 
+  
+- Not everyone is interested in everything.
+- Arrangement
+    - I write posts in advance
+    - I move posts around so that a variety of interests are covered each week
+        - Emacs, visual thinking, blogging, life, productivity, learning
+        - Things I want to write more about
+            - Books: I read faster than most people do, and I have an awesome library nearby. Summaries?
+            - Learning
+    - When I've got several posts lined up in a weekly series, I link them together and add a note to help people anticipate the next one.
+- Categories
+    - Category feeds
+- Syndication, Planet Emacsen
+- Making this better
+    - Series?
+    - Visualizations?
+    - Highlight
+        - What is a good essay?
+            - Montaigne's Essays
+            - Start with a question or something I want to learn
+            - Both geeky and personal
+            - Point to other people's perspectives
+                - Books
+                - Blog posts
+        - How about a series every month or every two months, wrapped up in a PDF?
+            - Weekly post
+   
+http://blog.penelopetrunk.com/2009/04/21/8-reasons-why-you-wont-make-money-from-your-blog/
+
+Once you're /there/, how can you make it better?
+
+- Why
+- How I work
+  - Gigantic outline helps me remember what I wanted to write about so that I don't forget while I'm in the middle of research.
+  - I use a feed reader to quickly skim updates from hundreds of blogs.
+
+
+- Ideas
+  - Outline
+- Editorial calendar
+  - Shuffle posts around to cover a variety of interests
+- Challenges
+  - People are interested in different things
+- When you blog every day
+  -  
+
+** What would it take to become comfortable with giving people advice?
+
+** OUTLINED What could I do if I spent four or more hours on a single blog post?
+   :LOGBOOK:
+   CLOCK: [2013-08-29 Thu 23:21]--[2013-08-29 Thu 23:54] =>  0:33
+   CLOCK: [2013-08-29 Thu 19:57]--[2013-08-29 Thu 22:43] =>  2:46
+   :END:
+   :PROPERTIES:
+   :Effort:   4:00
+   :END:
+    - What happens if I spend four or more hours on a blog post? :TODO:
+    - New superpower - I can take more time to do things than I used to.
+        - Cooking. Reading.
+        - And it pays off.
+    - Also why: too much
+    - Spending /more/ time on each blog post
+        - Why? It's not just a blog post, it's the learning
+        - No time pressures anyway
+            - I've written far enough ahead that I'm not worried about running out of posts any time soon
+            - I'm surrounded by ideas
+        - I don't want to write a massive, useful, linkbait post that disappears from my brain after I write it. Like cramming for a school exam and then moving on.
+    - What can I improve?
+        - Filter through lots more material
+        - Link to more resources; compare
+        - Touch a post more often
+            - Spread it out over several days
+                - http://www.copyblogger.com/weekly-content-plan/
+            - Let your subconscious work on it
+            - Look at it with fresh(er) eyes
+        - Write longer posts?
+            - 900~2,000 words works well; doesn't feel too long
+            - Write longer, then cut/restructure/spread out over time?
+            - Go to 3,000 words? http://blog.osmosio.com/writing-a-blog-post/  
+        - Wordsmith
+        - Add more data
+        - Add more images
+        - Plan and conduct a mini-experiment, or apply the ideas to real life (deeper!)
+        - http://twohourblogger.com/the-first-rule-of-two-hour-blogger/
+        - http://www.problogger.net/archives/2013/06/25/what-would-happen-if-we-put-as-much-effort-into-writing-blog-posts-as-public-speaking/
+            - Comments - balance with attention span
+        - Trim text or split ideas off into other posts
+    - What would success look and feel like?
+        - I'm going to be selfish about this because I can. =)
+            - Is it okay to say that I blog more for myself? Because I do. Although your comments, shares, and links are nice. I feel like I should say that I write for readers. Attention is a gift. Many people would say that attention is valuable, and then turn around and try to sell you something.
+            - Someday, perhaps, when I have something I want to tell people, and I acquire a Voice of Advice, then I'll write more for other people.
+                - When would I feel good about that?
+                - Is there something I feel good about?
+                    - I feel comfortable giving people advice on learning, reading, making better decisions, trying things out, and sharing.
+                    - I feel comfortable helping people learn more about Emacs, Wordpress, and a little Excel.
+                    - I feel comfortable that drawing is another way to create value.
+            - In the meantime
+                - If I want to invest more time in writing...
+                    - I would write about things that few people write about
+                        - Emacs? Visual thinking? What it's like to make blogging such a part of your learning?
+                    - Drawing, right... Although Sketchnote Army does pretty well.
+                    - Something else.
+                - False dilemma. (Trilemma?) I know. The choice isn't really between these options, and I don't have to make one choice. I can write about all these things in the course of a week. But I wanted to figure out, if I wasn't keen on the first two options, what /am/ I leaning towards, so I can intentionally work on it?
+            - A post that makes me a better person
+                - Change
+                - The posts I write make me at least a teensy bit better
+                - In terms of outcome
+                    - Blog posts that represent larger chunks of growing (going from 0.01% to 0.1%)?
+                      Improving by 0.01% every day means getting 4% better in a year, if you're fine with simplified math. Improving by 0.1% every day means getting 44% better in a year.
+                    - One way to do this is to write less, to sit on posts longer until they develop, to start with a hundred ideas and tweak them for days or weeks (or longer!) until they're deep and insightful and useful.
+                        - Write less? No, I like writing almost every day, and I forget if I don't write things down. --verbose Stuff gets lost in my private notes. Here we might have conversations.
+                            - Arguing against myself: reasons for posting earlier rather than later
+                                - Learn from the conversation
+                                - Get feedback
+                                    - Is it something unusual worth digging into?
+                                - Flesh things out on demand (in response to people's questions, etc.)
+                                - Get good value from time (diminishing returns?) - 80%
+                                - Throw more pots
+                                    - Deliberate practice, engagement
+                    - Another way to get a feel for what these deeper posts would be like would be to summarize experiences and update them with lessons learned
+                        - For example, things I've learned in the past ten years, like cooking.
+                        - This will give me a feel for what deeper posts might feel like.
+                        - Then I can play with timeframes
+                    - It would be worth getting the hang of this for new ideas, though.
+                    - So I need to get better at getting better.
+                    - Well, maybe an order of magnitude is ambitious. (0.01% to 0.1% is 10 times!) What would "a little better" look like?
+                    - Grow more
+                        - Ask better questions
+                            - Know what "better" looks like and what direction it's in
+                            - Ask the questions behind the questions
+                            - Ask /different/ questions
+                            - See and question assumptions
+                        - Research
+                            - Books, blog posts, other resources
+                            - Reaching out to people (!)
+                        - Observe
+                            - Notice
+                            - Describe
+                            - Be less worried
+                        - Try things out
+                    - All that considered, I still want to write in small increments
+                        - Behind the scenes
+                            - It's like the way I take sketchnotes. I try to capture as much as I can instead of summarizing it, because you can summarize based on your notes but it's hard to go the other way around.
+                        - I love being able to link to posts from years ago when I was still figuring something out
+                        - There are plenty of people who'll share advice -- the results of their experiences -- without sharing (or remembering!) much of the journey along the way.
+                    - So what's next for me then?
+                        - Getting better at getting better
+                        - Letting outlines steep
+                            - I think I like leaving outlines hanging - it gives me something to focus on while doing the dishes or other chores
+
+
+
+
+
+
+            - Something I want to remember
+            - ... but not too much pressure here, mind you, or I'll probably be unable to write /anything/. So it doesn't have to Measurably Improve the Human Condition.
+    - Now that I've confessed my primary motivation for writing a blog, I should also say that I get warm and fuzzies when people find my notes useful.
+    - Adjusting the slider; nudge it up a little, play with it
+    - Now
+        - Half an hour to an hour, effective rate 30wpm
+        - Some posts come out of technical learning or troubleshooting, so the time doesn't count the time I spent solving the problem.
+        - Other posts, I start from scratch, do some research, think about stuff, dig deeper. 
+        - Outline helps a lot with that.
+            - It was hard to do this before outlining because I couldn't see and manage my drafts as well.
+        - Easy for me to track, especially if I'm writing it in Emacs.
+            - I can track how much time I spend outlining a specific post and which days I worked on it.
+            - I can set a target effort (ex: at least two hours4 hours) and compare the total time against that.
+
+    - Four hours is around the time I usually take to plan a presentation
+        - Who
+        - What do I want people to remember or act on
+        - What do I need to share to help them get from A to B
+        - Illustrations
+    
+    - Oh, maybe that will be my reason to split off sub-blogs
+        - If I wrote like other people
+            - I would include less "I" and more "You", giving people advice
+            - I would emphasize the categories more
+            - More lists and stats?
+            - 1% better.
+** Random
+http://pushingsocial.com/blog-purpose/7-simple-ways-to-get-your-readers-to-spend-more-time-on-your-blog/
+** DONE What's your favourite excuse to NOT take notes?
+
+** Sneak peeks
+- One post a day, unless I'm sketchnoting an event or I'm super-excited
+- Share A Draft and Editorial Calendar
+- makes it possible to spread posts out while giving people links to the resource
+- Windows Live Writer doesn't pick up the date, so I need to make sure I set the date again
+
+** Blogging advice that I'm not planning to follow
+- keyword optimization
+- e-mail list
+- linkbait
+- RSS feed summaries
+- summaries on front page
+** OUTLINED [#C] Balancing "useful" and "personal" on my blog
+Lower-priority: I can wait until it seems more likely that my balance will change, or I can transform this into a post about blog role models and getting closer 
+
+- Good balance
+- What kind of balance do I want to have?
+- I'm thinking about this because this balance might change
+- As an introvert, I don't want to impose on other people
+  - I'm somewhat okay with blog reading being completely voluntary
+  - This is why I haven't gotten around to e-mail newsletters yet, even though reading is voluntary too.
+  - Maybe I don't have to? 
+- I want most of my posts to be *useful.*
+- I don't want to be generic. What's the point of writing something you could just find on Lifehacker? So I tell stories about what I'm learning.
+- What I want to avoid:
+  - Article mills
+  - Me-me-me-blah-blah-blah
+- But there are good examples
+  - Lifehacker tends to be impersonal
+  - The Simple Dollar is a little closer to the impersonal side of things, but is sprinkled with personal stories
+  - Penelope Trunk and Mel Chua write more personally than I do
+    - What makes their blogs feel more personal?
+      - Penelope Trunk writes about more stresses and difficulties. 
+    - Mel's writing communicates her excitement and passion
+  - Mr. Money Mustache is a great mix of useful + personal.
+    - I think, of all the blogs I read, I like his the most.
+** OUTLINED Blog models: Learning from Mr. Money Mustache
+- Why I like Mr. Money Mustache's blog
+  - Excellent balance of useful and personal
+  - topic is interesting as well, of course
+  - frugality - not just pinching pennies or juggling finances, but living well 
+- What are some of the things that Mr. Money Mustache does differently?
+  - Writing
+    - The alias is nifty and amusing. 
+    - He's more frank about finance (naturally).
+    - He's great at poking fun at himself. [[http://www.mrmoneymustache.com/2013/07/10/if-i-woke-up-broke/][more]] 
+    - He uses stronger language, including more intense adjectives and some swearing. He also uses a wider vocabulary and more wordplay. [[http://www.mrmoneymustache.com/2013/04/29/frequently-complained-questions/][more]] I should totally give myself permission to use less common words. =)
+    - He uses more stats, calculations, and case studies. [[http://www.mrmoneymustache.com/2013/06/13/bicycling-the-safest-form-of-transportation/][more]]
+    - He's more confident about giving advice. 
+  - Formatting
+    - He doesn't always emphasize the key points in his paragraphs, but they're readable anyway.
+    - His posts tend to be longer.
+    - He uses shorter paragraphs.
+    - His tables are formatted more prettily. Hey, sometimes it's the small stuff... =)
+  - Organization
+    - He's focused on financial blogging and the frugal lifestyle, while I blog about whatever I'm interested in.
+  - He gets a lot of input from readers
+    - People share their situations and give each other advice
+  - Layout
+    - His front page uses a summary layout with larger visuals.
+    - He has large graphical ads in the sidebar.
+    - He uses a serif font and a visually divided background
+    - His links are underlined in the post body, although not elsewhere.
+    - Links open in a new window. (Hmm, I've got mixed feelings about that...)
+    - He has a large post footer which has a blog, a new reader welcome, a random link, subscription/social media instructions, a community forum, and a subscription form, previous/next links with titles, and /then/ comments, trackbacks, and the comment form.
+    - He has a large page footer with a blog roll, popular posts, stats, selected categories, and tags.
+    - He has a "Start Here" and a menu item for various how-tos.
+    - He has a recommendations page with links to posts.
+** How to turn your e-mail newsletters into blog posts
+Why: because there are people who send e-mail, but don't blog
+
+- why don't they blog?
+  - self-conscious: only the "best content" out there
+** Blogging excuse-buster: I don't want to blog because I want to put my best foot forward
+
+This is something I hear a lot from people. "I don't want to blog
+because I might be embarrassed." 
+
+** Blogging excuse-buster: 
+** Update: What I want my blog to become
+
+- I took a month off from my two-days-a-week consulting gig so that I
+  could experiment with focusing on writing. 
+- I want to be all-the-way-retired. There's a chance I might be. I'm
+  not sure. 
+- Most writers don't even have this luxury: to write about whatever
+  they want to write, without worrying about whether the book will be
+  picked up by a publisher or whether the magazine will accept the
+  article.
+
+
+- The M word: Monetization
+    - I thought about what I would use more money to do
+      http://sachachua.com/blog/2013/05/on-blogging-and-platforms-and-experimenting-with-google-hangout/
+        - I wouldn't change my lifestyle all that much 
+        - More money would probably be split between
+            - more experiments
+            - and buying more time to spend with family and friends
+    - Probably won't need to put a lot of effort into marketing and
+      building an audience
+        - Reasons to go out there
+            - Can save other people time?
+            - Can learn from other people?
+            - 
+- So this is what's going to happen for as long as I can do it.
+    - I'm going to learn lots of things.
+        - Curious
+        - What people ask me about
+        - From time to time, I may even dust off my outlines for future
+          books
+        - but I'd rather publish things bit by bit
+        - Eventually I'll get good enough at writing from outlines (or
+          slotting things back into them) that I can put together larger
+          resources, like articles and books
+
+** Thoughts on growing an audience
+- Sometimes I wonder if I should do more of the "Right Things" when
+  it comes to building a blog.
+    - Focus on one or two topics so that people will subscribe because
+      you're consistent and reliable.
+    - Research keywords so that you can optimize for search engines
+      queries and write content that will bring people in.
+    - Reach out to new audiences with guest posts.
+    - Send e-mail newsletters so that you can build relationships and
+      so that you can sell to people later on.
+- Why
+    - Can save other people time
+    - Can learn from more people
+    - Scale up - create more value for each unit of time I invest
+- Sometimes I'm envious of blogs with hundreds of comments. On sites
+  like that, people learn a lot from each other, not just me. But I
+  remember that reading and responding to comments takes time, and I'd
+  want to filter through them for spam, and that other people glaze
+  over when they see pages and pages of comments and end up not
+  reading them. It's okay. I like the in-depth conversations we have
+  in comments. I'm not entirely sure if I'm sour-graping, but it seems
+  to make sense.
+- Sometimes I wonder if this should be more like other blogs. But then
+  that's a well-travelled path, with lots of other people exploring
+  it. I have this amazing opportunity to try something different. I
+  should.
+- Actually, I already know what I should do--what works for me, what
+  I should do more.
+    - The enduring posts on my blog are either tech notes (Emacs,
+      Drupal) or sketches.
+- The clearer my "no", the less I'm distracted from the things that I
+  can do.
+- Like the way I hack around my introversion
+    - Write about whatever I'm learning about - variety of interests, and
+      let more focused people use search results and category links
+    - Look at other people's questions and failed search results to
+      nudge me to write about certain topics if I'm curious about them
+      too
+    - Read good blogs and write about what inspires me, linking.
+      Invite people who don't have blogs to share their tips and
+      lessons learned on mine.
+    - Build relationships through comments. Give away as much as I
+      can of what I know. Let people show their appreciation if they
+      want to. Money is nice, but there are other ways too.
+- Risks in getting too big
+    - Internet has a seamy underside
+- Introvert
+- The time I would spend in pitching guest posts, etc.
+    - versus making things
+
+- Drawing
+    - Nearly 39,000 people visited in May, when I published
+    - Plenty of blogs
+    - Lots of infographics
+    - Not that many useful, non-marketing drawings
+- It's okay
+
+- Are there low-effort, high-benefit things I can do to make this better?
+
+    - Might get to the point where people are learning from each other
+        - You can do this elsewhere on the Internet
+        - So it would have to be a particularly interesting
+          combination of people
+
+** Blogs and e-mail newsletters
+
+- conversation with Timothy Kenny, who has just started experimenting with daily e-mail newsletters
+- I suggested public archive
+
+- http://www.productiveflourishing.com/why-i-was-so-worked-up-about-killing-my-newsletter/#utm_source=feedly
+
+- I've been thinking about e-mail newsletters because Timothy Kenny
+  has just started with his.
+- Typical advice for growing and (dare I say it?) monetizing your
+  blog.
+  - Offer an incentive for people to sign up for your mailing list.
+    - PDF
+    - exclusive content
+  - Put people on an autoresponder.
+  - Mail people regularly to build the relationship
+    - Sell them stuff later on
+- I don't even send friends or family e-mail normally
+  - Hmm, maybe I'm not used to the grammar of it?
+- also, it takes me an average of 6 minutes to reply to an e-mail. 
+  - Oddly,
+- RSS is mostly dead. Only geeky people use it. [[blog-subscribe][outline]]
+- Automatic e-mail newsletters
+- I want to sell things only if they save you a lot of time
+- Forget that. I want to give away so much that you almost feel
+  obliged to help.
+  - and since I don't need that much money for my lifestyle (I think)
+- I'm very good at planning inexpensive experiments. Besides, that
+  makes it easier for other people to replicate.
+
+** Why and how to subscribe to blogs
+# <<blog-subscribe>> 
+
+- since not everyone knows about this
+- why
+  - i read a lot of blogs
+  - i *skim* a lot of blog headlines and excerpts, and I read maybe
+    3-5 posts a day
+  - i mostly read on my phone
+- how
+  - my favourite: feedly
+  - there are a number of alternatives, so it mostly depends on what
+    you like
 
 
 ** How to manage a free-ranging blog
 Role model: boingboing.net
 http://whatever.scalzi.com/
+
+
+** How to research keywords for blog posts
+# <<research-keywords>>
+http://sach.ac/outline#research-keywords
+
+- recent changes with 
+
+** Writing while you're doing and learning: the power of the gerund 
+- stats
+
 ** OUTLINED Learning how to outline                           :imagine:learn:
    :LOGBOOK:
    CLOCK: [2013-07-28 Sun 15:09]--[2013-07-28 Sun 15:10] =>  0:01
@@ -1239,7 +1676,130 @@ tries to maximize it. The cog, the day laborer, the compliant
 student--they seek to eliminate the feeling instead.
 - Seth Godin, The Icarus Deception
 
+* Self-tracking
+** Data visualization
+*** Visualizing hierarchical data
+- What questions do you want to ask?
+  - How do the categories compare with each other?
+  - Within the categories, how do things break down?
+  - And then within that, I'm curious - how does it shift and change
+    over time?
+- Sunburst charts
+  - Angles are hard to interpret
+- Icicles
+- Treemap
+- Small multiples
+  - Pie charts
+  - Bar charts
+- Bubble tree
+- Exploring my data
+  - Time
+  - Groceries
+- Partitions
+- D3
+
+http://www.timshowers.com/2008/12/visualization-strategies-hierarchical-data/
+
+** Naming your time
+- Watching a few people get started with time tracking and analysis
+  - Eric Boyd
+  - http://david.achkar.com/life-log-early-results/
+- Immediate benefits of time-tracking
+  - Hawthorne effect
+  - Focus
+  - Impulse
+** E-mail
+When do I take longer?
+
+Done with enough e-mail for now. I wonder why it took me nearly six hours... Median 6 min/e-mail, mean 12 min - opinions/links take longer.
+
+| 18:10 | Count | Minutes |                                                                               |
+| 17:53 |     1 |      17 | party notes                                                                   |
+| 17:43 |     1 |      10 | technical notes                                                               |
+| 17:42 |     1 |       1 |                                                                               |
+| 17:36 |     1 |       6 | time tracking, needed to add a link to someone else's site)                   |
+| 17:31 |     1 |       5 | sketchnoting, added a link to my site (checked that it still worked)          |
+| 17:30 |     1 |       1 |                                                                               |
+| 17:29 |     1 |       1 |                                                                               |
+| 17:28 |     1 |       1 |                                                                               |
+| 17:27 |     1 |       1 |                                                                               |
+| 17:24 |     1 |       3 |                                                                               |
+| 17:15 |     1 |       9 | responded to keeping-in-touch mail about consulting                           |
+| 17:11 |     1 |       4 |                                                                               |
+| 17:03 |     1 |       8 |                                                                               |
+| 16:44 |     1 |      19 | technical tips                                                                |
+| 16:38 |     1 |       6 |                                                                               |
+| 16:36 |     1 |       2 |                                                                               |
+| 16:13 |     1 |      23 | technical tips                                                                |
+|       |       |         |                                                                               |
+| 15:43 |       |         |                                                                               |
+| 15:42 |     1 |       1 |                                                                               |
+| 15:26 |     1 |      16 | blogging                                                                      |
+| 15:11 |     1 |      15 | event                                                                         |
+| 15:10 |     1 |       1 |                                                                               |
+|       |       |         |                                                                               |
+| 13:46 |       |         |                                                                               |
+| 13:40 |     1 |       6 |                                                                               |
+| 13:18 |     1 |      22 | feedback on startup                                                           |
+| 13:03 |     1 |      15 | introduction                                                                  |
+| 12:48 |     1 |      15 | good discussion about decisions; based on draft                               |
+| 11:27 |     1 |      81 | fixed problem in Wordpress site; also spent time drafting a different message |
+| 11:21 |     1 |       6 |                                                                               |
+| 10:43 |     1 |      38 | delegation, other stuff                                                       |
+| 10:40 |     1 |       3 |                                                                               |
+
+** How does tracking affect your happiness?
+** [#C] Time-tracking workshop  :book-idea:PROJECT:
+*** Session 1: The Whys and Hows of Tracking Time
+Discuss objectives and motivations for tracking time. Plan possible questions you want to ask of the data (which influences which tools to try and how to collect data). Recommend a set of tools based on people’s interests and context (paper? iPhone? Android? Google Calendar?).
+Resources: Presentations on time-tracking, recommendations for tools, more detail on structuring data (categories, fields); possible e-mail campaign for reminders
+Output: Planning worksheet for participants to help people remember their motivations and structure their data collection; habit triggers for focused, small-scale data collection, buddying up for people who prefer social accountability
+*** Session 2: Staying on the Wagon + Preliminary Analysis
+Checking in to see if people are tracking time the way they want to. Online and/or one-on-one check-ins before the workshop date, plus a group session on identifying and dealing with obstacles (because it helps to know that other people struggle and overcome these things). Preliminary analysis of small-scale data.
+Resources: Frequently-encountered challenges and how to deal with them; resources on habit design; tool alternatives
+Output: Things to try in order to support habit change; larger-scale data collection for people who are doing well
+*** Session 3: Analyzing your data
+Massaging your data to fit a common format; simple analyses and interpretation
+Resources: Common analysis format and some sample charts/instructions; maybe even a web service?
+Output: Yay, charts!
+*** Session 4: More ways you can slice and dice your data
+Bring other questions you’d like to ask, and we’ll show you how to extract that out of your data (if possible – and if not, what else you’ll probably need to collect going forward). Also, understanding and using basic statistics
+Resources: Basic statistics, uncommon charts
+Output: More analyses!
+*** Session 5: Making data part of the way you live
+Building a personal dashboard, integrating your time data into your decisions
+Outcome: Be able to make day-to-day decisions using your time data; become comfortable doing ad-hoc queries to find out more
+*** Session 6: Designing your own experiments
+Designing experiments and measuring interventions (A/B/A, how to do a blind study on yourself)
+Outcome: A plan for changing one thing and measuring the impact on time
+*** Session 7: Recap, Show & Tell
+Participants probably have half a year of data and a personal experiment or two – hooray! Share thoughts and stories, inspire each other, and figure out what the next steps look like.
+Outcome: Collection of presentations
+** Looking for patterns
+** Learning how to analyze data
+** Learning R
+** Looking at my application use
+** Grocery update
+** Building a price book
+** Reviewing my clothing data
+** Virtual Quantified Self Show-and-Tell
+** Excel: SUMIFS  :excel:
+I've used Microsoft Excel's =SUMIF= function to conditionally add up
+values before. For example, =SUMIF= is handy when you have a table of
+use cases and you want to sum the points for all the use cases with
+priority 1. =SUMIFS= (Microsoft Excel 2007 and later) is even more
+powerful - it allows you to specify multiple criteria.
+
+** Excel: INDEX and MATCH  :excel:
+** Excel: Table magic                                                 :excel:
+** Excel: Pivot tables  :excel:
+** Excel: Working with dates and times                                :excel:
+** Quantified Time: Consulting Days vs. Open Days
+Does work really get in the way of living?
 * Business and career
+** "How can I switch from testing to development?"
+
+** Anticipate exit interview questions and prepare your answers  :search:
 ** Adapting my business to a changing life
 - Focus on people to help
 - Build up skills and content
@@ -1463,11 +2023,184 @@ Goal: Learn, share, scale
 
 Also
 http://www.authorsassistanttraining.com/author-services
+[[blogging-help][http://sach.ac/outline#blogging-help]]
 
 Nudged by Timothy Kenny
 
 ** What services should I be taking advantage of?
-* Planning
+** DONE Getting some help with blogging
+
+# <<blogging-help>>
+http://sach.ac/outline#blogging-help
+
+- I'm thinking of investing more in my blog, maybe experimenting with.
+- NOT
+  - having someone "spin" keyword-laden content for me
+  - someone to keep me accountable re: writing - it's already a habit =)
+- Why
+  - I want to get better at writing
+  - One way: Identify and deliberately practice [[blogging-skills][blogging skills]]
+    - Current focus areas
+      - Outlining (mostly comfortable; need to get to the point of calibrating outline to ~100 words?)
+      - Synthesizing information (lists, etc.), bringing everything together with a conclusion or recommendations
+    - Next steps
+      1. Write better headlines 
+      2. End strong: conclusion, call to action, question
+      3. Start strong: improve first paragraph
+      4. Pick better post topics (research, feedback, etc.)
+      5. Get into the habit of sending newsletter e-mail, maybe for upcoming blog posts
+      6. Get into the habit of updating, organizing, and packaging information resources
+    - Doing this, having fun, making progress.
+      - Hmm, might be interesting to think about how to measure this progress
+  - Another way: coaching
+    - Ideally, someone with better skills
+      - Model excellence and call their shots
+      - Give feedback on gaps
+      - Help me teach others
+      - Ideal scenario?
+        - We pick a skill to focus on, like synthesizing information
+        - They recommend some of their favourite role models
+        - We come up with exercises or challenges (I'm currently listify-ing at least one post per week; ditto stock photos)
+        - (We might be able to skip the research part for now, as that's time-consuming and lower-value than planning/editing.)
+        - They help me improve the logical organization of the outline
+        - They help me improve the transitions and organization of the draft post
+        - We brainstorm better headlines and calls to action / questions for the audience
+          - Also, related Twitter post?
+    - Even a different perspective is useful
+      - Check whether something makes sense
+        - I don't care about typos if the meaning stays the same
+        - I care about good headlines and saying clear, useful, time-saving, non-obvious things
+        - I care about explaining things that people might find confusing
+          - I might write a blog post for an advanced audience, but it would be good to flag what needs to be explained for intermediate audiences etc. and then fill that in with blog posts later on
+            - How to map this out?  
+        - I care about tightening things up and making transitions smooth
+      - Need more precise feedback than "It doesn't work." I want to see alternatives.
+      - Learning how to put my editing hat on
+  - Brainstorming/planning stage?
+    - Outline, notes, quotes, examples, questions
+    - Follow-up blog posts
+  - Also possibly useful: research and editing help
+    - People will search using different keywords and sources than I might
+    - Good for prioritizing lots of resources
+      - Value depends
+        - Do I read faster than they do? Can I filter through resources faster?
+        - Do they have similar or better prioritization functions? Am I wowed by their choices?
+        - Comparative advantage?  
+      - Is the following the ideal scenario for that? This is some time in the future, though, after I get used to working with other people while writing.
+        - I send the person an outline and some notes, and he or she
+          sends back summaries of the best resources with citations
+          and links. I add personal stories (this comes after research
+          because I want to apply advice and it's better than just
+          searching for confirmatory evidence) and publish.
+    - Good for editing transcripts and misc. documents too, possibly handling some of the regular publishing (ex: sketchnotes or updates)?
+  - Process tips? 
+    - Tools and processes are harder to transfer
+    - Metacognition?  
+- Good to have a safety net: at some point, I anticipate being more frazzled. This is part of life.
+  - I could do what other people do and _not_ blog, but it's more fun to learn from the conversation.
+  - Good to have someone doublecheck that I'm making sense
+  - Make sure that I'm writing useful stuff instead of focusing too much on my life
+    - Yes, it's a personal blog, but I may as well be useful at the same time =)
+    - And also check that I'm not /too/ impersonal, because that would be boring
+  - Do some of that research, maybe?
+  - Investment in ongoing learning and connection
+    - May need to prioritize
+    - or may just need to learn how to put my editing hat on
+- Justifying value
+  - Competing options
+    - Options
+      - Do it myself
+        - I'm doing pretty well
+        - Lots of great tips out there
+        - I'm nowhere near the limit of what I can learn for free or from experience
+        - Use books and role models for passive guidance
+      - Learn from people's feedback
+        - This is great! People comment and share
+      - Find or start a blogging mastermind group
+        - Group insight, more perspectives
+        - Group plans, support; building relationships
+          - Casual examples: Mel Chua, Trevor Lohrbeer, Timothy Kenny - no formal connections between them, but good conversations
+      - Advantages of coach/assistant
+        - Opportunity for targeted, skilled, consistent feedback 
+        - Learn more about delegation and coaching
+  - Justifying investment
+    - Worth an experiment
+      - How long? Extent?
+        - As-needed basis
+        - Risk: I might forget to assign work
+          - I should prepare and assign work up front
+        - Once a week, at least a month?
+          - What does this look like?
+            - Google Docs or Draft, e-mail notifications
+              - ... because I'm unlikely to find someone who can commit straight to Github ;)
+            - Google Hangout chat for clarification/discussion if needed
+            - Probably 2-3 hours a week, picking one post to focus on
+              - make it awesome and link-worthy!
+                - although the easiest way to do that is to go and sketchnote something (book review, talk, resource, etc.)
+                - goal is to learn how to do this with just writing, or with a combination of writing and /some/ graphics  
+      - How does this compare with previous experiment with editing?
+        - http://sachachua.com/blog/2009/11/thinking-about-how-i-can-make-the-most-of-editing-the-world-is-an-amazing-candy-store-of-talent/
+        - Not as focused on wordsmithing 
+          - http://sachachua.com/blog/2009/12/editing-feedback-on-the-shy-connector/
+        - How am I better at writing now?
+          - Outlines, illustrations
+      - What would be worth it?
+        - At the end of the experiment
+          - Good: I'm more comfortable synthesizing key points from research and stitching them together in a smooth, non-plagiaristic way that adds value
+          - Awesome: I wrap up the post with a good conclusion, a call to action, and a question
+          - Amazing: I have a better sense of headlines, and a plan for testing/improving
+            - Okay with needing different coaches - work with people's strengths
+
+    - How to continue justifying the experiment
+      - Canada Revenue Agency: must be business-related expense with expectation of income
+      - Deeper feedback versus superficial feedback, explaining what's going on 
+        - Ex: reorganizing the logic of a piece and explaining why, instead of making tiny word changes (remove "just", etc. - useful, but not as useful as the other kind of feedback)
+      - Sell information products or courses, maybe on a pay-what-you-can basis 
+      - Use as a regular weekly sanity-check for batch processing
+        - Grant access to Wordpress?
+        - Work out a different workflow, maybe Evernote? (Evernote doesn't paste well)
+- Acknowledgements
+  - Happy to share before/after views and a link in posts
+  - and naturally, lots of process reflections and updates!
+
+* Other tech notes
+** How to use Drush to download and install a Drupal module          :search:
+** After a year: Logitech H800 review
+* Planning and decisions
+** Decide on your criteria in advance
+# <<advance-criteria>>
+
+http://sach.ac/outline#advance-criteria
+
+Examples: 
+- Trevor's story about finding a house 
+- Planning a menu (patterns)
+- Choosing a computer
+
+Outline:
+- The difference between maximizing and satisficing [[http://en.wikipedia.org/wiki/Satisficing][more]]
+- Why
+  - Make decisions quickly
+    - Discard choices that are obviously worse
+    - Jump on opportunities
+  - Make decisions more reasonably 
+    - Esp. if you anticipate poor decision capability
+      - "Your ability to think rationally may be impaired. It is
+        therefore suggested that you avoid making any important
+        decisions until the effects of the medications have fully worn
+        off." - from pre-procedural sedation instructions
+    - Don't forget important criteria; value of a checklist
+  - Make decisions consistently over time
+    - Ex: hiring decisions
+  - Get other people to help you look
+- How
+  - Decide on your criteria in advance
+  - Prioritize
+    - You probably won't be able to get everything
+    - What's good enough?
+    - Weighted scoring helps
+
+[[http://en.wikipedia.org/wiki/Decision_making][more: Decision-making]]  
 ** Pre-mortems and wild success stories
 ** Tag clouds for planning
 ** Making decisions with emotions
@@ -1500,6 +2233,222 @@ Nudged by Timothy Kenny
 - Have a fun exercise habit so that I feel alert and healthy
 - Be mindful, organized, and good at remembering
 - Live an awesome life
+** Decisions
+- Goal: Understand how I want to make good decisions and what I want
+  to write down
+- Getting more comfortable making decisions that shape my life
+  - Contrast: master's degree in Canada
+  - Experiment
+  - Skills, focus
+- What makes a good decision?
+  - Goal: Maximize payoffs and minimize risks
+- Don't judge decisions by outcomes, but by processes
+  - Not about regretting the outcome, but the process
+  - Canada Post losing my passport: not a terrible
+    decision, but not the best one, although it reminds me that I should test more
+    assertive approaches like seeing if it's a real requirement
+- Scenario planning
+- Recognize and work around biases
+  - Confirmation
+  - Availability
+  - Loss aversion
+- Plan fire drills
+- Create space
+
+- What do
+
+** Something I want to get better at: Planning my way through uncertainty
+
+- I don't know what next month will be like, or the months beyond
+  that.
+  - cloud of possibilities
+- Scary
+  - Why
+    - Uncomfortable making and possibly renegotiating commitments
+    - In limbo about some plans
+- Uncertainty is good
+  - Learning how to deal with it
+  - Learning
+- Good outcome
+  - Not blindsided by unknown risks; have a flexible contingency plan 
+  - Comfortable with decisions even if they turn out badly
+  - Documented decisions so that I can review and improve my
+    decision-making process
+  - Fire drill so that I have something in place
+- How I deal with uncertainty
+  - Minimize commitments
+    - Unexpected perks of semi-retirement: I can be open about
+      uncertainty
+
+  - Scenario planning
+    - Research
+      - What's out there?
+      - Which outcomes are more likely? less likely?
+    - Plan for the negative scenarios
+    - Plan for possibilities
+- Lessons from other places
+  - Lean
+    - No forecasts, less waste
+
+ 
+...deliberate attempt to separate what we do and do not know about the
+future, and to use that as a basis for exploring many possible futures
+... "A better approach now is to embrace uncertainty and examine it in
+detail to discover where the hidden opportunities lurk."
+- Paul J. H. Schoemaker (, in http://knowledge.wharton.upenn.edu/article.cfm?articleid=2298
+- Kristel van der Elst (World Economic Forum)
+  - Identify central question
+  - Identify driving forces and systemic changes that will transform
+    the playing field (social, technological, economic,
+    environmental, (geo)political)
+  - Look at things that could happen, not just extensions of the
+    present
+  - Determine critical uncertainties (impact vs certainty)
+  - Back into decision-making process - strategy that creates value
+    in several scenarios, backup plan
+
+The point of scenario planning, after all, is not to be right, which
+is such a human inclination that we find it hard to overcome—the point
+of scenario planning is to see the future from perspectives we would
+have a difficult time forcing ourselves to imagine because of our bias
+toward rightness, and therefore imagine new possibilities or see
+threats we might otherwise miss.
+The trick is to know we will always be wrong as we speculate about the
+future
+.
+http://future-of-work.spaces.live.com/blog/cns!C07907DBA0E3BEA6!1399.entry
+
+
+http://www.wired.com/wired/scenarios/build.html
+Yet, the purpose of scenario planning is not to pinpoint future events
+but to highlight large-scale forces that push the future in different
+directions. It's about making these forces visible, so that if they do
+happen, the planner will at least recognize them. It's about helping
+make better decisions today.
+Identify early warning 
+http://www.wired.com/special_multimedia/2009/ff_scenario_1708
+Personal scenario planning
+2x2, implications and actions,
+
+http://www.cprime.com/2010/02/how-uncertainty-works-by-kevin-thompson-phd-pmp-csp/
+- fixed schedule, fixed scope; success not always possible, add buffer
+- fixed schedule, adjustable scope
+- no schedule, unknown scope; kanban, limit work in progress
+
+http://www.webpages.uidaho.edu/css386/Readings/Abbot%20Risk,%20change%20and%20uncertainty.pdf
+- basic internal dynamic
+- external influences
+- human factors and strategies
+- chance
+known/unknown means/ends (Christensen, 1999, 143)
+
+http://tinybuddha.com/blog/7-ways-to-deal-with-uncertainty/
+- positive power of negative thinking
+
+Foxman, P. (1976). Tolerance for ambiguity and self-actualizing. Journal of
+Personality Assessment, 40, 67-72
+
+http://imetacomm.com/wp-content/themes/Structure%20Premium%20White/organic_structure_white/downloads/Metacomm_Conceptualizations.pdf
+ Table 1: Issues Linked to Tolerance of Uncertainty
+People with High Tolerance
+for Uncertainty Tend to
+People with Low Tolerance
+for Uncertainty Tend to
+· Be less dogmatic
+· Be less ethnocentric
+· Be less "generally" conservative
+· Perceive ambiguous stimuli as desirable and
+challenging
+· Rely less on authorities for opinions
+· Be more self actualized
+· Be more flexible
+· Prefer objective information
+· Be more dogmatic (Bochner, 1965)
+· Be more ethnocentric (Block & Block, 1950)
+· Be more "generally" conservative (Sidanuis,
+1978)
+· Avoid ambiguous stimuli (Furnham, 1995)
+· Rely more on authorities for opinions
+(Bhushan, 1970)
+· Be less self actualized (Foxman, 1976)
+· Be more rigid (Budner, 1962)
+· Prefer information supportive of their views
+(McPherson, 1983)
+Process, outcome, perceptual
+
+4. I’m comfortable making a decision on my gut instincts. .80
+ 8. I’m comfortable using my intuition to make a decision. .75
+13. I’m willing to make a decision based on a hunch. .71
+25. I’m comfortable deciding on the spur-of-the-moment. .69
+ 7. When I start a project, I need to know exactly where I’ll end up. (-) .76
+24. I need a definite sense of direction for a project (-) .73
+12. I need to know the specific outcome before starting a task. (-) .72
+21. I don’t need a detailed plan when working on a project. .67
+15. I actively try to look at situations from different perspectives. .78
+ 9. I’m always on the lookout for new ideas to address problems. .64
+ 5. I actively look for signs that the situation is changing. .63
+
+** ScanSnap?
+
+- Desired benefits
+  - Scan double-sided documents (infrequent)
+  - Scan larger pieces of paper (up to 11x17, infrequent)
+  - Scan long pieces of paper
+    - Includes Adobe PDF for making pretty articles
+- Options
+  - ScanSnap iX500 Deluxe (520.98) 
+  - ScanSnap S1100 Delux (230.99)
+  - ScanSnap S1300i (482.60)
+    - Automatic document feeder
+  - Continue with my scanner
+
+** What makes a good decision
+
+** Process, not outcome
+- What makes a decision a good decision?
+- Good decision or bad decision - process, not outcome
+
+- Good process [[http://www.mindtools.com/pages/article/newTED_79.htm][more]], [[http://www.mindtools.com/pages/article/newTED_00.htm#Step1][more]]
+  - Understand likely possibilities
+  - Reasonably estimate cost/benefit/risk/reward
+  - Make a decision you're willing to commit to (versus passing the
+    buck)
+  - Base decision on accurate information (and keeping sources in
+    mind - credibility, bias)
+  - Aware of the situation
+  - Have contingency plans
+  - Address the real issue
+  - Not flipflopping on the decision (reduce uncertainty)
+  - Aware of assumptions, have tested some of them
+  - Have considered a number of solutions
+  - Can explain decision
+  - I use effective decision tools
+  - [[http://www.forbes.com/sites/mikemyatt/2012/03/28/6-tips-for-making-better-decisions/][more]]
+  - [[http://www.mindtools.com/pages/article/newTED_79.htm][more]]
+    - Establishing a positive decision-making environment.
+    - Generating potential solutions.
+    - Evaluating the solutions.
+    - Deciding.
+    - Checking the decision.
+    - Communicating and implementing.
+- See more at: http://www.mindtools.com/pages/article/newTED_79.htm#sthash.cuOU5nXf.dpuf
+- Process != outcome
+  - Good process, good outcome - invisible, but celebrate it
+    - ex: experiment (so far)
+  - Good process, bad outcome - is it still the decision you would
+    make knowing what you knew then? What did you fail to consider?
+    - ex: buying the Cintiq? unexpected outcome
+  - Bad process, good outcome - luck, chance of superstition
+    - choosing Ateneo
+  - Bad process, bad outcome - double regret
+    - lost passport
+- But if you’re consistently getting bad outcomes, maybe you need to
+  rethink your process
+
+** WIND Mobile
+** Tablet PC
+** Tablet
+** Starting my own business
 * Personal finance
 ** Discretionary expenses
 ** Investing in making the pie bigger
@@ -1792,184 +2741,6 @@ hack. =)
 - Coming back from India - Did you miss me?
 - Homesickness in Toronto
 - Acceptance
-* Decisions
-** Decisions
-- Goal: Understand how I want to make good decisions and what I want
-  to write down
-- Getting more comfortable making decisions that shape my life
-  - Contrast: master's degree in Canada
-  - Experiment
-  - Skills, focus
-- What makes a good decision?
-  - Goal: Maximize payoffs and minimize risks
-- Don't judge decisions by outcomes, but by processes
-  - Not about regretting the outcome, but the process
-  - Canada Post losing my passport: not a terrible
-    decision, but not the best one, although it reminds me that I should test more
-    assertive approaches like seeing if it's a real requirement
-- Scenario planning
-- Recognize and work around biases
-  - Confirmation
-  - Availability
-  - Loss aversion
-- Plan fire drills
-- Create space
-
-- What do
-
-** Something I want to get better at: Planning my way through uncertainty
-
-- I don't know what next month will be like, or the months beyond
-  that.
-  - cloud of possibilities
-- Scary
-  - Why
-    - Uncomfortable making and possibly renegotiating commitments
-    - In limbo about some plans
-- Uncertainty is good
-  - Learning how to deal with it
-  - Learning
-- Good outcome
-  - Not blindsided by unknown risks; have a flexible contingency plan 
-  - Comfortable with decisions even if they turn out badly
-  - Documented decisions so that I can review and improve my
-    decision-making process
-  - Fire drill so that I have something in place
-- How I deal with uncertainty
-  - Minimize commitments
-    - Unexpected perks of semi-retirement: I can be open about
-      uncertainty
-
-  - Scenario planning
-    - Research
-      - What's out there?
-      - Which outcomes are more likely? less likely?
-    - Plan for the negative scenarios
-    - Plan for possibilities
-- Lessons from other places
-  - Lean
-    - No forecasts, less waste
-
- 
-...deliberate attempt to separate what we do and do not know about the
-future, and to use that as a basis for exploring many possible futures
-... "A better approach now is to embrace uncertainty and examine it in
-detail to discover where the hidden opportunities lurk."
-- Paul J. H. Schoemaker (, in http://knowledge.wharton.upenn.edu/article.cfm?articleid=2298
-- Kristel van der Elst (World Economic Forum)
-  - Identify central question
-  - Identify driving forces and systemic changes that will transform
-    the playing field (social, technological, economic,
-    environmental, (geo)political)
-  - Look at things that could happen, not just extensions of the
-    present
-  - Determine critical uncertainties (impact vs certainty)
-  - Back into decision-making process - strategy that creates value
-    in several scenarios, backup plan
-
-The point of scenario planning, after all, is not to be right, which
-is such a human inclination that we find it hard to overcome—the point
-of scenario planning is to see the future from perspectives we would
-have a difficult time forcing ourselves to imagine because of our bias
-toward rightness, and therefore imagine new possibilities or see
-threats we might otherwise miss.
-The trick is to know we will always be wrong as we speculate about the
-future
-.
-http://future-of-work.spaces.live.com/blog/cns!C07907DBA0E3BEA6!1399.entry
-
-
-http://www.wired.com/wired/scenarios/build.html
-Yet, the purpose of scenario planning is not to pinpoint future events
-but to highlight large-scale forces that push the future in different
-directions. It's about making these forces visible, so that if they do
-happen, the planner will at least recognize them. It's about helping
-make better decisions today.
-Identify early warning 
-http://www.wired.com/special_multimedia/2009/ff_scenario_1708
-Personal scenario planning
-2x2, implications and actions,
-
-http://www.cprime.com/2010/02/how-uncertainty-works-by-kevin-thompson-phd-pmp-csp/
-- fixed schedule, fixed scope; success not always possible, add buffer
-- fixed schedule, adjustable scope
-- no schedule, unknown scope; kanban, limit work in progress
-
-http://www.webpages.uidaho.edu/css386/Readings/Abbot%20Risk,%20change%20and%20uncertainty.pdf
-- basic internal dynamic
-- external influences
-- human factors and strategies
-- chance
-known/unknown means/ends (Christensen, 1999, 143)
-
-http://tinybuddha.com/blog/7-ways-to-deal-with-uncertainty/
-- positive power of negative thinking
-
-Foxman, P. (1976). Tolerance for ambiguity and self-actualizing. Journal of
-Personality Assessment, 40, 67-72
-
-http://imetacomm.com/wp-content/themes/Structure%20Premium%20White/organic_structure_white/downloads/Metacomm_Conceptualizations.pdf
- Table 1: Issues Linked to Tolerance of Uncertainty
-People with High Tolerance
-for Uncertainty Tend to
-People with Low Tolerance
-for Uncertainty Tend to
-· Be less dogmatic
-· Be less ethnocentric
-· Be less "generally" conservative
-· Perceive ambiguous stimuli as desirable and
-challenging
-· Rely less on authorities for opinions
-· Be more self actualized
-· Be more flexible
-· Prefer objective information
-· Be more dogmatic (Bochner, 1965)
-· Be more ethnocentric (Block & Block, 1950)
-· Be more "generally" conservative (Sidanuis,
-1978)
-· Avoid ambiguous stimuli (Furnham, 1995)
-· Rely more on authorities for opinions
-(Bhushan, 1970)
-· Be less self actualized (Foxman, 1976)
-· Be more rigid (Budner, 1962)
-· Prefer information supportive of their views
-(McPherson, 1983)
-Process, outcome, perceptual
-
-4. I’m comfortable making a decision on my gut instincts. .80
- 8. I’m comfortable using my intuition to make a decision. .75
-13. I’m willing to make a decision based on a hunch. .71
-25. I’m comfortable deciding on the spur-of-the-moment. .69
- 7. When I start a project, I need to know exactly where I’ll end up. (-) .76
-24. I need a definite sense of direction for a project (-) .73
-12. I need to know the specific outcome before starting a task. (-) .72
-21. I don’t need a detailed plan when working on a project. .67
-15. I actively try to look at situations from different perspectives. .78
- 9. I’m always on the lookout for new ideas to address problems. .64
- 5. I actively look for signs that the situation is changing. .63
-
-** ScanSnap?
-
-- Desired benefits
-  - Scan double-sided documents (infrequent)
-  - Scan larger pieces of paper (up to 11x17, infrequent)
-  - Scan long pieces of paper
-    - Includes Adobe PDF for making pretty articles
-- Options
-  - ScanSnap iX500 Deluxe (520.98) 
-  - ScanSnap S1100 Delux (230.99)
-  - ScanSnap S1300i (482.60)
-    - Automatic document feeder
-  - Continue with my scanner
-
-** Process, not outcome
-- What makes a decision a good decision?
-- Good decision or bad decision - process, not outcome
-
-** WIND Mobile
-** Tablet PC
-** Tablet
-** Starting my own business
 * Other geekery
 ** Emacs and Ruby    :requested:
 ruby-end / smartparens
@@ -2104,7 +2875,50 @@ be rude or distracting or that they won't be able to keep up.
   recording."
 - "I can't keep up and I don't want to miss anything."
 - "I tried taking notes, but I never used them."
+** Don't worry about your story
+
+# <<narrative>>
+http://sach.ac/outline#narrative
+
+- Worry
+  - Identity
+  - Different interests
+  - Zigzag
+- Quote
+   #+begin_quote
+   Again, you can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.
+   #+end_quote  
+   [[http://news.stanford.edu/news/2005/june15/jobs-061505.html][Steve Jobs in his 2005 commencement speech at Stanford]]
+- The brain is good at patternicity
+  - Too good, in fact
+- Use this to your advantage
+- Come up with a coherent story
+
+Thanks: Trevor Lohrbeer for the quote
 * Life
+** Less social
+I've been feeling less social these days. I don't know what my energy levels will be like, so it's hard to make social commitments.
+
+I get some exercise by walking around.
+
+** How to wear a malong
+** Celebrate the small things: monthsaries
+** Tracking and dealing with mental fog
+
+- you know how your brain blanks out for a moment and then you've
+  misplaced something, or gotten on the wrong train, or 
+ 
+- working memory
+- why
+- how I keep track of these
+- changes
+  - keys
+
+
+
+
+Thanks to Timothy Kenny for the nudge to write about a mistakes journal!
+
 ** Library, language learning
 [[evernote:///view/70669/s1/2a328411-becb-420b-aa26-7903c6f39dc8/2a328411-becb-420b-aa26-7903c6f39dc8/]]
 ** DONE Homebody
@@ -2631,11 +3445,84 @@ Oddly, WIND Mobile was under the impression that I spent at least
 three minutes in Ottawa last month - one minute on July 11, and
 another two minutes on July 25. The funny thing is 
 * 5-year experiment
+** Learning how to be
+This is probably the hardest part of semi-retirement: learning how to
+be. Learning to let go of the need to check things off a list or do
+things that I consider productive. Learning how to ignore the clock
+and follow the flow.
+
+Look, I'm writing a blog post instead of staring off into space. This
+time, I'm not starting with an outline. We'll just see where this post
+goes.
+
+It's not all "work." I sleep in, and I go for walks, and I get on my
+bike and go to places even if I don't need to. I cook and I read and I
+garden. I tidy. I play video games.
+
+They're still all verbs. That's okay. The goal isn't to do /nothing/,
+the goal is to be where I am: unhurried, present, not frustrated, not
+judging myself for what I do or don't do.
+
+Pretty good, actually.
+
 ** What I'm learning from my 5-year experiment
 - Rat race
 - Discretionary time is a wonderful thing
 - It's okay to not optimize everything
 - There are lots of things I can learn (even without books or the Internet!)
+** DONE The power of no: being completely* unhireable until 2017 (and possibly longer)
+   CLOSED: [2013-08-20 Tue 17:23]
+How to say no to opportunities
+
+(Needs more work)
+
+- When I started this 5-year experiment, I didn't know if I could
+  stick with it. My track record for sticking with interests is not
+  that good. I'm delighted to report that (semi-)retirement gets
+  easier and easier. I am learning to say no.
+- By coincidence, two of my mentors (who had moved on to separate
+  companies after IBM) got in touch with me recently to find out if I
+  was interested in some upcoming job opportunities. Good stuff.
+  Right up my alley. Wonderful people.
+- I said no. Actually, I said something along the lines of: Thank you
+  for reaching out! That sounds fantastic. However, I am semi-retired
+  and completely* unhireable for at least the next few years, so I'll
+  just have to wish you good luck on your search. I'm sure you'll find
+  someone awesome out there.
+- (Of course, if a significant financial need comes up, I have no qualms about
+  suspending this experiment and returning to the wonderful world
+  of work. I enjoyed working with excellent teams. I'd love to do
+  it again.
+- Learning how to say no is incredibly amazing.
+  - It helps to remember that there are other awesome people out there
+    who can make things happen. 
+  - Sure, they might not bring my particular configuration of skills,
+    but they'll bring other useful combinations.
+- I don't even have a tiny internal voice of dissent
+  - because the part that might've been afraid about the future has
+    been neatly shut up by a good if...then...else... that postpones
+    consideration
+- fine print
+  - 
+- in the meantime
+  - pre-made decision tree
+    - while things 
+- comparative advantage
+  - other people can do that work
+  - not that many people can explore these opportunities
+    - what: learning, sharing, following my curiosity, building a
+      small and simple life
+  - also, life is uncertain
+    - so I should take advantage of this time 
+- took all of August off
+  - not travelling, not trying to build a business
+  - learning skills: outlining, illustrating my posts
+  - I like it.
+- a year and a half into my experiment
+- living expenses since 2012/03/01: average of $827 per month, or $801
+  if I ignore travel - slightly below predictions, even!
+
+
 ** OUTLINED Experiment review: Income and expenses
 - Preparation
   - Projecting my expenses
@@ -2715,5 +3602,6 @@ h4 { margin-left: -20px; }
 h1, h2, h3 { font-family: Calibri, sans-serif }
 </style>
 #+end_html
+
 
 
