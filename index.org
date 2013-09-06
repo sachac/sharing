@@ -73,94 +73,23 @@ Outcome: People have taken their first few sketchnotes and are ready to use it f
 
 (collaboration with Timothy Kenny, [[timothykenny.com]] ?)
 
-** [#C] Learning with Sketchnotes  :book-idea:PROJECT:
-Audience: Teachers, homeschoolers/unschoolers/parents who want to
-teach more engagingly and help their students develop notetaking
-skills
-Outcome: Ready to practise on their own, and possibly teaching others
-how to sketchnote in their classes
-
-- Why sketchnote?
-  - Understand things better?
-  - Share more effectively
-  - Engage students
-  - Model note-taking skills by example
-- Examples
-- Common challenges
-- Getting started
-- Sketchnote basics
-  - Annotating printed text
-  - Starting with hand-written notes
-  - Adding emphasis
-  - Starting with stick figures
-  - Drawing symbols
-  - Drawing abstract concepts
-  - Organizing the page
-- Sketching your preparatory notes
-- Sketching your lesson
-- Sketching worksheets
-- Teaching others how to sketchnote
-  - A one-page guide
-- Drawing practice
-  - Stick figures
-  - Emotions
-  - Symbols
-    - Science
-    - Technology
-    - Math
-    - History
-    - Art
-    - Language
-    - Music
-    - ...
-
-** Drawing tutorials  :series:
-# <<drawing-tutorials>>
-*** Visual hierarchy
-- Weight
-- Emphasis
-- Space
-- Color
-- Size
-
-*** OUTLINED Finding the forms in words
-- make the letters feel like the word
-  - thin
-  - thick
-  - fast
-  - shaky
-- replace or modify a letter
-- wrap the word around an image
-- wrap an image around the word
-- add an image next to the word
-*** Quick layouts and connectors
-- Boxes
-- Ribbons
-- Arrows
-- Shaped arrows
-- Clouds
-- Shadows
-- Radial layouts
-*** Layout samples
-*** Adding depth
-*** Building your visual vocabulary: Business
-*** Building your visual vocabulary: Technology
-
-*** Building your visual vocabulary: Science
-
-*** Building your visual vocabulary: The Web
-*** Building your visual vocabulary: Math
-*** Building your visual vocabulary: Art
-
-*** Building your visual vocabulary: Life
-*** Building your visual vocabulary: Health
-
-
-
-*** DONE Talk bubbles and thought bubbles
-    CLOSED: [2013-08-05 Mon 23:03]
-*** Building your visual vocabulary: Metaphors
-** Draw like other people
+** OUTLINED Sketchnotes and digital color
+- Black and white
+- Color change
+- Highlighter
+- Shading
+- Eyedropper tool
+- Quick color schemes
+  - 10%, 90%
+** OUTLINED Thinking about a virtual meetup for sketchnoters    
+- Kevin Dulle organizing tweetchats
+- It would be great to go over different techniques
+- Finding speakers is always a challenge
+- But it's a great learning experience, so even if I sketch out a
+  "curriculum" and prepare many of the talks, that's fine. 
+- Also, people can always step forward and volunteer.
+- Next steps:
+  - Experiment with Google Hangout
 ** DRAFTED How to get started with sketchnoting  :one-pager:
 Draw this
 
@@ -209,14 +138,6 @@ Related:
 http://learni.st/users/boonyew.chew/boards/28983-10-first-steps-towards-sketchnotes
 sachachua.com/blog/sketchnote-handbook
 
-** OUTLINED Sketchnotes and digital color
-- Black and white
-- Color change
-- Highlighter
-- Shading
-- Eyedropper tool
-- Quick color schemes
-  - 10%, 90%
 ** DONE Drawing illustrations for my blog posts
    CLOSED: [2013-08-02 Fri 09:26]
 - Tools and simple workflow
@@ -226,15 +147,6 @@ sachachua.com/blog/sketchnote-handbook
   - Metaphors
   - Google Images
   - Other blogs
-** OUTLINED Thinking about a virtual meetup for sketchnoters    
-- Kevin Dulle organizing tweetchats
-- It would be great to go over different techniques
-- Finding speakers is always a challenge
-- But it's a great learning experience, so even if I sketch out a
-  "curriculum" and prepare many of the talks, that's fine. 
-- Also, people can always step forward and volunteer.
-- Next steps:
-  - Experiment with Google Hangout
 ** DONE Drawing banners/ribbons
    CLOSED: [2013-07-28 Sun 12:54]
 - Draw the text first
@@ -397,6 +309,56 @@ http://sachachua.com/blog/2013/07/sketchnote-lessons-drawing-emotions/
 http://en.wikipedia.org/wiki/File:Plutchik-wheel.svg
 http://www.cnvc.org/Training/feelings-inventory
 
+** Drawing tutorials  :series:
+# <<drawing-tutorials>>
+
+stick figure styles, colour, word forms, depth, hierarchy...
+
+*** Visual hierarchy
+- Weight
+- Emphasis
+- Space
+- Color
+- Size
+
+*** OUTLINED Finding the forms in words
+- make the letters feel like the word
+  - thin
+  - thick
+  - fast
+  - shaky
+- replace or modify a letter
+- wrap the word around an image
+- wrap an image around the word
+- add an image next to the word
+*** Quick layouts and connectors
+- Boxes
+- Ribbons
+- Arrows
+- Shaped arrows
+- Clouds
+- Shadows
+- Radial layouts
+*** Layout samples
+*** Adding depth
+*** Building your visual vocabulary: Business
+*** Building your visual vocabulary: Technology
+
+*** Building your visual vocabulary: Science
+
+*** Building your visual vocabulary: The Web
+*** Building your visual vocabulary: Math
+*** Building your visual vocabulary: Art
+
+*** Building your visual vocabulary: Life
+*** Building your visual vocabulary: Health
+
+
+
+*** DONE Talk bubbles and thought bubbles
+    CLOSED: [2013-08-05 Mon 23:03]
+*** Building your visual vocabulary: Metaphors
+** Draw like other people
 ** Sharing
 - Flickr
 - Blog
@@ -508,11 +470,54 @@ Let me let you in on a little secret: I don’t. Not all at the same time. Mostl
 Depending on how quickly the speaker talks and how much interesting content they pack into their sentences, I might be scrambling to quickly jot down some keywords. When they pause for breath or transition to a new topic, I’ll go back and add stick figures and diagrams. As I figure out which points are important, I move parts of my drawing around or erase and refine what I’ve written.
 To help you see the process, here’s a recording of my screen as I sketchnote an hour-long presentation. I don’t draw that fast in real life - I’ve condensed the video to three minutes for your convenience. Enjoy!
 
+** [#C] Learning with Sketchnotes  :book-idea:PROJECT:
+Audience: Teachers, homeschoolers/unschoolers/parents who want to
+teach more engagingly and help their students develop notetaking
+skills
+Outcome: Ready to practise on their own, and possibly teaching others
+how to sketchnote in their classes
+
+- Why sketchnote?
+  - Understand things better?
+  - Share more effectively
+  - Engage students
+  - Model note-taking skills by example
+- Examples
+- Common challenges
+- Getting started
+- Sketchnote basics
+  - Annotating printed text
+  - Starting with hand-written notes
+  - Adding emphasis
+  - Starting with stick figures
+  - Drawing symbols
+  - Drawing abstract concepts
+  - Organizing the page
+- Sketching your preparatory notes
+- Sketching your lesson
+- Sketching worksheets
+- Teaching others how to sketchnote
+  - A one-page guide
+- Drawing practice
+  - Stick figures
+  - Emotions
+  - Symbols
+    - Science
+    - Technology
+    - Math
+    - History
+    - Art
+    - Language
+    - Music
+    - ...
+
 * Emacs
-** How to change the background color in Emacs :search:
-- customize-face
-- theme, packages
-** OUTLINED Emacs newbie: Tips for learning keyboard shortcuts
+** DONE How to learn keyboard shortcuts
+<agumonkey> - heres a shortcut: C-x C-f, you can quit C-g, or complete TAB and
+            then validate RET. C-h m lists all the defined shortcuts. The End.
+
+Thanks: agumonkey, aidalgol, Fuco, ijp, JordiGH, nicferrier, pkkm, rryoumaa, webspid0r
+Emacs newbie: Tips for learning keyboard shortcuts
 
 The tutorial (C-h t) is useful and well worth going through several times. Getting used to marking a region with C-SPC versus using shift- takes some doing, but it’s really quite powerful once you get the hang of it – mainly because you can then use all sorts of navigational commands without getting RSI.
 
@@ -722,7 +727,6 @@ also change over time. How do you organize yours?
 
 ** How to learn Emacs Lisp
 *** Interactive exploration with edebug
-** Save time with keyboard macros
 ** Getting started with configuring Emacs
 ** Cooking with Emacs   :requested:
 @cehter
@@ -751,7 +755,69 @@ If I expect that a post will have lots of images, I tend to use Windows Live Wri
 
 Org Mode also supports images, but it's not as easy to resize things there. If I wrote a function that used ImageMagick to save the clipboard image to a file, resize it to the appropriate dimensions, and link it to the full-size image, maybe that would do the trick. Still, that sounds like it would be a fair bit of work. Maybe someday. Hmm - any chance someone reading this blog happens to already have that snippet handy? =)
 
+** CANCELLED Save time with keyboard macros
+Handled fine by http://ergoemacs.org/emacs/emacs_macro_example.html and other pages
+
+- Why/when?
+- Thinking ahead
+- Start
+- End
+- Running the macro
+- Apply macro to region lines
+- Counters
+- Interactivity
+- Saving your macros
+** How to change the background color in Emacs :search:
+Previously answered: http://sachachua.com/blog/2009/01/emacs-basics-changing-the-background-color/
+
+- customize-face
+- theme, packages
 * Writing / blogging / sharing knowledge
+** TODO Setting up a development environment that doubles as a backup
+- =make dev= should copy my database and Wordpress installation, except for my theme directory and my wp-config.php.
+
+** Posts versus pages
+- I want pages to show up in categories too
+
+** TODO How to sell a PDF once in a while without being tied to your e-mail
+   SCHEDULED: <2013-09-06 Fri>
+   :LOGBOOK:
+   CLOCK: [2013-08-30 Fri 20:15]--[2013-08-30 Fri 21:05] =>  0:50
+   :END:
+   :PROPERTIES:
+   :Effort:   4:0
+   :END:
+Nudge: Timothy Kenny
+
+- It usually doesn't make sense to automate something you do rarely
+    - In the 4-Hour Work Week, Timothy Ferriss
+    - xkcd also has a guide to automation
+- What about PDFs and other digital content that you might sell once in a blue moon?
+    - Manual way: Set up PayPal. Check your e-mail and reply with the link.
+    - Better way: Use a digital fulfillment service. There'll be a small cost
+    - Got lots? Look into setting up your own membership site
+- A friend of mine went away on vacation for three days. One of his readers had bought an e-book from his site. Since he was manually replying
+
+
+- Some services
+    - Monthly fee: ex: http://getdpd.com/plans-and-pricing/, http://www.fetchapp.com/pages/plans, http://www.e-junkie.com/ej/pricing.htm, Shopify, Shoplocket
+    - Listing fees per product
+    - Percentage of transaction
+    - Number of products, how much storage space you have
+- Lots of different choices; how do you decide?
+    - Ease of setup / integration
+    - Monthly costs
+
+- I've been using Gumroad. I like it. It feels simpler than Lulu.
+
+- Some other round-ups
+  - http://ethicallaunch.com/sell-digital-items-five-min
+  - https://cms.paypal.com/ca/cgi-bin/?cmd=_render-content&content_ID=developer/solutions_dgd
+  - http://vandelaydesign.com/blog/tools/selling-digital-products/
+
+
+http://sachagreif.com/how-nathan-barry-and-i-sold-39k-worth-of-ebooks/ - Gumroad
+
 ** OUTLINED Blogging-related skills                                   :skill:
 # <<blogging-skills>>
 [[http://sach.ac/outline#blogging-skills]]
@@ -769,22 +835,10 @@ See also [[blogging-help][http://sach.ac/outline#blogging-help]]
 
 - Manage your time and energy 
   - https://www.google.ca/search?q=how+to+find+time++to+write - well-covered
-  - Take advantage of small chunks of time
-    - This is good for your blogging! [[http://www.instigatorblog.com/5-steps-to-writing-the-best-blog-posts/2007/05/01/][more]]
-    - This makes writing less intimidating. Transitions can be awkward, but you can fix that while editing. [[http://mysterywritingismurder.blogspot.ca/2012/12/writing-in-small-chunks-of-timepros-and.html][more]]
-    - Get rid of your rituals and requirements (must do this first, can't have that...). Stop in the middle of a sentence so that you'll find it easier to resume. [[http://www.fromthewriteangle.com/2013/06/5-tips-for-busy-writers.html][more]]
-    - Don't edit as you write. Save that for another day. [[http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy/][more]]
-    - ... or edit as you go. Whichever way works for you. [[http://www.instigatorblog.com/5-steps-to-writing-the-best-blog-posts/2007/05/01/][more]] 
-    - People write books on commutes, lunch hours, ferry rides, etc. Plan ahead so that you always know what the next task is. That way, when you find yourself with a moment of spare time, you can make the most of it. [[http://www.themomwrites.com/2013/07/how-i-wrote-a-print-book-in-my-free-time.html][more]] 
-    - don't give yourself excuses [[http://whatever.scalzi.com/2010/09/16/writing-find-the-time-or-dont/][more]]
-    - break it down into tasks [[http://procrastinatingwritersblog.com/2009/07/break-your-writing-into-manageable-pieces/][more]]
-    - Outline all the way down to chunks of 100 words [[http://theblossomingfledglingresearcher.wordpress.com/2013/07/29/ive-almost-overcome-my-i-need-huge-chunks-of-time-to-write-problem-with-this-excerptadvice-of-rowena-murrays/][more]] 
-    - Brainstorm things you can do in 15 minutes [[http://www.inc.com/jason-womack/productivity-time-management-tips.html][more]]
-    - Use those little chunks of time to get ahead [[http://www.lifehack.org/articles/productivity/micro-productivity-accomplishing-major-goals-with-minor-effort.html][more]]
-    - Write and publish a little at a time [[http://aspirecode.com/why-im-publishing-my-ebook-100-words-at-a-time/][more]]
-  - Regularly set aside half an hour or an hour per day.
+  - Take advantage of small chunks of time - See also http://sach.ac/outline#blog-short
+  - Regularly set aside some time in your schedule
     - Do your writing first, before you do e-mail. [[http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy/][more]]
-    - Try doing this really early in the morning. (4 AM?) [[http://yareview.net/2013/06/goodbye-a-balancing-act/][more]]
+    - Try doing this really early in the morning or late at night, when there are fewer demands on your time. (4 AM? 11 PM?) [[http://yareview.net/2013/06/goodbye-a-balancing-act/][more]]
     - Schedule time blocks and make steady progress. [[http://www.december.com/simple/live/caretime.html][more]]
     - Set a timer and stay in the chair
       - Consider the Pomodoro technique http://www.thedailymuse.com/career/the-secrets-to-staying-productive-when-you-have-a-big-project/
@@ -800,7 +854,7 @@ See also [[blogging-help][http://sach.ac/outline#blogging-help]]
   - Take care of yourself
     - Eat well, exercise, and take care of yourself. [[http://www.themomwrites.com/2013/07/how-i-wrote-a-print-book-in-my-free-time.html][more]]
 - Plan what to write
-  - [[http://www.copyblogger.com/brainstorm-blog-topics/][list]], [[http://www.profkrg.com/blog-ideas-are-everywhere][another list]], [[http://www.nichepursuits.com/14-surefire-ways-to-find-great-blog-content-ideas/#][yet another list]]
+  - [[http://www.copyblogger.com/brainstorm-blog-topics/][more: list]], more: [[http://www.profkrg.com/blog-ideas-are-everywhere][another list]], more: [[http://www.nichepursuits.com/14-surefire-ways-to-find-great-blog-content-ideas/#][yet another list]]
   - Brainstorm ideas to explore or questions to answer
   - Outline topic [[http://www.chrisg.com/chunking-and-outlining-blog-topic-ideas/][more]], [[http://www.advancedfictionwriting.com/articles/snowflake-method/][more (with fractals!)]]
   - Choose a subtopic for a blog post [[http://www.problogger.net/archives/2008/08/14/how-to-choose-a-topic-for-your-next-blog-post/][more]], [[http://www.chrisg.com/chunking-and-outlining-blog-topic-ideas/][more]]
@@ -917,9 +971,23 @@ See also [[blogging-help][http://sach.ac/outline#blogging-help]]
   - Create and work with checklists/templates [[http://michaelhyatt.com/how-to-use-evernote-as-a-blogger.html][more]]
 ** OUTLINED How to blog, five minutes at a time: Making the most of little chunks of time :writing:
 
+# <<blog-short>>
+http://sach.ac/outline#blog-short
+
 see the possibilities
 
-prepare
+    - This is good for your blogging! [[http://www.instigatorblog.com/5-steps-to-writing-the-best-blog-posts/2007/05/01/][more]]
+    - This makes writing less intimidating. Transitions can be awkward, but you can fix that while editing. [[http://mysterywritingismurder.blogspot.ca/2012/12/writing-in-small-chunks-of-timepros-and.html][more]]
+    - Get rid of your rituals and requirements (must do this first, can't have that...). Stop in the middle of a sentence so that you'll find it easier to resume. [[http://www.fromthewriteangle.com/2013/06/5-tips-for-busy-writers.html][more]]
+    - Don't edit as you write. Save that for another day. [[http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy/][more]]
+    - ... or edit as you go. Whichever way works for you. [[http://www.instigatorblog.com/5-steps-to-writing-the-best-blog-posts/2007/05/01/][more]] 
+    - People write books on commutes, lunch hours, ferry rides, etc. Plan ahead so that you always know what the next task is. That way, when you find yourself with a moment of spare time, you can make the most of it. [[http://www.themomwrites.com/2013/07/how-i-wrote-a-print-book-in-my-free-time.html][more]] 
+    - don't give yourself excuses [[http://whatever.scalzi.com/2010/09/16/writing-find-the-time-or-dont/][more]]
+    - break it down into tasks [[http://procrastinatingwritersblog.com/2009/07/break-your-writing-into-manageable-pieces/][more]]
+    - Outline all the way down to chunks of 100 words [[http://theblossomingfledglingresearcher.wordpress.com/2013/07/29/ive-almost-overcome-my-i-need-huge-chunks-of-time-to-write-problem-with-this-excerptadvice-of-rowena-murrays/][more]] 
+    - Brainstorm things you can do in 15 minutes [[http://www.inc.com/jason-womack/productivity-time-management-tips.html][more]]
+    - Use those little chunks of time to get ahead [[http://www.lifehack.org/articles/productivity/micro-productivity-accomplishing-major-goals-with-minor-effort.html][more]]
+    - Write and publish a little at a time [[http://aspirecode.com/why-im-publishing-my-ebook-100-words-at-a-time/][more]]
 
 - Brainstorm ideas and questions: Keep a text file and add to it whenever something inspires you.
 - Brainstorm titles: Come up with three or more possible titles. Note: this is a separate step from brainstorming ideas, so you don't have to come up with an idea and an awesome title right from the start
@@ -930,82 +998,9 @@ prepare
 - Edit
 - Look for an image 
 
-** Stuff that works for me
-
-- Writing works better than interviews or speaking
-    - Outlines, links
-    - Even though I say a lot more words in an interview
-    - Things I like about interviews
-        - Other people's questions
-        - Back and forth
-        - 
-
-
-** Managing a daily blog
-   :LOGBOOK:
-   CLOCK: [2013-08-29 Thu 19:16]--[2013-08-29 Thu 19:57] =>  0:41
-   CLOCK: [2013-08-29 Thu 18:59]--[2013-08-29 Thu 19:16] =>  0:17
-   CLOCK: [2013-08-29 Thu 12:45]--[2013-08-29 Thu 12:57] =>  0:12
-   :END:
-   :PROPERTIES:
-   :Effort:   4:00
-   :END:
-- There's so much to learn and so much to write about.
-    - Read books, blog posts, and manuals
-    - Try something new
-    - Learn at least one thing a day.
-- One complete thought per post
-    - 
-  
-- Not everyone is interested in everything.
-- Arrangement
-    - I write posts in advance
-    - I move posts around so that a variety of interests are covered each week
-        - Emacs, visual thinking, blogging, life, productivity, learning
-        - Things I want to write more about
-            - Books: I read faster than most people do, and I have an awesome library nearby. Summaries?
-            - Learning
-    - When I've got several posts lined up in a weekly series, I link them together and add a note to help people anticipate the next one.
-- Categories
-    - Category feeds
-- Syndication, Planet Emacsen
-- Making this better
-    - Series?
-    - Visualizations?
-    - Highlight
-        - What is a good essay?
-            - Montaigne's Essays
-            - Start with a question or something I want to learn
-            - Both geeky and personal
-            - Point to other people's perspectives
-                - Books
-                - Blog posts
-        - How about a series every month or every two months, wrapped up in a PDF?
-            - Weekly post
-   
-http://blog.penelopetrunk.com/2009/04/21/8-reasons-why-you-wont-make-money-from-your-blog/
-
-Once you're /there/, how can you make it better?
-
-- Why
-- How I work
-  - Gigantic outline helps me remember what I wanted to write about so that I don't forget while I'm in the middle of research.
-  - I use a feed reader to quickly skim updates from hundreds of blogs.
-
-
-- Ideas
-  - Outline
-- Editorial calendar
-  - Shuffle posts around to cover a variety of interests
-- Challenges
-  - People are interested in different things
-- When you blog every day
-  -  
-
-** What would it take to become comfortable with giving people advice?
-
 ** OUTLINED What could I do if I spent four or more hours on a single blog post?
    :LOGBOOK:
+   CLOCK: [2013-08-30 Fri 12:50]--[2013-08-30 Fri 12:51] =>  0:01
    CLOCK: [2013-08-29 Thu 23:21]--[2013-08-29 Thu 23:54] =>  0:33
    CLOCK: [2013-08-29 Thu 19:57]--[2013-08-29 Thu 22:43] =>  2:46
    :END:
@@ -1043,76 +1038,6 @@ Once you're /there/, how can you make it better?
         - http://www.problogger.net/archives/2013/06/25/what-would-happen-if-we-put-as-much-effort-into-writing-blog-posts-as-public-speaking/
             - Comments - balance with attention span
         - Trim text or split ideas off into other posts
-    - What would success look and feel like?
-        - I'm going to be selfish about this because I can. =)
-            - Is it okay to say that I blog more for myself? Because I do. Although your comments, shares, and links are nice. I feel like I should say that I write for readers. Attention is a gift. Many people would say that attention is valuable, and then turn around and try to sell you something.
-            - Someday, perhaps, when I have something I want to tell people, and I acquire a Voice of Advice, then I'll write more for other people.
-                - When would I feel good about that?
-                - Is there something I feel good about?
-                    - I feel comfortable giving people advice on learning, reading, making better decisions, trying things out, and sharing.
-                    - I feel comfortable helping people learn more about Emacs, Wordpress, and a little Excel.
-                    - I feel comfortable that drawing is another way to create value.
-            - In the meantime
-                - If I want to invest more time in writing...
-                    - I would write about things that few people write about
-                        - Emacs? Visual thinking? What it's like to make blogging such a part of your learning?
-                    - Drawing, right... Although Sketchnote Army does pretty well.
-                    - Something else.
-                - False dilemma. (Trilemma?) I know. The choice isn't really between these options, and I don't have to make one choice. I can write about all these things in the course of a week. But I wanted to figure out, if I wasn't keen on the first two options, what /am/ I leaning towards, so I can intentionally work on it?
-            - A post that makes me a better person
-                - Change
-                - The posts I write make me at least a teensy bit better
-                - In terms of outcome
-                    - Blog posts that represent larger chunks of growing (going from 0.01% to 0.1%)?
-                      Improving by 0.01% every day means getting 4% better in a year, if you're fine with simplified math. Improving by 0.1% every day means getting 44% better in a year.
-                    - One way to do this is to write less, to sit on posts longer until they develop, to start with a hundred ideas and tweak them for days or weeks (or longer!) until they're deep and insightful and useful.
-                        - Write less? No, I like writing almost every day, and I forget if I don't write things down. --verbose Stuff gets lost in my private notes. Here we might have conversations.
-                            - Arguing against myself: reasons for posting earlier rather than later
-                                - Learn from the conversation
-                                - Get feedback
-                                    - Is it something unusual worth digging into?
-                                - Flesh things out on demand (in response to people's questions, etc.)
-                                - Get good value from time (diminishing returns?) - 80%
-                                - Throw more pots
-                                    - Deliberate practice, engagement
-                    - Another way to get a feel for what these deeper posts would be like would be to summarize experiences and update them with lessons learned
-                        - For example, things I've learned in the past ten years, like cooking.
-                        - This will give me a feel for what deeper posts might feel like.
-                        - Then I can play with timeframes
-                    - It would be worth getting the hang of this for new ideas, though.
-                    - So I need to get better at getting better.
-                    - Well, maybe an order of magnitude is ambitious. (0.01% to 0.1% is 10 times!) What would "a little better" look like?
-                    - Grow more
-                        - Ask better questions
-                            - Know what "better" looks like and what direction it's in
-                            - Ask the questions behind the questions
-                            - Ask /different/ questions
-                            - See and question assumptions
-                        - Research
-                            - Books, blog posts, other resources
-                            - Reaching out to people (!)
-                        - Observe
-                            - Notice
-                            - Describe
-                            - Be less worried
-                        - Try things out
-                    - All that considered, I still want to write in small increments
-                        - Behind the scenes
-                            - It's like the way I take sketchnotes. I try to capture as much as I can instead of summarizing it, because you can summarize based on your notes but it's hard to go the other way around.
-                        - I love being able to link to posts from years ago when I was still figuring something out
-                        - There are plenty of people who'll share advice -- the results of their experiences -- without sharing (or remembering!) much of the journey along the way.
-                    - So what's next for me then?
-                        - Getting better at getting better
-                        - Letting outlines steep
-                            - I think I like leaving outlines hanging - it gives me something to focus on while doing the dishes or other chores
-
-
-
-
-
-
-            - Something I want to remember
-            - ... but not too much pressure here, mind you, or I'll probably be unable to write /anything/. So it doesn't have to Measurably Improve the Human Condition.
     - Now that I've confessed my primary motivation for writing a blog, I should also say that I get warm and fuzzies when people find my notes useful.
     - Adjusting the slider; nudge it up a little, play with it
     - Now
@@ -1124,35 +1049,233 @@ Once you're /there/, how can you make it better?
         - Easy for me to track, especially if I'm writing it in Emacs.
             - I can track how much time I spend outlining a specific post and which days I worked on it.
             - I can set a target effort (ex: at least two hours4 hours) and compare the total time against that.
-
     - Four hours is around the time I usually take to plan a presentation
         - Who
         - What do I want people to remember or act on
         - What do I need to share to help them get from A to B
         - Illustrations
-    
+
     - Oh, maybe that will be my reason to split off sub-blogs
         - If I wrote like other people
             - I would include less "I" and more "You", giving people advice
             - I would emphasize the categories more
             - More lists and stats?
             - 1% better.
-** Random
-http://pushingsocial.com/blog-purpose/7-simple-ways-to-get-your-readers-to-spend-more-time-on-your-blog/
-** DONE What's your favourite excuse to NOT take notes?
 
-** Sneak peeks
-- One post a day, unless I'm sketchnoting an event or I'm super-excited
-- Share A Draft and Editorial Calendar
-- makes it possible to spread posts out while giving people links to the resource
-- Windows Live Writer doesn't pick up the date, so I need to make sure I set the date again
+** OUTLINED Think about your blogging goals and how your posts align with them :data:
+   :LOGBOOK:
+   CLOCK: [2013-08-30 Fri 22:11]--[2013-08-31 Sat 21:58] => 23:47
+   CLOCK: [2013-08-30 Fri 12:51]--[2013-08-30 Fri 14:30] =>  1:39
+   :END:
+   :PROPERTIES:
+   :Effort:   4:00
+   :END:    
 
-** Blogging advice that I'm not planning to follow
-- keyword optimization
-- e-mail list
-- linkbait
-- RSS feed summaries
-- summaries on front page
+I've been thinking about my goals for blogging because I want to get better. I write almost every day, fueled by habits of reading and experimenting. I have time to learn things, and I can learn more effectively if I learn deliberately. Here's what I'm learning about being clear about your goals and analyzing how your actions match up with them.
+
+*** 1. Clarify your goals
+
+It's good to know what your goals are and how the different approaches serve those goals so that you can choose the ones that are the most effective. You can also look at each approach to see how you can improve it.
+
+After some reflection, I came up with this list of goals for my blog:
+
+    1. Learn more effectively by thinking through complexity or explaining what I'm learning
+    2. Explore assumptions and possibilities; become more aware of them myself, and help other people see them
+    3. Improve core skills through practice: making decisions, explaining ideas, organizing thoughts, etc.
+    4. Save myself and other people time spent re-solving the same problems or learning the same things
+    5. Build a long-term archive that I can use to remember what I'm learning and see differences over time
+    6. Learn from other people through questions, comments, and conversations
+
+Your list of goals will probably look different. Many people have goals such as building a business by promoting their products or services, educating clients or readers, keeping family members up to date, working through difficult issues by writing anonymously, and so on. Take a moment to think about and prioritize your goals.
+
+If you're having problems expressing your goals, you can also take a look at your recent blog posts and ask yourself, "Why did I write this?" What results did you want to get? What purpose did it serve? One blog post might work towards several different goals.
+
+*** 2. Analyze the ways you approach those goals
+
+Different actions support different goals to different extents. Think about the different types of blog posts you write. Score them against each of your goals on a scale of 1 to 5, where a score of 5 means that type of post helps a specific goal a lot, while 1 means it does very little or even nothing for that particular goal.
+
+Here are some of the types of posts I share and how they line up with the goals I listed above:
+
+    |                                                     | Goal 1: Learn | Goal 2: Explore | Goal 3: Improve | Goal 4: Save time | Goal 5: Build | Goal 6: Learn from others | Total |
+    |-----------------------------------------------------+---------------+-----------------+-----------------+-------------------+---------------+---------------------------+-------|
+    | T1: Draw original stuff                             |             5 |               5 |               5 |                 5 |             5 |                         3 |    28 |
+    | T2: Draw book reviews and events                    |             5 |               2 |               5 |                 5 |             5 |                         5 |    27 |
+    | T3: Think out loud                                  |             5 |               5 |               5 |                 1 |             5 |                         3 |    24 |
+    | T4: Share tech tips, troubleshooting notes, or code |             5 |               5 |               3 |                 4 |             2 |                         4 |    23 |
+    | T5: Review longer spans of time (yearly, decisions) |             5 |               4 |               5 |                 1 |             5 |                         3 |    23 |
+    | T6: Write tips that few other people can cover      |             4 |               2 |               3 |                 3 |             4 |                         3 |    19 |
+    | T7: Write tips that other people can also cover     |             3 |               1 |               2 |                 2 |             2 |                         2 |    12 |
+    | T8: Review recent posts (weekly, monthly)           |             1 |               1 |               4 |                 1 |             4 |                         1 |    12 |
+  #+TBLFM: $8=vsum($2..$7)
+
+Sorting the table by the total score makes it easy to see which approaches you value more. If some goals are much more important to you than others, you can also weight those goals in your calculations. For example, if building a long-term archive was twice as important to me, I could double that column when calculating the total score. 
+
+Anyway, this ranking makes it clearer why I feel good about original drawings and sketchnotes, and why I skew towards decision reviews and "thinking through things"-type posts even if they don't feel focused enough on saving other people time. Most of the blogging advice tends to focus on writing tips, but they don't motivate me as much. 
+
+How about you? Do your post types match up with your goals? Are there clear winners that you should focus on? You can write lower-value posts from time to time because they address different needs. For example, I post weekly reviews because they're useful to me even if they're less useful for others.
+
+*** 3. Adjust your priorities based on feedback
+
+Of course, since these values are subjective, it helps to adjust them based on your website analytics or feedback from your readers. For example, if you think a type of post saves people a lot of time, you'll probably see a lot of visits or comments on it. If you have Google Analytics, you can export the *Content - Site Content - All Pages* table to a spreadsheet, classify the top X links, and then see what types of posts people spend their time on. For example, I analyzed the top 500 pages visited in July 2013, classified each by type, calculated average views and time per page, and sorted it by average views to get a sense of which posts tend to be more popular.
+
+| Post type                  | Number of pages | Number of views | Average page views per page | Average minutes per page view | Average bounce rate |
+|----------------------------+-----------------+-----------------+-----------------------------+-------------------------------+---------------------|
+| T1: draw original          |              23 |            2875 |                         125 |                           3.4 |                 67% |
+| T4: share tech             |             149 |           12468 |                          84 |                           5.8 |                 74% |
+| T2: draw book / event      |              41 |            2346 |                          57 |                           2.3 |                 64% |
+| T3: think out loud         |              62 |            2452 |                          40 |                           3.4 |                 72% |
+| T5: review long / decision |              14 |             504 |                          36 |                           2.7 |                 73% |
+| T6: write tip (few)        |              41 |            1392 |                          34 |                           3.1 |                 72% |
+| T8: review                 |               9 |             283 |                          31 |                           1.0 |                 61% |
+| T7: write tip (many)       |              24 |             461 |                          19 |                           4.7 |                 73% |
+
+My sketchnotes are more popular by far. My technical notes are surprisingly durable over time, even though you'd expect them to be superseded by bugfixes, technical changes, better documentation, and so on. Posts as old as 2004 still turn up. Because people still get a lot of value from my old tech posts, I adjusted the "Save time" rating for tech tips from my original value of 3 to 4. (I had started with a lower value because I figured that not a lot of people would probably have run into the same issues I did, but it turns out that time makes up for audience size and the long tail works.) As I expected, tips that few other people have written about get more pageviews than tips that more people have written about, although I'm surprised that people tend to spend more time on the common tips. My "thinking out loud" posts are more popular than I expected. (Limitations: This only looks at single-page views in a single month.) Also, people tend to click on my weekly reviews if I add a brief description to the title, so that's something.
+
+Anecdotally speaking, I get a lot of comments and links to my sketchnotes. I'm also delighted by the conversations that occasionally grow out of the "thinking out loud" posts, and how sometimes people will share even better solutions when I post my technical notes.
+
+*** 4. Identify ways to improve each approach
+
+Now that you've looked at what makes each type of post different, you can focus on how to improve each type by building on its strengths or compensating for its weaknesses. Here's what I'm planning for the kinds of posts I write:
+
+*Draw original stuff*: It takes me 2-4 hours to make one of these. I like making technical notes (ex: Emacs), sketchnote tutorials (to help people draw more), and other drawings related to life and planning. I'm getting used to drawing them with less up-front planning. Even though I end up moving things around, I think it's useful to just get started. Drawing involves a trade-off because images are not as searchable as text. I can fix that by including the text, but it's a little awkward and it takes more time. Still, people like the drawings a lot, and I like them too.
+
+*Draw book reviews and events:* I go to fewer events these days, but I'm reading a lot more books. It takes me two hours to read a typical business book in depth, drawing notes along the way. I tend to draw book reviews only when I've already gotten a sense that a book is worth reading in depth. One way to increase my frequency is to draw book notes based on the skimmed parts of books that I'm not reading deeply - perhaps breaking out just the chapter or idea that resonates with me, and using that to illustrate a blog post reflecting on it. I can also work on getting more high-quality books into my pipeline, or practise by drawing more books with fewer value judgments.
+
+*Think out loud:* I can improve the "Save time" score by stashing the notes in my outline, adding observations, until I've fleshed it out enough for preliminary findings and advice. It means that the output will be more concise in its reasoning and I'll have to do more learning on my own instead of opening up the conversation early, but then the posts will be useful for other people as well as for me. [[http://www.mrmoneymustache.com/][Mr. Money Mustache]] is a good example of a blog that mixes personal stories and useful observations. The main thing that was holding me back from doing this before was losing track of my drafts, but my outline is a good step.
+
+For example, this post started as a rough outline, thinking out loud about what kinds of posts I wanted to write. Now I'm going back and filling it in with other information that might be useful for people. If it ends up too long, I might have to trim it. We'll get there!
+
+*Share tech tips, troubleshooting notes, or code:* The limiting factor here is that I'm not working on any professional projects that I can write about, so I'm forced to run into and resolve fewer issues. I can replace that with working on my own projects or on open source projects, or helping people with questions. I often tweak or work on things related to Emacs, Wordpress, or data visualization, so there's that. If I set aside time and find a good source of small bugs so that I can ease my way into a habit of contributing to open source again, then that will also help me with my life goal to keep my technical skills sharp.
+
+*Review longer spans of time:* I can increase the frequency of decision reviews by scheduling them so that I don't lose track of items. Because I manage my outline in Org Mode, that should be relatively easy to do. I can also bootstrap this by reviewing last year and last decade's monthly reviews (if available), or the blog posts if not. I have an advantage here because I have a lot of public notes over the years.
+
+*Write tips that few other people can cover:* There are lots of information gaps to fill. Sometimes it's because people don't have the time, inclination, or confidence to write about something. Sometimes it's because I have a useful combination of skills or I can bring a different perspective. If I can't find information, that's a good reason to write it.
+
+*Write tips that other people can also cover:* The world doesn't really need another "how to find the time to blog" tutorial. If I can filter through search results for a good one and make it more findable, that beats writing one from scratch--unless I can add something special or relate different types of advice to each other.
+
+*Review recent posts (weekly, monthly):* These are low-value in the short term (mostly lists of links, plus the nudge to do my weekly planning process), but I've found them to be surprisingly useful over the years. They also help keep my large blog archive manageable. That's why I keep posting them. I've started using the weekly and monthly reviews to give people [[http://sachachua.com/blog/2013/05/how-i-use-feedburner-to-give-people-the-option-of-different-blog-update-frequencies/][less-frequent subscription options]] (daily can be a little overwhelming), so that's helpful too.
+  
+*** Wrapping up
+
+"Get better" is a vague goal. If you can identify the specific goals you would like to work toward, different ways to move towards those goals, and specific actions you can take to improve those approaches, you'll have a lot of flexibility in terms of growing. You'll find it easier to recognize or create opportunities to grow, and you can track your progress along the way. You might also be able to identify counter-productive approaches and replace them with ones that move towards more of your goals. Good luck and have fun!
+
+** Posts for others and posts for myself
+
+- Things I've tried
+    - Massive list post: http://sachachua.com/blog/2011/11/quantified-awesome-116-web-resources-for-quantified-self/
+
+- Posts for other people and posts for myself
+    |          | Mostly for others | Mostly for me | Total | % others | Comments | Comments per post | Visits | Unique visits |
+    |----------+-------------------+---------------+-------+----------+----------+-------------------+--------+---------------|
+    | July     |                 9 |            22 |    31 |      29% |       75 |               2.4 | 24,540 | 18,282        |
+    | June     |                12 |            18 |    30 |      40% |       93 |               3.1 | 23,833 | 17,364        |
+    | May      |                12 |            21 |    33 |      36% |      135 |               4.1 | 47,185 | 38,711        |
+    | April    |                 8 |            22 |    30 |      26% |       96 |               3.2 | 21,400 | 15,700        |
+    | March    |                15 |            14 |    29 |      51% |       74 |               2.6 | 19,679 | 14,396        |
+    | February |                 8 |            15 |    23 |      34% |       31 |               1.3 | 14,457 | 11,434        |
+    |----------+-------------------+---------------+-------+----------+----------+-------------------+--------+---------------|
+    | TOTAL    |                64 |           112 |   176 |      36% |      504 |               2.9 |        |               |
+  #+TBLFM: $4=$2+$3::$5='(format "%d%%" (/ (* $2 100) (+ $2 $3)));N::$7='(format "%.1f" (/ $6 (* 1.0 $4)));N
+
+There's a strong correlation (0.84) between the number of visits and the number of comments, which makes sense. There is, however, practically no correlation between the percentage of posts I write for other people and how many posts or visits I get. My Feedburner stats show that my other-focused tend to get clicked on more, although some of my reflective posts are also popular.
+Anecdotally, I see my other-focused posts shared on Twitter more often, which makes sense too.
+
+Google Analytics lets me look at stats for individual pages, so I
+analyzed the stats for July. This doesn't count the times when people
+read the entirety of the post on the homepage, just when they view the
+individual post by clicking on the link. I looked at the top 100 pages
+in terms of number of visits. I classified 70 of those as
+"other-focused" and 12 of those as "self-focused". The top
+self-focused posts got an average of 143 views per page, while the top
+other-focused posts got an average of 233 posts per page. People also
+spent an average of 1.7 minutes longer on those pages (5 minutes vs
+3.3 minutes).
+
+#+begin_src sql
+SELECT DATE_FORMAT(post_date, '%Y-%m') AS month, COUNT(id), SUM(comment_count) FROM wp_posts WHERE post_type='post' AND post_status='publish' GROUP BY month;
+#+end_src
+
+What makes good posts like that?
+- The posts that spread widely tend to be the ones that are visual: the Shy Connector, a Teacher's Guide to Web 2.0 at School, How to Learn Emacs, sketchnotes, sketchnoting tips, and visual book reviews.
+- The posts that are surprisingly popular over a long period of time are my technical notes: Emacs, Drupal, Rails, Lotus Notes, and so on. You'd expect them to be superseded by better documentation or changing technology (and sometimes they are), but they tend to endure.
+- Sometimes my personal thinking-through-stuff posts unexpectedly resonate with people, and people share their comments and insights. (Ex: [[http://sachachua.com/blog/2013/03/passion-and-uncertainty/][Passion and uncertainty]])
+- I don't have to write advice posts from a position of authority ("You should do this, you should do that") in order to be useful. I can create value by:
+    - Describing what's out there (sketchnotes, visual book reviews)
+    - Sharing my technical troubleshooting notes, work-arounds, hacks, or discoveries from reading documentation/code
+    - Applying advice to my life and sharing my experiences
+
+
+- What would success look and feel like?
+    - I'm going to be selfish about this because I can. =)
+        - Is it okay to say that I blog more for myself? Because I do. Although your comments, shares, and links are nice. I feel like I should say that I write for readers. Attention is a gift. Many people would say that attention is valuable, and then turn around and try to sell you something.
+        - Someday, perhaps, when I have something I want to tell people, and I acquire a Voice of Advice, then I'll write more for other people.
+            - When would I feel good about that?
+            - Is there something I feel good about?
+                - I feel comfortable giving people advice on learning, reading, making better decisions, trying things out, and sharing.
+                - I feel comfortable helping people learn more about Emacs, Wordpress, and a little Excel.
+                - I feel comfortable that drawing is another way to create value.
+        - In the meantime
+            - If I want to invest more time in writing...
+                - I would write about things that few people write about
+                    - Emacs? Visual thinking? What it's like to make blogging such a part of your learning?
+                - Drawing, right... Although Sketchnote Army does pretty well.
+                - Something else.
+            - False dilemma. (Trilemma?) I know. The choice isn't really between these options, and I don't have to make one choice. I can write about all these things in the course of a week. But I wanted to figure out, if I wasn't keen on the first two options, what /am/ I leaning towards, so I can intentionally work on it?
+- A post that makes me a better person
+    - Change
+    - The posts I write make me at least a teensy bit better
+    - Better
+        - Better at learning and sharing
+        - Better at making decisions
+        - Better at resilience and positivity
+    - In terms of outcome
+        - Blog posts that represent larger chunks of growing (going from 0.01% to 0.1%)?
+          Improving by 0.01% every day means getting 4% better in a year, if you're fine with simplified math. Improving by 0.1% every day means getting 44% better in a year.
+        - One way to do this is to write less, to sit on posts longer until they develop, to start with a hundred ideas and tweak them for days or weeks (or longer!) until they're deep and insightful and useful.
+            - Write less? No, I like writing almost every day, and I forget if I don't write things down. --verbose Stuff gets lost in my private notes. Here we might have conversations.
+                - Arguing against myself: reasons for posting earlier rather than later
+                    - Learn from the conversation
+                    - Get feedback
+                        - Is it something unusual worth digging into?
+                    - Flesh things out on demand (in response to people's questions, etc.)
+                    - Get good value from time (diminishing returns?) - 80%
+                    - Throw more pots
+                        - Deliberate practice, engagement
+        - Another way to get a feel for what these deeper posts would be like would be to summarize experiences and update them with lessons learned
+            - For example, things I've learned in the past ten years, like cooking.
+            - This will give me a feel for what deeper posts might feel like.
+            - Then I can play with timeframes
+        - It would be worth getting the hang of this for new ideas, though.
+        - So I need to get better at getting better.
+        - Well, maybe an order of magnitude is ambitious. (0.01% to 0.1% is 10 times!) What would "a little better" look like?
+        - Grow more
+            - Ask better questions
+                - Know what "better" looks like and what direction it's in
+                - Ask the questions behind the questions
+                - Ask /different/ questions
+                - See and question assumptions
+            - Research
+                - Books, blog posts, other resources
+                - Reaching out to people (!)
+            - Observe
+                - Notice
+                - Describe
+                - Be less worried
+            - Try things out
+        - All that considered, I still want to write in small increments
+            - Behind the scenes
+                - It's like the way I take sketchnotes. I try to capture as much as I can instead of summarizing it, because you can summarize based on your notes but it's hard to go the other way around.
+            - I love being able to link to posts from years ago when I was still figuring something out
+            - There are plenty of people who'll share advice -- the results of their experiences -- without sharing (or remembering!) much of the journey along the way.
+        - So what's next for me then?
+            - Getting better at getting better
+            - Letting outlines steep
+                - I think I like leaving outlines hanging - it gives me something to focus on while doing the dishes or other chores
+    - But not too navel-gazey
+- Something I want to remember
+- ... but not too much pressure here, mind you, or I'll probably be unable to write /anything/. So it doesn't have to Measurably Improve the Human Condition.
+
+
 ** OUTLINED [#C] Balancing "useful" and "personal" on my blog
 Lower-priority: I can wait until it seems more likely that my balance will change, or I can transform this into a post about blog role models and getting closer 
 
@@ -1209,176 +1332,6 @@ Lower-priority: I can wait until it seems more likely that my balance will chang
     - He has a large page footer with a blog roll, popular posts, stats, selected categories, and tags.
     - He has a "Start Here" and a menu item for various how-tos.
     - He has a recommendations page with links to posts.
-** How to turn your e-mail newsletters into blog posts
-Why: because there are people who send e-mail, but don't blog
-
-- why don't they blog?
-  - self-conscious: only the "best content" out there
-** Blogging excuse-buster: I don't want to blog because I want to put my best foot forward
-
-This is something I hear a lot from people. "I don't want to blog
-because I might be embarrassed." 
-
-** Blogging excuse-buster: 
-** Update: What I want my blog to become
-
-- I took a month off from my two-days-a-week consulting gig so that I
-  could experiment with focusing on writing. 
-- I want to be all-the-way-retired. There's a chance I might be. I'm
-  not sure. 
-- Most writers don't even have this luxury: to write about whatever
-  they want to write, without worrying about whether the book will be
-  picked up by a publisher or whether the magazine will accept the
-  article.
-
-
-- The M word: Monetization
-    - I thought about what I would use more money to do
-      http://sachachua.com/blog/2013/05/on-blogging-and-platforms-and-experimenting-with-google-hangout/
-        - I wouldn't change my lifestyle all that much 
-        - More money would probably be split between
-            - more experiments
-            - and buying more time to spend with family and friends
-    - Probably won't need to put a lot of effort into marketing and
-      building an audience
-        - Reasons to go out there
-            - Can save other people time?
-            - Can learn from other people?
-            - 
-- So this is what's going to happen for as long as I can do it.
-    - I'm going to learn lots of things.
-        - Curious
-        - What people ask me about
-        - From time to time, I may even dust off my outlines for future
-          books
-        - but I'd rather publish things bit by bit
-        - Eventually I'll get good enough at writing from outlines (or
-          slotting things back into them) that I can put together larger
-          resources, like articles and books
-
-** Thoughts on growing an audience
-- Sometimes I wonder if I should do more of the "Right Things" when
-  it comes to building a blog.
-    - Focus on one or two topics so that people will subscribe because
-      you're consistent and reliable.
-    - Research keywords so that you can optimize for search engines
-      queries and write content that will bring people in.
-    - Reach out to new audiences with guest posts.
-    - Send e-mail newsletters so that you can build relationships and
-      so that you can sell to people later on.
-- Why
-    - Can save other people time
-    - Can learn from more people
-    - Scale up - create more value for each unit of time I invest
-- Sometimes I'm envious of blogs with hundreds of comments. On sites
-  like that, people learn a lot from each other, not just me. But I
-  remember that reading and responding to comments takes time, and I'd
-  want to filter through them for spam, and that other people glaze
-  over when they see pages and pages of comments and end up not
-  reading them. It's okay. I like the in-depth conversations we have
-  in comments. I'm not entirely sure if I'm sour-graping, but it seems
-  to make sense.
-- Sometimes I wonder if this should be more like other blogs. But then
-  that's a well-travelled path, with lots of other people exploring
-  it. I have this amazing opportunity to try something different. I
-  should.
-- Actually, I already know what I should do--what works for me, what
-  I should do more.
-    - The enduring posts on my blog are either tech notes (Emacs,
-      Drupal) or sketches.
-- The clearer my "no", the less I'm distracted from the things that I
-  can do.
-- Like the way I hack around my introversion
-    - Write about whatever I'm learning about - variety of interests, and
-      let more focused people use search results and category links
-    - Look at other people's questions and failed search results to
-      nudge me to write about certain topics if I'm curious about them
-      too
-    - Read good blogs and write about what inspires me, linking.
-      Invite people who don't have blogs to share their tips and
-      lessons learned on mine.
-    - Build relationships through comments. Give away as much as I
-      can of what I know. Let people show their appreciation if they
-      want to. Money is nice, but there are other ways too.
-- Risks in getting too big
-    - Internet has a seamy underside
-- Introvert
-- The time I would spend in pitching guest posts, etc.
-    - versus making things
-
-- Drawing
-    - Nearly 39,000 people visited in May, when I published
-    - Plenty of blogs
-    - Lots of infographics
-    - Not that many useful, non-marketing drawings
-- It's okay
-
-- Are there low-effort, high-benefit things I can do to make this better?
-
-    - Might get to the point where people are learning from each other
-        - You can do this elsewhere on the Internet
-        - So it would have to be a particularly interesting
-          combination of people
-
-** Blogs and e-mail newsletters
-
-- conversation with Timothy Kenny, who has just started experimenting with daily e-mail newsletters
-- I suggested public archive
-
-- http://www.productiveflourishing.com/why-i-was-so-worked-up-about-killing-my-newsletter/#utm_source=feedly
-
-- I've been thinking about e-mail newsletters because Timothy Kenny
-  has just started with his.
-- Typical advice for growing and (dare I say it?) monetizing your
-  blog.
-  - Offer an incentive for people to sign up for your mailing list.
-    - PDF
-    - exclusive content
-  - Put people on an autoresponder.
-  - Mail people regularly to build the relationship
-    - Sell them stuff later on
-- I don't even send friends or family e-mail normally
-  - Hmm, maybe I'm not used to the grammar of it?
-- also, it takes me an average of 6 minutes to reply to an e-mail. 
-  - Oddly,
-- RSS is mostly dead. Only geeky people use it. [[blog-subscribe][outline]]
-- Automatic e-mail newsletters
-- I want to sell things only if they save you a lot of time
-- Forget that. I want to give away so much that you almost feel
-  obliged to help.
-  - and since I don't need that much money for my lifestyle (I think)
-- I'm very good at planning inexpensive experiments. Besides, that
-  makes it easier for other people to replicate.
-
-** Why and how to subscribe to blogs
-# <<blog-subscribe>> 
-
-- since not everyone knows about this
-- why
-  - i read a lot of blogs
-  - i *skim* a lot of blog headlines and excerpts, and I read maybe
-    3-5 posts a day
-  - i mostly read on my phone
-- how
-  - my favourite: feedly
-  - there are a number of alternatives, so it mostly depends on what
-    you like
-
-
-** How to manage a free-ranging blog
-Role model: boingboing.net
-http://whatever.scalzi.com/
-
-
-** How to research keywords for blog posts
-# <<research-keywords>>
-http://sach.ac/outline#research-keywords
-
-- recent changes with 
-
-** Writing while you're doing and learning: the power of the gerund 
-- stats
-
 ** OUTLINED Learning how to outline                           :imagine:learn:
    :LOGBOOK:
    CLOCK: [2013-07-28 Sun 15:09]--[2013-07-28 Sun 15:10] =>  0:01
@@ -1425,6 +1378,43 @@ about
       doesn't require me to keep a private repository? Maybe tied in
       with e-mail...
     
+** OUTLINED Update: What I want my blog to become
+
+- I took a month off from my two-days-a-week consulting gig so that I
+  could experiment with focusing on writing. 
+- I want to be all-the-way-retired. There's a chance I might be. I'm
+  not sure. 
+- Most writers don't even have this luxury: to write about whatever
+  they want to write, without worrying about whether the book will be
+  picked up by a publisher or whether the magazine will accept the
+  article.
+
+
+- The M word: Monetization
+    - I thought about what I would use more money to do
+      http://sachachua.com/blog/2013/05/on-blogging-and-platforms-and-experimenting-with-google-hangout/
+        - I wouldn't change my lifestyle all that much 
+        - More money would probably be split between
+            - more experiments
+            - and buying more time to spend with family and friends
+    - Probably won't need to put a lot of effort into marketing and
+      building an audience
+        - Reasons to go out there
+            - Can save other people time?
+            - Can learn from other people?
+            - 
+- So this is what's going to happen for as long as I can do it.
+    - I'm going to learn lots of things.
+        - Curious
+        - What people ask me about
+        - From time to time, I may even dust off my outlines for future
+          books
+        - but I'd rather publish things bit by bit
+        - Eventually I'll get good enough at writing from outlines (or
+          slotting things back into them) that I can put together larger
+          resources, like articles and books
+
+** DONE What's your favourite excuse to NOT take notes?
 ** DONE Writing while tired
    CLOSED: [2013-08-11 Sun 18:06]
 
@@ -1453,7 +1443,6 @@ about
 - Metaphor
 - Abstract
 - Role models
-
 
 ** DONE Thinking about stock photos
    CLOSED: [2013-08-11 Sun 18:06]
@@ -1486,7 +1475,6 @@ Hypothesis:
 
 ** DONE Thinking about how I can use Evernote more effectively
    CLOSED: [2013-08-11 Sun 18:06]
-
 It took me a couple of hours, but I finally cleared the 700+ items
 that had piled up in my Evernote inbox. Every so often, I go on a
 tagging and filing spree. I was thinking about this because Timothy
@@ -1573,6 +1561,238 @@ experiment or two... Let's find out how that works!
 #+BEGIN_COMMENT
 Does org2blog respect comments? If so, I can use that to add more details.
 #+END_COMMENT
+
+** Stuff that works for me
+
+- Writing works better than interviews or speaking
+    - Outlines, links
+    - Even though I say a lot more words in an interview
+    - Things I like about interviews
+        - Other people's questions
+        - Back and forth
+        - 
+
+** Managing a daily blog
+   :LOGBOOK:
+   CLOCK: [2013-08-29 Thu 19:16]--[2013-08-29 Thu 19:57] =>  0:41
+   CLOCK: [2013-08-29 Thu 18:59]--[2013-08-29 Thu 19:16] =>  0:17
+   CLOCK: [2013-08-29 Thu 12:45]--[2013-08-29 Thu 12:57] =>  0:12
+   :END:
+   :PROPERTIES:
+   :Effort:   4:00
+   :END:
+- There's so much to learn and so much to write about.
+    - Read books, blog posts, and manuals
+    - Try something new
+    - Learn at least one thing a day.
+- One complete thought per post
+    - 
+  
+- Not everyone is interested in everything.
+- Arrangement
+    - I write posts in advance
+    - I move posts around so that a variety of interests are covered each week
+        - Emacs, visual thinking, blogging, life, productivity, learning
+        - Things I want to write more about
+            - Books: I read faster than most people do, and I have an awesome library nearby. Summaries?
+            - Learning
+    - When I've got several posts lined up in a weekly series, I link them together and add a note to help people anticipate the next one.
+- Categories
+    - Category feeds
+- Syndication, Planet Emacsen
+- Making this better
+    - Series?
+    - Visualizations?
+    - Highlight
+        - What is a good essay?
+            - Montaigne's Essays
+            - Start with a question or something I want to learn
+            - Both geeky and personal
+            - Point to other people's perspectives
+                - Books
+                - Blog posts
+        - How about a series every month or every two months, wrapped up in a PDF?
+            - Weekly post
+   
+http://blog.penelopetrunk.com/2009/04/21/8-reasons-why-you-wont-make-money-from-your-blog/
+
+Once you're /there/, how can you make it better?
+
+- Why
+- How I work
+  - Gigantic outline helps me remember what I wanted to write about so that I don't forget while I'm in the middle of research.
+  - I use a feed reader to quickly skim updates from hundreds of blogs.
+
+
+- Ideas
+  - Outline
+- Editorial calendar
+  - Shuffle posts around to cover a variety of interests
+- Challenges
+  - People are interested in different things
+- When you blog every day
+  -  
+
+** What would it take to become comfortable with giving people advice?
+
+** Return on time :data:
+
+It took me around two hours each to create the two images in http://sachachua.com/blog/2013/09/how-to-learn-emacs-keyboard-shortcuts-a-visual-tutorial-for-newbies/
+
+It took me four hours to create http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/
+
+It takes me about two hours to read a business book in depth, creating a visual summary on the go.
+
+Sketching a 1-hour talk generally takes 2-4 hours, including time to get there and a schedule that usually includes networking.
+
+Shorter talks tend to be lighter-weight unless they've been rigorously planned and rehearsed.
+
+** Random
+http://pushingsocial.com/blog-purpose/7-simple-ways-to-get-your-readers-to-spend-more-time-on-your-blog/
+** Sneak peeks
+- One post a day, unless I'm sketchnoting an event or I'm super-excited
+- Share A Draft and Editorial Calendar
+- makes it possible to spread posts out while giving people links to the resource
+- Windows Live Writer doesn't pick up the date, so I need to make sure I set the date again
+
+** Blogging advice that I'm not planning to follow
+- keyword optimization
+- e-mail list
+- linkbait
+- RSS feed summaries
+- summaries on front page
+** Blogs and e-mail newsletters
+
+- conversation with Timothy Kenny, who has just started experimenting with daily e-mail newsletters
+- I suggested public archive
+
+- http://www.productiveflourishing.com/why-i-was-so-worked-up-about-killing-my-newsletter/#utm_source=feedly
+
+- I've been thinking about e-mail newsletters because Timothy Kenny
+  has just started with his.
+- Typical advice for growing and (dare I say it?) monetizing your
+  blog.
+  - Offer an incentive for people to sign up for your mailing list.
+    - PDF
+    - exclusive content
+  - Put people on an autoresponder.
+  - Mail people regularly to build the relationship
+    - Sell them stuff later on
+- I don't even send friends or family e-mail normally
+  - Hmm, maybe I'm not used to the grammar of it?
+- also, it takes me an average of 6 minutes to reply to an e-mail. 
+  - Oddly,
+- RSS is mostly dead. Only geeky people use it. [[blog-subscribe][outline]]
+- Automatic e-mail newsletters
+- I want to sell things only if they save you a lot of time
+- Forget that. I want to give away so much that you almost feel
+  obliged to help.
+  - and since I don't need that much money for my lifestyle (I think)
+- I'm very good at planning inexpensive experiments. Besides, that
+  makes it easier for other people to replicate.
+
+
+Why: because there are people who send e-mail, but don't blog
+
+- why don't they blog?
+  - self-conscious: only the "best content" out there
+\
+
+** Blogging excuse-buster: I don't want to blog because I want to put my best foot forward
+
+This is something I hear a lot from people. "I don't want to blog
+because I might be embarrassed." 
+
+** Thoughts on growing an audience
+- Sometimes I wonder if I should do more of the "Right Things" when
+  it comes to building a blog.
+    - Focus on one or two topics so that people will subscribe because
+      you're consistent and reliable.
+    - Research keywords so that you can optimize for search engines
+      queries and write content that will bring people in.
+    - Reach out to new audiences with guest posts.
+    - Send e-mail newsletters so that you can build relationships and
+      so that you can sell to people later on.
+- Why
+    - Can save other people time
+    - Can learn from more people
+    - Scale up - create more value for each unit of time I invest
+- Sometimes I'm envious of blogs with hundreds of comments. On sites
+  like that, people learn a lot from each other, not just me. But I
+  remember that reading and responding to comments takes time, and I'd
+  want to filter through them for spam, and that other people glaze
+  over when they see pages and pages of comments and end up not
+  reading them. It's okay. I like the in-depth conversations we have
+  in comments. I'm not entirely sure if I'm sour-graping, but it seems
+  to make sense.
+- Sometimes I wonder if this should be more like other blogs. But then
+  that's a well-travelled path, with lots of other people exploring
+  it. I have this amazing opportunity to try something different. I
+  should.
+- Actually, I already know what I should do--what works for me, what
+  I should do more.
+    - The enduring posts on my blog are either tech notes (Emacs,
+      Drupal) or sketches.
+- The clearer my "no", the less I'm distracted from the things that I
+  can do.
+- Like the way I hack around my introversion
+    - Write about whatever I'm learning about - variety of interests, and
+      let more focused people use search results and category links
+    - Look at other people's questions and failed search results to
+      nudge me to write about certain topics if I'm curious about them
+      too
+    - Read good blogs and write about what inspires me, linking.
+      Invite people who don't have blogs to share their tips and
+      lessons learned on mine.
+    - Build relationships through comments. Give away as much as I
+      can of what I know. Let people show their appreciation if they
+      want to. Money is nice, but there are other ways too.
+- Risks in getting too big
+    - Internet has a seamy underside
+- Introvert
+- The time I would spend in pitching guest posts, etc.
+    - versus making things
+
+- Drawing
+    - Nearly 39,000 people visited in May, when I published
+    - Plenty of blogs
+    - Lots of infographics
+    - Not that many useful, non-marketing drawings
+- It's okay
+
+- Are there low-effort, high-benefit things I can do to make this better?
+
+    - Might get to the point where people are learning from each other
+        - You can do this elsewhere on the Internet
+        - So it would have to be a particularly interesting
+          combination of people
+
+** Why and how to subscribe to blogs
+# <<blog-subscribe>> 
+
+- since not everyone knows about this
+- why
+  - i read a lot of blogs
+  - i *skim* a lot of blog headlines and excerpts, and I read maybe
+    3-5 posts a day
+  - i mostly read on my phone
+- how
+  - my favourite: feedly
+  - there are a number of alternatives, so it mostly depends on what
+    you like
+
+** How to manage a free-ranging blog
+Role model: boingboing.net
+http://whatever.scalzi.com/
+
+** How to research keywords for blog posts
+# <<research-keywords>>
+http://sach.ac/outline#research-keywords
+
+- recent changes with 
+
+** Writing while you're doing and learning: the power of the gerund 
+- stats
 
 ** Unexpected benefit of outlining
 - More research, because I'm not worried about losing my thought!
@@ -2742,6 +2962,43 @@ hack. =)
 - Homesickness in Toronto
 - Acceptance
 * Other geekery
+** Setting up dynamic DNS with Tomato and Namecheap, and limiting SSH :geek:linux:
+   :PROPERTIES:
+   :ID:       o2b:ece9e199-4c94-46ed-9d5c-204af6ef949a
+   :POST_DATE: [2013-09-06 Fri 19:04]
+   :POSTID:   26070
+   :BLOG:     sacha
+   :END:
+
+We have a computer downstairs with backups of files, and I've been using it to explore Vagrant and development using virtual machines as well. It can be useful to be able to SSH into it from outside our network, so I spent some time setting up a dynamic domain name, port forwarding, and new limits for the SSH server.
+
+[[http://namecheap.com][Namecheap]] (the domain name registrar that I use) supports dynamic domains, so it was easy to enable.
+
+1. Enable dynamic domains: *Manage Domains*, choose the domain, and then choose *Dynamic DNS*. Enable it and copy the password.
+2. Create an A record: Choose *All Records* and add a subdomain with a temporary address (ex: 127.0.0.1) and type *A*. Save the settings.
+
+Our router uses the [[http://www.polarcloud.com/tomato][Tomato firmware]], which has built-in support for Namecheap and other dynamic DNS provider.
+
+1. Click on *Basic* - *DDNS*.
+2. Fill in the details for *Dynamic DNS 1*.
+
+Before I forwarded the ports, I wanted to make sure that SSH permitted password authentication on our local network but required passphrases for external connections. [[http://blather.michaelwlucas.com/archives/818][OpenSSH: requiring keys, but allow passwords from some locations]] (Michael W. Lucas) was really helpful. I edited =/etc/ssh/sshd_config=, set =PasswordAuthentication no=, and added the following lines to the end of the file:
+
+#+begin_example
+Match Address 192.168.0.0/16
+  PasswordAuthentication yes
+#+end_example
+
+(I had some problems in the beginning because I typed this as =Yes= instead of =yes=... Case matters!)
+
+I restarted the SSH server with =service ssh restart= and confirmed that I could still SSH in. 
+
+Back to Tomato. *Port Forwarding* lets you set up forwarding rules. The port for SSH is 22, so I filled in a row with the port I wanted, the internal port, and the internal IP address of the server. I clicked *Save* (forgot to do this a few times because the button was near the end of the page) and that was that.
+
+On Windows, I walked W- through generating a DSA public key with [[http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html][PuttyGEN]], loading it in [[http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html][Pageant]], and copying it to his =.ssh/authorized_keys2= file.
+
+Posting this here because I'm probably going to want to do this again someday, and it took some searching around. Besides, someone might find it handy!
+
 ** Emacs and Ruby    :requested:
 ruby-end / smartparens
 rinari and inf-ruby
@@ -2749,6 +3006,186 @@ haml-mode
 toggle hash syntax
  Robe and Rubocop - rdg
 ** Making my own URL shortening Wordpress plugin  :wordpress:code:
+** Using Emacs to figure out where I need to improve in order to type faster :emacs:kaizen:geek:
+   :PROPERTIES:
+   :ID:       o2b:28f3488d-11f7-4a48-a848-ec1c7963a66a
+   :POST_DATE: [2013-09-04 Wed 14:35]
+   :POSTID:   26050
+   :BLOG:     sacha
+   :END:
+
+I've been thinking about [[http://sachachua.com/blog/2013/08/thinking-about-how-to-type-faster/][how to type faster than 110wpm]], and digging
+into the specific factors that I could improve. In particular, I
+wanted to get a sense of:
+
+- my theoretical top speed
+- whether alternates or rolls are better for me
+- how quickly I can twitch, measured by single-key repeats or two-key alternations
+
+By using totally artificial typing tests (ex: type "thththth...") instead of word-based ones, I can explore the relationships between character combinations and speed without worrying about hitting SPC, sounding out words, correcting errors, and so on. Since I can do the tests in short sprints, I can rest enough in between to minimize my risk of RSI.
+
+#+begin_html
+<h3>Using Emacs to test my typing speed<h3>
+#+end_html
+
+I haven't come across an online typing test that gives the kind of
+stats I want, or even a per-character or digram breakdown. I thought
+about writing a Javascript-based typing timer, but I figured it would
+be less work to cajole Emacs into measuring what I wanted.
+
+Here's the code:
+
+#+begin_src emacs-lisp
+(defun sacha/timer-go ()
+  "Quick keyboard timer."
+  (interactive)
+  (insert "GO\n")
+  (run-with-timer 3 nil (lambda () (insert "\n")))  ; for warmup
+  (run-with-timer 15 nil (lambda () ; 12 seconds + the 3-second warmup
+                           (let ((col (- (point) (line-beginning-position))))
+                             (insert (format " | %d | \n" col)))
+                           )))
+(local-set-key (kbd "<f7>") 'sacha/timer-go)
+#+end_src
+
+This prints "GO" to show you that it's running. You have three seconds to warm up, so you don't have to worry about wasting any milliseconds after =M-x sacha/timer-go= (or =F7=, the keyboard shortcut I bound mine to). After the warmup, Emacs adds a newline and the "race" is on. There's a 12 second period of actual typing, and then Emacs adds the number of characters you typed. When you see that, you can stop.
+
+Twelve seconds is a useful number for estimating typing speed because the conversion from characters per minute (CPM) to words per minute (WPM) usually uses a factor of 5: CPM / 5 = WPM. So the number of characters you can type in =60 seconds / 5= is probably the number of "words" you could type in a minute. Testing your speed on trivial patterns (ex: 
+ththththththththth)
+
+Note: L and R refer to left and right hand. I've also numbered the fingers with 1 being the thumb and 5 being the pinky. The patterns I used are based on a Dvorak keyboard, but that doesn't matter as much. Just figure out what the equivalent patterns are on your preferred keyboard layout.
+
+Limitations: I didn't do any special calculations to deal with errors (there were many doubling or transposition errors multi-character sequences), so the actual CPM will be lower. Also, repeated character sequences are definitely not normal and have quirks of their own. It's interesting to establish the range and see the kinds of errors that show up when I go faster than I'm comfortable with, though. 
+
+#+begin_html
+<h3>Pure speed<h3>
+#+end_html
+
+| Key description  | Pattern          | Estimated WPM based on CPM/5 |
+|------------------+------------------+------------------------------|
+| keyboard mashing | -none- (mashing) |                          379 |
+| keyboard mashing | -none- (mashing) |                          379 |
+| keyboard mashing | -none- (mashing) |                          354 |
+| R side mashing   | -none- (mashing) |                          245 |
+| L side mashing   | -none- (mashing) |                          217 |
+
+If you don't care what you're typing, it's easy to type quickly. This is just about how fast my hands go if I don't have to think about which finger to activate. This mostly ended up as alternating left- and right-hand rolls (ex: aoeusntoahuesnto). Because I didn't have to precisely alternate, two-handed mashing resulted in more characters than one-handed mashing. Interestingly, my right hand is slightly faster than my left.
+
+#+begin_html
+<h3>Alternates versus rolls<h3>
+#+end_html
+
+4-key combinations
+
+| Key description   | Pattern  | Estimated WPM based on CPM/5 |
+|-------------------+----------+------------------------------|
+| R-side 4-key roll | snthsnth |                          232 |
+| L-side 4-key roll | aoeuaoue |                          201 |
+| L 3 & 2, R 3 & 2  | eutheuth |                          164 |
+
+3-key combinations
+
+| Key description   | Pattern  | Estimated WPM based on CPM/5 |
+|-------------------+----------+------------------------------|
+| R 3 & 2, L 3      | thethe   |                          187 |
+| L 5, R 4 & 2      | andand   |                          184 |
+| R 3 & 2, L 3      | thethe   |                          182 |
+| roll R 3          | nthnth   |                          176 |
+| R 3 & 2, L 3      | thethe   |                          170 |
+| roll L 3          | oeuoue   |                          166 |
+| roll L 3          | oeuoeu   |                          164 |
+| R 3 & 2, L 3      | thethe   |                          159 |
+| roll R 3          | nthnth   |                          152 |
+| R 3, L 4 & 3      | toetoe   |                          140 |
+
+I expected rolls to be faster than alternates, but it turns out that alternating works out fine too ("the" and "and" on a Dvorak keyboard). Same-hand rolls had fewer errors than alternates, though - timing can be tricky when doing high-speed repeats. That can be partially handled by autocorrecting "teh" to "the" and similar transpositions. I use an AutoHotkey-based autocorrect script, but it screws up the typing tests I like, so I can't take advantage of it then. A roll-optimized keyboard layout might be more effective.
+
+3- and 4-character rolls like the ones I tested aren't that common in actual typing, but it might be possible to find keyboard layouts that are better-optimized for the languages I use. I've read that Arensito, Capewell, and Colemak focus more on rolls and alternating rolls, so they might be worth a look.
+
+#+begin_html
+<h3>Two-character pairs<h3>
+#+end_html
+
+| Key description | Pattern | Estimated WPM based on CPM/5 |
+|-----------------+---------+------------------------------|
+| alt L and R 1   | uhuh    |                          139 |
+| L 5, R 5        | asas    |                          137 |
+| R 2 & 3         | chch    |                          135 |
+| R 2 & 3         | thth    |                          134 |
+| L 2, R 3        | tutu    |                          130 |
+| R 3, L 4        | toto    |                          129 |
+| L 2, R 2        | uhuh    |                          128 |
+| R 1 & 5         | xsxs    |                          126 |
+| L 2 & 3         | eueu    |                          124 |
+| R 2 and 5       | shsh    |                          115 |
+
+Two-character patterns are slower than three-character patterns, probably indicating that there's a small delay as I think about repeating things. Alternates and same-hand two-character pairs seem to work okay. Even for same-hand two-character pairs, I get the occasional doubling or transposition error.
+
+#+begin_html
+<h3>Single-finger twitching<h3>
+#+end_html
+
+| Key description | Pattern | Estimated WPM based on CPM/5 |
+|-----------------+---------+------------------------------|
+| R 2             | hhhh    |                           79 |
+| R 3             | tttt    |                           76 |
+| R 1             | mmmm    |                           75 |
+| R 4             | nnnn    |                           74 |
+| L 2             | uuuu    |                           73 |
+| R 5             | ssss    |                           71 |
+| L 3             | eeee    |                           71 |
+| L 4             | oooo    |                           65 |
+| L 1             | kkkk    |                           64 |
+| L 5             | aaaa    |                           61 |
+
+Single-finger keypresses (no automatic repeats) are slow. Good thing I don't have to do them that often. If this represents the speed at which I can send an impulse to my finger and have it do something, this might be a limiting factor for my typing speed, which is compensated for by alternates and rolls. 
+
+#+begin_html
+<h3>Three characters with repositioning<h3>
+#+end_html 
+
+| Key description | Pattern | Estimated WPM based on CPM/5 |
+|-----------------+---------+------------------------------|
+| R 3, L 2, L 2   | cupcup  |                           67 |
+| R 3, L 5, R 3   | catcat  |                           66 |
+| R 2, L 4, R 2   | dogdog  |                           64 |
+
+Moving my fingers takes time too. Also, did you know that there are typing equivalents of tongue-twisters? I can't type "ranranranran..." a long time without it turning into rna and other permutations. Maybe my brain gets hiccups.
+
+#+begin_html
+<h3>Interrupted combinations</h3>
+#+end_html
+
+| Key description   | Pattern  | Estimated WPM based on CPM/5 |
+|-------------------+----------+------------------------------|
+| R 4, L 4, R 3     | notnot   |                           63 |
+| L 4, R 4, L 3     | oneone   |                           57 |
+| L 5, R 4, L 3     | areare   |                           55 |
+
+Alternating hands is actually pretty tough if you have to care about
+timing. Oddly, this is slower than repositioning. Maybe it's because
+the repositioning helps me remember where I am in the word when I'm
+repeating it, so natural typing will be a different case.
+
+#+begin_html
+<h3>Wrap-up<h3>
+#+end_html
+
+Chunking seems to make a big difference for me. 4-character combinations tend to beat 3-character combinations and those tend to beat 2-character combinations, unless there's some timing involved. Common combinations (the, and) are easier to type. If I can get better at chunking words into syllables, that might help. The most common digraphs are
+TH, HE, AN, IN, ER, ON, RE, ED, ND, HA, AT, EN, ES, OF, NT, EA, TI, TO, IO, LE, IS, OU, AR, AS, DE, RT, and VE ([[http://scottbryce.com/cryptograms/stats.htm][source]]), so that might be good to look at next.
+
+Twitching or moving individual fingers are slow operations, so being able to "look ahead" and move my fingers to the right spots while I'm typing the first few characters helps. Muscle memory also helps minimize errors.
+
+Also, maybe finger dexterity and agility exercises?
+
+I'm probably in the region of Diminishing Returns here. I could spend hours inching up my typing speed... or I could spend that time doing other things. Now that I've identified specific areas to look into, though, I might be able to set up exercises to take advantage of interstitial time. For example, while I'm reading a book, I could do finger dexterity exercises (pausing, of course, if I feel any hint of strain - I'd like to avoid RSI if I can).
+
+On another note, testing my theoretical speed in this way reminded me a little of how we used to play Decathlon on the computer as kids. (Was it [[http://www.mobygames.com/game/microsoft-decathlon/screenshots][Microsoft Decathlon]]? The screenshots look familiar...) Somehow our keyboard survived the rampage back then. =)
+
+#+begin_html
+<div class="highlight-box">Have you analyzed your typing? What did you learn?</div>
+#+end_html
+
 ** RMagick and data-based photo mosaics
 ** Key phrase extraction 
 http://pypi.python.org/pypi/topia.termextract/ ?
@@ -2769,6 +3206,70 @@ https://code.google.com/p/maui-indexer/wiki/Installation ?
 ** Synchronizing video tracks
 
 ** Dragon NaturallySpeaking and NatLink
+* Resources
+** The X tools I use to blog
+- Wordpress
+- Linode
+- Windows Live Writer
+- Autodesk Sketchbook Pro
+** 31 Wordpress plugins I use and why they're worth the memory for me :wordpress:
+
+One of the advantages of setting up Wordpress on my own server ([[http://sachachua.com/blog/2011/10/decision-review-switching-from-rackspace-cloud-to-linode/][I use Linode at $30/month]]) is the ability to add plugins that make my blogging life easier. Each plugin takes a little bit of extra memory, but I think they're worth it. Here are 31 of the plugins I use on my blog at http://sachachua.com .
+
+- Organization
+    - [[http://stresslimitdesign.com/editorial-calendar-plugin][WordPress Editorial Calendar]] :: Awesome way to see what I've got scheduled for when, and drag-and-drop interface for rescheduling posts
+    - [[http://urbangiraffe.com/plugins/redirection/][Redirection]] :: Super-useful for setting up short URLs or dealing with broken links
+    - [[http://wordpress.org/extend/plugins/shareadraft/][Share a Draft]] :: Excellent way to give people sneak previews
+    - [[http://www.mokamedianyc.com/dev/show-menu-shortcode/][Show Menu Shortcode]] :: More shortcuts for adding in-page navigation
+    - [[http://redmine.sproutventure.com/short-post-urls][Short Post URLs]] :: Quick numeric URLs for easy sharing
+- Commenting
+    - [[http://akismet.com][Akismet]] :: spam filtering for comments
+    - [[http://betterwp.net/wordpress-plugins/bwp-recent-comments/][Better WordPress Recent Comments]] :: paginated list of comments in my sidebar. I like quickly seeing new comments, so this is handy.
+- Security
+    - [[http://bit51.com/software/better-wp-security/][Better WP Security]] :: Because a compromised blog sucks.
+    - [[http://www.wordfence.com/][Wordfence Security]] :: Security, of course
+- Discovery
+    - [[http://www.assembla.com/wiki/show/llbbsc/wpOTD][On This Day]] :: Because I've got more than ten years of posts and it's interesting to look back into the past
+    - [[http://wordpress.org/extend/plugins/wordpress-popular-posts][Wordpress Popular Posts]] :: Because data
+    - [[http://rmarsh.com/plugins/post-plugin-library/][Post-Plugin Library]] :: Needed by the Similar Posts plugin
+    - [[http://rmarsh.com/plugins/similar-posts/][Similar Posts]] :: Suggestions
+- Categories and tags
+    - [[http://scribu.net/wordpress/term-management-tools][Term Management Tools]] :: Rein in your categories and tags
+    - [[http://wordpress.org/extend/plugins/uncategorized/][Categorized]] :: Gets rid of "Uncategorized" when I actually pick a category. Handy when I was reorganizing.
+    - [[http://www.billerickson.net/shortcode-to-display-posts/][Display Posts Shortcode]] :: Lets me easily list posts from a category or tag
+    - [[http://wp-types.com/][WP Views]] :: Flexible system for creating lists of things (paid plugin)
+- Images
+    - [[http://wordpress.org/extend/plugins/easy-add-thumbnail/][Easy Add Thumbnail]] :: Because I'd rather not set the featured image myself if I already have an image
+    - [[http://www.nextgen-gallery.com/][NextGEN Gallery by Photocrati]] :: Easy to add images to. Great for my sketchnotes.
+- Stats
+    - [[http://www.feedburner.com/fb/a/help/wordpress_quickstart][FeedBurner FeedSmith]] :: Because stats are helpful
+    - [[http://yoast.com/wordpress/google-analytics/#utm_source=wordpress&utm_medium=plugin&utm_campaign=wpgaplugin&utm_content=v420][Google Analytics for Wordpress]] :: Because stats are helpful
+- Other conveniences
+    - [[http://status301.net/wordpress-plugins/highlight-search-terms][Highlight Search Terms]] :: Making life easier for searchers
+    - [[http://wordpress.org/extend/plugins/jetpack/][Jetpack by WordPress.com]] :: A behemoth of a plugin, but the subscriptions are easier for people
+    - [[http://pn.xn--strbe-mva.de/][Post Notification]] :: I used to use this for e-mail subscriptions and I haven't moved everyone over to Feedburner yet, so I keep it around
+    - [[http://yoast.com/wordpress/rss-footer/][RSS Footer]] :: Add links to my scraped content
+    - [[http://lesterchan.net/portfolio/programming/php/][WP-Polls]] :: This makes it easy to ask quick questions, which I should do more of
+    - [[http://www.kreci.net/code/wordpress/subscribers-text-counter-widget/][Subscribers Text Counter]] :: Social proof without dealing with visually-conflicting widgets
+    - [[http://slangji.wordpress.com/wp-missed-schedule/][WP Missed Schedule]] :: Helps guard against missed schedule posts. Still happens, though
+- A patched version of Auto Featured Image :: I changed this to pick the largest image
+- Sacha Chua's fixes :: Little tweaks to make my blogging life easier, such as adding Share a Draft and Redirection to my post editing screen
+
+Every so often, I go through my list and remove plugins I don't use as much in order to reduce memory use and improve security. Still, with thousands of plugins available on http://wordpress.org/extend/plugins, there are always more ways to make blogs better. (Come to think of it, I should probably add a SEO-focused plugin too. [[http://wordpress.org/plugins/wordpress-seo/][WordPress SEO by Yoast]] seems popular...) Hope this list of favourites helps!
+
+#+begin_html
+<div class="highlight-box">What Wordpress plugins do you use?</div>
+#+end_html
+
+** The X tools I use for sketchnoting and drawing
+** The X tools I use for writing
+** The X tools I use for learning
+
+** Services I use and recommend
+- Linode
+- Namecheap
+- Odesk
+
 * Living an awesome life
 ** Enough time
 - Occasionally people write to me saying that they'd love to try
@@ -3444,6 +3945,167 @@ Requested by David Achkar
 Oddly, WIND Mobile was under the impression that I spent at least
 three minutes in Ottawa last month - one minute on July 11, and
 another two minutes on July 25. The funny thing is 
+** DONE Ten years of learning how to cook                    :cooking:review:
+   CLOSED: [2013-09-02 Mon 12:24]
+   :LOGBOOK:
+   CLOCK: [2013-09-02 Mon 11:48]--[2013-09-02 Mon 12:24] =>  0:36
+   CLOCK: [2013-09-01 Sun 23:20]--[2013-09-02 Mon 01:14] =>  1:54
+   CLOCK: [2013-09-01 Sun 22:09]--[2013-09-01 Sun 23:09] =>  1:00
+   CLOCK: [2013-09-01 Sun 13:39]--[2013-09-01 Sun 13:44] =>  0:05
+   CLOCK: [2013-09-01 Sun 12:04]--[2013-09-01 Sun 12:36] =>  0:32
+   CLOCK: [2013-09-01 Sun 11:04]--[2013-09-01 Sun 12:04] =>  1:00
+   :END:
+   :PROPERTIES:
+   :Effort:   4:00
+   :ID:       o2b:6abd3be2-7116-4ab4-81e7-c6dd696b10d3
+   :POST_DATE: [2013-09-02 Mon 12:18]
+   :POSTID:   26038
+   :BLOG:     sacha
+   :END:
+
+A few of my friends want to learn more about cooking, going beyond eating out or occasionally making a bowl of pasta at home. It’s a welcome change, and I’m looking forward to more and more people making that shift. 
+
+For some people, it seems a point of pride to not know how to cook: they’re too busy to sit down and do that, or there are so many good restaurants out there, or cooking is just plain not enjoyable. For us, cooking is part of our way of life. We can cook most meals for much cheaper than we can buy them, and our weekday meals are more convenient than eating out. I love being able to have my favourite foods at any time of day. Despite the occasional drudgery, I’ve grown to enjoy cooking – especially when W- and I spend a few hours putting together something delicious.
+
+I thought I'd reflect on past 10 years of learning how to cook to see what I learned and how I learned it. When I started, I struggled with the basics: burning pancakes, trying to figure out how to use ground beef in different recipes. Now we can make lists based on the grocery fliers, adjust our plans based on what's marked down for quick sale, and stock our freezer with meals to last us through the week.
+
+#+begin_html
+<h3>B.C. - Before Cooking</h3>
+#+end_html
+
+Growing up, I hadn't imagined being this comfortable with cooking. My sister was the cook in the family, the one with an intuitive sense of what went with what. She took whatever was in the fridge and made something delicious with it, no recipe required. We enjoyed the occasional meal she prepared for us, and she told us stories of how cooking helped her make friends while travelling. The rest of the time, we were spoiled by the fact that family business--advertising photography--retained a cook to feed clients, staff, and us.
+
+I wasn't totally hopeless. I helped in the kitchen, and I loved making lasagna together with my mom. I took cooking lessons one summer. I mainly learned that following recipes produced reasonable results. At home, I occasionally made myself instant noodles or reheated pork and beans, but I didn't really have the motivation to cook.
+
+#+begin_html
+<h3>Cook or Die</h3>
+#+end_html
+
+That changed a few months after I graduated from university. I had just turned twenty, and I was teaching computer science at my alma mater. To cut down on the commuting time, we found an apartment-style dormitory near the campus. Each unit was shared by two people, and there was an unfurnished kitchen. My parents outfitted it with a hot plate (a single electric burner, which was all the dormitory allowed), a toaster oven, a microwave, and a compact fridge. 
+There were a number of fast food restaurants in walking distance that I'd frequented as a student, but I resolved that my grown-up life shouldn't involve KFC every lunch and dinner. There was a supermarket a bit of the way up the street. To force myself to learn how to cook, I decided that I would eat out for at most one meal a day. If I didn't cook, I'd go hungry. [[http://sachachua.com/blog/2003/11/cookordie/][Cook or die]]. (Well, that was an exaggeration, but it was a good project name.)
+
+Did I mention that my apartment didn't have Internet access? I know. Boggle.
+
+It was... interesting. I loaded up on kid- and singles- and microwave-oriented cookbooks, and occasionally made things up just as an experiment. You may find [[http://sachachua.com/blog/category/cookordie/?order=asc][my blog posts from that time]] amusing. Here's a summary of the first two weeks:
+
+- [[http://sachachua.com/blog/2003/11/cookordie-day-1/][Day 1]]: Hungarian sausages and pita pockets - not terribly appetizing, but edible enough. 
+- [[http://sachachua.com/blog/2003/11/cookordie-day-2-veal-sausage-and-potatoes/][Day 2]]: I discovered that pita pockets are called pita *pockets* for a reason.
+- [[http://sachachua.com/blog/2003/11/cookordie-day-3-more-sausages/][Day 3]]: Figured out that pre-slicing the ingredients speeded up assembly.
+- [[http://sachachua.com/blog/2003/11/cookordie-day-4/][Day 4]]: Ate the same thing.
+- [[http://sachachua.com/blog/2003/11/cookordie-day-5-more-sausages/][Day 5]]: The remaining pitas were moldy. Discovered the power of freezing.
+- [[http://sachachua.com/blog/2003/11/cookordie-day-6/][Day 6]]: A respite! Leftovers from a restaurant. I used a microwave, so that sort-of counts as Cook or Die, right?
+- [[http://sachachua.com/blog/2003/11/cookordie-day-7-reheated-rice-sausage-slices/][Day 7]]: More Hungarian sausages...
+- [[http://sachachua.com/blog/2003/11/cookordie-day-8-the-potato-misadventures/][Day 8]]: A different kind of sausage. Also, potatoes.
+- [[http://sachachua.com/blog/2003/11/20031127-day-9-graduated-to-saucepan/][Day 9]]: Graduated to using a saucepan.
+- [[http://sachachua.com/blog/2003/12/day-10-more-ground-beef-salad/][Day 10]]: Ground beef and salad?
+- [[http://sachachua.com/blog/2003/12/day-11-20031204-late-entry/][Day 11]]: Burritos - [[http://sachachua.com/blog/2003/12/w00t-hacked-the-ground-beef/][ground beef level up]]!
+- [[http://sachachua.com/blog/2003/12/burrito-attempt-flop/][Burrito flop. Boo.]]
+- [[http://sachachua.com/blog/2003/12/breakfast-steak-potatoes/][Breakfast steak and potatoes]]
+- [[http://sachachua.com/blog/2003/12/backlog-beef-beans-and-bacon-in-buns-20031210/][Beef, beans, bacon, buns]]
+
+As you can see, I was a bit of a slow learner. ;)
+
+Eventually I graduated to being confident enough in a few recipes that were ready for company. I was living in an exclusive girls' domitory, so no guys were allowed inside the units. That meant my friends could help me with groceries and give me tips, but they couldn't actually help me learn how to cook unless I was home for the weekend. The dormitory did have a garden with picnic tables and some shelter, though, and both male and female guests were welcome there. We worked out this weekly rotation, and I had dinner with someone practically every day. I particularly enjoyed being able to prepare individual-sized portions of lasagna rolls using the recipe in one of my microwave cookbooks. Even in pouring storms, friends would come and join me. It was wonderful.
+
+I enjoyed teaching, but I left that to take advantage of a technical internship that the Japanese government was offering. In the in-between months, I stayed at home. In Japan, I stayed at a hotel-type dormitory with a cafeteria. There was hardly any cooking, although I did develop an appreciation for the sheer variety of ramen (instant or otherwise) available in Japan.
+
+#+begin_html
+<h3>Graduate student life</h3>
+#+end_html
+
+When I moved to Canada for graduate school, I made sure I was in an apartment-style residence with a kitchen and a small shared living room. I shared my unit with three other people, and the mix changed each semester or so. There was a 24-hour supermarket within walking distance (somewhat expensive, but convenient) and other markets available a long walk or a short streetcar ride down the street. 
+
+#+BEGIN_COMMENT
+This was also when I started tracking my finances with Ledger, so I have the stats from then. From October 2005 to February 2007 (17 months), I spent an average of $67/month on groceries (71%) and $27/month on eating out (29%). I ate a lot of pasta, but sometimes I tried out other recipes too.
+#+END_COMMENT
+
+I made friends: some students who lived in the building, and other people I met in my studies or research. I often invited a couple of friends over for dinner, usually something experimental - a stir-fry, or chicken breast and sauce, or whatever recipe intrigued me. From time to time, I took advantage of the large common outdoor party/barbeque area.
+At some point, I decided I was grown-up enough to want my own set of plates instead of the mismatched hand-me-downs, so I headed over to Walmart and splurged on a set of Corelle, a rice cooker, a teapot, and other essentials. 
+
+There were occasional group cooking lessons in the residence, open to whoever signed up. I liked them. We split up into small groups and prepared different recipes such as roasted red pepper soup, and then we got to enjoy the tastes of all the recipes together.
+
+The administration decided on the mix of roommates based on the questionnaires we submitted. I didn't always get along with my room-mates, one of whom tended to abscond with my dishes without returning them. (I lost a couple of cereal bowls this way.) When I had finished most of my research and lined up a job at IBM, I decided it was time to look for my own apartment. Of all the ones I looked at, my favourite was a one-bedroom apartment across the street. The rent was a little high and the kitchen was /tiny/, but I was looking forward to cooking without squabbling over fridge space or dishes in the sink.
+
+#+begin_html
+<h3>Cooking with W-</h3>
+#+end_html
+
+I was a relative newcomer to Canada, so the building management didn't want to prepare a lease without a co-signer. Of all my friends, W- was probably the stablest and most respectable. He knew I managed my finances well and had the year's rent set aside, so he didn't have to worry about being on the hook for it. In preparation for the move, I'd boxed up my kitchen tools and resolved to live on peanut butter sandwiches like my mom had done in university. W- took pity on me and invited me over for dinner. These scrumptious home-made meals became a regular occurrence.
+
+We signed the paperwork and moved my stuff (easy across the street, especially with a skateboard), I feathered my nest and set up my tiny kitchen. As a housewarming present, W- gave me Happy Bunny socks with witty slogans, since I'd mentioned my sister's trick of happy socks. As a kitchen-warming present, he gave me a basic set of Wusthof Classic knives. (Embarrassed by the generosity of the gift, I tried to talk him out of it, but he insisted that good tools make all the difference.)
+
+They say the way to a man's heart is through his stomach. Apparently, this is true for women too. Even though the paperwork was done, W- kept inviting me for delicious meals: crushing basil in a mortar and pestle for pesto, pinakbet (which he had learned how to make long before meeting me, so it was fun to encounter this familiar dish), a comparison of two lasagna recipes. I assisted, of course: chopping, stirring, learning more about cooking. Sometimes I invited W- or other people over to my place for whatever simple dishes I could prepare with my minimal kitchen setup; the knives made preparation a joy even in the cramped space. 
+
+Eventually we realized we were in love. I sublet my apartment and moved in. I brought my cherished knives and selected kitchen tools, leaving the rest for my tenant.
+
+After my tiny kitchen, W-'s kitchen was a real treat. Cast-iron skillets, a decent-sized wok, /two/ rice cookers (large and small), a low-cost supermarket up the street, a garden to grow herbs in, a large kitchen table that we ended up spending most of our time at... I volunteered to be the sous chef as often as I could. Over time, I took the lead in making more meals. I learned family favourites and we discovered new ones together. Cooking with W- made learning /fun/ - we could celebrate successes and gamely finish anything that wasn't an absolute failure.
+
+Cooking was part of W-'s way of life, and I was delighted to make it part of mine too. We rarely ate out. It just wasn't convenient during schooldays, and cooking was more frugal anyway. From March 2007 to August 2009 (30 months), I logged $145/month for groceries for 2.5 people (85%) and $25/month for dining out (15%). The actual numbers are different because W- picked up some groceries and usually treated me when dining out, although we set up this system where I contributed a fixed amount to household expenses so it worked out anyway.
+
+We periodically tweaked the kitchen to improve the way we worked. We moved the canned goods from the basement into an industrial-style shelving unit. We moved the microwave to a custom shelf and freed up the rolling table it had been on, which turned out to have an excellent cutting surface on top of it - more counter space! Little tweaks like that made cooking more efficient and more fun.
+
+I'd been reading about the benefits of a chest freezer on frugality blogs. We weren't sure if we had the space or if we could make it part of our lifestyle, so we dithered. In 2009, W- and I finally decided to take the plunge. We bought a 5.3 cu-ft freezer and started stocking it with sale items, filling the extra space with water jugs to improve efficiency. Eventually we learned the basics of bulk cooking, discovered which of our favourites froze well, and standardized our food containers for easier organization.
+
+#+BEGIN_COMMENT
+From September 2009 to July 2013 (47 months), I logged $266/month for groceries for 3 people (86%, $89pp) and $42/month (14%) for dining out. Same limitations for tracking, although now I'm paying for most of the groceries because I like tracking those numbers.
+#+END_COMMENT
+
+We also experimented with community-supported agriculture. It was a
+good way to get through lots of vegetables, and Internet recipes were
+really helpful. (All that zucchini! All that cabbage!) We eventually
+decided to buy our own vegetables, but it was a good experience.
+
+Now I've gotten to the point where a 30% markdown on pork tenderloin makes me think of tonkatsu, I can make a stir-fry with whatever vegetables look okay, and cooking is more like fun than a chore.
+
+#+begin_html
+<h3>What I learned along the way</h3>
+#+end_html
+
+*People make cooking much more fun*
+
+Cooking by myself was a drag. Cooking for other people was better, because we could enjoy the good stuff and laugh about the dishes that didn't go as well. (You can tell who your friends are - if they eat your experimental cooking, they're good friends!) Cooking /with/ other people was the best, because then you can chat while chopping (carefully) and watch out for each other (looks like the eggs are done!). W- helped me learn so much more about cooking than I probably would have on my own.
+
+*Good tools really do matter*
+
+A sharp knife is less dangerous than a dull one because a sharp knife won't slip. W- periodically sharpens the knives, and I try to remember to use the steel before I use the chef's knife. I've also come to really appreciate the convenience of a dough scraper, Microplane graters, and other little kitchen things. That said, we try to minimize the number of unitaskers we have: no egg poachers, no slot toasters, no corn cob holders... This means our drawers are easier to organize and keep uncluttered.
+
+*The Internet is awesome*
+
+The Internet has a gazillion recipes. I used to feel a little intimidated by the variety, but I realized that it meant that recipes are (mostly) just guidelines. Can I skip a spice that I don't normally stock? Can I substitute an ingredient for something I don't have? Do I want to adjust the temperature so that I can bake two different things at the same time? Chances are that someone has a recipe that calls for that, so it should be fine. It might not be amazing, but it will be okay.
+
+*Absolute failures are very rare*
+
+There was the time I put the yeast in water that was too hot. My lump of pizza dough didn't rise, and I had to throw it out and start over. Sometimes I burn things and have to scrape off bits. One time I was learning about seasoning cast-iron pans and I heated one for so long that the season flaked off. I broke a rice cooker and repaired it by replacing the thermal fuse. Most of my cooking failures were salvageable, though. It turns out that it's difficult to Completely Mess Things Up, so you should worry less and just go ahead and try it.
+
+*Chest freezers and bulk cooking make everything easier*
+
+Cooking in bulk lets us minimize the number of left-over ingredients, especially if we adjust the recipes. Having meals in the freezer is an amazing way to reduce the risk of cooking experimental recipes: if it's an absolute failure, well, there's a guaranteed meal all ready to go. Freezing is also great for dealing with leftovers. If I don't feel like eating the same thing for the rest of the week, I can package it as individual lunches in the freezer for when I feel like having it again.
+
+#+begin_html
+<h3>Next steps for me</h3>
+#+end_html
+
+There's plenty more to learn, and I look forward to getting even better at this over the next ten years. Here are some of the skills that would be fun to improve:
+
+*Regular menu planning and a broader repertoire of recipes*
+
+You know how some households run on predictable patterns? We do a little of this: soups and baking on the weekends because of time-of-use electricity charges; stir-fries to take advantage of fresh vegetables from our grocery shopping; maybe a vegetarian meal sometime during the week... It would be good to get even better at planning what we're going to have, perhaps based on a two-week cycle of themes that's adjusted by what's on sale, and to introduce new recipes within that framework.
+
+*Recycling leftovers into new dishes*
+
+I tend to be pretty happy eating the same thing again and again (or freezing the leftovers if they've been around a while), but recycling left-overs into new dishes would extend their fridge-life and encourage people to eat them. There are books that focus on cascading one recipe into another, and it seems like a good skill to learn. It's also a quick way to get more variety out of the same cooking effort.
+
+*Working with different spices and sauces*
+
+We have a lot of spices in the cabinet. I should make an inventory of them and organize them for easy reach. Sauces are also good ways to give the same basic dish different tastes. If I learn more about flavour, I can stock the freezer and fridge with a wider range of tastes.
+
+#+begin_html
+<h3>So that's my cooking story!</h3>
+#+end_html
+
+I've written a lot about [[http://sachachua.com/blog/category/cooking][bulk cooking and other things I've learned]], so check out those blog posts for more tips.
+You can also read the posts in [[http://sachachua.com/blog/category/cooking/?order=asc][chronological order]] if you want to see all the steps along the way. If you're learning how to cook, good luck and have fun - I hope my story helps!
+
 * 5-year experiment
 ** Learning how to be
 This is probably the hardest part of semi-retirement: learning how to
@@ -3465,6 +4127,16 @@ judging myself for what I do or don't do.
 
 Pretty good, actually.
 
+** To have enough
+- Second-guess the experiment
+  - 
+- Make hay when the sun shines
+- 34 [[http://blog.penelopetrunk.com/2011/02/07/salaries-top-out-at-age-40/]]
+- Enough
+  - More safety
+- W-?
+  - Earlier retirement? Tech ageism?
+  - Changing careers?
 ** What I'm learning from my 5-year experiment
 - Rat race
 - Discretionary time is a wonderful thing
