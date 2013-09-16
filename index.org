@@ -21,7 +21,21 @@ You can find my blog at http://sachachua.com .
 Click on the headings to expand them.
 
 * Learning, writing, visual notetaking, sharing knowledge, and constant improvement
+** Why
+- If you can get better at learning, everything else gets better
+- What does better mean?
+    - Make time to learn
+    - Ask better questions
+    - Find resources
+    - Apply what you learn
+    - Remember what you learn
+- Why do I care?
+    - 
+- What can you expect from this blog?
+
 ** Learning
+*** How to read a book
+*** How to take visual notes
 *** Save time by browsing through blogs in a reader
 - Blogs are great for tips and experiences, but reading all those blogs can take a lot of time.
 - E-mail subscriptions can clutter your inbox.
@@ -34,1198 +48,69 @@ Click on the headings to expand them.
 - Can also read on your computer. Synchronized.
 - To try it with this blog
 
-** Writing / blogging / sharing knowledge
-*** DONE Setting up a development environment that doubles as a backup
-   CLOSED: [2013-09-14 Sat 12:44]
-- =make dev= should copy my database and Wordpress installation, except for my theme directory and my wp-config.php.
-
-*** Posts versus pages
-- I want pages to show up in categories too
-
-*** TODO How to sell a PDF once in a while without being tied to your e-mail
-   :LOGBOOK:
-   CLOCK: [2013-08-30 Fri 20:15]--[2013-08-30 Fri 21:05] =>  0:50
-   :END:
-   :PROPERTIES:
-   :Effort:   4:0
-   :END:
-Nudge: Timothy Kenny
-
-- It usually doesn't make sense to automate something you do rarely
-    - In the 4-Hour Work Week, Timothy Ferriss
-    - xkcd also has a guide to automation
-- What about PDFs and other digital content that you might sell once in a blue moon?
-    - Manual way: Set up PayPal. Check your e-mail and reply with the link.
-    - Better way: Use a digital fulfillment service. There'll be a small cost
-    - Got lots? Look into setting up your own membership site
-- A friend of mine went away on vacation for three days. One of his readers had bought an e-book from his site. Since he was manually replying
-
-
-- Some services
-    - Monthly fee: ex: http://getdpd.com/plans-and-pricing/, http://www.fetchapp.com/pages/plans, http://www.e-junkie.com/ej/pricing.htm, Shopify, Shoplocket
-    - Listing fees per product
-    - Percentage of transaction
-    - Number of products, how much storage space you have
-- Lots of different choices; how do you decide?
-    - Ease of setup / integration
-    - Monthly costs
-
-- I've been using Gumroad. I like it. It feels simpler than Lulu.
-
-- Some other round-ups
-  - http://ethicallaunch.com/sell-digital-items-five-min
-  - https://cms.paypal.com/ca/cgi-bin/?cmd=_render-content&content_ID=developer/solutions_dgd
-  - http://vandelaydesign.com/blog/tools/selling-digital-products/
-
-
-http://sachagreif.com/how-nathan-barry-and-i-sold-39k-worth-of-ebooks/ - Gumroad
-
-*** OUTLINED Blogging-related skills                                  :skill:
-# <<blogging-skills>>
-[[http://sach.ac/outline#blogging-skills]]
-
-Here's my evolving break-down of blogging-related skills, including
-notes for future blog posts. I'm currently working on getting better
-at *outlining* (from high-level down to chunks of ~100 words)
-and *synthesizing* (especially combining other people's insights with
-my experiences). I'm using this outline to think of ways to
-deliberately practise certain aspects of blogging, to plan posts that
-will help people learn, and to clarify what I would like to delegate
-to assistants or work with coaches for.
-
-See also [[blogging-help][http://sach.ac/outline#blogging-help]]
-
-- Manage your time and energy 
-  - https://www.google.ca/search?q=how+to+find+time++to+write - well-covered
-  - Take advantage of small chunks of time - See also http://sach.ac/outline#blog-short
-  - Regularly set aside some time in your schedule
-    - Do your writing first, before you do e-mail. [[http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy/][more]]
-    - Try doing this really early in the morning or late at night, when there are fewer demands on your time. (4 AM? 11 PM?) [[http://yareview.net/2013/06/goodbye-a-balancing-act/][more]]
-    - Schedule time blocks and make steady progress. [[http://www.december.com/simple/live/caretime.html][more]]
-    - Set a timer and stay in the chair
-      - Consider the Pomodoro technique http://www.thedailymuse.com/career/the-secrets-to-staying-productive-when-you-have-a-big-project/
-    - Don't break the chain [[http://lifehacker.com/281626/jerry-seinfelds-productivity-secret][more]]
-  - Don't beat yourself up about it - [[http://calnewport.com/blog/2013/01/13/write-every-day-is-bad-advice-hacking-the-psychology-of-big-projects/][more]]
-  - Write on the go
-    - Smartphone
-      - Capture notes [[http://writetodone.com/2010/02/08/a-writers-greatest-tool-the-smartphone/][more]]
-      - Read and learn [[http://writetodone.com/2010/02/08/a-writers-greatest-tool-the-smartphone/][more]]
-      - Get feedback from social networks [[http://writetodone.com/2010/02/08/a-writers-greatest-tool-the-smartphone/][more]]
-    - Audio recordings can help you get a lot down  [[http://www.fromthewriteangle.com/2013/03/tips-tricks-for-writing-on-go.html][more]]
-    - Notebook or index cards [[http://www.fromthewriteangle.com/2013/03/tips-tricks-for-writing-on-go.html][more]]
-  - Take care of yourself
-    - Eat well, exercise, and take care of yourself. [[http://www.themomwrites.com/2013/07/how-i-wrote-a-print-book-in-my-free-time.html][more]]
-- Plan what to write
-  - [[http://www.copyblogger.com/brainstorm-blog-topics/][more: list]], more: [[http://www.profkrg.com/blog-ideas-are-everywhere][another list]], more: [[http://www.nichepursuits.com/14-surefire-ways-to-find-great-blog-content-ideas/#][yet another list]]
-  - Brainstorm ideas to explore or questions to answer
-  - Outline topic [[http://www.chrisg.com/chunking-and-outlining-blog-topic-ideas/][more]], [[http://www.advancedfictionwriting.com/articles/snowflake-method/][more (with fractals!)]]
-  - Choose a subtopic for a blog post [[http://www.problogger.net/archives/2008/08/14/how-to-choose-a-topic-for-your-next-blog-post/][more]], [[http://www.chrisg.com/chunking-and-outlining-blog-topic-ideas/][more]]
-  - Ask for and respond to requests
-  - Brainstorm follow-up topics for future posts [[http://www.thebookdesigner.com/2012/12/endless-stream-of-blog-post-ideas/][more]]
-  - Follow up on past entries
-  - Review your metrics [[http://www.myinkblog.com/brainstorming-tips-techniques-for-bloggers/][more]]
-  - Make creative associations [[http://victoriamontemayor.com/2013/07/02/jellyfish-blogging-how-to-brainstorm-blog-post-ideas/][more]] 
-  - Check out related blogs [[http://www.myinkblog.com/brainstorming-tips-techniques-for-bloggers/][more]]
-  - Collect questions and ideas from other sources 
-    - Internet: blogs, forums, Q&A sites [[http://www.fahrenheitmarketing.com/content-posts/five-resources-to-help-you-brainstorm-blog-topics/][more]]
-    - Life [[http://contently.com/strategist/2011/10/13/how-to-brainstorm-incredible-blog-posts-like-copyblogger/][more]]
-    - Publications [[http://www.searchenginejournal.com/how-to-generate-a-years-worth-of-blog-post-ideas/66614/][more]]
-  - Research keywords [[research-keywords][outline]], [[http://dumbpassiveincome.com/how-to-use-keyword-research-for-blog-post-optimization/][more]] [[http://blog.kissmetrics.com/keyword-research-smart-way/][more]]
-  - Test ideas on Twitter or other networks in order to get different
-    perspectives and check for resonance
-  - Set up editorial calendar so that people know when to come back 
-    for content [[http://www.chrisg.com/planning-blog-post-topics/][more]]
-- Research
-  - Identify good blog posts and articles to refer to
-  - Identify good books to read
-  - Identify full-text research papers
-  - Take notes
-    - Summarize a blog post or article
-    - Summarize a book
-    - Summarize a research paper
-    - Organize notes for easy reference
-  - Synthesize information
-    - http://quoteinvestigator.com/2010/09/20/plagiarism/
-    - Make an outline or list [[http://blog.journalistics.com/2010/use-outlines-to-write-better-faster/][more]]
-    - Compare viewpoints and line up arguments for alternatives
-    - Wrap up with a conclusion or summary
-    - Avoid plagiarism
-      - Cite sources
-      - Indicate quotations
-- Write
-  - Brainstorm titles [[http://blog.supermedia.com/how-to-write-truly-epic-blog-post-titles/][more]], [[http://ustandout.com/blogging/how-to-create-a-blog-post-title-that-gets-serious-traffic-101-ideas][more (fill in the blanks)]]
-  - Choose a format [[http://blog.hubspot.com/how-to-choose-blogging-post-format-ht][more]]
-  - Draft blog post based on outline
-  - Draft blog post starting with an idea or a question
-  - Write a technical post
-    - Explain how something works
-    - Share trouble-shooting experiences
-    - Teach people about a useful feature
-  - Write about news and other topical events
-  - Write a list post
-  - Write a debate post
-  - Write a summary post that links to several articles
-  - Write a link round-up
-  - Ask a question or run a poll [[http://www.problogger.net/archives/2009/12/02/7-questions-to-ask-on-your-blog-to-get-more-reader-engagement/][more]],
-  - Plan longer articles [[http://www.nngroup.com/articles/write-articles-not-blogs/][more]]
-  - Find and share interesting things
-    - Role model: Boingboing
-  - Share personal stories
-    - Role models: Brazen Careerist by Penelope Trunk, Mel Chua
-  - Set up experiments and share experiences
-    - Role models: A.J. Jacobs
-  - Share resources that other people might not have access to (ex:
-    summarize a book or presentation)
-  - Write a business post
-    - Help people identify a need for your services
-    - Help people make better use of your services
-    - Share complementary services or tips
-- Format your post
-  - http://www.problogdesign.com/blog-usability/30-ways-to-improve-readability/
-  - Break post into paragraphs and lists
-  - Emphasize key points
-  - Add relevant hyperlinks
-  - Package as PDF or other resources
-- Make posts more engaging
-  - Choose stock photo or illustration, and attribute it properly - [[http://sachachua.com/blog/2013/08/learning-how-to-work-with-stock-photos/][post]]
-    - Modify the image and make a title [[http://www.blogworld.com/2013/04/24/3-ways-to-create-better-images-for-your-blog-posts/][more]]
-  - Add relevant quotes or epigraphs [[http://www.theguardian.com/books/booksblog/2010/mar/30/epigraphs-toby-lichtig][more]] [[http://grammar.about.com/od/e/g/epigraphterm.htm][more]]
-    - Watch out for frequently mis-attributed quotes
-  - Draw an illustration
-  - Make a short presentation
-  - Make a short animation
-  - Record a podcast
-  - Record video
-- Proofread and revise
-  - Strengthen first paragraph (you-focus, question or contradiction, promise)
-  - Strengthen last paragraph (conclusion, call to action, question)
-  - Read post out loud
-  - Check if the post answers a question or addresses a need
-  - Check if the post makes sense
-  - Determine what can be removed from a post
-  - Determine what needs to be added to a post
-- Revisit old posts to see how they can be improved
-  - Update old posts
-    - http://www.blogherald.com/2007/08/21/cleaning-up-old-posts-the-gateway-to-your-blog/
-  - Link to old posts
-    - http://www.blogherald.com/2007/06/26/seo-tips-increase-page-rank-by-revitalizing-your-old-posts/
-- Organize 
-  - Organize and review drafts
-  - Organize previously-published resources
-- Reach out
-  - Identify blog posts with similar topics
-  - Write thoughtful, insightful, and not overly self-promotional comment
-  - Identify target blogs for guest posts
-  - Pitch target blog for guest posts
-  - Identify related blogs in niche
-  - Share your posts on social media
-  - Invite and work with guest bloggers
-- Work with your blogging platform
-  - Set up or improve your blog
-  - Experiment with plugins and add-ons
-  - Experiment with blog editors
-  - Analyze metrics
-  - Back up and restore
-- Study
-  - Identify the differences between writing styles
-  - Imitate other people's writing styles
-  - Get feedback and use it appropriately
-  - Create and work with checklists/templates [[http://michaelhyatt.com/how-to-use-evernote-as-a-blogger.html][more]]
-*** OUTLINED How to blog, five minutes at a time: Making the most of little chunks of time :writing:
-
-# <<blog-short>>
-http://sach.ac/outline#blog-short
-
-see the possibilities
-
-    - This is good for your blogging! [[http://www.instigatorblog.com/5-steps-to-writing-the-best-blog-posts/2007/05/01/][more]]
-    - This makes writing less intimidating. Transitions can be awkward, but you can fix that while editing. [[http://mysterywritingismurder.blogspot.ca/2012/12/writing-in-small-chunks-of-timepros-and.html][more]]
-    - Get rid of your rituals and requirements (must do this first, can't have that...). Stop in the middle of a sentence so that you'll find it easier to resume. [[http://www.fromthewriteangle.com/2013/06/5-tips-for-busy-writers.html][more]]
-    - Don't edit as you write. Save that for another day. [[http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy/][more]]
-    - ... or edit as you go. Whichever way works for you. [[http://www.instigatorblog.com/5-steps-to-writing-the-best-blog-posts/2007/05/01/][more]] 
-    - People write books on commutes, lunch hours, ferry rides, etc. Plan ahead so that you always know what the next task is. That way, when you find yourself with a moment of spare time, you can make the most of it. [[http://www.themomwrites.com/2013/07/how-i-wrote-a-print-book-in-my-free-time.html][more]] 
-    - don't give yourself excuses [[http://whatever.scalzi.com/2010/09/16/writing-find-the-time-or-dont/][more]]
-    - break it down into tasks [[http://procrastinatingwritersblog.com/2009/07/break-your-writing-into-manageable-pieces/][more]]
-    - Outline all the way down to chunks of 100 words [[http://theblossomingfledglingresearcher.wordpress.com/2013/07/29/ive-almost-overcome-my-i-need-huge-chunks-of-time-to-write-problem-with-this-excerptadvice-of-rowena-murrays/][more]] 
-    - Brainstorm things you can do in 15 minutes [[http://www.inc.com/jason-womack/productivity-time-management-tips.html][more]]
-    - Use those little chunks of time to get ahead [[http://www.lifehack.org/articles/productivity/micro-productivity-accomplishing-major-goals-with-minor-effort.html][more]]
-    - Write and publish a little at a time [[http://aspirecode.com/why-im-publishing-my-ebook-100-words-at-a-time/][more]]
-
-- Brainstorm ideas and questions: Keep a text file and add to it whenever something inspires you.
-- Brainstorm titles: Come up with three or more possible titles. Note: this is a separate step from brainstorming ideas, so you don't have to come up with an idea and an awesome title right from the start
-- Make a rough outline: Outline topics (one line per post idea) or outline posts (one line per paragraph) to speed up writing.
-- Research your topic and clip the pages: See what else is out there. Don't forget to bookmark or save the pages so that you can refer to it easily. Better yet, add links to your outline right away.
-- Write a few sentences: 
-- Proofread
-- Edit
-- Look for an image 
-
-*** OUTLINED What could I do if I spent four or more hours on a single blog post?
-    :LOGBOOK:
-    CLOCK: [2013-08-30 Fri 12:50]--[2013-08-30 Fri 12:51] =>  0:01
-    CLOCK: [2013-08-29 Thu 23:21]--[2013-08-29 Thu 23:54] =>  0:33
-    CLOCK: [2013-08-29 Thu 19:57]--[2013-08-29 Thu 22:43] =>  2:46
-    :END:
-    :PROPERTIES:
-    :Effort:   4:00
-    :END:
-     - What happens if I spend four or more hours on a blog post? :TODO:
-     - New superpower - I can take more time to do things than I used to.
-         - Cooking. Reading.
-         - And it pays off.
-     - Also why: too much
-     - Spending /more/ time on each blog post
-         - Why? It's not just a blog post, it's the learning
-         - No time pressures anyway
-             - I've written far enough ahead that I'm not worried about running out of posts any time soon
-             - I'm surrounded by ideas
-         - I don't want to write a massive, useful, linkbait post that disappears from my brain after I write it. Like cramming for a school exam and then moving on.
-     - What can I improve?
-         - Filter through lots more material
-         - Link to more resources; compare
-         - Touch a post more often
-             - Spread it out over several days
-                 - http://www.copyblogger.com/weekly-content-plan/
-             - Let your subconscious work on it
-             - Look at it with fresh(er) eyes
-         - Write longer posts?
-             - 900~2,000 words works well; doesn't feel too long
-             - Write longer, then cut/restructure/spread out over time?
-             - Go to 3,000 words? http://blog.osmosio.com/writing-a-blog-post/  
-         - Wordsmith
-         - Add more data
-         - Add more images
-         - Plan and conduct a mini-experiment, or apply the ideas to real life (deeper!)
-         - http://twohourblogger.com/the-first-rule-of-two-hour-blogger/
-         - http://www.problogger.net/archives/2013/06/25/what-would-happen-if-we-put-as-much-effort-into-writing-blog-posts-as-public-speaking/
-             - Comments - balance with attention span
-         - Trim text or split ideas off into other posts
-     - Now that I've confessed my primary motivation for writing a blog, I should also say that I get warm and fuzzies when people find my notes useful.
-     - Adjusting the slider; nudge it up a little, play with it
-     - Now
-         - Half an hour to an hour, effective rate 30wpm
-         - Some posts come out of technical learning or troubleshooting, so the time doesn't count the time I spent solving the problem.
-         - Other posts, I start from scratch, do some research, think about stuff, dig deeper. 
-         - Outline helps a lot with that.
-             - It was hard to do this before outlining because I couldn't see and manage my drafts as well.
-         - Easy for me to track, especially if I'm writing it in Emacs.
-             - I can track how much time I spend outlining a specific post and which days I worked on it.
-             - I can set a target effort (ex: at least two hours4 hours) and compare the total time against that.
-     - Four hours is around the time I usually take to plan a presentation
-         - Who
-         - What do I want people to remember or act on
-         - What do I need to share to help them get from A to B
-         - Illustrations
-
-     - Oh, maybe that will be my reason to split off sub-blogs
-         - If I wrote like other people
-             - I would include less "I" and more "You", giving people advice
-             - I would emphasize the categories more
-             - More lists and stats?
-             - 1% better.
-
-*** OUTLINED Think about your blogging goals and how your posts align with them :data:
-   :LOGBOOK:
-   CLOCK: [2013-08-30 Fri 22:11]--[2013-08-31 Sat 21:58] => 23:47
-   CLOCK: [2013-08-30 Fri 12:51]--[2013-08-30 Fri 14:30] =>  1:39
-   :END:
-   :PROPERTIES:
-   :Effort:   4:00
-   :END:    
-
-I've been thinking about my goals for blogging because I want to get better. I write almost every day, fueled by habits of reading and experimenting. I have time to learn things, and I can learn more effectively if I learn deliberately. Here's what I'm learning about being clear about your goals and analyzing how your actions match up with them.
-
-**** 1. Clarify your goals
-
-It's good to know what your goals are and how the different approaches serve those goals so that you can choose the ones that are the most effective. You can also look at each approach to see how you can improve it.
-
-After some reflection, I came up with this list of goals for my blog:
-
-    1. Learn more effectively by thinking through complexity or explaining what I'm learning
-    2. Explore assumptions and possibilities; become more aware of them myself, and help other people see them
-    3. Improve core skills through practice: making decisions, explaining ideas, organizing thoughts, etc.
-    4. Save myself and other people time spent re-solving the same problems or learning the same things
-    5. Build a long-term archive that I can use to remember what I'm learning and see differences over time
-    6. Learn from other people through questions, comments, and conversations
-
-Your list of goals will probably look different. Many people have goals such as building a business by promoting their products or services, educating clients or readers, keeping family members up to date, working through difficult issues by writing anonymously, and so on. Take a moment to think about and prioritize your goals.
-
-If you're having problems expressing your goals, you can also take a look at your recent blog posts and ask yourself, "Why did I write this?" What results did you want to get? What purpose did it serve? One blog post might work towards several different goals.
-
-**** 2. Analyze the ways you approach those goals
-
-Different actions support different goals to different extents. Think about the different types of blog posts you write. Score them against each of your goals on a scale of 1 to 5, where a score of 5 means that type of post helps a specific goal a lot, while 1 means it does very little or even nothing for that particular goal.
-
-Here are some of the types of posts I share and how they line up with the goals I listed above:
-
-    |                                                     | Goal 1: Learn | Goal 2: Explore | Goal 3: Improve | Goal 4: Save time | Goal 5: Build | Goal 6: Learn from others | Total |
-    |-----------------------------------------------------+---------------+-----------------+-----------------+-------------------+---------------+---------------------------+-------|
-    | T1: Draw original stuff                             |             5 |               5 |               5 |                 5 |             5 |                         3 |    28 |
-    | T2: Draw book reviews and events                    |             5 |               2 |               5 |                 5 |             5 |                         5 |    27 |
-    | T3: Think out loud                                  |             5 |               5 |               5 |                 1 |             5 |                         3 |    24 |
-    | T4: Share tech tips, troubleshooting notes, or code |             5 |               5 |               3 |                 4 |             2 |                         4 |    23 |
-    | T5: Review longer spans of time (yearly, decisions) |             5 |               4 |               5 |                 1 |             5 |                         3 |    23 |
-    | T6: Write tips that few other people can cover      |             4 |               2 |               3 |                 3 |             4 |                         3 |    19 |
-    | T7: Write tips that other people can also cover     |             3 |               1 |               2 |                 2 |             2 |                         2 |    12 |
-    | T8: Review recent posts (weekly, monthly)           |             1 |               1 |               4 |                 1 |             4 |                         1 |    12 |
-  #+TBLFM: $8=vsum($2..$7)
-
-Sorting the table by the total score makes it easy to see which approaches you value more. If some goals are much more important to you than others, you can also weight those goals in your calculations. For example, if building a long-term archive was twice as important to me, I could double that column when calculating the total score. 
-
-Anyway, this ranking makes it clearer why I feel good about original drawings and sketchnotes, and why I skew towards decision reviews and "thinking through things"-type posts even if they don't feel focused enough on saving other people time. Most of the blogging advice tends to focus on writing tips, but they don't motivate me as much. 
-
-How about you? Do your post types match up with your goals? Are there clear winners that you should focus on? You can write lower-value posts from time to time because they address different needs. For example, I post weekly reviews because they're useful to me even if they're less useful for others.
-
-**** 3. Adjust your priorities based on feedback
-
-Of course, since these values are subjective, it helps to adjust them based on your website analytics or feedback from your readers. For example, if you think a type of post saves people a lot of time, you'll probably see a lot of visits or comments on it. If you have Google Analytics, you can export the *Content - Site Content - All Pages* table to a spreadsheet, classify the top X links, and then see what types of posts people spend their time on. For example, I analyzed the top 500 pages visited in July 2013, classified each by type, calculated average views and time per page, and sorted it by average views to get a sense of which posts tend to be more popular.
-
-| Post type                  | Number of pages | Number of views | Average page views per page | Average minutes per page view | Average bounce rate |
-|----------------------------+-----------------+-----------------+-----------------------------+-------------------------------+---------------------|
-| T1: draw original          |              23 |            2875 |                         125 |                           3.4 |                 67% |
-| T4: share tech             |             149 |           12468 |                          84 |                           5.8 |                 74% |
-| T2: draw book / event      |              41 |            2346 |                          57 |                           2.3 |                 64% |
-| T3: think out loud         |              62 |            2452 |                          40 |                           3.4 |                 72% |
-| T5: review long / decision |              14 |             504 |                          36 |                           2.7 |                 73% |
-| T6: write tip (few)        |              41 |            1392 |                          34 |                           3.1 |                 72% |
-| T8: review                 |               9 |             283 |                          31 |                           1.0 |                 61% |
-| T7: write tip (many)       |              24 |             461 |                          19 |                           4.7 |                 73% |
-
-My sketchnotes are more popular by far. My technical notes are surprisingly durable over time, even though you'd expect them to be superseded by bugfixes, technical changes, better documentation, and so on. Posts as old as 2004 still turn up. Because people still get a lot of value from my old tech posts, I adjusted the "Save time" rating for tech tips from my original value of 3 to 4. (I had started with a lower value because I figured that not a lot of people would probably have run into the same issues I did, but it turns out that time makes up for audience size and the long tail works.) As I expected, tips that few other people have written about get more pageviews than tips that more people have written about, although I'm surprised that people tend to spend more time on the common tips. My "thinking out loud" posts are more popular than I expected. (Limitations: This only looks at single-page views in a single month.) Also, people tend to click on my weekly reviews if I add a brief description to the title, so that's something.
-
-Anecdotally speaking, I get a lot of comments and links to my sketchnotes. I'm also delighted by the conversations that occasionally grow out of the "thinking out loud" posts, and how sometimes people will share even better solutions when I post my technical notes.
-
-**** 4. Identify ways to improve each approach
-
-Now that you've looked at what makes each type of post different, you can focus on how to improve each type by building on its strengths or compensating for its weaknesses. Here's what I'm planning for the kinds of posts I write:
-
-*Draw original stuff*: It takes me 2-4 hours to make one of these. I like making technical notes (ex: Emacs), sketchnote tutorials (to help people draw more), and other drawings related to life and planning. I'm getting used to drawing them with less up-front planning. Even though I end up moving things around, I think it's useful to just get started. Drawing involves a trade-off because images are not as searchable as text. I can fix that by including the text, but it's a little awkward and it takes more time. Still, people like the drawings a lot, and I like them too.
-
-*Draw book reviews and events:* I go to fewer events these days, but I'm reading a lot more books. It takes me two hours to read a typical business book in depth, drawing notes along the way. I tend to draw book reviews only when I've already gotten a sense that a book is worth reading in depth. One way to increase my frequency is to draw book notes based on the skimmed parts of books that I'm not reading deeply - perhaps breaking out just the chapter or idea that resonates with me, and using that to illustrate a blog post reflecting on it. I can also work on getting more high-quality books into my pipeline, or practise by drawing more books with fewer value judgments.
-
-*Think out loud:* I can improve the "Save time" score by stashing the notes in my outline, adding observations, until I've fleshed it out enough for preliminary findings and advice. It means that the output will be more concise in its reasoning and I'll have to do more learning on my own instead of opening up the conversation early, but then the posts will be useful for other people as well as for me. [[http://www.mrmoneymustache.com/][Mr. Money Mustache]] is a good example of a blog that mixes personal stories and useful observations. The main thing that was holding me back from doing this before was losing track of my drafts, but my outline is a good step.
-
-For example, this post started as a rough outline, thinking out loud about what kinds of posts I wanted to write. Now I'm going back and filling it in with other information that might be useful for people. If it ends up too long, I might have to trim it. We'll get there!
-
-*Share tech tips, troubleshooting notes, or code:* The limiting factor here is that I'm not working on any professional projects that I can write about, so I'm forced to run into and resolve fewer issues. I can replace that with working on my own projects or on open source projects, or helping people with questions. I often tweak or work on things related to Emacs, Wordpress, or data visualization, so there's that. If I set aside time and find a good source of small bugs so that I can ease my way into a habit of contributing to open source again, then that will also help me with my life goal to keep my technical skills sharp.
-
-*Review longer spans of time:* I can increase the frequency of decision reviews by scheduling them so that I don't lose track of items. Because I manage my outline in Org Mode, that should be relatively easy to do. I can also bootstrap this by reviewing last year and last decade's monthly reviews (if available), or the blog posts if not. I have an advantage here because I have a lot of public notes over the years.
-
-*Write tips that few other people can cover:* There are lots of information gaps to fill. Sometimes it's because people don't have the time, inclination, or confidence to write about something. Sometimes it's because I have a useful combination of skills or I can bring a different perspective. If I can't find information, that's a good reason to write it.
-
-*Write tips that other people can also cover:* The world doesn't really need another "how to find the time to blog" tutorial. If I can filter through search results for a good one and make it more findable, that beats writing one from scratch--unless I can add something special or relate different types of advice to each other.
-
-*Review recent posts (weekly, monthly):* These are low-value in the short term (mostly lists of links, plus the nudge to do my weekly planning process), but I've found them to be surprisingly useful over the years. They also help keep my large blog archive manageable. That's why I keep posting them. I've started using the weekly and monthly reviews to give people [[http://sachachua.com/blog/2013/05/how-i-use-feedburner-to-give-people-the-option-of-different-blog-update-frequencies/][less-frequent subscription options]] (daily can be a little overwhelming), so that's helpful too.
-  
-**** Wrapping up
-
-"Get better" is a vague goal. If you can identify the specific goals you would like to work toward, different ways to move towards those goals, and specific actions you can take to improve those approaches, you'll have a lot of flexibility in terms of growing. You'll find it easier to recognize or create opportunities to grow, and you can track your progress along the way. You might also be able to identify counter-productive approaches and replace them with ones that move towards more of your goals. Good luck and have fun!
-
-*** Posts for others and posts for myself
-
-- Things I've tried
-    - Massive list post: http://sachachua.com/blog/2011/11/quantified-awesome-116-web-resources-for-quantified-self/
-
-- Posts for other people and posts for myself
-    |          | Mostly for others | Mostly for me | Total | % others | Comments | Comments per post | Visits | Unique visits |
-    |----------+-------------------+---------------+-------+----------+----------+-------------------+--------+---------------|
-    | July     |                 9 |            22 |    31 |      29% |       75 |               2.4 | 24,540 | 18,282        |
-    | June     |                12 |            18 |    30 |      40% |       93 |               3.1 | 23,833 | 17,364        |
-    | May      |                12 |            21 |    33 |      36% |      135 |               4.1 | 47,185 | 38,711        |
-    | April    |                 8 |            22 |    30 |      26% |       96 |               3.2 | 21,400 | 15,700        |
-    | March    |                15 |            14 |    29 |      51% |       74 |               2.6 | 19,679 | 14,396        |
-    | February |                 8 |            15 |    23 |      34% |       31 |               1.3 | 14,457 | 11,434        |
-    |----------+-------------------+---------------+-------+----------+----------+-------------------+--------+---------------|
-    | TOTAL    |                64 |           112 |   176 |      36% |      504 |               2.9 |        |               |
-  #+TBLFM: $4=$2+$3::$5='(format "%d%%" (/ (* $2 100) (+ $2 $3)));N::$7='(format "%.1f" (/ $6 (* 1.0 $4)));N
-
-There's a strong correlation (0.84) between the number of visits and the number of comments, which makes sense. There is, however, practically no correlation between the percentage of posts I write for other people and how many posts or visits I get. My Feedburner stats show that my other-focused tend to get clicked on more, although some of my reflective posts are also popular.
-Anecdotally, I see my other-focused posts shared on Twitter more often, which makes sense too.
-
-Google Analytics lets me look at stats for individual pages, so I
-analyzed the stats for July. This doesn't count the times when people
-read the entirety of the post on the homepage, just when they view the
-individual post by clicking on the link. I looked at the top 100 pages
-in terms of number of visits. I classified 70 of those as
-"other-focused" and 12 of those as "self-focused". The top
-self-focused posts got an average of 143 views per page, while the top
-other-focused posts got an average of 233 posts per page. People also
-spent an average of 1.7 minutes longer on those pages (5 minutes vs
-3.3 minutes).
-
-#+begin_src sql
-SELECT DATE_FORMAT(post_date, '%Y-%m') AS month, COUNT(id), SUM(comment_count) FROM wp_posts WHERE post_type='post' AND post_status='publish' GROUP BY month;
-#+end_src
-
-What makes good posts like that?
-- The posts that spread widely tend to be the ones that are visual: the Shy Connector, a Teacher's Guide to Web 2.0 at School, How to Learn Emacs, sketchnotes, sketchnoting tips, and visual book reviews.
-- The posts that are surprisingly popular over a long period of time are my technical notes: Emacs, Drupal, Rails, Lotus Notes, and so on. You'd expect them to be superseded by better documentation or changing technology (and sometimes they are), but they tend to endure.
-- Sometimes my personal thinking-through-stuff posts unexpectedly resonate with people, and people share their comments and insights. (Ex: [[http://sachachua.com/blog/2013/03/passion-and-uncertainty/][Passion and uncertainty]])
-- I don't have to write advice posts from a position of authority ("You should do this, you should do that") in order to be useful. I can create value by:
-    - Describing what's out there (sketchnotes, visual book reviews)
-    - Sharing my technical troubleshooting notes, work-arounds, hacks, or discoveries from reading documentation/code
-    - Applying advice to my life and sharing my experiences
-
-
-- What would success look and feel like?
-    - I'm going to be selfish about this because I can. =)
-        - Is it okay to say that I blog more for myself? Because I do. Although your comments, shares, and links are nice. I feel like I should say that I write for readers. Attention is a gift. Many people would say that attention is valuable, and then turn around and try to sell you something.
-        - Someday, perhaps, when I have something I want to tell people, and I acquire a Voice of Advice, then I'll write more for other people.
-            - When would I feel good about that?
-            - Is there something I feel good about?
-                - I feel comfortable giving people advice on learning, reading, making better decisions, trying things out, and sharing.
-                - I feel comfortable helping people learn more about Emacs, Wordpress, and a little Excel.
-                - I feel comfortable that drawing is another way to create value.
-        - In the meantime
-            - If I want to invest more time in writing...
-                - I would write about things that few people write about
-                    - Emacs? Visual thinking? What it's like to make blogging such a part of your learning?
-                - Drawing, right... Although Sketchnote Army does pretty well.
-                - Something else.
-            - False dilemma. (Trilemma?) I know. The choice isn't really between these options, and I don't have to make one choice. I can write about all these things in the course of a week. But I wanted to figure out, if I wasn't keen on the first two options, what /am/ I leaning towards, so I can intentionally work on it?
-- A post that makes me a better person
-    - Change
-    - The posts I write make me at least a teensy bit better
-    - Better
-        - Better at learning and sharing
-        - Better at making decisions
-        - Better at resilience and positivity
-    - In terms of outcome
-        - Blog posts that represent larger chunks of growing (going from 0.01% to 0.1%)?
-          Improving by 0.01% every day means getting 4% better in a year, if you're fine with simplified math. Improving by 0.1% every day means getting 44% better in a year.
-        - One way to do this is to write less, to sit on posts longer until they develop, to start with a hundred ideas and tweak them for days or weeks (or longer!) until they're deep and insightful and useful.
-            - Write less? No, I like writing almost every day, and I forget if I don't write things down. --verbose Stuff gets lost in my private notes. Here we might have conversations.
-                - Arguing against myself: reasons for posting earlier rather than later
-                    - Learn from the conversation
-                    - Get feedback
-                        - Is it something unusual worth digging into?
-                    - Flesh things out on demand (in response to people's questions, etc.)
-                    - Get good value from time (diminishing returns?) - 80%
-                    - Throw more pots
-                        - Deliberate practice, engagement
-        - Another way to get a feel for what these deeper posts would be like would be to summarize experiences and update them with lessons learned
-            - For example, things I've learned in the past ten years, like cooking.
-            - This will give me a feel for what deeper posts might feel like.
-            - Then I can play with timeframes
-        - It would be worth getting the hang of this for new ideas, though.
-        - So I need to get better at getting better.
-        - Well, maybe an order of magnitude is ambitious. (0.01% to 0.1% is 10 times!) What would "a little better" look like?
-        - Grow more
-            - Ask better questions
-                - Know what "better" looks like and what direction it's in
-                - Ask the questions behind the questions
-                - Ask /different/ questions
-                - See and question assumptions
-            - Research
-                - Books, blog posts, other resources
-                - Reaching out to people (!)
-            - Observe
-                - Notice
-                - Describe
-                - Be less worried
-            - Try things out
-        - All that considered, I still want to write in small increments
-            - Behind the scenes
-                - It's like the way I take sketchnotes. I try to capture as much as I can instead of summarizing it, because you can summarize based on your notes but it's hard to go the other way around.
-            - I love being able to link to posts from years ago when I was still figuring something out
-            - There are plenty of people who'll share advice -- the results of their experiences -- without sharing (or remembering!) much of the journey along the way.
-        - So what's next for me then?
-            - Getting better at getting better
-            - Letting outlines steep
-                - I think I like leaving outlines hanging - it gives me something to focus on while doing the dishes or other chores
-    - But not too navel-gazey
-- Something I want to remember
-- ... but not too much pressure here, mind you, or I'll probably be unable to write /anything/. So it doesn't have to Measurably Improve the Human Condition.
-
-
-*** OUTLINED [#C] Balancing "useful" and "personal" on my blog
-Lower-priority: I can wait until it seems more likely that my balance will change, or I can transform this into a post about blog role models and getting closer 
-
-- Good balance
-- What kind of balance do I want to have?
-- I'm thinking about this because this balance might change
-- As an introvert, I don't want to impose on other people
-  - I'm somewhat okay with blog reading being completely voluntary
-  - This is why I haven't gotten around to e-mail newsletters yet, even though reading is voluntary too.
-  - Maybe I don't have to? 
-- I want most of my posts to be *useful.*
-- I don't want to be generic. What's the point of writing something you could just find on Lifehacker? So I tell stories about what I'm learning.
-- What I want to avoid:
-  - Article mills
-  - Me-me-me-blah-blah-blah
-- But there are good examples
-  - Lifehacker tends to be impersonal
-  - The Simple Dollar is a little closer to the impersonal side of things, but is sprinkled with personal stories
-  - Penelope Trunk and Mel Chua write more personally than I do
-    - What makes their blogs feel more personal?
-      - Penelope Trunk writes about more stresses and difficulties. 
-    - Mel's writing communicates her excitement and passion
-  - Mr. Money Mustache is a great mix of useful + personal.
-    - I think, of all the blogs I read, I like his the most.
-*** OUTLINED Blog models: Learning from Mr. Money Mustache
-- Why I like Mr. Money Mustache's blog
-  - Excellent balance of useful and personal
-  - topic is interesting as well, of course
-  - frugality - not just pinching pennies or juggling finances, but living well 
-- What are some of the things that Mr. Money Mustache does differently?
-  - Writing
-    - The alias is nifty and amusing. 
-    - He's more frank about finance (naturally).
-    - He's great at poking fun at himself. [[http://www.mrmoneymustache.com/2013/07/10/if-i-woke-up-broke/][more]] 
-    - He uses stronger language, including more intense adjectives and some swearing. He also uses a wider vocabulary and more wordplay. [[http://www.mrmoneymustache.com/2013/04/29/frequently-complained-questions/][more]] I should totally give myself permission to use less common words. =)
-    - He uses more stats, calculations, and case studies. [[http://www.mrmoneymustache.com/2013/06/13/bicycling-the-safest-form-of-transportation/][more]]
-    - He's more confident about giving advice. 
-  - Formatting
-    - He doesn't always emphasize the key points in his paragraphs, but they're readable anyway.
-    - His posts tend to be longer.
-    - He uses shorter paragraphs.
-    - His tables are formatted more prettily. Hey, sometimes it's the small stuff... =)
-  - Organization
-    - He's focused on financial blogging and the frugal lifestyle, while I blog about whatever I'm interested in.
-  - He gets a lot of input from readers
-    - People share their situations and give each other advice
-  - Layout
-    - His front page uses a summary layout with larger visuals.
-    - He has large graphical ads in the sidebar.
-    - He uses a serif font and a visually divided background
-    - His links are underlined in the post body, although not elsewhere.
-    - Links open in a new window. (Hmm, I've got mixed feelings about that...)
-    - He has a large post footer which has a blog, a new reader welcome, a random link, subscription/social media instructions, a community forum, and a subscription form, previous/next links with titles, and /then/ comments, trackbacks, and the comment form.
-    - He has a large page footer with a blog roll, popular posts, stats, selected categories, and tags.
-    - He has a "Start Here" and a menu item for various how-tos.
-    - He has a recommendations page with links to posts.
-*** OUTLINED Learning how to outline                          :imagine:learn:
-   :LOGBOOK:
-   CLOCK: [2013-07-28 Sun 15:09]--[2013-07-28 Sun 15:10] =>  0:01
-   :END:
-   :PROPERTIES:
-   :Effort:   1:00
-   :END:
-Get "Thinking on Paper" first
-
-Objective: Be more effective at outlining my blog posts; Help other
-people improve their writing; Share a list of things I'd like to write
-about
-
-- Breaking skills down into their components (Tim Ferris)
-- Why outlining?
-  - Pseudocode and prototypes
-  - Some moments of discipline to keep fleshing things out
-  - More about the freedom to make slow and steady progress, knowing
-    that a plan keeps me roughly on track
-  - Freedom to cut and rearrange
-- What I'm doing
-  - Tracking outlining time separately; butt-in-chair time
-  - Sharing my outline
-  - Tracking versions
-- Tools
-  - Org Mode workflow
-    - Outline
-    - Lists
-    - Navigation
-      - C-c j (org-goto) to jump around
-    - Filtering
-      - C-c v (org-show-todo-tree) shows the ones that have been
-        marked with a status (good to see which ones I've outlined)
-      - Tags
-    - Refiling?
-    - Publishing and archiving
-  - Github
-- Imagining wild success
-  - Outline of things I want to share
-  - The feel for how things flow together
-  - People can easily review the outline - maybe with org-info?
-  - People can tell me what they're interested in - maybe with a way
-      for me to note who I should follow up with, but in a way that
-      doesn't require me to keep a private repository? Maybe tied in
-      with e-mail...
-    
-*** OUTLINED Update: What I want my blog to become
-
-- I took a month off from my two-days-a-week consulting gig so that I
-  could experiment with focusing on writing. 
-- I want to be all-the-way-retired. There's a chance I might be. I'm
-  not sure. 
-- Most writers don't even have this luxury: to write about whatever
-  they want to write, without worrying about whether the book will be
-  picked up by a publisher or whether the magazine will accept the
-  article.
-
-
-- The M word: Monetization
-    - I thought about what I would use more money to do
-      http://sachachua.com/blog/2013/05/on-blogging-and-platforms-and-experimenting-with-google-hangout/
-        - I wouldn't change my lifestyle all that much 
-        - More money would probably be split between
-            - more experiments
-            - and buying more time to spend with family and friends
-    - Probably won't need to put a lot of effort into marketing and
-      building an audience
-        - Reasons to go out there
-            - Can save other people time?
-            - Can learn from other people?
-            - 
-- So this is what's going to happen for as long as I can do it.
-    - I'm going to learn lots of things.
-        - Curious
-        - What people ask me about
-        - From time to time, I may even dust off my outlines for future
-          books
-        - but I'd rather publish things bit by bit
-        - Eventually I'll get good enough at writing from outlines (or
-          slotting things back into them) that I can put together larger
-          resources, like articles and books
-
-*** DONE What's your favourite excuse to NOT take notes?
-*** DONE Writing while tired
-   CLOSED: [2013-08-11 Sun 18:06]
-
-- Sleeping a lot lately
-- Not quite as alert or energetic as I'd like to be
-- Good as a dry run; there will be more times that I'll be sleepy or
-  sick or tired
-- Options
-  - Sleep/relax/answer e-mail/read
-  - Practise writing every day anyway
-    http://surlymuse.com/writing-when-youre-sick-tired-or-just-hate-the-world/
-
-- How to write when tired
-  - Outline
-  - Don't have to be brilliant
-  - Do more research
-
-*** DONE Get better at choosing stock photos for your blog posts      :skill:
-   CLOSED: [2013-08-13 Tue 21:22]
-
-- Brainstorm nouns and adjectives
-
-- People?
-  - Pay attention to gaze
-- Cliché
-- Metaphor
-- Abstract
-- Role models
-
-*** DONE Thinking about stock photos
-   CLOSED: [2013-08-11 Sun 18:06]
-- Featured image
-  - Blog readers
-  - Magazine theme
-  - Visually break up a page
-- Many blogs use photos to make the posts more visually interesting
-- Lifehacker does this well
-- Inhibitors
-  - I don't like the way stock photos of people feel staged. I don't
-    identify with the people.
-  - Stock photos without people feel a little cold.
-
-
-The advice these days is to include a large image in your blog post,
-somewhere “above the fold”, so that it can attract attention, visually
-break up the page, and make your blog post more interesting.
-
-I’m still trying to get the hang of how this might work. Other blogs
-do this pretty well – Lifehacker, for example. More often, though,
-stock photos look fake. Too posed. Too perfect. I could never quite
-get the hang of
-
-
-Hypothesis:
-- I can get better at visually communicating if I learn how to use
-  stock photos effectively.
-- What does it mean to effectively use stock photos?
-
-*** DONE Thinking about how I can use Evernote more effectively
-   CLOSED: [2013-08-11 Sun 18:06]
-It took me a couple of hours, but I finally cleared the 700+ items
-that had piled up in my Evernote inbox. Every so often, I go on a
-tagging and filing spree. I was thinking about this because Timothy
-Kenny told me how he has a virtual assistant file the notes in his
-Microsoft OneNote notebooks.
-
-Is my filing really worth it? Is it something I value enough to pay
-someone else to do? Could I explain what I wanted clearly enough so
-that other people could do it? Could I benefit from organization even
-if I'm not the one organizing things myself?
-
-Before I dig into that, I should probably examine this question: *What
-do I use Evernote for, and what could "better" look like?*
-
-Here's a quick summary of the different reasons I use Evernote:
-
-  |                                | <20>                 |                                                         |                                                                               |
-  | Type of note                   | Description          | Organization                                            | Improvements                                                                  |
-  |--------------------------------+----------------------+---------------------------------------------------------+-------------------------------------------------------------------------------|
-  | Sketchnotes                    | Collection of my sketchnotes for easy searching | Shared notebook, tagged by type                         | Fine the way it is                                                            |
-  | Inspiration                    | Interesting sketchnotes, images, and web designs | Notebook, tagged by technique                           | Tag and file when clipping, identify key areas of focus                       |
-  | Visual library                 | Visual thesaurus / sketches of abstract and concrete stuff | Notebook, titles updated, duplicates merged             | Improve workflow - delegate titling?                                          |
-  | E-mail archives                | Keep important information no matter which e-mail inbox it's from | None at the moment; notebook and tags                   | Tag and file when forwarding                                                  |
-  | People, conversations          | Quick notes from my mobile | Notebook                                                | Add full names; consider Evernote Hello for mobile input?                     |
-  | Ideas and thoughts             | Quick notes from my mobile | Notebook                                                | Should have weekly task to review and act on; separate from main Inbox?       |
-  | Actions                        | Quick notes from my mobile, when I'm away from Org | Notebook                                                | Should have weekly task to review and act on / copy into my Org file          |
-  | Cooking                        | Recipes, usually with pictures | Notebook, tagged by technique or dietary considerations | Review periodically; update when cooked                                       |
-  | Wishlist                       | Resources to buy after more consideration | None at the moment; tags, probably                      | Tag and file when clipping                                                    |
-  | Reference books                | Books held by the Toronto Reference Library, to request next time I'm there | Notebook, search                                        | Go to the library more often                                                  |
-  | Letters                        | Scanned letters so that I can review correspondence | Notebook, tagged by person                              | Fine the way it is                                                            |
-  | PDFs                           | Makes PDFs more searchable | Inbox, occasionally tagged                              | Use Web Clipper to specify tags and file in Notes right away                  |
-  | Blog posts / casual browsing   | Interesting things that might be useful someday, especially for related items | Notebook                                                | Use Web Clipper to file in Notes right away                                   |
-  | Other sketches                 | Scanned sketchbook pages so that I can review | Notebook                                                | Fine the way it is                                                            |
-  | Private notes                  | Things that I might want to remember or write about someday, but not yet | Notebook                                                | Have an outline?                                                              |
-  | Blog post ideas                | Inspiration, drafts, links, images, checklists | Notebook, some tags                                     | Add links to outline?                                                         |
-  | Business and personal receipts | Back up business and personal receipts; possibly be able to search through them | Notebook; tags, or just use folders on my drive?        | Decide where to do the organization; have an assistant retitle before import? |
-  | Blog research?                 | Clipped pages so they'll show up in Google Search and related notes, and so that I can review them even if the source disappears (payoff > 2 years) | No organization; search by keywords or sourceurl:       | Clip, but remove from inbox quickly                                           |
-
-I have different types of clipping activities:
-- *A. Researching a topic*, which results in lots of clips related to a
-  single topic. Usually in preparation for a blog post or as a way to
-  answer a question.
-- *B. Casual browsing and clipping* based on blog posts, news items, or
-  other things I come across; roughly topical (ex: skill
-  development), although may be tagged and filed in different places
-- *C. Saving reference material from email or websites*, which should be filed
-- *D. Adding notes on the go using my phone*, which should be reviewed
-  and acted on or filed when I get back to my computer
-- *E. Automatically clipping things based on external input*, using
-  services like IFTTT to archive my blog posts.
-
-There are several strategies I could use to manage my Evernote
-collection. I can choose different strategies based on the results
-that I want. Here are some possibilities:
-
-- *A. Spend a few extra seconds tagging and filing things when I clip
-  them.* Advantage: I touch something once, so I don't have to recall
-  the context of an item.
-- *B. Capture everything into an !Inbox, then file shortly after
-  clipping.* Advantages: I can select multiple entries and tag them
-  give them the same tags, and copy all the note links in one go.
-- *C. Capture everything into an !Inbox, then file weekly.* This is my
-  current strategy. This isn't working out too well - things pile up.
-- *D. Capture everything into an !Inbox, then teach someone to file.*
-
-I think strategy B will give me a good improvement in performance
-without me needing to bring in someone else.
-
-One of the areas that I could generally improve in is integrating the
-notes into my outlines and plans. Instead of just collecting the
-information, maybe I can use Copy Note Link and then spend some time
-adding those links to my outline. Alternatively, I can copy the
-source URL right then and there, find where it fits into my outline,
-and paste the link. If org2blog respects comments, I could even use
-that as part of my workflow.
-
-So if I were to outsource more tasks in order to improve my
-effectiveness at learning, I think I'd gain more value from finding
-someone who can speed-read like I do, filtering through lots of cruft
-on the Internet to find high-quality resources. They could then clip
-those pages into Evernote for my review. That might be worth an
-experiment or two... Let's find out how that works!
-
-#+BEGIN_COMMENT
-Does org2blog respect comments? If so, I can use that to add more details.
-#+END_COMMENT
-
-*** DONE Poll: Planning a weekly topic-focused blog - what would you like to read more about? :planning:blogging:
-   CLOSED: [2013-09-14 Sat 12:43]
-   :PROPERTIES:
-   :ID:       o2b:11721467-6548-4b2f-ac19-ac7aa0fbaf0b
-   :POST_DATE: [2013-09-14 Sat 12:35]
-   :POSTID:   26117
-   :BLOG:     sacha
-   :END:
-
-"*Your blog is so eclectic*," said someone recently. In one week, I can
-write about deep geekery, business, blogging, drawing, decision
-making, and cooking. I deliberately shuffle my posts around so that
-you get a variety of topics each week. (When I didn't do this kind of
-planning, you sometimes got long stretches of geeky posts that went
-over everyone else's heads...)
-
-*My blog has a lot of different topics because I have a lot of
-different interests.* The only challenge with [[http://sachachua.com/blog/2009/12/the-value-of-a-bottleneck/][posting daily]] is making
-myself stick to it instead of publishing two or three posts because I
-get carried away. There's always so much to learn and share, and if I
-don't write about it, I tend to forget it.
-
-*I think it's time to experiment with different ways to write.* The
-variety is fine for other people with wide-ranging interests. The
-frequency is a little overwhelming, so I've started directing people
-to [[http://sachachua.com/blog/category/weekly][weekly]] and [[http://sachachua.com/blog/category/monthly][monthly]] updates.
-
-*Please help me plan a new blog that's more focused on a set of
-topics.* =) One that's updated weekly, so it's more manageable in
-terms of reading. One that's written for readers first, instead of
-being mostly personal notes that might be useful for other people. I'm
-still going to update my personal blog (sachachua.com) with all these
-notes, but once a week, I want to post a focused, well-written,
-illustrated, "I spent 4-10 hours making something useful for you" post
-that saves you time or money.
-
-I'm going to focus on general-interest topics so that I can write
-posts that might be useful for years and years to come. Tech-related
-posts can be difficult to keep current - people come across Emacs blog
-posts from 2008, and it can be hard to figure out what needs to be
-changed. General topics tend to be longer-lasting.
-
-Here is where I need your help and feedback: *What do you want to read
-about?* There's a poll in this blog post. If you don't see it, please
-check it out at TODO. If you give me your e-mail address (optional), I
-can invite you to check out the blog when it starts out. =) (Sneak
-previews!)
-
-
-#+BEGIN_COMMENT
-- A. Learning, writing, sharing knowledge, and constant improvement
-- B. Planning, deciding, and tracking
-- C. Productivity, time management, and delegation
-- D. Personal finance, semi-retirement, cooking, frugality, and household life
-#+END_COMMENT
-
-I'll probably branch it out under the "LivingAnAwesomeLife.com" domain
-name - maybe in a subdirectory for ease of expansion later on?
-
-Looking forward to hearing from you!
-
-*** Writing into the differences
-
-- What do I do differently?
-    - Learning, writing, visual notetaking, sharing knowledge, and constant improvement
-    - Planning, deciding, and tracking
-    - Personal finance, semi-retirement, cooking, frugality, and household life
-*** Stuff that works for me
-
-- Writing works better than interviews or speaking
-    - Outlines, links
-    - Even though I say a lot more words in an interview
-    - Things I like about interviews
-        - Other people's questions
-        - Back and forth
-        - 
-
-*** Managing a daily blog
-   :LOGBOOK:
-   CLOCK: [2013-08-29 Thu 19:16]--[2013-08-29 Thu 19:57] =>  0:41
-   CLOCK: [2013-08-29 Thu 18:59]--[2013-08-29 Thu 19:16] =>  0:17
-   CLOCK: [2013-08-29 Thu 12:45]--[2013-08-29 Thu 12:57] =>  0:12
-   :END:
-   :PROPERTIES:
-   :Effort:   4:00
-   :END:
-- There's so much to learn and so much to write about.
-    - Read books, blog posts, and manuals
-    - Try something new
-    - Learn at least one thing a day.
-- One complete thought per post
-    - 
-  
-- Not everyone is interested in everything.
-- Arrangement
-    - I write posts in advance
-    - I move posts around so that a variety of interests are covered each week
-        - Emacs, visual thinking, blogging, life, productivity, learning
-        - Things I want to write more about
-            - Books: I read faster than most people do, and I have an awesome library nearby. Summaries?
-            - Learning
-    - When I've got several posts lined up in a weekly series, I link them together and add a note to help people anticipate the next one.
-- Categories
-    - Category feeds
-- Syndication, Planet Emacsen
-- Making this better
-    - Series?
-    - Visualizations?
-    - Highlight
-        - What is a good essay?
-            - Montaigne's Essays
-            - Start with a question or something I want to learn
-            - Both geeky and personal
-            - Point to other people's perspectives
-                - Books
-                - Blog posts
-        - How about a series every month or every two months, wrapped up in a PDF?
-            - Weekly post
-   
-http://blog.penelopetrunk.com/2009/04/21/8-reasons-why-you-wont-make-money-from-your-blog/
-
-Once you're /there/, how can you make it better?
-
-- Why
-- How I work
-  - Gigantic outline helps me remember what I wanted to write about so that I don't forget while I'm in the middle of research.
-  - I use a feed reader to quickly skim updates from hundreds of blogs.
-
-
-- Ideas
-  - Outline
-- Editorial calendar
-  - Shuffle posts around to cover a variety of interests
-- Challenges
-  - People are interested in different things
-- When you blog every day
-  -  
-
-*** What would it take to become comfortable with giving people advice?
-
-*** Return on time                                                     :data:
-
-It took me around two hours each to create the two images in http://sachachua.com/blog/2013/09/how-to-learn-emacs-keyboard-shortcuts-a-visual-tutorial-for-newbies/
-
-It took me four hours to create http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/
-
-It takes me about two hours to read a business book in depth, creating a visual summary on the go.
-
-Sketching a 1-hour talk generally takes 2-4 hours, including time to get there and a schedule that usually includes networking.
-
-Shorter talks tend to be lighter-weight unless they've been rigorously planned and rehearsed.
-
-*** Random
-http://pushingsocial.com/blog-purpose/7-simple-ways-to-get-your-readers-to-spend-more-time-on-your-blog/
-*** Sneak peeks
-- One post a day, unless I'm sketchnoting an event or I'm super-excited
-- Share A Draft and Editorial Calendar
-- makes it possible to spread posts out while giving people links to the resource
-- Windows Live Writer doesn't pick up the date, so I need to make sure I set the date again
-
-*** Blogging advice that I'm not planning to follow
-- keyword optimization
-- e-mail list
-- linkbait
-- RSS feed summaries
-- summaries on front page
-*** Blogs and e-mail newsletters
-
-- conversation with Timothy Kenny, who has just started experimenting with daily e-mail newsletters
-- I suggested public archive
-
-- http://www.productiveflourishing.com/why-i-was-so-worked-up-about-killing-my-newsletter/#utm_source=feedly
-
-- I've been thinking about e-mail newsletters because Timothy Kenny
-  has just started with his.
-- Typical advice for growing and (dare I say it?) monetizing your
-  blog.
-  - Offer an incentive for people to sign up for your mailing list.
-    - PDF
-    - exclusive content
-  - Put people on an autoresponder.
-  - Mail people regularly to build the relationship
-    - Sell them stuff later on
-- I don't even send friends or family e-mail normally
-  - Hmm, maybe I'm not used to the grammar of it?
-- also, it takes me an average of 6 minutes to reply to an e-mail. 
-  - Oddly,
-- RSS is mostly dead. Only geeky people use it. [[blog-subscribe][outline]]
-- Automatic e-mail newsletters
-- I want to sell things only if they save you a lot of time
-- Forget that. I want to give away so much that you almost feel
-  obliged to help.
-  - and since I don't need that much money for my lifestyle (I think)
-- I'm very good at planning inexpensive experiments. Besides, that
-  makes it easier for other people to replicate.
-
-
-Why: because there are people who send e-mail, but don't blog
-
-- why don't they blog?
-  - self-conscious: only the "best content" out there
-\
-
-*** Blogging excuse-buster: I don't want to blog because I want to put my best foot forward
-
-This is something I hear a lot from people. "I don't want to blog
-because I might be embarrassed." 
-
-*** Thoughts on growing an audience
-- Sometimes I wonder if I should do more of the "Right Things" when
-  it comes to building a blog.
-    - Focus on one or two topics so that people will subscribe because
-      you're consistent and reliable.
-    - Research keywords so that you can optimize for search engines
-      queries and write content that will bring people in.
-    - Reach out to new audiences with guest posts.
-    - Send e-mail newsletters so that you can build relationships and
-      so that you can sell to people later on.
-- Why
-    - Can save other people time
-    - Can learn from more people
-    - Scale up - create more value for each unit of time I invest
-- Sometimes I'm envious of blogs with hundreds of comments. On sites
-  like that, people learn a lot from each other, not just me. But I
-  remember that reading and responding to comments takes time, and I'd
-  want to filter through them for spam, and that other people glaze
-  over when they see pages and pages of comments and end up not
-  reading them. It's okay. I like the in-depth conversations we have
-  in comments. I'm not entirely sure if I'm sour-graping, but it seems
-  to make sense.
-- Sometimes I wonder if this should be more like other blogs. But then
-  that's a well-travelled path, with lots of other people exploring
-  it. I have this amazing opportunity to try something different. I
-  should.
-- Actually, I already know what I should do--what works for me, what
-  I should do more.
-    - The enduring posts on my blog are either tech notes (Emacs,
-      Drupal) or sketches.
-- The clearer my "no", the less I'm distracted from the things that I
-  can do.
-- Like the way I hack around my introversion
-    - Write about whatever I'm learning about - variety of interests, and
-      let more focused people use search results and category links
-    - Look at other people's questions and failed search results to
-      nudge me to write about certain topics if I'm curious about them
-      too
-    - Read good blogs and write about what inspires me, linking.
-      Invite people who don't have blogs to share their tips and
-      lessons learned on mine.
-    - Build relationships through comments. Give away as much as I
-      can of what I know. Let people show their appreciation if they
-      want to. Money is nice, but there are other ways too.
-- Risks in getting too big
-    - Internet has a seamy underside
-- Introvert
-- The time I would spend in pitching guest posts, etc.
-    - versus making things
-
-- Drawing
-    - Nearly 39,000 people visited in May, when I published
-    - Plenty of blogs
-    - Lots of infographics
-    - Not that many useful, non-marketing drawings
-- It's okay
-
-- Are there low-effort, high-benefit things I can do to make this better?
-
-    - Might get to the point where people are learning from each other
-        - You can do this elsewhere on the Internet
-        - So it would have to be a particularly interesting
-          combination of people
-
-*** Why and how to subscribe to blogs
-# <<blog-subscribe>> 
-
-- since not everyone knows about this
-- why
-  - i read a lot of blogs
-  - i *skim* a lot of blog headlines and excerpts, and I read maybe
-    3-5 posts a day
-  - i mostly read on my phone
-- how
-  - my favourite: feedly
-  - there are a number of alternatives, so it mostly depends on what
-    you like
-
-*** How to manage a free-ranging blog
-Role model: boingboing.net
-http://whatever.scalzi.com/
-
-*** How to research keywords for blog posts
-# <<research-keywords>>
-http://sach.ac/outline#research-keywords
-
-- recent changes with 
-
-*** Writing while you're doing and learning: the power of the gerund 
-- stats
-
-*** Unexpected benefit of outlining
-- More research, because I'm not worried about losing my thought!
-- Longer time, book research
-- Sub-outlines
-*** Mapping skills and prerequisites
-- Limitations of outlining
-- skillpedia.herokuapp.com
-  - which I came across while browsing examples of D3.js
-    visualizations
-- Reminds me of the Civilization skill tree
-- Pieces, but if I define prerequisites and recommended next steps
-*** Building a resources page
-*** "It's not enough for a blog post"                             :challenge:
-- Tidbits go in my weekly review
-*** Brainstorming outlines
-*** Following the butterflies of your interest
-*** Hangout experiment
-*** How I got started
-- Taking notes for myself
-*** Writing through resistance and self-doubt
-*** Tools
-**** Windows Live Writer
-**** Editorial Calendar
-**** Share a Draft
-*** How to write a lot
-*** Writing is a way to think
-*** Blogging is a way to remember
-*** Things I don't write about (yet) - should I write about them?
-**** Semi-retirement
-Don't want to gloat or attract unwanted attention
-
-*** There's always something to write about
-*** If you're not the writing type...
-*** Finding writing topics in conversations
-*** A platform for helping others
-
-*** Writing blog posts by starting with titles
-Other titles:
-- Titles make blog posts easier to write
-- Braindump titles to break through blogging bottlenecks
-*** The freedom of pay what you can
-*** Give away advice
-*** Breaking down the skills for writing
-*** What to teach
-
-I miss teaching. I had tons of fun teaching computer science when I
-was in the Philippines, coming up with different analogies and
-exercises. 
-
-Stephanie Diamond suggested making a sketchnotes course on Udemy.
-People have asked me about teaching Emacs, or blogging, or Quantified
-Self tracking and analysis.
-
-- What would you want to learn for free?
-- What would you value at $49?
-- What would you value at $99?
-
-Help me figure out a good curriculum that could help you!
-
-*** It's okay to be wrong
-At an applied rationality meetup in Toronto, the guest speaker
-confessed to being afraid of blogging because she didn't want to be
-pinned down to words. 
-
-People think of writing as final. The fuzziness of conversation in
-memory might let you argue, "That's not what I said," but writing
-leaves you no wiggle room. 
-
-It's okay to be wrong.
-
-- What people are afraid of
-  - Not being able to adjust
-  - Misunderstandings
-  - Unexpected audience
-- Being wrong
-  - Inevitable
-  - Story about class
-  - Story about blog
-  - Story about comics
-  - Keeps me honest
-- Going forward
-  - Not an expert
-  - Conversation
-  - Modeling it
-
-*** What I like writing about
-*** Writing everywhere
-*** Collecting stories and quotes
-*** Improving my writing system
-*** The power of long lists
-*** Organizing what I know
-*** Flipping through my notes
-*** Getting the hang of passing everything through Evernote
-*** E-book tips
-*** Embracing the resistance in terms of writing
-The resistance is a symptom that you're on the right track. /The
-resistance is not something to be avoided; it's something to seek
-out./ ... The artist sees out the feeling of the resistance and then
-tries to maximize it. The cog, the day laborer, the compliant
-student--they seek to eliminate the feeling instead.
-- Seth Godin, The Icarus Deception
-
-* Planning, deciding, and tracking
+*** Want to learn more effectively? Get over your embarrassment and share what you're learning
+*** Learning Latin
+*** How I taught myself to speed-read in grade school: no magic involved
+*** This weekend: Learn how to cook
+*** Learning from video games
+*** My evolution as a learner and the tips I learned along the way
+*** Integrate your learning into other things you know
+*** Before you learn something, plan how you're going to apply it
+*** Improve your memory with the peg system
+*** Remember things in order by making them part of a journey
+*** Put your learning into practice
+*** Don't be afraid to make mistakes
+*** Broaden your learning
+*** Ask "stupid" questions
+*** Learn holistically by organizing your thoughts
+*** How to find resources for learning
+*** "I don't have time to learn"
+*** Dealing with distractions
+*** Remember better by making things visceral
+*** Make your own metaphors
+*** The power of habits
+*** The power of routines
+*** How to understand what you're thinking
+*** Untangling your emotions from what you're learning
+*** Get over your learning fears
+*** Build your personal learning network
+*** Build your imaginary board of advisors
+*** Learn faster by breaking skills down
+*** Learn on the go: 5 tips for using your smartphone
+*** Write about what you learn
+*** Get more value from the time you spend learning
+*** Keep a learning journal
+*** Read at different rates depending on your goals
+*** Learn more efficiently by asking yourself questions
+*** What's getting in your way? 9 excuses not to learn and how to deal with them
+*** Build on your strengths
+*** Remember better with spaced repetition systems
+*** Manage your energy
+*** Deal with discouragement
+*** Use the 80/20 rule
+*** Let your mind wander in order to come up with ideas and solve problems
+http://www.forbes.com/sites/stevenkotler/2013/07/03/learning-to-learn-faster-part-ii/2/
+*** Analyze your reading
+*** Spring-clean your learning goals
+*** Learn how to fix things
+*** You don't have to live big to learn lots
+*** Expensive to cheap: Many different ways to learn the same thing
+*** Invest the time to get to the point where you can get paid to learn
+*** Go back to step one
+*** Talent is overrated
+*** Keep a beginner's mind
+*** Combine learning
+*** Listen and watch at twice the speed
+*** Growth mindsets and fixed mindsets: Why what you think about learning can affect how well you can learn
+*** The learning cycle
+*** Build, measure, learn
+*** Critical thinking
+*** Know your learning styles and make the most of it
+*** Adjust your previously-held beliefs
+*** Books
+**** The First 20 Hours
+**** The 4-Hour Chef
+* Planning, deciding, tracking, productivity, time management, delegation
 ** Planning and decisions
 *** Decide on your criteria in advance
 # <<advance-criteria>>
@@ -1589,6 +474,15 @@ stress and more happiness? =)
 *** Starting my own business
 
 ** Self-tracking
+*** TODO How do you find the time to ...
+- Thinking about how you spend your time
+    - Track individual activities
+        - ex: watching TV, buying groceries
+- Track your time
+    - Start with paper, easy to come up with categories
+    - Spreadsheet
+    - Android / iOS
+- 
 *** Data visualization
 **** Visualizing hierarchical data
 - What questions do you want to ask?
@@ -1709,8 +603,413 @@ powerful - it allows you to specify multiple criteria.
 *** Quantified Time: Consulting Days vs. Open Days
 Does work really get in the way of living?
 
+** Productivity and time
+*** How to make a time log
+*** Getting over my procrastination by deferring value judgments
+Other titles:
+- Getting over my procrastination by getting rid of optimization
+- Optimization: Procrastination by any other name...
+*** Becoming more attentive: My quest to stop doing things half-way
+Other titles:
+- Becoming more mindful: My quest to stop doing things half-way
+- Easily distractable: My quest to stop doing things half-way
+*** It's about time
+
+(personal motivation)
+More than anything, I wanted time. Ever since I was a kid, I had
+always been acutely aware of how short a time we actually have. (Can I
+blame this on reading about Raistlin's hourglass eyes in Dragonlance,
+which I suppose was my first introduction to Stoic negative
+visualization?) Being halfway around the world from family is hard
+enough. I see the time pass for my parents in their Facebook pictures
+and on our Skype calls. As for here, W- is much older than I am, and I
+want to make the most of the time that I have with him.
+
+*** Not optimizing for productivity
+
+One of the people I was chatting with was interested in measuring
+productivity. As I started thinking about it, I realized that I care
+about making sure I’m not breaking many promises. Sometimes I slip up,
+and then I know I have to slow down and take my time. I’m curious
+about some things that might improve my effectiveness (dictation or
+podcasting for these posts, to make the words flow better? automated
+tests for my coding? visual vocabularies for my drawing?), but they
+tend to be more qualitative than...
+
+Not optimizing for productivity
+
+but reliability
+
+space
+
+celebration
+*** Rediscovering the renaissance life                                 :link:
+"It must be nice
+
+But my own favorite part of the book was in the description of the “Renaissance Man ideal”. This is the idea that you will have the most enjoyable life, AND the best chance at very early financial independence, by developing a whole load of interesting skills. The amazing part is that these skills don’t just sit independently in your mind like a bunch of unused kitchen appliances in a pantry. They start to reach out and connect to each other in unexpected ways, and start solving all of your problems for you. They build your curiosity and start sucking in still more skills that you can’t help acquiring. And before you know it, you are able to live a superb life on only a tiny fraction of the spending that a normal person does, even while you might end up accidentally earning money even more easily than before you embraced the Renaissance Ideal.
+
+Mr. Money Mustache, Book Review: Early Retirement Extreme
+
+*** Open loops                                                         :link:
+
+It’s been more than ten years since David Allen published Getting
+Things Done. I still haven’t come up with a fully trustable system,
+but Emacs + Org + Evernote is getting there. I’m glad I’m back to
+using Org. I’m starting to run into the reminders I set for important
+business paperwork last year, and I might have missed that if I was
+relying on my memory or my calendar.
+
+From time to time, when I catch myself feeling frazzled, I stop and
+write down all of my open loops: the things that tug on my attention.
+Some of them must be ruthlessly demoted to “someday/maybe,” or even
+let go. And then I can methodically go through the others, crossing
+them off as I finish them. Getting it all down on paper helps me make
+sense of things and stops me from feeling overwhelmed.
+
+More:
+http://www.scotthyoung.com/blog/2008/02/28/relax-without-feeling-lazy-kill-open-loops/
+
+*** Tool talk: Clipboard managers
+Clipboard managers
+
+Ditto - want more of a collection view
+ClipMate - does not keep transparent backgrounds, but otherwise interesting collection management. Fixed transparency by enabling DIB and TIFF! Okay, we're good to go.
+
+Decision criteria:
+- must be able to organize clips into collections that don't get buried under new clips (can select collection)
+- pen-friendly
+- always-on-top
+
+
+Stuf: transparent, good previous, but doesn't seem to have an always-on-top view
+
+Clipboard Master: not transparent
+
+Clipboard Fusion - can't handle images, I think
+
+Try ClipMate because of the interface for selecting clips
+
+Intended uses:
+- Text for filenames
+- Clipped images for pasting into a layer; not transparent, so darken only?
+
+*** Things I use
+*** OUTLINED Write down your processes
+- Why
+  - Repeatability
+    - Value of checklists
+  - Easier to improve something when you can look at it
+  - If you share your processes with other people, they might have
+    suggestions
+  - Allows delegation
+- How
+  - Outlines
+  - Flow charts
+  - Special cases
+*** Take notes
+*** Without the excuse of time
+*** Improving my commute
+*** Turning distractions into interruptions and vice versa
+*** Taking it slowly
+I'm giving myself permission to take long walks, to draw for the sake of drawing, to write reflections, to be in silence. I want to find out what emerges from stillness. I recognize this fidgeting, this
+
+*** Getting better at learning from online courses
+*** Find people who are smarter than you
+** Delegation
+*** OUTLINED How I (want to) use outsourcing to help me learn more effectively
+# <<outsource-learning>>
+
+Goal: Learn, share, scale
+- Package lots of e-books on a pay-what-you-can basis, or whatever
+  people would like (support/subscription?)
+
+
+- Learning from people
+  - [ ] Identify interesting people to learn from
+    - Hmm... is there a way I can do this more efficiently? Scanning
+      the first 50 Google Blog Search results gets me 5
+      high-quality resources, which I could probably filter just
+      based on the titles alone.
+    - Huh. This could be harder than I thought, because I'm not that
+      happy with the resources that are out there. Maybe I should
+      figure out a better strategy.
+    - What do I want in terms of learning from people?
+      - Write blog posts with links to other people's interesting perspectives
+      - Slowly collect interesting people to follow in my feed reader
+      - Keep in mind the specialties of my blog readers and other
+        people who don't blog on their own
+    - Possible outsourcing approach
+      - SPEC: Given a topic, give me an outline or spreadsheet
+       highlighting bloggers who have written good blog posts about the
+       topic
+        - well-written (good English, few grammar or spelling mistakes,
+          good paragraph separation, maybe uses bold/color/italics for
+          emphasis)
+        - includes personal experiences, not just generic advice or reblogging
+        - includes action items or recommendations
+        - includes links to other resources (and not just
+          selling content or promoting a business)
+        - discussed: has at least two comments, one of which should be
+          a reply from the author (unless the post is less than a week old)
+        - active: at least 1 post a month, and has posted recently
+      - Rubric:
+        - Excellent: 
+          - Went through ~10 pages of Google search results and
+            narrowed it down to 5-10 excellent items
+          - Highlighted bloggers or websites who wrote repeatedly
+            about a topic, browsing through categories or tags to find
+            related posts
+          - Added a short description of how the pages differ from
+            each other
+            differ from each other  
+        - Good:
+          - Went through ~5 pages of Google search results and narrowed it
+            down to 5-10 good articles
+          - Organized the list of articles to put excellent/insightful
+            blogs at the top
+        - Mediocre: 
+          - Sends a list of URLs with no explanations
+          - Includes blog posts that are generic, self-promotional
+            advice
+  - Topics I want to learn more about
+    - Content marketing / information products
+    - Connecting through blogs
+    - Visual thinking
+    - Making decisions
+    - Personal time tracking
+    - Delegation, outsourcing, how to make the most of virtual
+      assistance
+  - Tips
+    - blogsearch.google.com 
+    - Look at the posts that good blog posts link to
+  - [ ] Prepare talking points / questions / links
+    - Review past blog posts looking for related items
+  - [X] Schedule interviews
+  - [ ] Edit in Camtasia
+    - Trim
+    - Zoom-and-pan as needed
+    - Add chapter markers with question text
+    - Send a list of chapter markets
+  - [ ] Draft show notes with links
+  - [ ] Export to MP3
+  - [X] Transcribe (so that I can turn it into blog posts)
+  - [ ] Post to blog
+  - [ ] Update previous posts
+  - [ ] Find a tutor
+  - [ ] Tutor me on a topic
+- Learning from books and other resources
+  - [ ] Identify resources
+  - [ ] Request books (partially automated)
+  - [ ] Comparison-shop for books
+  - [ ] File notes
+- Learning from the Web
+  - [C] File Evernote notes (tip from Timothy Kenny)
+    - Add keywords
+    - Move to notebooks
+    - http://sachachua.com/blog/?p=25628&shareadraft=baba25628_51fabe102ea81
+  - [X] Transcribe other people's videos and podcasts
+  - [X] Find or develop a scraper that can page through a Wordpress
+    blog 
+    - Partially automated with https://gist.github.com/sachac/6131743
+- Learning by sharing
+  - [ ] Identify related blog posts
+    - Clip into Evernote
+    - Map links onto my outline
+  - [ ] Ask questions
+  - [ ] Edit for clarity and brevity
+  - [ ] Bring several posts together in an outline
+  - [ ] Improve my Excel workbook or dashboard
+  - [ ] Scrape data for analysis
+  - [ ] Research comparable statistics
+  - [ ] De-um audio
+  - [ ] Categorize old posts 
+    - Bayesian probabilities?
+  - [ ] Add PWYC buttons / turn PDFs into PWYC products
+  - [ ] Format documents as beautiful PDFs
+  - [ ] Cross-post to Pinterest and Flickr
+- Learning from conversation
+  - [ ] Identify new referrers and blog search results
+  - [ ] Send people links as things are published
+- Learning by making
+  - [ ] Build the bones of a web application (especially one that
+    uses APIs)
+  - [ ] Sketch out a Wordpress plugin
+  - [ ] Fix CSS or JS issues
+- Learning through virtual meetups
+  - [ ] Set up Google Event
+  - [ ] Publicize event
+  - [ ] Moderate questions
+  - [ ] Set up Hangout On Air and post links
+  - [ ] Trim recorded video
+- Learning through meetups
+  - [ ] Set up meetup
+  - [ ] Publicize meetup
+  - [ ] Post follow-up notes
+  - [ ] Post meetup reminder
+- Learning by experimenting
+  - [ ] Structure an experiment and its measures
+  - [ ] Review related literature and examples
+  - [ ] Enter data
+  - [ ] Analyze data
+  - [ ] Strengthen my conclusions (make sure they make sense)
+  - [ ] Tutor me in statistics
+  - [ ] Create visualizations
+  - [ ] Put everything together in a blog post
+- Learning by delegating
+  - [ ] Identify opportunities to delegate
+  - [ ] Document process
+  - [ ] Anticipate exceptions
+  - [ ] Draft job specs
+  - [ ] Find comparable samples of work
+  - [ ] Identify promising ODesk or Fiverr candidates
+  - [ ] Do cost-benefit analysis
+
+Also
+http://www.authorsassistanttraining.com/author-services
+[[blogging-help][http://sach.ac/outline#blogging-help]]
+
+Nudged by Timothy Kenny
+
+*** What services should I be taking advantage of?
+*** DONE Getting some help with blogging
+
+# <<blogging-help>>
+http://sach.ac/outline#blogging-help
+
+- I'm thinking of investing more in my blog, maybe experimenting with.
+- NOT
+  - having someone "spin" keyword-laden content for me
+  - someone to keep me accountable re: writing - it's already a habit =)
+- Why
+  - I want to get better at writing
+  - One way: Identify and deliberately practice [[blogging-skills][blogging skills]]
+    - Current focus areas
+      - Outlining (mostly comfortable; need to get to the point of calibrating outline to ~100 words?)
+      - Synthesizing information (lists, etc.), bringing everything together with a conclusion or recommendations
+    - Next steps
+      1. Write better headlines 
+      2. End strong: conclusion, call to action, question
+      3. Start strong: improve first paragraph
+      4. Pick better post topics (research, feedback, etc.)
+      5. Get into the habit of sending newsletter e-mail, maybe for upcoming blog posts
+      6. Get into the habit of updating, organizing, and packaging information resources
+    - Doing this, having fun, making progress.
+      - Hmm, might be interesting to think about how to measure this progress
+  - Another way: coaching
+    - Ideally, someone with better skills
+      - Model excellence and call their shots
+      - Give feedback on gaps
+      - Help me teach others
+      - Ideal scenario?
+        - We pick a skill to focus on, like synthesizing information
+        - They recommend some of their favourite role models
+        - We come up with exercises or challenges (I'm currently listify-ing at least one post per week; ditto stock photos)
+        - (We might be able to skip the research part for now, as that's time-consuming and lower-value than planning/editing.)
+        - They help me improve the logical organization of the outline
+        - They help me improve the transitions and organization of the draft post
+        - We brainstorm better headlines and calls to action / questions for the audience
+          - Also, related Twitter post?
+    - Even a different perspective is useful
+      - Check whether something makes sense
+        - I don't care about typos if the meaning stays the same
+        - I care about good headlines and saying clear, useful, time-saving, non-obvious things
+        - I care about explaining things that people might find confusing
+          - I might write a blog post for an advanced audience, but it would be good to flag what needs to be explained for intermediate audiences etc. and then fill that in with blog posts later on
+            - How to map this out?  
+        - I care about tightening things up and making transitions smooth
+      - Need more precise feedback than "It doesn't work." I want to see alternatives.
+      - Learning how to put my editing hat on
+  - Brainstorming/planning stage?
+    - Outline, notes, quotes, examples, questions
+    - Follow-up blog posts
+  - Also possibly useful: research and editing help
+    - People will search using different keywords and sources than I might
+    - Good for prioritizing lots of resources
+      - Value depends
+        - Do I read faster than they do? Can I filter through resources faster?
+        - Do they have similar or better prioritization functions? Am I wowed by their choices?
+        - Comparative advantage?  
+      - Is the following the ideal scenario for that? This is some time in the future, though, after I get used to working with other people while writing.
+        - I send the person an outline and some notes, and he or she
+          sends back summaries of the best resources with citations
+          and links. I add personal stories (this comes after research
+          because I want to apply advice and it's better than just
+          searching for confirmatory evidence) and publish.
+    - Good for editing transcripts and misc. documents too, possibly handling some of the regular publishing (ex: sketchnotes or updates)?
+  - Process tips? 
+    - Tools and processes are harder to transfer
+    - Metacognition?  
+- Good to have a safety net: at some point, I anticipate being more frazzled. This is part of life.
+  - I could do what other people do and _not_ blog, but it's more fun to learn from the conversation.
+  - Good to have someone doublecheck that I'm making sense
+  - Make sure that I'm writing useful stuff instead of focusing too much on my life
+    - Yes, it's a personal blog, but I may as well be useful at the same time =)
+    - And also check that I'm not /too/ impersonal, because that would be boring
+  - Do some of that research, maybe?
+  - Investment in ongoing learning and connection
+    - May need to prioritize
+    - or may just need to learn how to put my editing hat on
+- Justifying value
+  - Competing options
+    - Options
+      - Do it myself
+        - I'm doing pretty well
+        - Lots of great tips out there
+        - I'm nowhere near the limit of what I can learn for free or from experience
+        - Use books and role models for passive guidance
+      - Learn from people's feedback
+        - This is great! People comment and share
+      - Find or start a blogging mastermind group
+        - Group insight, more perspectives
+        - Group plans, support; building relationships
+          - Casual examples: Mel Chua, Trevor Lohrbeer, Timothy Kenny - no formal connections between them, but good conversations
+      - Advantages of coach/assistant
+        - Opportunity for targeted, skilled, consistent feedback 
+        - Learn more about delegation and coaching
+  - Justifying investment
+    - Worth an experiment
+      - How long? Extent?
+        - As-needed basis
+        - Risk: I might forget to assign work
+          - I should prepare and assign work up front
+        - Once a week, at least a month?
+          - What does this look like?
+            - Google Docs or Draft, e-mail notifications
+              - ... because I'm unlikely to find someone who can commit straight to Github ;)
+            - Google Hangout chat for clarification/discussion if needed
+            - Probably 2-3 hours a week, picking one post to focus on
+              - make it awesome and link-worthy!
+                - although the easiest way to do that is to go and sketchnote something (book review, talk, resource, etc.)
+                - goal is to learn how to do this with just writing, or with a combination of writing and /some/ graphics  
+      - How does this compare with previous experiment with editing?
+        - http://sachachua.com/blog/2009/11/thinking-about-how-i-can-make-the-most-of-editing-the-world-is-an-amazing-candy-store-of-talent/
+        - Not as focused on wordsmithing 
+          - http://sachachua.com/blog/2009/12/editing-feedback-on-the-shy-connector/
+        - How am I better at writing now?
+          - Outlines, illustrations
+      - What would be worth it?
+        - At the end of the experiment
+          - Good: I'm more comfortable synthesizing key points from research and stitching them together in a smooth, non-plagiaristic way that adds value
+          - Awesome: I wrap up the post with a good conclusion, a call to action, and a question
+          - Amazing: I have a better sense of headlines, and a plan for testing/improving
+            - Okay with needing different coaches - work with people's strengths
+
+    - How to continue justifying the experiment
+      - Canada Revenue Agency: must be business-related expense with expectation of income
+      - Deeper feedback versus superficial feedback, explaining what's going on 
+        - Ex: reorganizing the logic of a piece and explaining why, instead of making tiny word changes (remove "just", etc. - useful, but not as useful as the other kind of feedback)
+      - Sell information products or courses, maybe on a pay-what-you-can basis 
+      - Use as a regular weekly sanity-check for batch processing
+        - Grant access to Wordpress?
+        - Work out a different workflow, maybe Evernote? (Evernote doesn't paste well)
+- Acknowledgements
+  - Happy to share before/after views and a link in posts
+  - and naturally, lots of process reflections and updates!
+
+*** Fiverr
 * Personal finance, semi-retirement, cooking, frugality, and household life
 ** Personal finance
+*** Enjoy the free things in life
 *** Discretionary expenses
 *** Investing in making the pie bigger
 (rough thoughts)
@@ -1790,7 +1089,1206 @@ making things happen. And who knows? If I can get good enough at it,
 maybe I can learn how to create so much value that it becomes a
 self-perpetuating machine.
 
+** Household life
+*** Use baking soda and vinegar to clean sinks and tubs
+*** Get started with cooking
+* Writing / blogging / sharing knowledge
+** DONE Setting up a development environment that doubles as a backup
+   CLOSED: [2013-09-14 Sat 12:44]
+- =make dev= should copy my database and Wordpress installation, except for my theme directory and my wp-config.php.
 
+** Posts versus pages
+- I want pages to show up in categories too
+
+** TODO Improve your writing skills by copying other people
+
+- Benjamin Franklin
+- Witty sayings
+- Sales
+
+    from: Timothy Kenny nudge
+** TODO How to sell a PDF once in a while without being tied to your e-mail
+   :LOGBOOK:
+   CLOCK: [2013-08-30 Fri 20:15]--[2013-08-30 Fri 21:05] =>  0:50
+   :END:
+   :PROPERTIES:
+   :Effort:   4:0
+   :END:
+Nudge: Timothy Kenny
+
+- It usually doesn't make sense to automate something you do rarely
+    - In the 4-Hour Work Week, Timothy Ferriss
+    - xkcd also has a guide to automation
+- What about PDFs and other digital content that you might sell once in a blue moon?
+    - Manual way: Set up PayPal. Check your e-mail and reply with the link.
+    - Better way: Use a digital fulfillment service. There'll be a small cost
+    - Got lots? Look into setting up your own membership site
+- A friend of mine went away on vacation for three days. One of his readers had bought an e-book from his site. Since he was manually replying
+
+
+- Some services
+    - Monthly fee: ex: http://getdpd.com/plans-and-pricing/, http://www.fetchapp.com/pages/plans, http://www.e-junkie.com/ej/pricing.htm, Shopify, Shoplocket
+    - Listing fees per product
+    - Percentage of transaction
+    - Number of products, how much storage space you have
+- Lots of different choices; how do you decide?
+    - Ease of setup / integration
+    - Monthly costs
+
+- I've been using Gumroad. I like it. It feels simpler than Lulu.
+
+- Some other round-ups
+  - http://ethicallaunch.com/sell-digital-items-five-min
+  - https://cms.paypal.com/ca/cgi-bin/?cmd=_render-content&content_ID=developer/solutions_dgd
+  - http://vandelaydesign.com/blog/tools/selling-digital-products/
+
+
+http://sachagreif.com/how-nathan-barry-and-i-sold-39k-worth-of-ebooks/ - Gumroad
+
+** OUTLINED Blogging-related skills                                   :skill:
+# <<blogging-skills>>
+[[http://sach.ac/outline#blogging-skills]]
+
+Here's my evolving break-down of blogging-related skills, including
+notes for future blog posts. I'm currently working on getting better
+at *outlining* (from high-level down to chunks of ~100 words)
+and *synthesizing* (especially combining other people's insights with
+my experiences). I'm using this outline to think of ways to
+deliberately practise certain aspects of blogging, to plan posts that
+will help people learn, and to clarify what I would like to delegate
+to assistants or work with coaches for.
+
+See also [[blogging-help][http://sach.ac/outline#blogging-help]]
+
+- Manage your time and energy 
+  - https://www.google.ca/search?q=how+to+find+time++to+write - well-covered
+  - Take advantage of small chunks of time - See also http://sach.ac/outline#blog-short
+  - Regularly set aside some time in your schedule
+    - Do your writing first, before you do e-mail. [[http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy/][more]]
+    - Try doing this really early in the morning or late at night, when there are fewer demands on your time. (4 AM? 11 PM?) [[http://yareview.net/2013/06/goodbye-a-balancing-act/][more]]
+    - Schedule time blocks and make steady progress. [[http://www.december.com/simple/live/caretime.html][more]]
+    - Set a timer and stay in the chair
+      - Consider the Pomodoro technique http://www.thedailymuse.com/career/the-secrets-to-staying-productive-when-you-have-a-big-project/
+    - Don't break the chain [[http://lifehacker.com/281626/jerry-seinfelds-productivity-secret][more]]
+  - Don't beat yourself up about it - [[http://calnewport.com/blog/2013/01/13/write-every-day-is-bad-advice-hacking-the-psychology-of-big-projects/][more]]
+  - Write on the go
+    - Smartphone
+      - Capture notes [[http://writetodone.com/2010/02/08/a-writers-greatest-tool-the-smartphone/][more]]
+      - Read and learn [[http://writetodone.com/2010/02/08/a-writers-greatest-tool-the-smartphone/][more]]
+      - Get feedback from social networks [[http://writetodone.com/2010/02/08/a-writers-greatest-tool-the-smartphone/][more]]
+    - Audio recordings can help you get a lot down  [[http://www.fromthewriteangle.com/2013/03/tips-tricks-for-writing-on-go.html][more]]
+    - Notebook or index cards [[http://www.fromthewriteangle.com/2013/03/tips-tricks-for-writing-on-go.html][more]]
+  - Take care of yourself
+    - Eat well, exercise, and take care of yourself. [[http://www.themomwrites.com/2013/07/how-i-wrote-a-print-book-in-my-free-time.html][more]]
+- Plan what to write
+  - [[http://www.copyblogger.com/brainstorm-blog-topics/][more: list]], more: [[http://www.profkrg.com/blog-ideas-are-everywhere][another list]], more: [[http://www.nichepursuits.com/14-surefire-ways-to-find-great-blog-content-ideas/#][yet another list]]
+  - Brainstorm ideas to explore or questions to answer
+  - Outline topic [[http://www.chrisg.com/chunking-and-outlining-blog-topic-ideas/][more]], [[http://www.advancedfictionwriting.com/articles/snowflake-method/][more (with fractals!)]]
+  - Choose a subtopic for a blog post [[http://www.problogger.net/archives/2008/08/14/how-to-choose-a-topic-for-your-next-blog-post/][more]], [[http://www.chrisg.com/chunking-and-outlining-blog-topic-ideas/][more]]
+  - Ask for and respond to requests
+  - Brainstorm follow-up topics for future posts [[http://www.thebookdesigner.com/2012/12/endless-stream-of-blog-post-ideas/][more]]
+  - Follow up on past entries
+  - Review your metrics [[http://www.myinkblog.com/brainstorming-tips-techniques-for-bloggers/][more]]
+  - Make creative associations [[http://victoriamontemayor.com/2013/07/02/jellyfish-blogging-how-to-brainstorm-blog-post-ideas/][more]] 
+  - Check out related blogs [[http://www.myinkblog.com/brainstorming-tips-techniques-for-bloggers/][more]]
+  - Collect questions and ideas from other sources 
+    - Internet: blogs, forums, Q&A sites [[http://www.fahrenheitmarketing.com/content-posts/five-resources-to-help-you-brainstorm-blog-topics/][more]]
+    - Life [[http://contently.com/strategist/2011/10/13/how-to-brainstorm-incredible-blog-posts-like-copyblogger/][more]]
+    - Publications [[http://www.searchenginejournal.com/how-to-generate-a-years-worth-of-blog-post-ideas/66614/][more]]
+  - Research keywords [[research-keywords][outline]], [[http://dumbpassiveincome.com/how-to-use-keyword-research-for-blog-post-optimization/][more]] [[http://blog.kissmetrics.com/keyword-research-smart-way/][more]]
+  - Test ideas on Twitter or other networks in order to get different
+    perspectives and check for resonance
+  - Set up editorial calendar so that people know when to come back 
+    for content [[http://www.chrisg.com/planning-blog-post-topics/][more]]
+- Research
+  - Identify good blog posts and articles to refer to
+  - Identify good books to read
+  - Identify full-text research papers
+  - Take notes
+    - Summarize a blog post or article
+    - Summarize a book
+    - Summarize a research paper
+    - Organize notes for easy reference
+  - Synthesize information
+    - http://quoteinvestigator.com/2010/09/20/plagiarism/
+    - Make an outline or list [[http://blog.journalistics.com/2010/use-outlines-to-write-better-faster/][more]]
+    - Compare viewpoints and line up arguments for alternatives
+    - Wrap up with a conclusion or summary
+    - Avoid plagiarism
+      - Cite sources
+      - Indicate quotations
+- Write
+  - Brainstorm titles [[http://blog.supermedia.com/how-to-write-truly-epic-blog-post-titles/][more]], [[http://ustandout.com/blogging/how-to-create-a-blog-post-title-that-gets-serious-traffic-101-ideas][more (fill in the blanks)]]
+  - Choose a format [[http://blog.hubspot.com/how-to-choose-blogging-post-format-ht][more]]
+  - Draft blog post based on outline
+  - Draft blog post starting with an idea or a question
+  - Write a technical post
+    - Explain how something works
+    - Share trouble-shooting experiences
+    - Teach people about a useful feature
+  - Write about news and other topical events
+  - Write a list post
+  - Write a debate post
+  - Write a summary post that links to several articles
+  - Write a link round-up
+  - Ask a question or run a poll [[http://www.problogger.net/archives/2009/12/02/7-questions-to-ask-on-your-blog-to-get-more-reader-engagement/][more]],
+  - Plan longer articles [[http://www.nngroup.com/articles/write-articles-not-blogs/][more]]
+  - Find and share interesting things
+    - Role model: Boingboing
+  - Share personal stories
+    - Role models: Brazen Careerist by Penelope Trunk, Mel Chua
+  - Set up experiments and share experiences
+    - Role models: A.J. Jacobs
+  - Share resources that other people might not have access to (ex:
+    summarize a book or presentation)
+  - Write a business post
+    - Help people identify a need for your services
+    - Help people make better use of your services
+    - Share complementary services or tips
+- Format your post
+  - http://www.problogdesign.com/blog-usability/30-ways-to-improve-readability/
+  - Break post into paragraphs and lists
+  - Emphasize key points
+  - Add relevant hyperlinks
+  - Package as PDF or other resources
+- Make posts more engaging
+  - Choose stock photo or illustration, and attribute it properly - [[http://sachachua.com/blog/2013/08/learning-how-to-work-with-stock-photos/][post]]
+    - Modify the image and make a title [[http://www.blogworld.com/2013/04/24/3-ways-to-create-better-images-for-your-blog-posts/][more]]
+  - Add relevant quotes or epigraphs [[http://www.theguardian.com/books/booksblog/2010/mar/30/epigraphs-toby-lichtig][more]] [[http://grammar.about.com/od/e/g/epigraphterm.htm][more]]
+    - Watch out for frequently mis-attributed quotes
+  - Draw an illustration
+  - Make a short presentation
+  - Make a short animation
+  - Record a podcast
+  - Record video
+- Proofread and revise
+  - Strengthen first paragraph (you-focus, question or contradiction, promise)
+  - Strengthen last paragraph (conclusion, call to action, question)
+  - Read post out loud
+  - Check if the post answers a question or addresses a need
+  - Check if the post makes sense
+  - Determine what can be removed from a post
+  - Determine what needs to be added to a post
+- Revisit old posts to see how they can be improved
+  - Update old posts
+    - http://www.blogherald.com/2007/08/21/cleaning-up-old-posts-the-gateway-to-your-blog/
+  - Link to old posts
+    - http://www.blogherald.com/2007/06/26/seo-tips-increase-page-rank-by-revitalizing-your-old-posts/
+- Organize 
+  - Organize and review drafts
+  - Organize previously-published resources
+- Reach out
+  - Identify blog posts with similar topics
+  - Write thoughtful, insightful, and not overly self-promotional comment
+  - Identify target blogs for guest posts
+  - Pitch target blog for guest posts
+  - Identify related blogs in niche
+  - Share your posts on social media
+  - Invite and work with guest bloggers
+- Work with your blogging platform
+  - Set up or improve your blog
+  - Experiment with plugins and add-ons
+  - Experiment with blog editors
+  - Analyze metrics
+  - Back up and restore
+- Study
+  - Identify the differences between writing styles
+  - Imitate other people's writing styles
+  - Get feedback and use it appropriately
+  - Create and work with checklists/templates [[http://michaelhyatt.com/how-to-use-evernote-as-a-blogger.html][more]]
+** OUTLINED How to blog, five minutes at a time: Making the most of little chunks of time :writing:
+
+# <<blog-short>>
+http://sach.ac/outline#blog-short
+
+see the possibilities
+
+    - This is good for your blogging! [[http://www.instigatorblog.com/5-steps-to-writing-the-best-blog-posts/2007/05/01/][more]]
+    - This makes writing less intimidating. Transitions can be awkward, but you can fix that while editing. [[http://mysterywritingismurder.blogspot.ca/2012/12/writing-in-small-chunks-of-timepros-and.html][more]]
+    - Get rid of your rituals and requirements (must do this first, can't have that...). Stop in the middle of a sentence so that you'll find it easier to resume. [[http://www.fromthewriteangle.com/2013/06/5-tips-for-busy-writers.html][more]]
+    - Don't edit as you write. Save that for another day. [[http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy/][more]]
+    - ... or edit as you go. Whichever way works for you. [[http://www.instigatorblog.com/5-steps-to-writing-the-best-blog-posts/2007/05/01/][more]] 
+    - People write books on commutes, lunch hours, ferry rides, etc. Plan ahead so that you always know what the next task is. That way, when you find yourself with a moment of spare time, you can make the most of it. [[http://www.themomwrites.com/2013/07/how-i-wrote-a-print-book-in-my-free-time.html][more]] 
+    - don't give yourself excuses [[http://whatever.scalzi.com/2010/09/16/writing-find-the-time-or-dont/][more]]
+    - break it down into tasks [[http://procrastinatingwritersblog.com/2009/07/break-your-writing-into-manageable-pieces/][more]]
+    - Outline all the way down to chunks of 100 words [[http://theblossomingfledglingresearcher.wordpress.com/2013/07/29/ive-almost-overcome-my-i-need-huge-chunks-of-time-to-write-problem-with-this-excerptadvice-of-rowena-murrays/][more]] 
+    - Brainstorm things you can do in 15 minutes [[http://www.inc.com/jason-womack/productivity-time-management-tips.html][more]]
+    - Use those little chunks of time to get ahead [[http://www.lifehack.org/articles/productivity/micro-productivity-accomplishing-major-goals-with-minor-effort.html][more]]
+    - Write and publish a little at a time [[http://aspirecode.com/why-im-publishing-my-ebook-100-words-at-a-time/][more]]
+
+- Brainstorm ideas and questions: Keep a text file and add to it whenever something inspires you.
+- Brainstorm titles: Come up with three or more possible titles. Note: this is a separate step from brainstorming ideas, so you don't have to come up with an idea and an awesome title right from the start
+- Make a rough outline: Outline topics (one line per post idea) or outline posts (one line per paragraph) to speed up writing.
+- Research your topic and clip the pages: See what else is out there. Don't forget to bookmark or save the pages so that you can refer to it easily. Better yet, add links to your outline right away.
+- Write a few sentences: 
+- Proofread
+- Edit
+- Look for an image 
+
+** OUTLINED What could I do if I spent four or more hours on a single blog post?
+   :LOGBOOK:
+   CLOCK: [2013-08-30 Fri 12:50]--[2013-08-30 Fri 12:51] =>  0:01
+   CLOCK: [2013-08-29 Thu 23:21]--[2013-08-29 Thu 23:54] =>  0:33
+   CLOCK: [2013-08-29 Thu 19:57]--[2013-08-29 Thu 22:43] =>  2:46
+   :END:
+   :PROPERTIES:
+   :Effort:   4:00
+   :END:
+    - What happens if I spend four or more hours on a blog post? :TODO:
+    - New superpower - I can take more time to do things than I used to.
+        - Cooking. Reading.
+        - And it pays off.
+    - Also why: too much
+    - Spending /more/ time on each blog post
+        - Why? It's not just a blog post, it's the learning
+        - No time pressures anyway
+            - I've written far enough ahead that I'm not worried about running out of posts any time soon
+            - I'm surrounded by ideas
+        - I don't want to write a massive, useful, linkbait post that disappears from my brain after I write it. Like cramming for a school exam and then moving on.
+    - What can I improve?
+        - Filter through lots more material
+        - Link to more resources; compare
+        - Touch a post more often
+            - Spread it out over several days
+                - http://www.copyblogger.com/weekly-content-plan/
+            - Let your subconscious work on it
+            - Look at it with fresh(er) eyes
+        - Write longer posts?
+            - 900~2,000 words works well; doesn't feel too long
+            - Write longer, then cut/restructure/spread out over time?
+            - Go to 3,000 words? http://blog.osmosio.com/writing-a-blog-post/  
+        - Wordsmith
+        - Add more data
+        - Add more images
+        - Plan and conduct a mini-experiment, or apply the ideas to real life (deeper!)
+        - http://twohourblogger.com/the-first-rule-of-two-hour-blogger/
+        - http://www.problogger.net/archives/2013/06/25/what-would-happen-if-we-put-as-much-effort-into-writing-blog-posts-as-public-speaking/
+            - Comments - balance with attention span
+        - Trim text or split ideas off into other posts
+    - Now that I've confessed my primary motivation for writing a blog, I should also say that I get warm and fuzzies when people find my notes useful.
+    - Adjusting the slider; nudge it up a little, play with it
+    - Now
+        - Half an hour to an hour, effective rate 30wpm
+        - Some posts come out of technical learning or troubleshooting, so the time doesn't count the time I spent solving the problem.
+        - Other posts, I start from scratch, do some research, think about stuff, dig deeper. 
+        - Outline helps a lot with that.
+            - It was hard to do this before outlining because I couldn't see and manage my drafts as well.
+        - Easy for me to track, especially if I'm writing it in Emacs.
+            - I can track how much time I spend outlining a specific post and which days I worked on it.
+            - I can set a target effort (ex: at least two hours4 hours) and compare the total time against that.
+    - Four hours is around the time I usually take to plan a presentation
+        - Who
+        - What do I want people to remember or act on
+        - What do I need to share to help them get from A to B
+        - Illustrations
+
+    - Oh, maybe that will be my reason to split off sub-blogs
+        - If I wrote like other people
+            - I would include less "I" and more "You", giving people advice
+            - I would emphasize the categories more
+            - More lists and stats?
+            - 1% better.
+
+** OUTLINED Think about your blogging goals and how your posts align with them :data:
+   :LOGBOOK:
+   CLOCK: [2013-08-30 Fri 22:11]--[2013-08-31 Sat 21:58] => 23:47
+   CLOCK: [2013-08-30 Fri 12:51]--[2013-08-30 Fri 14:30] =>  1:39
+   :END:
+   :PROPERTIES:
+   :Effort:   4:00
+   :END:    
+
+I've been thinking about my goals for blogging because I want to get better. I write almost every day, fueled by habits of reading and experimenting. I have time to learn things, and I can learn more effectively if I learn deliberately. Here's what I'm learning about being clear about your goals and analyzing how your actions match up with them.
+
+*** 1. Clarify your goals
+
+It's good to know what your goals are and how the different approaches serve those goals so that you can choose the ones that are the most effective. You can also look at each approach to see how you can improve it.
+
+After some reflection, I came up with this list of goals for my blog:
+
+    1. Learn more effectively by thinking through complexity or explaining what I'm learning
+    2. Explore assumptions and possibilities; become more aware of them myself, and help other people see them
+    3. Improve core skills through practice: making decisions, explaining ideas, organizing thoughts, etc.
+    4. Save myself and other people time spent re-solving the same problems or learning the same things
+    5. Build a long-term archive that I can use to remember what I'm learning and see differences over time
+    6. Learn from other people through questions, comments, and conversations
+
+Your list of goals will probably look different. Many people have goals such as building a business by promoting their products or services, educating clients or readers, keeping family members up to date, working through difficult issues by writing anonymously, and so on. Take a moment to think about and prioritize your goals.
+
+If you're having problems expressing your goals, you can also take a look at your recent blog posts and ask yourself, "Why did I write this?" What results did you want to get? What purpose did it serve? One blog post might work towards several different goals.
+
+*** 2. Analyze the ways you approach those goals
+
+Different actions support different goals to different extents. Think about the different types of blog posts you write. Score them against each of your goals on a scale of 1 to 5, where a score of 5 means that type of post helps a specific goal a lot, while 1 means it does very little or even nothing for that particular goal.
+
+Here are some of the types of posts I share and how they line up with the goals I listed above:
+
+    |                                                     | Goal 1: Learn | Goal 2: Explore | Goal 3: Improve | Goal 4: Save time | Goal 5: Build | Goal 6: Learn from others | Total |
+    |-----------------------------------------------------+---------------+-----------------+-----------------+-------------------+---------------+---------------------------+-------|
+    | T1: Draw original stuff                             |             5 |               5 |               5 |                 5 |             5 |                         3 |    28 |
+    | T2: Draw book reviews and events                    |             5 |               2 |               5 |                 5 |             5 |                         5 |    27 |
+    | T3: Think out loud                                  |             5 |               5 |               5 |                 1 |             5 |                         3 |    24 |
+    | T4: Share tech tips, troubleshooting notes, or code |             5 |               5 |               3 |                 4 |             2 |                         4 |    23 |
+    | T5: Review longer spans of time (yearly, decisions) |             5 |               4 |               5 |                 1 |             5 |                         3 |    23 |
+    | T6: Write tips that few other people can cover      |             4 |               2 |               3 |                 3 |             4 |                         3 |    19 |
+    | T7: Write tips that other people can also cover     |             3 |               1 |               2 |                 2 |             2 |                         2 |    12 |
+    | T8: Review recent posts (weekly, monthly)           |             1 |               1 |               4 |                 1 |             4 |                         1 |    12 |
+  #+TBLFM: $8=vsum($2..$7)
+
+Sorting the table by the total score makes it easy to see which approaches you value more. If some goals are much more important to you than others, you can also weight those goals in your calculations. For example, if building a long-term archive was twice as important to me, I could double that column when calculating the total score. 
+
+Anyway, this ranking makes it clearer why I feel good about original drawings and sketchnotes, and why I skew towards decision reviews and "thinking through things"-type posts even if they don't feel focused enough on saving other people time. Most of the blogging advice tends to focus on writing tips, but they don't motivate me as much. 
+
+How about you? Do your post types match up with your goals? Are there clear winners that you should focus on? You can write lower-value posts from time to time because they address different needs. For example, I post weekly reviews because they're useful to me even if they're less useful for others.
+
+*** 3. Adjust your priorities based on feedback
+
+Of course, since these values are subjective, it helps to adjust them based on your website analytics or feedback from your readers. For example, if you think a type of post saves people a lot of time, you'll probably see a lot of visits or comments on it. If you have Google Analytics, you can export the *Content - Site Content - All Pages* table to a spreadsheet, classify the top X links, and then see what types of posts people spend their time on. For example, I analyzed the top 500 pages visited in July 2013, classified each by type, calculated average views and time per page, and sorted it by average views to get a sense of which posts tend to be more popular.
+
+| Post type                  | Number of pages | Number of views | Average page views per page | Average minutes per page view | Average bounce rate |
+|----------------------------+-----------------+-----------------+-----------------------------+-------------------------------+---------------------|
+| T1: draw original          |              23 |            2875 |                         125 |                           3.4 |                 67% |
+| T4: share tech             |             149 |           12468 |                          84 |                           5.8 |                 74% |
+| T2: draw book / event      |              41 |            2346 |                          57 |                           2.3 |                 64% |
+| T3: think out loud         |              62 |            2452 |                          40 |                           3.4 |                 72% |
+| T5: review long / decision |              14 |             504 |                          36 |                           2.7 |                 73% |
+| T6: write tip (few)        |              41 |            1392 |                          34 |                           3.1 |                 72% |
+| T8: review                 |               9 |             283 |                          31 |                           1.0 |                 61% |
+| T7: write tip (many)       |              24 |             461 |                          19 |                           4.7 |                 73% |
+
+My sketchnotes are more popular by far. My technical notes are surprisingly durable over time, even though you'd expect them to be superseded by bugfixes, technical changes, better documentation, and so on. Posts as old as 2004 still turn up. Because people still get a lot of value from my old tech posts, I adjusted the "Save time" rating for tech tips from my original value of 3 to 4. (I had started with a lower value because I figured that not a lot of people would probably have run into the same issues I did, but it turns out that time makes up for audience size and the long tail works.) As I expected, tips that few other people have written about get more pageviews than tips that more people have written about, although I'm surprised that people tend to spend more time on the common tips. My "thinking out loud" posts are more popular than I expected. (Limitations: This only looks at single-page views in a single month.) Also, people tend to click on my weekly reviews if I add a brief description to the title, so that's something.
+
+Anecdotally speaking, I get a lot of comments and links to my sketchnotes. I'm also delighted by the conversations that occasionally grow out of the "thinking out loud" posts, and how sometimes people will share even better solutions when I post my technical notes.
+
+*** 4. Identify ways to improve each approach
+
+Now that you've looked at what makes each type of post different, you can focus on how to improve each type by building on its strengths or compensating for its weaknesses. Here's what I'm planning for the kinds of posts I write:
+
+*Draw original stuff*: It takes me 2-4 hours to make one of these. I like making technical notes (ex: Emacs), sketchnote tutorials (to help people draw more), and other drawings related to life and planning. I'm getting used to drawing them with less up-front planning. Even though I end up moving things around, I think it's useful to just get started. Drawing involves a trade-off because images are not as searchable as text. I can fix that by including the text, but it's a little awkward and it takes more time. Still, people like the drawings a lot, and I like them too.
+
+*Draw book reviews and events:* I go to fewer events these days, but I'm reading a lot more books. It takes me two hours to read a typical business book in depth, drawing notes along the way. I tend to draw book reviews only when I've already gotten a sense that a book is worth reading in depth. One way to increase my frequency is to draw book notes based on the skimmed parts of books that I'm not reading deeply - perhaps breaking out just the chapter or idea that resonates with me, and using that to illustrate a blog post reflecting on it. I can also work on getting more high-quality books into my pipeline, or practise by drawing more books with fewer value judgments.
+
+*Think out loud:* I can improve the "Save time" score by stashing the notes in my outline, adding observations, until I've fleshed it out enough for preliminary findings and advice. It means that the output will be more concise in its reasoning and I'll have to do more learning on my own instead of opening up the conversation early, but then the posts will be useful for other people as well as for me. [[http://www.mrmoneymustache.com/][Mr. Money Mustache]] is a good example of a blog that mixes personal stories and useful observations. The main thing that was holding me back from doing this before was losing track of my drafts, but my outline is a good step.
+
+For example, this post started as a rough outline, thinking out loud about what kinds of posts I wanted to write. Now I'm going back and filling it in with other information that might be useful for people. If it ends up too long, I might have to trim it. We'll get there!
+
+*Share tech tips, troubleshooting notes, or code:* The limiting factor here is that I'm not working on any professional projects that I can write about, so I'm forced to run into and resolve fewer issues. I can replace that with working on my own projects or on open source projects, or helping people with questions. I often tweak or work on things related to Emacs, Wordpress, or data visualization, so there's that. If I set aside time and find a good source of small bugs so that I can ease my way into a habit of contributing to open source again, then that will also help me with my life goal to keep my technical skills sharp.
+
+*Review longer spans of time:* I can increase the frequency of decision reviews by scheduling them so that I don't lose track of items. Because I manage my outline in Org Mode, that should be relatively easy to do. I can also bootstrap this by reviewing last year and last decade's monthly reviews (if available), or the blog posts if not. I have an advantage here because I have a lot of public notes over the years.
+
+*Write tips that few other people can cover:* There are lots of information gaps to fill. Sometimes it's because people don't have the time, inclination, or confidence to write about something. Sometimes it's because I have a useful combination of skills or I can bring a different perspective. If I can't find information, that's a good reason to write it.
+
+*Write tips that other people can also cover:* The world doesn't really need another "how to find the time to blog" tutorial. If I can filter through search results for a good one and make it more findable, that beats writing one from scratch--unless I can add something special or relate different types of advice to each other.
+
+*Review recent posts (weekly, monthly):* These are low-value in the short term (mostly lists of links, plus the nudge to do my weekly planning process), but I've found them to be surprisingly useful over the years. They also help keep my large blog archive manageable. That's why I keep posting them. I've started using the weekly and monthly reviews to give people [[http://sachachua.com/blog/2013/05/how-i-use-feedburner-to-give-people-the-option-of-different-blog-update-frequencies/][less-frequent subscription options]] (daily can be a little overwhelming), so that's helpful too.
+  
+*** Wrapping up
+
+"Get better" is a vague goal. If you can identify the specific goals you would like to work toward, different ways to move towards those goals, and specific actions you can take to improve those approaches, you'll have a lot of flexibility in terms of growing. You'll find it easier to recognize or create opportunities to grow, and you can track your progress along the way. You might also be able to identify counter-productive approaches and replace them with ones that move towards more of your goals. Good luck and have fun!
+
+** Posts for others and posts for myself
+
+- Things I've tried
+    - Massive list post: http://sachachua.com/blog/2011/11/quantified-awesome-116-web-resources-for-quantified-self/
+
+- Posts for other people and posts for myself
+    |          | Mostly for others | Mostly for me | Total | % others | Comments | Comments per post | Visits | Unique visits |
+    |----------+-------------------+---------------+-------+----------+----------+-------------------+--------+---------------|
+    | July     |                 9 |            22 |    31 |      29% |       75 |               2.4 | 24,540 | 18,282        |
+    | June     |                12 |            18 |    30 |      40% |       93 |               3.1 | 23,833 | 17,364        |
+    | May      |                12 |            21 |    33 |      36% |      135 |               4.1 | 47,185 | 38,711        |
+    | April    |                 8 |            22 |    30 |      26% |       96 |               3.2 | 21,400 | 15,700        |
+    | March    |                15 |            14 |    29 |      51% |       74 |               2.6 | 19,679 | 14,396        |
+    | February |                 8 |            15 |    23 |      34% |       31 |               1.3 | 14,457 | 11,434        |
+    |----------+-------------------+---------------+-------+----------+----------+-------------------+--------+---------------|
+    | TOTAL    |                64 |           112 |   176 |      36% |      504 |               2.9 |        |               |
+  #+TBLFM: $4=$2+$3::$5='(format "%d%%" (/ (* $2 100) (+ $2 $3)));N::$7='(format "%.1f" (/ $6 (* 1.0 $4)));N
+
+There's a strong correlation (0.84) between the number of visits and the number of comments, which makes sense. There is, however, practically no correlation between the percentage of posts I write for other people and how many posts or visits I get. My Feedburner stats show that my other-focused tend to get clicked on more, although some of my reflective posts are also popular.
+Anecdotally, I see my other-focused posts shared on Twitter more often, which makes sense too.
+
+Google Analytics lets me look at stats for individual pages, so I
+analyzed the stats for July. This doesn't count the times when people
+read the entirety of the post on the homepage, just when they view the
+individual post by clicking on the link. I looked at the top 100 pages
+in terms of number of visits. I classified 70 of those as
+"other-focused" and 12 of those as "self-focused". The top
+self-focused posts got an average of 143 views per page, while the top
+other-focused posts got an average of 233 posts per page. People also
+spent an average of 1.7 minutes longer on those pages (5 minutes vs
+3.3 minutes).
+
+#+begin_src sql
+SELECT DATE_FORMAT(post_date, '%Y-%m') AS month, COUNT(id), SUM(comment_count) FROM wp_posts WHERE post_type='post' AND post_status='publish' GROUP BY month;
+#+end_src
+
+What makes good posts like that?
+- The posts that spread widely tend to be the ones that are visual: the Shy Connector, a Teacher's Guide to Web 2.0 at School, How to Learn Emacs, sketchnotes, sketchnoting tips, and visual book reviews.
+- The posts that are surprisingly popular over a long period of time are my technical notes: Emacs, Drupal, Rails, Lotus Notes, and so on. You'd expect them to be superseded by better documentation or changing technology (and sometimes they are), but they tend to endure.
+- Sometimes my personal thinking-through-stuff posts unexpectedly resonate with people, and people share their comments and insights. (Ex: [[http://sachachua.com/blog/2013/03/passion-and-uncertainty/][Passion and uncertainty]])
+- I don't have to write advice posts from a position of authority ("You should do this, you should do that") in order to be useful. I can create value by:
+    - Describing what's out there (sketchnotes, visual book reviews)
+    - Sharing my technical troubleshooting notes, work-arounds, hacks, or discoveries from reading documentation/code
+    - Applying advice to my life and sharing my experiences
+
+
+- What would success look and feel like?
+    - I'm going to be selfish about this because I can. =)
+        - Is it okay to say that I blog more for myself? Because I do. Although your comments, shares, and links are nice. I feel like I should say that I write for readers. Attention is a gift. Many people would say that attention is valuable, and then turn around and try to sell you something.
+        - Someday, perhaps, when I have something I want to tell people, and I acquire a Voice of Advice, then I'll write more for other people.
+            - When would I feel good about that?
+            - Is there something I feel good about?
+                - I feel comfortable giving people advice on learning, reading, making better decisions, trying things out, and sharing.
+                - I feel comfortable helping people learn more about Emacs, Wordpress, and a little Excel.
+                - I feel comfortable that drawing is another way to create value.
+        - In the meantime
+            - If I want to invest more time in writing...
+                - I would write about things that few people write about
+                    - Emacs? Visual thinking? What it's like to make blogging such a part of your learning?
+                - Drawing, right... Although Sketchnote Army does pretty well.
+                - Something else.
+            - False dilemma. (Trilemma?) I know. The choice isn't really between these options, and I don't have to make one choice. I can write about all these things in the course of a week. But I wanted to figure out, if I wasn't keen on the first two options, what /am/ I leaning towards, so I can intentionally work on it?
+- A post that makes me a better person
+    - Change
+    - The posts I write make me at least a teensy bit better
+    - Better
+        - Better at learning and sharing
+        - Better at making decisions
+        - Better at resilience and positivity
+    - In terms of outcome
+        - Blog posts that represent larger chunks of growing (going from 0.01% to 0.1%)?
+          Improving by 0.01% every day means getting 4% better in a year, if you're fine with simplified math. Improving by 0.1% every day means getting 44% better in a year.
+        - One way to do this is to write less, to sit on posts longer until they develop, to start with a hundred ideas and tweak them for days or weeks (or longer!) until they're deep and insightful and useful.
+            - Write less? No, I like writing almost every day, and I forget if I don't write things down. --verbose Stuff gets lost in my private notes. Here we might have conversations.
+                - Arguing against myself: reasons for posting earlier rather than later
+                    - Learn from the conversation
+                    - Get feedback
+                        - Is it something unusual worth digging into?
+                    - Flesh things out on demand (in response to people's questions, etc.)
+                    - Get good value from time (diminishing returns?) - 80%
+                    - Throw more pots
+                        - Deliberate practice, engagement
+        - Another way to get a feel for what these deeper posts would be like would be to summarize experiences and update them with lessons learned
+            - For example, things I've learned in the past ten years, like cooking.
+            - This will give me a feel for what deeper posts might feel like.
+            - Then I can play with timeframes
+        - It would be worth getting the hang of this for new ideas, though.
+        - So I need to get better at getting better.
+        - Well, maybe an order of magnitude is ambitious. (0.01% to 0.1% is 10 times!) What would "a little better" look like?
+        - Grow more
+            - Ask better questions
+                - Know what "better" looks like and what direction it's in
+                - Ask the questions behind the questions
+                - Ask /different/ questions
+                - See and question assumptions
+            - Research
+                - Books, blog posts, other resources
+                - Reaching out to people (!)
+            - Observe
+                - Notice
+                - Describe
+                - Be less worried
+            - Try things out
+        - All that considered, I still want to write in small increments
+            - Behind the scenes
+                - It's like the way I take sketchnotes. I try to capture as much as I can instead of summarizing it, because you can summarize based on your notes but it's hard to go the other way around.
+            - I love being able to link to posts from years ago when I was still figuring something out
+            - There are plenty of people who'll share advice -- the results of their experiences -- without sharing (or remembering!) much of the journey along the way.
+        - So what's next for me then?
+            - Getting better at getting better
+            - Letting outlines steep
+                - I think I like leaving outlines hanging - it gives me something to focus on while doing the dishes or other chores
+    - But not too navel-gazey
+- Something I want to remember
+- ... but not too much pressure here, mind you, or I'll probably be unable to write /anything/. So it doesn't have to Measurably Improve the Human Condition.
+
+
+** OUTLINED [#C] Balancing "useful" and "personal" on my blog
+Lower-priority: I can wait until it seems more likely that my balance will change, or I can transform this into a post about blog role models and getting closer 
+
+- Good balance
+- What kind of balance do I want to have?
+- I'm thinking about this because this balance might change
+- As an introvert, I don't want to impose on other people
+  - I'm somewhat okay with blog reading being completely voluntary
+  - This is why I haven't gotten around to e-mail newsletters yet, even though reading is voluntary too.
+  - Maybe I don't have to? 
+- I want most of my posts to be *useful.*
+- I don't want to be generic. What's the point of writing something you could just find on Lifehacker? So I tell stories about what I'm learning.
+- What I want to avoid:
+  - Article mills
+  - Me-me-me-blah-blah-blah
+- But there are good examples
+  - Lifehacker tends to be impersonal
+  - The Simple Dollar is a little closer to the impersonal side of things, but is sprinkled with personal stories
+  - Penelope Trunk and Mel Chua write more personally than I do
+    - What makes their blogs feel more personal?
+      - Penelope Trunk writes about more stresses and difficulties. 
+    - Mel's writing communicates her excitement and passion
+  - Mr. Money Mustache is a great mix of useful + personal.
+    - I think, of all the blogs I read, I like his the most.
+** OUTLINED Blog models: Learning from Mr. Money Mustache
+- Why I like Mr. Money Mustache's blog
+  - Excellent balance of useful and personal
+  - topic is interesting as well, of course
+  - frugality - not just pinching pennies or juggling finances, but living well 
+- What are some of the things that Mr. Money Mustache does differently?
+  - Writing
+    - The alias is nifty and amusing. 
+    - He's more frank about finance (naturally).
+    - He's great at poking fun at himself. [[http://www.mrmoneymustache.com/2013/07/10/if-i-woke-up-broke/][more]] 
+    - He uses stronger language, including more intense adjectives and some swearing. He also uses a wider vocabulary and more wordplay. [[http://www.mrmoneymustache.com/2013/04/29/frequently-complained-questions/][more]] I should totally give myself permission to use less common words. =)
+    - He uses more stats, calculations, and case studies. [[http://www.mrmoneymustache.com/2013/06/13/bicycling-the-safest-form-of-transportation/][more]]
+    - He's more confident about giving advice. 
+  - Formatting
+    - He doesn't always emphasize the key points in his paragraphs, but they're readable anyway.
+    - His posts tend to be longer.
+    - He uses shorter paragraphs.
+    - His tables are formatted more prettily. Hey, sometimes it's the small stuff... =)
+  - Organization
+    - He's focused on financial blogging and the frugal lifestyle, while I blog about whatever I'm interested in.
+  - He gets a lot of input from readers
+    - People share their situations and give each other advice
+  - Layout
+    - His front page uses a summary layout with larger visuals.
+    - He has large graphical ads in the sidebar.
+    - He uses a serif font and a visually divided background
+    - His links are underlined in the post body, although not elsewhere.
+    - Links open in a new window. (Hmm, I've got mixed feelings about that...)
+    - He has a large post footer which has a blog, a new reader welcome, a random link, subscription/social media instructions, a community forum, and a subscription form, previous/next links with titles, and /then/ comments, trackbacks, and the comment form.
+    - He has a large page footer with a blog roll, popular posts, stats, selected categories, and tags.
+    - He has a "Start Here" and a menu item for various how-tos.
+    - He has a recommendations page with links to posts.
+** OUTLINED Learning how to outline                           :imagine:learn:
+   :LOGBOOK:
+   CLOCK: [2013-07-28 Sun 15:09]--[2013-07-28 Sun 15:10] =>  0:01
+   :END:
+   :PROPERTIES:
+   :Effort:   1:00
+   :END:
+Get "Thinking on Paper" first
+
+Objective: Be more effective at outlining my blog posts; Help other
+people improve their writing; Share a list of things I'd like to write
+about
+
+- Breaking skills down into their components (Tim Ferris)
+- Why outlining?
+  - Pseudocode and prototypes
+  - Some moments of discipline to keep fleshing things out
+  - More about the freedom to make slow and steady progress, knowing
+    that a plan keeps me roughly on track
+  - Freedom to cut and rearrange
+- What I'm doing
+  - Tracking outlining time separately; butt-in-chair time
+  - Sharing my outline
+  - Tracking versions
+- Tools
+  - Org Mode workflow
+    - Outline
+    - Lists
+    - Navigation
+      - C-c j (org-goto) to jump around
+    - Filtering
+      - C-c v (org-show-todo-tree) shows the ones that have been
+        marked with a status (good to see which ones I've outlined)
+      - Tags
+    - Refiling?
+    - Publishing and archiving
+  - Github
+- Imagining wild success
+  - Outline of things I want to share
+  - The feel for how things flow together
+  - People can easily review the outline - maybe with org-info?
+  - People can tell me what they're interested in - maybe with a way
+      for me to note who I should follow up with, but in a way that
+      doesn't require me to keep a private repository? Maybe tied in
+      with e-mail...
+    
+** OUTLINED Update: What I want my blog to become
+
+- I took a month off from my two-days-a-week consulting gig so that I
+  could experiment with focusing on writing. 
+- I want to be all-the-way-retired. There's a chance I might be. I'm
+  not sure. 
+- Most writers don't even have this luxury: to write about whatever
+  they want to write, without worrying about whether the book will be
+  picked up by a publisher or whether the magazine will accept the
+  article.
+
+
+- The M word: Monetization
+    - I thought about what I would use more money to do
+      http://sachachua.com/blog/2013/05/on-blogging-and-platforms-and-experimenting-with-google-hangout/
+        - I wouldn't change my lifestyle all that much 
+        - More money would probably be split between
+            - more experiments
+            - and buying more time to spend with family and friends
+    - Probably won't need to put a lot of effort into marketing and
+      building an audience
+        - Reasons to go out there
+            - Can save other people time?
+            - Can learn from other people?
+            - 
+- So this is what's going to happen for as long as I can do it.
+    - I'm going to learn lots of things.
+        - Curious
+        - What people ask me about
+        - From time to time, I may even dust off my outlines for future
+          books
+        - but I'd rather publish things bit by bit
+        - Eventually I'll get good enough at writing from outlines (or
+          slotting things back into them) that I can put together larger
+          resources, like articles and books
+
+** DONE What's your favourite excuse to NOT take notes?
+** DONE Writing while tired
+   CLOSED: [2013-08-11 Sun 18:06]
+
+- Sleeping a lot lately
+- Not quite as alert or energetic as I'd like to be
+- Good as a dry run; there will be more times that I'll be sleepy or
+  sick or tired
+- Options
+  - Sleep/relax/answer e-mail/read
+  - Practise writing every day anyway
+    http://surlymuse.com/writing-when-youre-sick-tired-or-just-hate-the-world/
+
+- How to write when tired
+  - Outline
+  - Don't have to be brilliant
+  - Do more research
+
+** DONE Get better at choosing stock photos for your blog posts       :skill:
+   CLOSED: [2013-08-13 Tue 21:22]
+
+- Brainstorm nouns and adjectives
+
+- People?
+  - Pay attention to gaze
+- Cliché
+- Metaphor
+- Abstract
+- Role models
+
+** DONE Thinking about stock photos
+   CLOSED: [2013-08-11 Sun 18:06]
+- Featured image
+  - Blog readers
+  - Magazine theme
+  - Visually break up a page
+- Many blogs use photos to make the posts more visually interesting
+- Lifehacker does this well
+- Inhibitors
+  - I don't like the way stock photos of people feel staged. I don't
+    identify with the people.
+  - Stock photos without people feel a little cold.
+
+
+The advice these days is to include a large image in your blog post,
+somewhere “above the fold”, so that it can attract attention, visually
+break up the page, and make your blog post more interesting.
+
+I’m still trying to get the hang of how this might work. Other blogs
+do this pretty well – Lifehacker, for example. More often, though,
+stock photos look fake. Too posed. Too perfect. I could never quite
+get the hang of
+
+
+Hypothesis:
+- I can get better at visually communicating if I learn how to use
+  stock photos effectively.
+- What does it mean to effectively use stock photos?
+
+** DONE Thinking about how I can use Evernote more effectively
+   CLOSED: [2013-08-11 Sun 18:06]
+It took me a couple of hours, but I finally cleared the 700+ items
+that had piled up in my Evernote inbox. Every so often, I go on a
+tagging and filing spree. I was thinking about this because Timothy
+Kenny told me how he has a virtual assistant file the notes in his
+Microsoft OneNote notebooks.
+
+Is my filing really worth it? Is it something I value enough to pay
+someone else to do? Could I explain what I wanted clearly enough so
+that other people could do it? Could I benefit from organization even
+if I'm not the one organizing things myself?
+
+Before I dig into that, I should probably examine this question: *What
+do I use Evernote for, and what could "better" look like?*
+
+Here's a quick summary of the different reasons I use Evernote:
+
+  |                                | <20>                 |                                                         |                                                                               |
+  | Type of note                   | Description          | Organization                                            | Improvements                                                                  |
+  |--------------------------------+----------------------+---------------------------------------------------------+-------------------------------------------------------------------------------|
+  | Sketchnotes                    | Collection of my sketchnotes for easy searching | Shared notebook, tagged by type                         | Fine the way it is                                                            |
+  | Inspiration                    | Interesting sketchnotes, images, and web designs | Notebook, tagged by technique                           | Tag and file when clipping, identify key areas of focus                       |
+  | Visual library                 | Visual thesaurus / sketches of abstract and concrete stuff | Notebook, titles updated, duplicates merged             | Improve workflow - delegate titling?                                          |
+  | E-mail archives                | Keep important information no matter which e-mail inbox it's from | None at the moment; notebook and tags                   | Tag and file when forwarding                                                  |
+  | People, conversations          | Quick notes from my mobile | Notebook                                                | Add full names; consider Evernote Hello for mobile input?                     |
+  | Ideas and thoughts             | Quick notes from my mobile | Notebook                                                | Should have weekly task to review and act on; separate from main Inbox?       |
+  | Actions                        | Quick notes from my mobile, when I'm away from Org | Notebook                                                | Should have weekly task to review and act on / copy into my Org file          |
+  | Cooking                        | Recipes, usually with pictures | Notebook, tagged by technique or dietary considerations | Review periodically; update when cooked                                       |
+  | Wishlist                       | Resources to buy after more consideration | None at the moment; tags, probably                      | Tag and file when clipping                                                    |
+  | Reference books                | Books held by the Toronto Reference Library, to request next time I'm there | Notebook, search                                        | Go to the library more often                                                  |
+  | Letters                        | Scanned letters so that I can review correspondence | Notebook, tagged by person                              | Fine the way it is                                                            |
+  | PDFs                           | Makes PDFs more searchable | Inbox, occasionally tagged                              | Use Web Clipper to specify tags and file in Notes right away                  |
+  | Blog posts / casual browsing   | Interesting things that might be useful someday, especially for related items | Notebook                                                | Use Web Clipper to file in Notes right away                                   |
+  | Other sketches                 | Scanned sketchbook pages so that I can review | Notebook                                                | Fine the way it is                                                            |
+  | Private notes                  | Things that I might want to remember or write about someday, but not yet | Notebook                                                | Have an outline?                                                              |
+  | Blog post ideas                | Inspiration, drafts, links, images, checklists | Notebook, some tags                                     | Add links to outline?                                                         |
+  | Business and personal receipts | Back up business and personal receipts; possibly be able to search through them | Notebook; tags, or just use folders on my drive?        | Decide where to do the organization; have an assistant retitle before import? |
+  | Blog research?                 | Clipped pages so they'll show up in Google Search and related notes, and so that I can review them even if the source disappears (payoff > 2 years) | No organization; search by keywords or sourceurl:       | Clip, but remove from inbox quickly                                           |
+
+I have different types of clipping activities:
+- *A. Researching a topic*, which results in lots of clips related to a
+  single topic. Usually in preparation for a blog post or as a way to
+  answer a question.
+- *B. Casual browsing and clipping* based on blog posts, news items, or
+  other things I come across; roughly topical (ex: skill
+  development), although may be tagged and filed in different places
+- *C. Saving reference material from email or websites*, which should be filed
+- *D. Adding notes on the go using my phone*, which should be reviewed
+  and acted on or filed when I get back to my computer
+- *E. Automatically clipping things based on external input*, using
+  services like IFTTT to archive my blog posts.
+
+There are several strategies I could use to manage my Evernote
+collection. I can choose different strategies based on the results
+that I want. Here are some possibilities:
+
+- *A. Spend a few extra seconds tagging and filing things when I clip
+  them.* Advantage: I touch something once, so I don't have to recall
+  the context of an item.
+- *B. Capture everything into an !Inbox, then file shortly after
+  clipping.* Advantages: I can select multiple entries and tag them
+  give them the same tags, and copy all the note links in one go.
+- *C. Capture everything into an !Inbox, then file weekly.* This is my
+  current strategy. This isn't working out too well - things pile up.
+- *D. Capture everything into an !Inbox, then teach someone to file.*
+
+I think strategy B will give me a good improvement in performance
+without me needing to bring in someone else.
+
+One of the areas that I could generally improve in is integrating the
+notes into my outlines and plans. Instead of just collecting the
+information, maybe I can use Copy Note Link and then spend some time
+adding those links to my outline. Alternatively, I can copy the
+source URL right then and there, find where it fits into my outline,
+and paste the link. If org2blog respects comments, I could even use
+that as part of my workflow.
+
+So if I were to outsource more tasks in order to improve my
+effectiveness at learning, I think I'd gain more value from finding
+someone who can speed-read like I do, filtering through lots of cruft
+on the Internet to find high-quality resources. They could then clip
+those pages into Evernote for my review. That might be worth an
+experiment or two... Let's find out how that works!
+
+#+BEGIN_COMMENT
+Does org2blog respect comments? If so, I can use that to add more details.
+#+END_COMMENT
+
+** DONE Poll: Planning a weekly topic-focused blog - what would you like to read more about? :planning:blogging:
+   CLOSED: [2013-09-14 Sat 12:43]
+   :PROPERTIES:
+   :ID:       o2b:11721467-6548-4b2f-ac19-ac7aa0fbaf0b
+   :POST_DATE: [2013-09-14 Sat 12:35]
+   :POSTID:   26117
+   :BLOG:     sacha
+   :END:
+
+"*Your blog is so eclectic*," said someone recently. In one week, I can
+write about deep geekery, business, blogging, drawing, decision
+making, and cooking. I deliberately shuffle my posts around so that
+you get a variety of topics each week. (When I didn't do this kind of
+planning, you sometimes got long stretches of geeky posts that went
+over everyone else's heads...)
+
+*My blog has a lot of different topics because I have a lot of
+different interests.* The only challenge with [[http://sachachua.com/blog/2009/12/the-value-of-a-bottleneck/][posting daily]] is making
+myself stick to it instead of publishing two or three posts because I
+get carried away. There's always so much to learn and share, and if I
+don't write about it, I tend to forget it.
+
+*I think it's time to experiment with different ways to write.* The
+variety is fine for other people with wide-ranging interests. The
+frequency is a little overwhelming, so I've started directing people
+to [[http://sachachua.com/blog/category/weekly][weekly]] and [[http://sachachua.com/blog/category/monthly][monthly]] updates.
+
+*Please help me plan a new blog that's more focused on a set of
+topics.* =) One that's updated weekly, so it's more manageable in
+terms of reading. One that's written for readers first, instead of
+being mostly personal notes that might be useful for other people. I'm
+still going to update my personal blog (sachachua.com) with all these
+notes, but once a week, I want to post a focused, well-written,
+illustrated, "I spent 4-10 hours making something useful for you" post
+that saves you time or money.
+
+I'm going to focus on general-interest topics so that I can write
+posts that might be useful for years and years to come. Tech-related
+posts can be difficult to keep current - people come across Emacs blog
+posts from 2008, and it can be hard to figure out what needs to be
+changed. General topics tend to be longer-lasting.
+
+Here is where I need your help and feedback: *What do you want to read
+about?* There's a poll in this blog post. If you don't see it, please
+check it out at TODO. If you give me your e-mail address (optional), I
+can invite you to check out the blog when it starts out. =) (Sneak
+previews!)
+
+
+#+BEGIN_COMMENT
+- A. Learning, writing, sharing knowledge, and constant improvement
+- B. Planning, deciding, and tracking
+- C. Productivity, time management, and delegation
+- D. Personal finance, semi-retirement, cooking, frugality, and household life
+#+END_COMMENT
+
+I'll probably branch it out under the "LivingAnAwesomeLife.com" domain
+name - maybe in a subdirectory for ease of expansion later on?
+
+Looking forward to hearing from you!
+
+** Writing into the differences
+
+- What do I do differently?
+    - Learning, writing, visual notetaking, sharing knowledge, and constant improvement
+    - Planning, deciding, and tracking
+    - Personal finance, semi-retirement, cooking, frugality, and household life
+** Stuff that works for me
+
+- Writing works better than interviews or speaking
+    - Outlines, links
+    - Even though I say a lot more words in an interview
+    - Things I like about interviews
+        - Other people's questions
+        - Back and forth
+        - 
+
+** Managing a daily blog
+   :LOGBOOK:
+   CLOCK: [2013-08-29 Thu 19:16]--[2013-08-29 Thu 19:57] =>  0:41
+   CLOCK: [2013-08-29 Thu 18:59]--[2013-08-29 Thu 19:16] =>  0:17
+   CLOCK: [2013-08-29 Thu 12:45]--[2013-08-29 Thu 12:57] =>  0:12
+   :END:
+   :PROPERTIES:
+   :Effort:   4:00
+   :END:
+- There's so much to learn and so much to write about.
+    - Read books, blog posts, and manuals
+    - Try something new
+    - Learn at least one thing a day.
+- One complete thought per post
+    - 
+  
+- Not everyone is interested in everything.
+- Arrangement
+    - I write posts in advance
+    - I move posts around so that a variety of interests are covered each week
+        - Emacs, visual thinking, blogging, life, productivity, learning
+        - Things I want to write more about
+            - Books: I read faster than most people do, and I have an awesome library nearby. Summaries?
+            - Learning
+    - When I've got several posts lined up in a weekly series, I link them together and add a note to help people anticipate the next one.
+- Categories
+    - Category feeds
+- Syndication, Planet Emacsen
+- Making this better
+    - Series?
+    - Visualizations?
+    - Highlight
+        - What is a good essay?
+            - Montaigne's Essays
+            - Start with a question or something I want to learn
+            - Both geeky and personal
+            - Point to other people's perspectives
+                - Books
+                - Blog posts
+        - How about a series every month or every two months, wrapped up in a PDF?
+            - Weekly post
+   
+http://blog.penelopetrunk.com/2009/04/21/8-reasons-why-you-wont-make-money-from-your-blog/
+
+Once you're /there/, how can you make it better?
+
+- Why
+- How I work
+  - Gigantic outline helps me remember what I wanted to write about so that I don't forget while I'm in the middle of research.
+  - I use a feed reader to quickly skim updates from hundreds of blogs.
+
+
+- Ideas
+  - Outline
+- Editorial calendar
+  - Shuffle posts around to cover a variety of interests
+- Challenges
+  - People are interested in different things
+- When you blog every day
+  -  
+
+** What would it take to become comfortable with giving people advice?
+
+** Return on time                                                      :data:
+
+It took me around two hours each to create the two images in http://sachachua.com/blog/2013/09/how-to-learn-emacs-keyboard-shortcuts-a-visual-tutorial-for-newbies/
+
+It took me four hours to create http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/
+
+It takes me about two hours to read a business book in depth, creating a visual summary on the go.
+
+Sketching a 1-hour talk generally takes 2-4 hours, including time to get there and a schedule that usually includes networking.
+
+Shorter talks tend to be lighter-weight unless they've been rigorously planned and rehearsed.
+
+** Random
+http://pushingsocial.com/blog-purpose/7-simple-ways-to-get-your-readers-to-spend-more-time-on-your-blog/
+** Sneak peeks
+- One post a day, unless I'm sketchnoting an event or I'm super-excited
+- Share A Draft and Editorial Calendar
+- makes it possible to spread posts out while giving people links to the resource
+- Windows Live Writer doesn't pick up the date, so I need to make sure I set the date again
+
+** Blogging advice that I'm not planning to follow
+- keyword optimization
+- e-mail list
+- linkbait
+- RSS feed summaries
+- summaries on front page
+** Blogs and e-mail newsletters
+
+- conversation with Timothy Kenny, who has just started experimenting with daily e-mail newsletters
+- I suggested public archive
+
+- http://www.productiveflourishing.com/why-i-was-so-worked-up-about-killing-my-newsletter/#utm_source=feedly
+
+- I've been thinking about e-mail newsletters because Timothy Kenny
+  has just started with his.
+- Typical advice for growing and (dare I say it?) monetizing your
+  blog.
+  - Offer an incentive for people to sign up for your mailing list.
+    - PDF
+    - exclusive content
+  - Put people on an autoresponder.
+  - Mail people regularly to build the relationship
+    - Sell them stuff later on
+- I don't even send friends or family e-mail normally
+  - Hmm, maybe I'm not used to the grammar of it?
+- also, it takes me an average of 6 minutes to reply to an e-mail. 
+  - Oddly,
+- RSS is mostly dead. Only geeky people use it. [[blog-subscribe][outline]]
+- Automatic e-mail newsletters
+- I want to sell things only if they save you a lot of time
+- Forget that. I want to give away so much that you almost feel
+  obliged to help.
+  - and since I don't need that much money for my lifestyle (I think)
+- I'm very good at planning inexpensive experiments. Besides, that
+  makes it easier for other people to replicate.
+
+
+Why: because there are people who send e-mail, but don't blog
+
+- why don't they blog?
+  - self-conscious: only the "best content" out there
+\
+
+** Blogging excuse-buster: I don't want to blog because I want to put my best foot forward
+
+This is something I hear a lot from people. "I don't want to blog
+because I might be embarrassed." 
+
+** Thoughts on growing an audience
+- Sometimes I wonder if I should do more of the "Right Things" when
+  it comes to building a blog.
+    - Focus on one or two topics so that people will subscribe because
+      you're consistent and reliable.
+    - Research keywords so that you can optimize for search engines
+      queries and write content that will bring people in.
+    - Reach out to new audiences with guest posts.
+    - Send e-mail newsletters so that you can build relationships and
+      so that you can sell to people later on.
+- Why
+    - Can save other people time
+    - Can learn from more people
+    - Scale up - create more value for each unit of time I invest
+- Sometimes I'm envious of blogs with hundreds of comments. On sites
+  like that, people learn a lot from each other, not just me. But I
+  remember that reading and responding to comments takes time, and I'd
+  want to filter through them for spam, and that other people glaze
+  over when they see pages and pages of comments and end up not
+  reading them. It's okay. I like the in-depth conversations we have
+  in comments. I'm not entirely sure if I'm sour-graping, but it seems
+  to make sense.
+- Sometimes I wonder if this should be more like other blogs. But then
+  that's a well-travelled path, with lots of other people exploring
+  it. I have this amazing opportunity to try something different. I
+  should.
+- Actually, I already know what I should do--what works for me, what
+  I should do more.
+    - The enduring posts on my blog are either tech notes (Emacs,
+      Drupal) or sketches.
+- The clearer my "no", the less I'm distracted from the things that I
+  can do.
+- Like the way I hack around my introversion
+    - Write about whatever I'm learning about - variety of interests, and
+      let more focused people use search results and category links
+    - Look at other people's questions and failed search results to
+      nudge me to write about certain topics if I'm curious about them
+      too
+    - Read good blogs and write about what inspires me, linking.
+      Invite people who don't have blogs to share their tips and
+      lessons learned on mine.
+    - Build relationships through comments. Give away as much as I
+      can of what I know. Let people show their appreciation if they
+      want to. Money is nice, but there are other ways too.
+- Risks in getting too big
+    - Internet has a seamy underside
+- Introvert
+- The time I would spend in pitching guest posts, etc.
+    - versus making things
+
+- Drawing
+    - Nearly 39,000 people visited in May, when I published
+    - Plenty of blogs
+    - Lots of infographics
+    - Not that many useful, non-marketing drawings
+- It's okay
+
+- Are there low-effort, high-benefit things I can do to make this better?
+
+    - Might get to the point where people are learning from each other
+        - You can do this elsewhere on the Internet
+        - So it would have to be a particularly interesting
+          combination of people
+
+** Why and how to subscribe to blogs
+# <<blog-subscribe>> 
+
+- since not everyone knows about this
+- why
+  - i read a lot of blogs
+  - i *skim* a lot of blog headlines and excerpts, and I read maybe
+    3-5 posts a day
+  - i mostly read on my phone
+- how
+  - my favourite: feedly
+  - there are a number of alternatives, so it mostly depends on what
+    you like
+
+** How to manage a free-ranging blog
+Role model: boingboing.net
+http://whatever.scalzi.com/
+
+** How to research keywords for blog posts
+# <<research-keywords>>
+http://sach.ac/outline#research-keywords
+
+- recent changes with 
+
+** Writing while you're doing and learning: the power of the gerund 
+- stats
+
+** Unexpected benefit of outlining
+- More research, because I'm not worried about losing my thought!
+- Longer time, book research
+- Sub-outlines
+** Mapping skills and prerequisites
+- Limitations of outlining
+- skillpedia.herokuapp.com
+  - which I came across while browsing examples of D3.js
+    visualizations
+- Reminds me of the Civilization skill tree
+- Pieces, but if I define prerequisites and recommended next steps
+** Building a resources page
+** "It's not enough for a blog post"                              :challenge:
+- Tidbits go in my weekly review
+** Brainstorming outlines
+** Following the butterflies of your interest
+** Hangout experiment
+** How I got started
+- Taking notes for myself
+** Writing through resistance and self-doubt
+** Tools
+*** Windows Live Writer
+*** Editorial Calendar
+*** Share a Draft
+** How to write a lot
+** Writing is a way to think
+** Blogging is a way to remember
+** Things I don't write about (yet) - should I write about them?
+*** Semi-retirement
+Don't want to gloat or attract unwanted attention
+
+** There's always something to write about
+** If you're not the writing type...
+** Finding writing topics in conversations
+** A platform for helping others
+
+** Writing blog posts by starting with titles
+Other titles:
+- Titles make blog posts easier to write
+- Braindump titles to break through blogging bottlenecks
+** The freedom of pay what you can
+** Give away advice
+** Breaking down the skills for writing
+** What to teach
+
+I miss teaching. I had tons of fun teaching computer science when I
+was in the Philippines, coming up with different analogies and
+exercises. 
+
+Stephanie Diamond suggested making a sketchnotes course on Udemy.
+People have asked me about teaching Emacs, or blogging, or Quantified
+Self tracking and analysis.
+
+- What would you want to learn for free?
+- What would you value at $49?
+- What would you value at $99?
+
+Help me figure out a good curriculum that could help you!
+
+** It's okay to be wrong
+At an applied rationality meetup in Toronto, the guest speaker
+confessed to being afraid of blogging because she didn't want to be
+pinned down to words. 
+
+People think of writing as final. The fuzziness of conversation in
+memory might let you argue, "That's not what I said," but writing
+leaves you no wiggle room. 
+
+It's okay to be wrong.
+
+- What people are afraid of
+  - Not being able to adjust
+  - Misunderstandings
+  - Unexpected audience
+- Being wrong
+  - Inevitable
+  - Story about class
+  - Story about blog
+  - Story about comics
+  - Keeps me honest
+- Going forward
+  - Not an expert
+  - Conversation
+  - Modeling it
+
+** What I like writing about
+** Writing everywhere
+** Collecting stories and quotes
+** Improving my writing system
+** The power of long lists
+** Organizing what I know
+** Flipping through my notes
+** Getting the hang of passing everything through Evernote
+** E-book tips
+** Embracing the resistance in terms of writing
+The resistance is a symptom that you're on the right track. /The
+resistance is not something to be avoided; it's something to seek
+out./ ... The artist sees out the feeling of the resistance and then
+tries to maximize it. The cog, the day laborer, the compliant
+student--they seek to eliminate the feeling instead.
+- Seth Godin, The Icarus Deception
 
 * Living an awesome life
 ** Enough time
@@ -2620,407 +3118,6 @@ up people.
 - I don't need to pull that much money out of it
 - Personal exemption
 - RRSP contributions
-* Productivity and time
-** Getting over my procrastination by deferring value judgments
-Other titles:
-- Getting over my procrastination by getting rid of optimization
-- Optimization: Procrastination by any other name...
-** Becoming more attentive: My quest to stop doing things half-way
-Other titles:
-- Becoming more mindful: My quest to stop doing things half-way
-- Easily distractable: My quest to stop doing things half-way
-** It's about time
-
-(personal motivation)
-More than anything, I wanted time. Ever since I was a kid, I had
-always been acutely aware of how short a time we actually have. (Can I
-blame this on reading about Raistlin's hourglass eyes in Dragonlance,
-which I suppose was my first introduction to Stoic negative
-visualization?) Being halfway around the world from family is hard
-enough. I see the time pass for my parents in their Facebook pictures
-and on our Skype calls. As for here, W- is much older than I am, and I
-want to make the most of the time that I have with him.
-
-** Not optimizing for productivity
-
-One of the people I was chatting with was interested in measuring
-productivity. As I started thinking about it, I realized that I care
-about making sure I’m not breaking many promises. Sometimes I slip up,
-and then I know I have to slow down and take my time. I’m curious
-about some things that might improve my effectiveness (dictation or
-podcasting for these posts, to make the words flow better? automated
-tests for my coding? visual vocabularies for my drawing?), but they
-tend to be more qualitative than...
-
-Not optimizing for productivity
-
-but reliability
-
-space
-
-celebration
-** Rediscovering the renaissance life :link:
-"It must be nice
-
-But my own favorite part of the book was in the description of the “Renaissance Man ideal”. This is the idea that you will have the most enjoyable life, AND the best chance at very early financial independence, by developing a whole load of interesting skills. The amazing part is that these skills don’t just sit independently in your mind like a bunch of unused kitchen appliances in a pantry. They start to reach out and connect to each other in unexpected ways, and start solving all of your problems for you. They build your curiosity and start sucking in still more skills that you can’t help acquiring. And before you know it, you are able to live a superb life on only a tiny fraction of the spending that a normal person does, even while you might end up accidentally earning money even more easily than before you embraced the Renaissance Ideal.
-
-Mr. Money Mustache, Book Review: Early Retirement Extreme
-
-** Open loops :link:
-
-It’s been more than ten years since David Allen published Getting
-Things Done. I still haven’t come up with a fully trustable system,
-but Emacs + Org + Evernote is getting there. I’m glad I’m back to
-using Org. I’m starting to run into the reminders I set for important
-business paperwork last year, and I might have missed that if I was
-relying on my memory or my calendar.
-
-From time to time, when I catch myself feeling frazzled, I stop and
-write down all of my open loops: the things that tug on my attention.
-Some of them must be ruthlessly demoted to “someday/maybe,” or even
-let go. And then I can methodically go through the others, crossing
-them off as I finish them. Getting it all down on paper helps me make
-sense of things and stops me from feeling overwhelmed.
-
-More:
-http://www.scotthyoung.com/blog/2008/02/28/relax-without-feeling-lazy-kill-open-loops/
-
-** Tool talk: Clipboard managers
-Clipboard managers
-
-Ditto - want more of a collection view
-ClipMate - does not keep transparent backgrounds, but otherwise interesting collection management. Fixed transparency by enabling DIB and TIFF! Okay, we're good to go.
-
-Decision criteria:
-- must be able to organize clips into collections that don't get buried under new clips (can select collection)
-- pen-friendly
-- always-on-top
-
-
-Stuf: transparent, good previous, but doesn't seem to have an always-on-top view
-
-Clipboard Master: not transparent
-
-Clipboard Fusion - can't handle images, I think
-
-Try ClipMate because of the interface for selecting clips
-
-Intended uses:
-- Text for filenames
-- Clipped images for pasting into a layer; not transparent, so darken only?
-
-** Things I use
-** OUTLINED Write down your processes
-- Why
-  - Repeatability
-    - Value of checklists
-  - Easier to improve something when you can look at it
-  - If you share your processes with other people, they might have
-    suggestions
-  - Allows delegation
-- How
-  - Outlines
-  - Flow charts
-  - Special cases
-** Take notes
-** Without the excuse of time
-** Improving my commute
-** Turning distractions into interruptions and vice versa
-** Taking it slowly
-I'm giving myself permission to take long walks, to draw for the sake of drawing, to write reflections, to be in silence. I want to find out what emerges from stillness. I recognize this fidgeting, this
-
-** Getting better at learning from online courses
-* Delegation
-** OUTLINED How I (want to) use outsourcing to help me learn more effectively
-# <<outsource-learning>>
-
-Goal: Learn, share, scale
-- Package lots of e-books on a pay-what-you-can basis, or whatever
-  people would like (support/subscription?)
-
-
-- Learning from people
-  - [ ] Identify interesting people to learn from
-    - Hmm... is there a way I can do this more efficiently? Scanning
-      the first 50 Google Blog Search results gets me 5
-      high-quality resources, which I could probably filter just
-      based on the titles alone.
-    - Huh. This could be harder than I thought, because I'm not that
-      happy with the resources that are out there. Maybe I should
-      figure out a better strategy.
-    - What do I want in terms of learning from people?
-      - Write blog posts with links to other people's interesting perspectives
-      - Slowly collect interesting people to follow in my feed reader
-      - Keep in mind the specialties of my blog readers and other
-        people who don't blog on their own
-    - Possible outsourcing approach
-      - SPEC: Given a topic, give me an outline or spreadsheet
-       highlighting bloggers who have written good blog posts about the
-       topic
-        - well-written (good English, few grammar or spelling mistakes,
-          good paragraph separation, maybe uses bold/color/italics for
-          emphasis)
-        - includes personal experiences, not just generic advice or reblogging
-        - includes action items or recommendations
-        - includes links to other resources (and not just
-          selling content or promoting a business)
-        - discussed: has at least two comments, one of which should be
-          a reply from the author (unless the post is less than a week old)
-        - active: at least 1 post a month, and has posted recently
-      - Rubric:
-        - Excellent: 
-          - Went through ~10 pages of Google search results and
-            narrowed it down to 5-10 excellent items
-          - Highlighted bloggers or websites who wrote repeatedly
-            about a topic, browsing through categories or tags to find
-            related posts
-          - Added a short description of how the pages differ from
-            each other
-            differ from each other  
-        - Good:
-          - Went through ~5 pages of Google search results and narrowed it
-            down to 5-10 good articles
-          - Organized the list of articles to put excellent/insightful
-            blogs at the top
-        - Mediocre: 
-          - Sends a list of URLs with no explanations
-          - Includes blog posts that are generic, self-promotional
-            advice
-  - Topics I want to learn more about
-    - Content marketing / information products
-    - Connecting through blogs
-    - Visual thinking
-    - Making decisions
-    - Personal time tracking
-    - Delegation, outsourcing, how to make the most of virtual
-      assistance
-  - Tips
-    - blogsearch.google.com 
-    - Look at the posts that good blog posts link to
-  - [ ] Prepare talking points / questions / links
-    - Review past blog posts looking for related items
-  - [X] Schedule interviews
-  - [ ] Edit in Camtasia
-    - Trim
-    - Zoom-and-pan as needed
-    - Add chapter markers with question text
-    - Send a list of chapter markets
-  - [ ] Draft show notes with links
-  - [ ] Export to MP3
-  - [X] Transcribe (so that I can turn it into blog posts)
-  - [ ] Post to blog
-  - [ ] Update previous posts
-  - [ ] Find a tutor
-  - [ ] Tutor me on a topic
-- Learning from books and other resources
-  - [ ] Identify resources
-  - [ ] Request books (partially automated)
-  - [ ] Comparison-shop for books
-  - [ ] File notes
-- Learning from the Web
-  - [C] File Evernote notes (tip from Timothy Kenny)
-    - Add keywords
-    - Move to notebooks
-    - http://sachachua.com/blog/?p=25628&shareadraft=baba25628_51fabe102ea81
-  - [X] Transcribe other people's videos and podcasts
-  - [X] Find or develop a scraper that can page through a Wordpress
-    blog 
-    - Partially automated with https://gist.github.com/sachac/6131743
-- Learning by sharing
-  - [ ] Identify related blog posts
-    - Clip into Evernote
-    - Map links onto my outline
-  - [ ] Ask questions
-  - [ ] Edit for clarity and brevity
-  - [ ] Bring several posts together in an outline
-  - [ ] Improve my Excel workbook or dashboard
-  - [ ] Scrape data for analysis
-  - [ ] Research comparable statistics
-  - [ ] De-um audio
-  - [ ] Categorize old posts 
-    - Bayesian probabilities?
-  - [ ] Add PWYC buttons / turn PDFs into PWYC products
-  - [ ] Format documents as beautiful PDFs
-  - [ ] Cross-post to Pinterest and Flickr
-- Learning from conversation
-  - [ ] Identify new referrers and blog search results
-  - [ ] Send people links as things are published
-- Learning by making
-  - [ ] Build the bones of a web application (especially one that
-    uses APIs)
-  - [ ] Sketch out a Wordpress plugin
-  - [ ] Fix CSS or JS issues
-- Learning through virtual meetups
-  - [ ] Set up Google Event
-  - [ ] Publicize event
-  - [ ] Moderate questions
-  - [ ] Set up Hangout On Air and post links
-  - [ ] Trim recorded video
-- Learning through meetups
-  - [ ] Set up meetup
-  - [ ] Publicize meetup
-  - [ ] Post follow-up notes
-  - [ ] Post meetup reminder
-- Learning by experimenting
-  - [ ] Structure an experiment and its measures
-  - [ ] Review related literature and examples
-  - [ ] Enter data
-  - [ ] Analyze data
-  - [ ] Strengthen my conclusions (make sure they make sense)
-  - [ ] Tutor me in statistics
-  - [ ] Create visualizations
-  - [ ] Put everything together in a blog post
-- Learning by delegating
-  - [ ] Identify opportunities to delegate
-  - [ ] Document process
-  - [ ] Anticipate exceptions
-  - [ ] Draft job specs
-  - [ ] Find comparable samples of work
-  - [ ] Identify promising ODesk or Fiverr candidates
-  - [ ] Do cost-benefit analysis
-
-Also
-http://www.authorsassistanttraining.com/author-services
-[[blogging-help][http://sach.ac/outline#blogging-help]]
-
-Nudged by Timothy Kenny
-
-** What services should I be taking advantage of?
-** DONE Getting some help with blogging
-
-# <<blogging-help>>
-http://sach.ac/outline#blogging-help
-
-- I'm thinking of investing more in my blog, maybe experimenting with.
-- NOT
-  - having someone "spin" keyword-laden content for me
-  - someone to keep me accountable re: writing - it's already a habit =)
-- Why
-  - I want to get better at writing
-  - One way: Identify and deliberately practice [[blogging-skills][blogging skills]]
-    - Current focus areas
-      - Outlining (mostly comfortable; need to get to the point of calibrating outline to ~100 words?)
-      - Synthesizing information (lists, etc.), bringing everything together with a conclusion or recommendations
-    - Next steps
-      1. Write better headlines 
-      2. End strong: conclusion, call to action, question
-      3. Start strong: improve first paragraph
-      4. Pick better post topics (research, feedback, etc.)
-      5. Get into the habit of sending newsletter e-mail, maybe for upcoming blog posts
-      6. Get into the habit of updating, organizing, and packaging information resources
-    - Doing this, having fun, making progress.
-      - Hmm, might be interesting to think about how to measure this progress
-  - Another way: coaching
-    - Ideally, someone with better skills
-      - Model excellence and call their shots
-      - Give feedback on gaps
-      - Help me teach others
-      - Ideal scenario?
-        - We pick a skill to focus on, like synthesizing information
-        - They recommend some of their favourite role models
-        - We come up with exercises or challenges (I'm currently listify-ing at least one post per week; ditto stock photos)
-        - (We might be able to skip the research part for now, as that's time-consuming and lower-value than planning/editing.)
-        - They help me improve the logical organization of the outline
-        - They help me improve the transitions and organization of the draft post
-        - We brainstorm better headlines and calls to action / questions for the audience
-          - Also, related Twitter post?
-    - Even a different perspective is useful
-      - Check whether something makes sense
-        - I don't care about typos if the meaning stays the same
-        - I care about good headlines and saying clear, useful, time-saving, non-obvious things
-        - I care about explaining things that people might find confusing
-          - I might write a blog post for an advanced audience, but it would be good to flag what needs to be explained for intermediate audiences etc. and then fill that in with blog posts later on
-            - How to map this out?  
-        - I care about tightening things up and making transitions smooth
-      - Need more precise feedback than "It doesn't work." I want to see alternatives.
-      - Learning how to put my editing hat on
-  - Brainstorming/planning stage?
-    - Outline, notes, quotes, examples, questions
-    - Follow-up blog posts
-  - Also possibly useful: research and editing help
-    - People will search using different keywords and sources than I might
-    - Good for prioritizing lots of resources
-      - Value depends
-        - Do I read faster than they do? Can I filter through resources faster?
-        - Do they have similar or better prioritization functions? Am I wowed by their choices?
-        - Comparative advantage?  
-      - Is the following the ideal scenario for that? This is some time in the future, though, after I get used to working with other people while writing.
-        - I send the person an outline and some notes, and he or she
-          sends back summaries of the best resources with citations
-          and links. I add personal stories (this comes after research
-          because I want to apply advice and it's better than just
-          searching for confirmatory evidence) and publish.
-    - Good for editing transcripts and misc. documents too, possibly handling some of the regular publishing (ex: sketchnotes or updates)?
-  - Process tips? 
-    - Tools and processes are harder to transfer
-    - Metacognition?  
-- Good to have a safety net: at some point, I anticipate being more frazzled. This is part of life.
-  - I could do what other people do and _not_ blog, but it's more fun to learn from the conversation.
-  - Good to have someone doublecheck that I'm making sense
-  - Make sure that I'm writing useful stuff instead of focusing too much on my life
-    - Yes, it's a personal blog, but I may as well be useful at the same time =)
-    - And also check that I'm not /too/ impersonal, because that would be boring
-  - Do some of that research, maybe?
-  - Investment in ongoing learning and connection
-    - May need to prioritize
-    - or may just need to learn how to put my editing hat on
-- Justifying value
-  - Competing options
-    - Options
-      - Do it myself
-        - I'm doing pretty well
-        - Lots of great tips out there
-        - I'm nowhere near the limit of what I can learn for free or from experience
-        - Use books and role models for passive guidance
-      - Learn from people's feedback
-        - This is great! People comment and share
-      - Find or start a blogging mastermind group
-        - Group insight, more perspectives
-        - Group plans, support; building relationships
-          - Casual examples: Mel Chua, Trevor Lohrbeer, Timothy Kenny - no formal connections between them, but good conversations
-      - Advantages of coach/assistant
-        - Opportunity for targeted, skilled, consistent feedback 
-        - Learn more about delegation and coaching
-  - Justifying investment
-    - Worth an experiment
-      - How long? Extent?
-        - As-needed basis
-        - Risk: I might forget to assign work
-          - I should prepare and assign work up front
-        - Once a week, at least a month?
-          - What does this look like?
-            - Google Docs or Draft, e-mail notifications
-              - ... because I'm unlikely to find someone who can commit straight to Github ;)
-            - Google Hangout chat for clarification/discussion if needed
-            - Probably 2-3 hours a week, picking one post to focus on
-              - make it awesome and link-worthy!
-                - although the easiest way to do that is to go and sketchnote something (book review, talk, resource, etc.)
-                - goal is to learn how to do this with just writing, or with a combination of writing and /some/ graphics  
-      - How does this compare with previous experiment with editing?
-        - http://sachachua.com/blog/2009/11/thinking-about-how-i-can-make-the-most-of-editing-the-world-is-an-amazing-candy-store-of-talent/
-        - Not as focused on wordsmithing 
-          - http://sachachua.com/blog/2009/12/editing-feedback-on-the-shy-connector/
-        - How am I better at writing now?
-          - Outlines, illustrations
-      - What would be worth it?
-        - At the end of the experiment
-          - Good: I'm more comfortable synthesizing key points from research and stitching them together in a smooth, non-plagiaristic way that adds value
-          - Awesome: I wrap up the post with a good conclusion, a call to action, and a question
-          - Amazing: I have a better sense of headlines, and a plan for testing/improving
-            - Okay with needing different coaches - work with people's strengths
-
-    - How to continue justifying the experiment
-      - Canada Revenue Agency: must be business-related expense with expectation of income
-      - Deeper feedback versus superficial feedback, explaining what's going on 
-        - Ex: reorganizing the logic of a piece and explaining why, instead of making tiny word changes (remove "just", etc. - useful, but not as useful as the other kind of feedback)
-      - Sell information products or courses, maybe on a pay-what-you-can basis 
-      - Use as a regular weekly sanity-check for batch processing
-        - Grant access to Wordpress?
-        - Work out a different workflow, maybe Evernote? (Evernote doesn't paste well)
-- Acknowledgements
-  - Happy to share before/after views and a link in posts
-  - and naturally, lots of process reflections and updates!
-
 * Emacs
 ** DONE How to learn keyboard shortcuts
 <agumonkey> - heres a shortcut: C-x C-f, you can quit C-g, or complete TAB and
@@ -4971,3 +5068,32 @@ h1, h2, h3 { font-family: Calibri, sans-serif }
 
 
 
+* E-mail newsletter
+** Welcome (day after sign-up)
+
+Thanks for signing up! I'm looking forward to sharing the things I've learned and to learning from you along the way. There's a lot of stuff on my blog, but I thought I'd start with an introduction:
+
+*Hi, I'm Sacha Chua, and I'm interested in lots of things.*
+
+It's a little weird to not have one of those "I'm a <job title goes here>" introductions, but I'm starting to get used to it. I'm in the middle of a 5-year experiment with semi-retirement, which is really an excuse for me to learn more about entrepreneurship, consulting, writing, drawing, coding, and all those other things that were hard to squeeze into evenings and weekends back in my corporate life. (I had really liked working with a big company and an excellent team, but I wanted to learn these other things too.)
+
+I started this blog when I was in university as a way of taking notes and sharing what I was learning. It turned out to be a great way to learn from other people too. I hope it will help you, and I'm looking forward to discovering what we can learn together.
+
+*What can you expect from me?*
+
+You'll get weekly blog updates with links to the posts I've read in the past week and some interesting things I learned about elsewhere on the Internet. 
+I post on my main blog daily, which can be a little overwhelming for people. But if you're an e-mail ninja or a feed reader fan, you can subscribe to the daily feed at http://feeds.sachachua.com/sachac .
+
+Over the next few weeks, I'll also be sending you a few e-mails to help you find out about things you might like in my past posts. I might also write with the occasional question that I want to pick people's brains on before I write blog posts, maybe even with sneak previews of what I've been learning.
+
+*Some stuff worth reading*
+
+If you're new to my blog, you might want to check out some of my older posts.
+Here are some of the most popular ones.
+
+*TODO*
+
+Sacha Chua
+LivingAnAwesomeLife.com
+
+P.S. Tell me a little bit about you: who you are, how you came across this blog, what would make it worth reading for you, what you'd like to read more about. Just reply to this message and share your story - can't wait to hear from you!
