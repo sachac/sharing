@@ -32,11 +32,183 @@ Click on the headings to expand them.
 - Why do I care?
     - 
 - What can you expect from this blog?
+** How to read a book
+** How to take visual notes
+** OUTLINED How I learn: My learning and sharing workflow         :requested:
+# <<learning-workflow>>
+This outline can be found at http://sach.ac/outline#learning-workflow
 
-** Learning
-*** How to read a book
-*** How to take visual notes
-*** Save time by browsing through blogs in a reader
+- Types of learning/sharing (hmm, move this into separate post, although it's useful to keep goals in mind as you learn)
+    - Why keep goals in mind?
+        - Choose appropriate techniques
+        - Avoid going down the rabbit-hole
+    - Request: questions, troubleshooting, feedback
+        - Keep track of who requested it
+    - Exploration: planning, learning
+        - Imagine success and test your goals
+        - Figure out steps to take
+        - Get feedback on plans
+            - Small experiments
+            - People
+    - Discovery: blog posts, news, new library acquisitions, etc.
+        - Old blogs are useful too
+- Planning (could use a separate blog post for this one too)
+    - What do I want to learn?
+    - How can I learn it?
+    - Requests
+- Input
+    - Internet
+    - Books
+    - Troubleshooting
+    - Exploration
+    - Feedback
+    - Old notes
+    - I speed-read, so it's easy for me to filter through Google search results, books, etc.
+- Taking notes
+    - I structure my notes around how I share (categories, etc.)
+    - Notes at my computer
+        - Large text file managed with Org Mode in Emacs
+            - Easy to add source code snippets or links to additional resources
+        - On the web, I use Evernote Web Clipper + tags
+            - Mostly as a way of being able to find things again with search, and to save pages even if they go away
+        - Big outline - http://sach.ac/outline
+            - Categories
+            - Sometimes I add notes about my Evernote items (otherwise it's easy to lose stuff)
+        - Quick notes for weekly reviews
+    - Private notes
+        - At clients: text file on the work computers
+        - My other organizer files (ex: organizer.org, business.org, cooking.org, and so on)
+    - Sketchnotes
+        - Stored in Evernote and on my blog
+        - See http://sach.ac/sketchnote-handbook and http://sach.ac/category/drawing for more tips
+    - Book notes
+        - Drawn
+        - Written
+        - Dictated
+        - Scanned
+- Outlining and integrating
+    - Taking notes lets you learn over time
+    - Adding links to previous posts that I remember
+    - Looking at the suggested similar posts
+    - Updating my index - http://dl.dropbox.com/u/3968124/blog.html
+        - Easier than Wordpress categories for me
+        - Lets me notice when I've written a lot about a single topic
+    - Planning ahead
+- Sharing
+    - Part of the learning process for me
+        - I try to share as much as possible of what I learn, because otherwise I'll forget within a year
+    - What to use when
+        - Blog posts for searchability
+        - Sketchnotes for shareability, or to make things friendlier
+        - Tweets for short tips (also include in quick notes for weekly review)
+    - Transforming my notes (see [[#transform-notes]])
+    - Sometimes series of posts
+- Next steps for me
+    - Get better at re-ordering notes and filling in the gaps
+    - Learn more about coaching and delegation as ways of speeding up my learning/sharing
+    - Reorganize my index so that it's less chronological; suggest reading order?
+    - Spend more time on editing, revising, and integrating so that the posts are even more useful
+
+Requested by @gozes https://twitter.com/sachac/status/380763070382866432
+
+** The learning machine: How I turn what I learn into blog posts  :requested:
+   :LOGBOOK:
+   CLOCK: [2013-09-20 Fri 15:35]
+   :END:
+   :PROPERTIES:
+   :Effort:   1:00
+   :END:
+# <<transform-notes>>
+
+This outline is available at http://sach.ac/outline#transform-notes
+
+- @gozes was curious about my workflow for transforming my notes and lessons learned into blog posts
+- Many people struggle with this
+    - "I don't have time to blog."
+    - "No one will read it, so it's not worth it."  
+    - "I'm not an expert."
+    - "Knowledge is power."
+- The time I take to share what I learn is the most valuable part of my learning process
+    - If I don't write it down, I forget. I waste that time. If I don't publish it, I'm probably going to lose it.
+    - More subtle benefit: I /think/ I know something, but when I try to explain it to other people, I discover the holes. Even if it's obscure and I think no one else will find it useful. (The Internet being the Internet, surprisingly, people do.)
+    - Sharing lets me help others, even if I'm not an expert.
+    - More selfishly, sharing helps me learn from others.
+- What and when
+    - I try to write a blog post as soon as possible instead of waiting until I can write a longer one
+        - One blog post answers one question or shares one thought - easier to link to, keeps it short, gets it out there
+        - I want to write down the details so that I can re-solve the problem if I run into it again
+        - or so that other people can learn (or at least ask follow-up questions)
+- How
+    - Quick link if the post has already been written 
+    - Sometimes start with the question and then just write
+    - Usually start with rough outline or technical notes
+    - In terms of tools
+        - I really like Org Mode for Emacs because of its great outlining support
+            - Plain text, so I can trust it
+            - I can collapse or expand parts of my outline
+            - I can organize my post ideas into a larger outline
+            - I can export to HTML and share it with others
+            - And it supports TODOs and integrates with my other tasks, so I can set deadlines, track TODO states, or even clock in/out to see how long something takes...
+    - So I have this outline
+        - It's pretty detailed - the sections and paragraphs are there, and I often include the points I want to make inside the paragraphs as well
+    - Copy the outline and then start transforming it into my blog post
+    - Editing
+        - Sometimes I cut out snippets and stash them back into my outline, or in a snippets area
+        - I sometimes have a temporary title, but I finalize title in the end (since I don't know what I'm writing about until it's done)
+    - When it's ready to post: 
+        - Tools: http://sachachua.com/blog/2013/09/when-i-blog-with-emacs-and-when-i-blog-with-something-else/
+        - Add categories, sometimes tags
+        - Add images in Wordpress or Windows Live Writer
+            - Good practice for visual vocabulary: drawing stick figures or picking stock photos
+            - Otherwise, intimidating text, no featured image in feed readers
+    - Editorial Calendar, Share A Draft
+        - Can update with new information: ex: Org troubleshooting post
+            - handy because I schedule posts for the future, so there's time to make it better for everyone
+- Getting better
+    - Practice structuring in terms of questions, logical flow
+        - Fix flow in the outline instead of just in prose
+    - Make posts more "scannable" with illustrations, headings, and emphasis
+    - Organize higher-level outlines
+        - Outline at the level of individual blog posts right now
+        - Want to get better at exploring and organizing larger topics
+    - Learn how to work with other people to flesh out my blog posts?
+        - Other perspectives?
+        - Other resources?
+
+
+Requested by @gozes https://twitter.com/sachac/status/380763070382866432
+
+
+** TODO Learning the Colemak keyboard layout
+- Background
+    - Grew up with a computer
+    - Learned how to type long before I had computer or typing classes
+    - Bad habits
+    - One summer, I decided to learn Dvorak. dvorak7min
+    - More than ten years ago
+    - I type faster and more comfortably in Dvorak than in QWERTY.
+    - Also, it keeps people off my laptop and adds to my reputation for geek weirdness.
+- Why
+    - Curious about computer-based optimization
+        - Rolls
+    - Keep my brain flexible
+    - Learn about learning
+    - Possibly get faster?
+        - Trade-offs
+- Nudged by http://kevinercia09.wordpress.com/2013/09/20/five-for-typing/
+
+- Experience
+    - Install support for it
+    - Try different typing tutors
+        - http://www.learncolemak.com/ - basic, two characters
+        - http://keybr.com - better interface
+        - http://colemak.com/TypeFaster - working on this because the lessons are built in
+- Day 1 (Sept 20, 2013) - two hours
+  - Went through the first six lessons of Learn Colemak (I still need to learn the bottom row)
+  - Tried out keybr's random words level 1 - dismal 14wpm
+  - 23wpm on lesson 1 for Type Faster - a slightly more encouraging 23wpm
+
+** Save time by browsing through blogs in a reader
 - Blogs are great for tips and experiences, but reading all those blogs can take a lot of time.
 - E-mail subscriptions can clutter your inbox.
 - Solution: subscribe to the blogs in a feed reader.
@@ -48,68 +220,73 @@ Click on the headings to expand them.
 - Can also read on your computer. Synchronized.
 - To try it with this blog
 
-*** Want to learn more effectively? Get over your embarrassment and share what you're learning
-*** Learning Latin
-*** How I taught myself to speed-read in grade school: no magic involved
-*** This weekend: Learn how to cook
-*** Learning from video games
-*** My evolution as a learner and the tips I learned along the way
-*** Integrate your learning into other things you know
-*** Before you learn something, plan how you're going to apply it
-*** Improve your memory with the peg system
-*** Remember things in order by making them part of a journey
-*** Put your learning into practice
-*** Don't be afraid to make mistakes
-*** Broaden your learning
-*** Ask "stupid" questions
-*** Learn holistically by organizing your thoughts
-*** How to find resources for learning
-*** "I don't have time to learn"
-*** Dealing with distractions
-*** Remember better by making things visceral
-*** Make your own metaphors
-*** The power of habits
-*** The power of routines
-*** How to understand what you're thinking
-*** Untangling your emotions from what you're learning
-*** Get over your learning fears
-*** Build your personal learning network
-*** Build your imaginary board of advisors
-*** Learn faster by breaking skills down
-*** Learn on the go: 5 tips for using your smartphone
-*** Write about what you learn
-*** Get more value from the time you spend learning
-*** Keep a learning journal
-*** Read at different rates depending on your goals
-*** Learn more efficiently by asking yourself questions
-*** What's getting in your way? 9 excuses not to learn and how to deal with them
-*** Build on your strengths
-*** Remember better with spaced repetition systems
-*** Manage your energy
-*** Deal with discouragement
-*** Use the 80/20 rule
-*** Let your mind wander in order to come up with ideas and solve problems
+** Want to learn more effectively? Get over your embarrassment and share what you're learning
+** Learning Latin
+** How I taught myself to speed-read in grade school: no magic involved
+** This weekend: Learn how to cook
+** Learning from video games
+** My evolution as a learner and the tips I learned along the way
+** Integrate your learning into other things you know
+** Before you learn something, plan how you're going to apply it
+** Improve your memory with the peg system
+** Remember things in order by making them part of a journey
+** Put your learning into practice
+** Don't be afraid to make mistakes
+** Broaden your learning
+** Practice before passion
+** Upwind skills
+http://paulgraham.com/hs.html
+** Feeling overwhelmed? Focus on just-in-time learning
+** When you're not the best
+** Ask "stupid" questions
+** Learn holistically by organizing your thoughts
+** How to find resources for learning
+** "I don't have time to learn"
+** Dealing with distractions
+** Remember better by making things visceral
+** Make your own metaphors
+** The power of habits
+** The power of routines
+** How to understand what you're thinking
+** Untangling your emotions from what you're learning
+** Get over your learning fears
+** Build your personal learning network (PLN)
+** Build your imaginary board of advisors
+** Learn faster by breaking skills down
+** Learn on the go: 5 tips for using your smartphone
+** Write about what you learn
+** Get more value from the time you spend learning
+** Keep a learning journal
+** Read at different rates depending on your goals
+** Learn more efficiently by asking yourself questions
+** What's getting in your way? 9 excuses not to learn and how to deal with them
+** Build on your strengths
+** Remember better with spaced repetition systems
+** Manage your energy
+** Deal with discouragement
+** Use the 80/20 rule
+** Let your mind wander in order to come up with ideas and solve problems
 http://www.forbes.com/sites/stevenkotler/2013/07/03/learning-to-learn-faster-part-ii/2/
-*** Analyze your reading
-*** Spring-clean your learning goals
-*** Learn how to fix things
-*** You don't have to live big to learn lots
-*** Expensive to cheap: Many different ways to learn the same thing
-*** Invest the time to get to the point where you can get paid to learn
-*** Go back to step one
-*** Talent is overrated
-*** Keep a beginner's mind
-*** Combine learning
-*** Listen and watch at twice the speed
-*** Growth mindsets and fixed mindsets: Why what you think about learning can affect how well you can learn
-*** The learning cycle
-*** Build, measure, learn
-*** Critical thinking
-*** Know your learning styles and make the most of it
-*** Adjust your previously-held beliefs
-*** Books
-**** The First 20 Hours
-**** The 4-Hour Chef
+** Analyze your reading
+** Spring-clean your learning goals
+** Learn how to fix things
+** You don't have to live big to learn lots
+** Expensive to cheap: Many different ways to learn the same thing
+** Invest the time to get to the point where you can get paid to learn
+** Go back to step one
+** Talent is overrated
+** Keep a beginner's mind
+** Combine learning
+** Listen and watch at twice the speed
+** Growth mindsets and fixed mindsets: Why what you think about learning can affect how well you can learn
+** The learning cycle
+** Build, measure, learn
+** Critical thinking
+** Know your learning styles and make the most of it
+** Adjust your previously-held beliefs
+** Books
+*** The First 20 Hours
+*** The 4-Hour Chef
 * Planning, deciding, tracking, productivity, time management, delegation
 ** Planning and decisions
 *** Decide on your criteria in advance
@@ -147,6 +324,7 @@ Outline:
 
 [[http://en.wikipedia.org/wiki/Decision_making][more: Decision-making]]  
 *** Pre-mortems and wild success stories
+*** Do you have conflicting goals?
 *** Tag clouds for planning
 *** Making decisions with emotions
 *** Planning my next mini-experiments
@@ -604,6 +782,9 @@ powerful - it allows you to specify multiple criteria.
 Does work really get in the way of living?
 
 ** Productivity and time
+*** When and how to automate
+http://www.quora.com/What-type-of-personal-problems-and-annoyances-can-be-solved-mitigated-by-writing-code
+XKCD
 *** How to make a time log
 *** Getting over my procrastination by deferring value judgments
 Other titles:
@@ -716,6 +897,42 @@ I'm giving myself permission to take long walks, to draw for the sake of drawing
 *** Getting better at learning from online courses
 *** Find people who are smarter than you
 ** Delegation
+*** Breaking through the barriers of micro-task outsourcing
+- I haven't delegated anything new in a while.
+- Why not?
+- I've been curious about task-based outsourcing like Fiverr.
+    - Quick "hire", low commitment
+- What are my goals?
+    - Learn more effectively
+        - The limiting factor is not the lack of articles or reading material
+        - Usually plenty out there
+    - Add more depth to my learning and writing
+        - Take advantage of other people's perspectives
+        - Find resources I might not have come across myself, or that I don't have time to look for
+    - Keep things going even if I'm not paying active attention to them
+        - Momentum
+        - For example, while I'm consulting
+- What's been stopping me? I'm worried that it will be a waste of time and money.
+    - I'm worried that I'll choose badly.
+        - Well, I'm not going to learn how to choose until I choose.
+    - I'm worried that I don't know how to specify the work that I want. I'm worried that there'll be a mismatch of expectations. I want clear, non-self-promotional, useful articles, and the provider might think I want some search-engine optimizing fluff.
+        - I can work on being clear and providing examples. Besides, getting what I _don't_ want teaches me how to specify what I do.
+    - I'm worried that it will be inauthentic.
+        - Always personalize
+
+    - I'm worried that the price point is too low.
+    - I'm worried that I can't fit it into my writing workflow.
+    - I'm worried that it will be a waste of time because I'll end up rewriting things anyway.
+
+
+
+- Happy people 
+    - http://www.steveshapiro.com/2011/06/02/an-insiders-view-on-fiverr-and-microwork-outsourcing/
+- Resources 
+    - http://www.youtube.com/watch?v=lwztTT-pbFc
+
+
+
 *** OUTLINED How I (want to) use outsourcing to help me learn more effectively
 # <<outsource-learning>>
 
@@ -1007,6 +1224,23 @@ http://sach.ac/outline#blogging-help
   - and naturally, lots of process reflections and updates!
 
 *** Fiverr
+**** How to use Fiverr for blog research (?)
+- Challenge
+    - Want to write a blog post, but
+        - Want to build on what's already been said
+        - Want to show different perspectives
+        - Want to say something different
+    - Lots of results on Google
+        - Generic articles written for search engine optimization
+        - People promoting paid courses or products
+- What could help you?
+    - Full article?
+    - More of a control freak? (Like me!)
+        - Prioritized list of 3-10 links with descriptions?
+- Tips
+
+Hmm... Would I pay $5 to replace an hour of going through search results?
+
 * Personal finance, semi-retirement, cooking, frugality, and household life
 ** Personal finance
 *** Enjoy the free things in life
@@ -1089,10 +1323,15 @@ making things happen. And who knows? If I can get good enough at it,
 maybe I can learn how to create so much value that it becomes a
 self-perpetuating machine.
 
+*** Life without a job
 ** Household life
 *** Use baking soda and vinegar to clean sinks and tubs
 *** Get started with cooking
+*** Eat simple food
+
 * Writing / blogging / sharing knowledge
+** A massive outline and an editorial calendar: How I manage my blog post pipeline
+
 ** DONE Setting up a development environment that doubles as a backup
    CLOSED: [2013-09-14 Sat 12:44]
 - =make dev= should copy my database and Wordpress installation, except for my theme directory and my wp-config.php.
@@ -2289,6 +2528,8 @@ out./ ... The artist sees out the feeling of the resistance and then
 tries to maximize it. The cog, the day laborer, the compliant
 student--they seek to eliminate the feeling instead.
 - Seth Godin, The Icarus Deception
+
+* Visual thinking: sketchnotes, mindmaps, models, etc.
 
 * Living an awesome life
 ** Enough time
