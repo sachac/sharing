@@ -113,7 +113,7 @@ Requested by @gozes https://twitter.com/sachac/status/380763070382866432
 
 ** The learning machine: How I turn what I learn into blog posts  :requested:
    :LOGBOOK:
-   CLOCK: [2013-09-20 Fri 15:35]
+   CLOCK: [2013-09-20 Fri 15:35]--[2013-09-20 Fri 15:59] =>  0:24
    :END:
    :PROPERTIES:
    :Effort:   1:00
@@ -129,8 +129,10 @@ This outline is available at http://sach.ac/outline#transform-notes
     - "I'm not an expert."
     - "Knowledge is power."
 - The time I take to share what I learn is the most valuable part of my learning process
+    - I can spend three hours solving a technical problem or learning more about a skill, but the thing that makes it really worth it is the 30 minutes I spend writing about what I learned.
     - If I don't write it down, I forget. I waste that time. If I don't publish it, I'm probably going to lose it.
     - More subtle benefit: I /think/ I know something, but when I try to explain it to other people, I discover the holes. Even if it's obscure and I think no one else will find it useful. (The Internet being the Internet, surprisingly, people do.)
+        - Writing helps me relate what I learn to what I know.
     - Sharing lets me help others, even if I'm not an expert.
     - More selfishly, sharing helps me learn from others.
 - What and when
@@ -149,21 +151,25 @@ This outline is available at http://sach.ac/outline#transform-notes
             - I can organize my post ideas into a larger outline
             - I can export to HTML and share it with others
             - And it supports TODOs and integrates with my other tasks, so I can set deadlines, track TODO states, or even clock in/out to see how long something takes...
-    - So I have this outline
-        - It's pretty detailed - the sections and paragraphs are there, and I often include the points I want to make inside the paragraphs as well
+    - So I have this detailed outline
+        - the sections and paragraphs are there, and I often include the points I want to make inside the paragraphs as well
     - Copy the outline and then start transforming it into my blog post
+        - Not starting with a blank page
+        - Can leave it alone, think about it for a few days, and come back and improve it
     - Editing
         - Sometimes I cut out snippets and stash them back into my outline, or in a snippets area
-        - I sometimes have a temporary title, but I finalize title in the end (since I don't know what I'm writing about until it's done)
+        - I sometimes have a temporary title, but I usually don't know what the title could be until I've written the post
     - When it's ready to post: 
         - Tools: http://sachachua.com/blog/2013/09/when-i-blog-with-emacs-and-when-i-blog-with-something-else/
         - Add categories, sometimes tags
         - Add images in Wordpress or Windows Live Writer
             - Good practice for visual vocabulary: drawing stick figures or picking stock photos
             - Otherwise, intimidating text, no featured image in feed readers
-    - Editorial Calendar, Share A Draft
+    - Then I schedule the blog post using the Editorial Calendar plugin for Wordpress, using the Share A Draft plugin to give people a sneak preview
+        - Great for answering people's questions right away while managing the volume on my blog
         - Can update with new information: ex: Org troubleshooting post
             - handy because I schedule posts for the future, so there's time to make it better for everyone
+    - Follow-up ideas go into my outline, and the cycle continues
 - Getting better
     - Practice structuring in terms of questions, logical flow
         - Fix flow in the outline instead of just in prose
@@ -174,9 +180,87 @@ This outline is available at http://sach.ac/outline#transform-notes
     - Learn how to work with other people to flesh out my blog posts?
         - Other perspectives?
         - Other resources?
+- Share your thoughts: What's getting in your way when it comes to sharing what you learn?
 
 
 Requested by @gozes https://twitter.com/sachac/status/380763070382866432
+
+*** DONE The learning machine: How I turn what I learn into blog posts
+    CLOSED: [2013-09-20 Fri 16:24]
+    :LOGBOOK:
+    CLOCK: [2013-09-20 Fri 15:59]--[2013-09-20 Fri 16:24] =>  0:25
+    :END:
+    :PROPERTIES:
+    :Effort:   1:00
+    :ID:       o2b:c3184ce8-4794-41c6-95e0-127016b5e594
+    :POST_DATE: [2013-09-20 Fri 16:24]
+    :POSTID:   26159
+    :BLOG:     sacha
+    :END:
+
+[[https://twitter.com/sachac/status/380763070382866432][@gozes]] was curious about my workflow for transforming my notes and lessons learned into blog posts.
+
+#+begin_html
+<h3>Why it's worth taking the time to share</h3>
+#+end_html
+
+Many people struggle with sharing what they know. "I don't have time to blog." "No one will read it anyway, so why bother." "I'm not an expert." "Knowledge is power, so I should keep it to myself - job security!"
+
+Let me tell you this: *The time I take to share what I learn is the most valuable part of my learning process.*
+
+I can spend three hours solving a technical problem or learning more about a skill, but the thing that makes it really worth it is the 30 minutes I spend writing about what I learned. The biggest benefit is being able to refer back to my notes. If I don't write it down, I forget, and I've wasted the time spent learning. [[sachachua.com/blog/2013/07/choosing-openness-and-scale/][If I don't publish my notes, I'm probably going to lose them]]. It makes sense to invest a little time now so that I can save time later. I can't tell you how many times I've searched for something and ended up at a blog post I'd completely forgotten I'd written.
+
+There's a more subtle benefit, too: *Explaining things to other people exposes holes in my understanding.* It's easy to think that I know something. When I start writing about it, though, I stumble across things I don't quite know how to explain. Filling in those gaps helps me learn even more. Even if I think no one's going to find my explanation useful because I'm working on something so quirky or obscure, the process of explanation helps. (And the Internet being the Internet, I'm often surprised by people who turn out to be working on similar things.)
+
+*Sharing lets me help other people, even if I'm not an expert.* In fact, the best time to write is when you're a beginner, because you run into all the things that other people take for granted. More selfishly, sharing helps me learn from other people. People ask questions that help me learn more. They point out where I've made mistakes. They share better ways to do things. And because we’re building these connections, they also pass along professional and personal opportunities. Sharing is an excellent way to learn and grow.
+
+#+begin_html
+<h3>When and what to write</h3>
+#+end_html
+
+*Write early, write often. Don't wait until you've figured everything out.* I try to write a blog post as soon as possible instead of waiting until I can write a more comprehensive one. I try to keep my blog post focused on answering a single question or sharing one thought. This makes the post easier to link to, keeps it (relatively) short, and gets rid of any excuse that would let me procrastinate putting it out there. 
+
+*Write enough to help you remember.* When I write posts, I want to include enough details so that I can re-solve the problem if I run into it again, place myself back into the situation if I'm reflecting on how things worked out, or share what I've learned so that other people can figure things out (or at least ask follow-up questions). I don't need to answer everything. Sometimes I'll skip explaining things because people can always ask me to go deeper if they're interested. You don't have to write a complete guidebook to everything, you just have to add more guideposts to the trail.
+
+#+begin_html
+<h3>How</h3>
+#+end_html
+
+*I love it when other people have already done the hard work of writing something up.* Then I can just link to what they've said, adding some thoughts of my own. If I can't find a great explanation within the first few pages of a web search--or if I want to dig into something myself so that I understand it better--then I write my own post.
+
+*Sometimes I can start with just a question and then I go from there.* I write paragraph after paragraph as if I was e-mailing someone the answer or talking to them in person. I jump around here and there to edit the text or add links. I write quickly, and then I post.
+
+*Most times, I start with a rough outline or my technical notes.* When I explore something I want to learn, I jump around an outline, gradually filling it in with what I come across. When I research, troubleshoot, or try to figure something out, I copy links and ideas into my notes. I've learned that it can be difficult to backtrack your steps to remember the things you tried, or remember the resources that were particularly helpful. It's better to take notes and update them along the way, even if you find yourself sometimes going down dead ends. 
+
+*In terms of tools, I really like [[http://orgmode.org][Org mode for Emacs]] because of its great outlining support.* My notes are in plain text, so I can search or work with my notes easily. I can collapse or expand parts of my outline, and I can easily reorganize items. I can organize my post ideas into a larger outline. I can export to HTML and share it with others, like I did with the outline for this post. My outline also supports TODOs and integrates with my other tasks, so I can set deadlines, track TODO states, or even clock in/out to see how long something takes.
+
+*When I'm happy with the outline, I start turning it into text.* I write detailed outlines that include sections and the key points I want to make in paragraphs. (If you're curious, the outline for this post can be found at http://sach.ac/outline#transform-notes .) When I'm happy with how the outline flows, I copy the outline and start transforming it into my blog post. It's much less intimidating than working with a blank page, and I don't have to flip back and forth between my outline and my blog post editor. Working with an outline gives me an overview of where I want to go with the post, and it can also hold my thoughts when I go on tangents.
+
+*The outline doesn't always completely translate into the blog post, of course.* Sometimes I cut out snippets and stash them in a different place in my larger outline, for use in a future blog post. Sometimes I move things around, or add more explanations to glue paragraphs together. I sometimes have a temporary title, but I usually don't know what the title could be until I've written the post.
+
+*When I'm ready to post the entry, I add categories and sometimes tags to make posts easier to discover*. See [[http://sachachua.com/blog/2013/09/when-i-blog-with-emacs-and-when-i-blog-with-something-else/][When I blog with Emacs and when I blog with something else]] for a more detailed discussion of the tools I use for publishing. I often add images because that's good practice for developing my visual vocabulary, either drawing stick figures or picking stock photos. Besides, the images break up otherwise-intimidating text.
+
+*I'm learning a lot, but I don't want to overwhelm people, so I try to keep it to at most one post a day.* (Although sometimes I get excited and post anyway.) I schedule blog posts using the Editorial Calendar plugin for Wordpress, and I use the Share A Draft plugin to give people a sneak preview. This lets me answer people's questions with links to future blog posts. That way, they get the info they want, and everyone else will get it eventually.
+
+*Writing about what I learned and reading people's feedback often gives me plenty of follow-up ideas.* I put those ideas back into my outline or TODO list, and the cycle continues.
+
+#+begin_html
+<h3>How I'm working on getting better (continuous improvement for the win!)</h3>
+#+end_html
+
+I really like the way sharing helps me learn more effectively, and I want to get even better at it. Here are some things that I think will help:
+
+*I'm working on getting better at tweaking the structure of my posts before writing them.* As in programming, it makes sense to fix logical errors or flow issues earlier rather than later. Working with outlines can help me get better at thinking in terms of questions and the flow from one point to another, and it's much easier to see and reorganize things there than when everything's written up.
+
+*I'm working on making posts more "scannable" with illustrations, headings, and emphasis.* One of the tips I picked up from Beyond Bullet Points is that when designing presentations, your slide titles should make sense in sequence. I remember reading similar advice applied to writing. Paragraphs should also make sense when you're quickly scanning the starting sentences, and people who want more detail can read the rest of the paragraph or section. I've still got a long way to go here, but I think I'm getting better.
+
+*I'm working on organizing higher-level outlines.* I'm getting more used to with outlining individual blog posts. The next step is to be able to explore and organize larger topics so that I can guide people through a series of chunks, perhaps with blog posts series or e-books. This will also help me plan my learning and build resources that guide people step by step.
+
+*I'm curious about delegation or outsourcing, but I haven't really made the jump yet.* Would it be worth learning how to work with other people to flesh out these blog posts? For example, working with an editor might help me find ways to make these posts clearer, more concise, or more approachable. Can article writers or blog researchers add other perspectives or resources to these posts so that we're learning from more people's experiences, not just mine? I have to work through a couple of my concerns before I can make the most of this, but I think it might be worth exploring.
+
+#+begin_html
+<div class="highlight-box">Share your thoughts: What's getting in your way when it comes to sharing what you learn? What could help?</div>
+#+end_html
 
 
 ** TODO Learning the Colemak keyboard layout
