@@ -1,6 +1,7 @@
-#+TODO: TODO(t) OUTLINED(o) DRAFTED(d) STARTED(s) EDITED(e) DELEGATED(g) SOMEDAY(>) | DONE(x) CANCELLED(c) 
+#+TODO: TOBLOG(t) OUTLINED(o) DRAFTED(d) STARTED(s) EDITED(e) DELEGATED(g) SOMEDAY(>) | DONE(x) CANCELLED(c) 
 #+INFOJS_OPT: view:overview toc:nil path:https://dl.dropboxusercontent.com/u/3968124/sharing/org-info.js
 #+PROPERTY: QUANTIFIED writing
+#+FILETAGS: :@writing:
 
 #+TITLE: Sharing Outline
 This is a rough outline of things I'd like to write about, screencast,
@@ -29,6 +30,13 @@ Click on the headings to expand them.
 - [[http://sachachua.com/blog/book-thinking-with-emacs/][Thinking with Emacs]]
 
 * Emacs
+** Write about use-package
+Why?
+Benefits
+How do I use it?
+
+Follow up with @gozes - https://twitter.com/gozes/status/456278124162842624
+
 ** DONE How to learn keyboard shortcuts
 <agumonkey> - heres a shortcut: C-x C-f, you can quit C-g, or complete TAB and
             then validate RET. C-h m lists all the defined shortcuts. The End.
@@ -932,7 +940,7 @@ I really like the way sharing helps me learn more effectively, and I want to get
 <div class="highlight-box">Share your thoughts: What's getting in your way when it comes to sharing what you learn? What could help?</div>
 #+end_html
 
-*** TODO Learning the Colemak keyboard layout
+*** TOBLOG Learning the Colemak keyboard layout
 - Background
     - Grew up with a computer
     - Learned how to type long before I had computer or typing classes
@@ -2028,6 +2036,39 @@ stress and more happiness? =)
 ** Applied rationality
 
 ** Self-tracking
+*** TOBLOG Blog about user-visible improvements, Beeminder commit goal    
+   SCHEDULED: <2014-05-15 Thu>
+	 :LOGBOOK:
+	 CLOCK: [2014-04-16 Wed 13:36]--[2014-04-16 Wed 13:58] =>  0:22
+	 :END:
+http://messymatters.com/uvi/
+
+:PROPERTIES:
+:Effort: 1:00
+:END:
+
+There's power in constant progress, even if it's small. You can motivate yourself in different ways. [[http://lifehacker.com/5886128/how-seinfelds-productivity-secret-fixed-my-procrastination-problem"][Don't break the chain"]] is a popular model: keep track of the days that you work on something, count the number of consecutive days in your current streak, and eventually it will build up into a number that you're proud of. If you miss a day, you start back at 0. This works for a lot of people, but it's a bit harsher than I'd like.
+
+
+
+
+Daniel Reeves, Bethany Soule, and I were chatting
+
+- constant progress
+- limitations of a chain-based approach
+  - starting from 0
+  - harder and harder
+  - danger of internalizing "I am the sort of person who breaks the chain"
+- I like the fact that you can build up a buffer in advance in case you know things are going to be hectic
+- beeminder and stickk - financial commitment
+  - a little meh on this because of my inherent cheapskateness ;)
+  - akrasia horizon - look at least a week in advance
+- I like consistency date heatmap: github, QuantifiedAwesome
+- how do I feel about this
+- sample goals I might want
+  - sketchnote a book every two weeks
+ 
+
 *** DONE Update on time tracking with Quantified Awesome and with Emacs :quantified:
 		 CLOSED: [2014-04-14 Mon 23:35]
 		:LOGBOOK:
@@ -2069,8 +2110,8 @@ Some things I'm learning from tracking time on specific tasks:
 - I generally underestimate the time I need to write, especially if I'm figuring things out along the way.
 
 This post took me 1:20 to draft (including data analysis), although to be fair, part of that involved a detour checking electricity use for an unrelated question. =)
-*** TODO Decision review:
-*** TODO How do you find the time to ...
+*** TOBLOG Decision review:
+*** TOBLOG How do you find the time to ...
 - Thinking about how you spend your time
     - Track individual activities
         - ex: watching TV, buying groceries
@@ -2200,6 +2241,148 @@ powerful - it allows you to specify multiple criteria.
 Does work really get in the way of living?
 
 ** Productivity and time
+*** DONE How Org Mode helps me deal with an ever-growing backlog 
+		 CLOSED: [2014-04-16 Wed 13:29]
+    :LOGBOOK:
+		CLOCK: [2014-04-16 Wed 12:27]--[2014-04-16 Wed 13:29] =>  1:02
+		CLOCK: [2014-04-16 Wed 12:16]--[2014-04-16 Wed 12:27] =>  0:11
+		CLOCK: [2014-04-16 Wed 12:05]--[2014-04-16 Wed 12:09] =>  0:04
+		:END:
+		:PROPERTIES:
+		:Effort:   2:00
+		:ID:       o2b:62c49204-b065-49a7-8b96-71fa74c6c5a9
+		:POST_DATE: [2014-04-16 Wed 13:20]
+		:POSTID:   27181
+		:BLOG:     sacha
+		:END:
+
+If you're like me, you probably have a to-do list several miles long. I like thinking of this as the backlog from agile programming. It's a list of tasks that I could choose to work on, but I haven't committed to doing everything on the list.
+
+I tend to add tasks faster than I cross tasks out. (Hmm, I should track this!) This is okay. In fact, this is a good thing. It means that I'll always have a variety of tasks to choose from, which lets me choose good tasks.
+
+People manage tasks in different ways. For my personal tasks, I use several large text files in Org Mode for Emacs. Org Mode is an outline-based tool, which makes it easy for me to organize my tasks into projects and projects into themes. It also supports tagging, links, agendas, dynamic views, and all sorts of other great ways to slice-and-dice my task list. Here's how I deal with some of the common challenges people face with a large task backlog:
+
+- Making sure important, urgent tasks don't fall through the cracks
+- Making sure you don't neglect important but not urgent tasks
+- Keeping track of what you're waiting for
+- Catching procrastination
+
+**** Making sure important, urgent tasks don't fall through the cracks
+
+If something has a deadline, I add the deadline in Org using =C-x C-d= (=org-deadline=). This means that reminders will appear on my daily agenda for the 14 days before the deadline, counting down to the deadline itself. (The number of days is controlled by =org-deadline-warning-days=.) In addition, I usually schedule the task for a day that I want to work on it, so that I can get the task out of the way.
+
+I'm careful about what I commit to, erring on the side of under-committing rather than over-committing. I'm selective about my client work and my volunteering. I keep my schedule as open as I can, and I'm not afraid to reschedule if I need to. Hardly anything I work on could be considered urgent. If an urgent request does come in, I ask questions to determine its true urgency, including potential alternatives and consequences of failure.
+
+You might not have as much choice about what to work on, but you might also be surprised by how much you can push back. Be careful about what you allow to be urgent in your life.
+
+**** Making sure you don't neglect important but not urgent tasks
+
+I have plenty of space to work on things that are important but not urgent because I manage my commitments carefully. This means that I can usually finish a few important-but-not-urgent tasks every day.
+
+Which tasks do I consider important? I like thinking in terms of projects. Important tasks tend to be associated with projects instead of standing in isolation. Important tasks move me toward a specific goal. I have [[http://sachachua.com/evil-plans][many goals and projects]], but because they're fewer than the number of tasks I have, I can prioritize them more easily. I can decide that some projects are in the background and some are in focus. Important tasks are the tasks that help me make more progress on the projects I consider important.
+
+Because I like having two or three projects on the go, it helps to make sure that I make regular progress on those projects instead of getting carried away on just one. Tracking my time helps me stay aware of that balance. I also review my projects every week and schedule specific tasks for each of them, so I can make a little progress at least. Once I switch context and start thinking about a project, it's easy to pick another couple of tasks in that area and get even more done.
+
+If you're struggling with creating enough space to work on important but not urgent tasks, you might be able to partner up with someone so that you can block off time to work on non-urgent things. Many teams have a rotating schedule for dealing with customer requests or urgent issues. One person covers the requests for a day, allowing the rest of the team to focus. Then the next person takes on that duty, and so on.
+
+**** Keeping track of what you're waiting for
+
+One of the useful tips I picked up from David Allen's Getting Things Done book was the idea of marking a task as WAITING. I usually add a description of what I'm waiting for, who's responsible, and when I want to follow up. This makes it easier to follow up. When I'm waiting for a specific date (ex: the library makes a DVD hold-able after a certain date), I schedule the task for then.
+
+I use the [[http://www.boomeranggmail.com/][Boomerang for Gmail]] extension when I'm waiting for an e-mail reply. Boomerang lets me pop the message back into my inbox if I haven't received a reply by a specific date, so I don't have to keep track of that myself.
+
+**** Handling less-important but still useful things
+
+There are tasks on my to-do list that have been on that list for years. This is okay. 
+I'm getting better at noting names and contact information in my tasks so that I can follow up with people even after some time. This is particularly useful for book recommendations. I get a lot of book recommendations and I get most of my books from the library, so there's usually a delay of a few weeks. Because Org Mode lets me add notes and links to the body of a task, I can look up information easily.
+
+I work on less-important tasks when I don't feel like working on my major tasks, or when I'm looking for small tasks so I can fill in the gaps of my day. Org Mode gives me plenty of ways to look up tasks. I usually look for tasks by projects, navigating through my outline. I can also look for tasks by effort estimate, so I can see everything that will probably take me less than 15 minutes. Context is useful too - I can search for various tags to find tasks I can do while I'm on the phone, or out on errands, or when I feel like writing or drawing.
+
+I like thinking in terms of low-hanging fruit, so I often choose tasks that require little time or effort and have good impact. It can be overwhelming to look at a long list of tasks and decide which ones have good return. It's easier to tag these tasks when you create the task, or to think in terms of projects instead.
+
+Some tasks grow in importance or urgency over time. If I want to make sure that I revisit a task on a certain date, I schedule it for then.
+
+**** Catching procrastination
+
+I still end up scheduling tasks multiple times. (I've been putting off redoing my business cards for a few months now!) I've noticed that there are different kinds of procrastination, including:
+
+- *Procrastinating because you don't have time today:* It's easy to reschedule things a few weeks or a month in advance. In fact, Org has a built-in command for bulk-scattering tasks. From the agenda view, you can type =m= to mark multiple tasks, then type =B= and then =S= to scatter tasks randomly over the next N days. (Call it with a prefix argument as =C-u B S= to limit it to weekdays.) If I catch myself procrastinating because I don't have enough time, that's usually a sign to be more cautious about my estimates and commitments, so I adjust those too.
+- *Procrastinating because it's less important than other tasks:* This is related to the time reason. I have no qualms about pushing less-important tasks forward.
+- *Procrastinating because you don't feel like working on it:* Is the task actually important? If it's not, I usually get rid of it without feeling guilty. If it's still useful, I might unschedule it so that I see it only if I'm looking for tasks in that project or in that context. Alternatively, I can just mark the task as CANCELLED or SOMEDAY. If the task is important, I think about whether I'm likely to feel like working on it at some point in the future. If I'm likely to not feel any different about it, I might delegate it, or I might just sit down and do it since procrastination doesn't add value. On the other hand, if I'm likely to feel like working on it at some point, then I tag it with that context and push it out to some other date.
+- *Procrastinating because you forgot about it:* I usually check my agenda every day and Org shows forgotten things in a different colour, so I catch these quickly. If the tasks are more important than the tasks I've already scheduled, I might work on those first. Alternatively, I might schedule it for sometime later.
+
+I procrastinate based on my to-do list, not based on my inbox. The inbox is a terribly unstructured way to manage your tasks. I use Boomerang for Gmail to defer some mail to a later date, but that's usually so that I can pop it back into my inbox the day that I meet someone so that I have context and so that I don't have to copy the link into the calendar entry or my TO-DO list. 
+
+**** Wrapping up
+
+So that's how I deal with having a large backlog. I focus first on the stuff that I need to do, and I make sure that shows up on my agenda. Then I make it easy to look for stuff that I want to do using Org's support for projects, tags, time estimates, and so on. I don't feel guilty about having lots of tasks to choose from. I view my backlog positively. It lets me do good stuff without worrying too much about how I spend my time.
+
+How do you deal with your backlog? =)
+*** DONE Thinking about my TODO keywords								 :productivity:emacs:
+		 CLOSED: [2014-04-18 Fri 15:06]
+		:LOGBOOK:
+		CLOCK: [2014-04-18 Fri 14:35]--[2014-04-18 Fri 15:06] =>  0:31
+		CLOCK: [2014-04-18 Fri 10:19]--[2014-04-18 Fri 10:56] =>  0:37
+		:END:
+		:PROPERTIES:
+		:Effort:   1:00
+		:ID:       o2b:259e6f68-29e0-4cdf-a428-0b11196f4691
+		:POST_DATE: [2014-04-18 Fri 15:04]
+		:POSTID:   27184
+		:BLOG:     sacha
+		:END:
+
+It's been twelve years since David Allen published Getting Things Done, with its geek-friendly flowcharts and processes for handling tasks in an interrupt-driven life. The way I manage my tasks is heavily influenced by GTD. I think in terms of next actions, waiting, and someday, and I have weekly reviews. I modified the TODO states a little to reflect what I need. It's time to think about those states again to see what I can tweak and what reports I could use.
+
+I use Org Mode in Emacs to manage my tasks and my notes. I can customize it to give me different kinds of reports, such as showing me all of my unscheduled tasks, or all tasks with a specific category, or even projects that are "stuck" (no next actions defined). Thinking about my processes will help me figure out what reports I want and how I want to use them.
+
+Here are different types of tasks and how I track them:
+
+- Things I can work on right now (next actions): =TODO=
+- Things that I can work on after a different task is finished: currently =WAITING=, but probably better to implement with org-depend
+- Things I will revisit at a certain date, but I don't need to think about them until then: =TODO=, scheduled (I used to use =POSTPONED=)
+- Things that would be nice to do someday, but maybe are incompletely specified or understood: =SOMEDAY=
+- Things I have decided not to work on: =CANCELLED=
+- Things I have asked someone else to do: =DELEGATED=
+- Things I can ask someone else to do: =TODELEGATE=
+- Things I am waiting for (usually not based on date) and that I need to follow up on: =WAITING=
+- Things I can write about: =TOBLOG=. These are pretty optional, so I don't want them in my TODO list...
+- If something is a duplicate of something else - remove TODO keyword and add link?
+
+I use the following code for an agenda view of unscheduled tasks:
+#+begin_src emacs-lisp
+  (defun sacha/org-agenda-skip-scheduled ()
+    (org-agenda-skip-entry-if 'scheduled 'deadline 'regexp "\n]+>"))
+
+  (add-to-list 'org-agenda-custom-commands
+     '("u" "Unscheduled tasks" alltodo ""
+       ((org-agenda-skip-function 'sacha/org-agenda-skip-scheduled)
+       (org-agenda-overriding-header "Unscheduled TODO entries: "))))
+#+end_src
+
+So the to-do process looks like this:
+
+- Every week, review my [[http://sachachua.com/evil-plans][evil plans]] and projects. Check my agenda without the routine tasks to see what new things I'm working on. Schedule a few tasks to encourage me to make regular progress.
+- Every day, go through my Org agenda (=C-c a a=) and do all the tasks that are scheduled.
+- When I'm done or if I feel like working on something else:
+   - What do I feel like doing? If there's a specific activity that I feel like:
+     - Go to the relevant project/section of my TODO list, or check the TODOs by context (drawing, writing, etc.)
+     - Clock in on that task.
+   - If there's a specific task I feel like working on:
+     - Find the task, maybe with =C-u C-c C-w= (=org-refile=) and work on it.
+   - If there's a new idea I want to work on:
+     - Use =org-capture= to create the task, file it in the appropriate project, and then clock in.
+- If I have an idea for a task, use =org-capture= to create the task and file it in the appropriate project.
+
+How do I want to improve this?
+
+- *Maybe get more used to working with contexts?* I have all these Org Agenda commands and I hardly ever use them. I tend to work with projects instead. Actually, working with projects makes sense too, because that minimizes the real context shift.
+- *Get better at reviewing existing tasks.* I started tracking the number of tasks in each state (DONE, TODO, etc.), which nudged me to review the tasks and cross old tasks off. If I streamline my process for capturing tasks, filing them, and reviewing them by project/context/effort, then I can get better at choosing good tasks to work on from my existing TODO list.
+- *Estimate effort for more tasks, and use that more often* I have some reports that can filter or sort by estimated effort. I don't use effort that much, though. Does it makes sense to get into the habit of choosing tasks by estimated time as an alternative approach? I usually have fairly large, flexible blocks of time...
+- *Tag things by level of energy required?* [[http://sachachua.com/blog/2013/11/high-energy-and-low-energy-activities/][I want to take advantage of high-energy times.]] So, when I feel alert and creative, I want to focus on coding and writing. I can save things like paperwork for low-energy times. I can tag some tasks as :lowenergy: and then filter my reports.
+
+Hmm...
+
 *** When and how to automate
 http://www.quora.com/What-type-of-personal-problems-and-annoyances-can-be-solved-mitigated-by-writing-code
 XKCD
@@ -2349,7 +2532,7 @@ Is your podcast a source of revenue? What kind of business benefit do you antici
 - Make useful and valuable things
 ** Selling prints online
 
-** TODO Best tools for pay-what-you-can digital goods   :delegate:
+** TOBLOG Best tools for pay-what-you-can digital goods 					 :delegate:
 Gumroad
 
 ** Planning for uncertainty   :better:
@@ -2457,7 +2640,7 @@ http://brainzooming.com/graphs-for-visual-thinking-problem-solving-with-2-lines/
 ** Figuring out the root causes with fishbones
 ** Making decisions with graphs
 ** Sketchnoting
-*** TODO [#C] Accelerate Your Learning with Sketchnotes  :book-idea:PROJECT:
+*** TOBLOG [#C] Accelerate Your Learning with Sketchnotes  :book-idea:PROJECT:
 # <<accel-sketch>>
 Audience: Entrepreneurial visual thinkers who would like to learn more effectively
 
@@ -3674,14 +3857,14 @@ How to say no to opportunities
 ** Posts versus pages
 - I want pages to show up in categories too
 
-** TODO Improve your writing skills by copying other people
+** TOBLOG Improve your writing skills by copying other people
 
 - Benjamin Franklin
 - Witty sayings
 - Sales
 
     from: Timothy Kenny nudge
-** TODO How to sell a PDF once in a while without being tied to your e-mail
+** TOBLOG How to sell a PDF once in a while without being tied to your e-mail
    :LOGBOOK:
    CLOCK: [2013-08-30 Fri 20:15]--[2013-08-30 Fri 21:05] =>  0:50
    :END:
