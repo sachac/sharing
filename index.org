@@ -8,7 +8,7 @@ This is a rough outline of things I'd like to write about, screencast,
 draw, or share. index.org is written in Org Mode for Emacs, and it's
 the file that generates index.html. Issues and pull requests welcome
 (index.org preferred, but I can understand HTML patches too)!
-https://github.com/sachac/sharing
+https://github.com/sachac/sharing , http://sachac.github.io/sharing/
 
 Does a topic here intrigue you, or can you think of some useful
 follow-ups ? E-mail me at [[mailto:sacha@sachachua.com][sacha@sachachua.com]] (or
@@ -17,7 +17,7 @@ file an issue, if you're geeky that way ;) ).
 Inspired by anything? Feel free to write your own posts, and send me a
 link. =)
 
-HTML version: http://sach.ac/outline
+HTML version: http://sach.ac/outline Org: [[https://github.com/sachac/sharing/blob/master/index.org]]
 
 You can find my blog at http://sachachua.com .
 
@@ -30,6 +30,24 @@ Click on the headings to expand them.
 - [[http://sachachua.com/blog/book-thinking-with-emacs/][Thinking with Emacs]]
 
 * Emacs
+** Write about term and org babel
+https://gist.githubusercontent.com/sachac/11090358/raw/4ece9ccc2399ee9f8deb3f1c1294ab43bf6ba844/gistfile1.org
+zeltak
+** DONE Reinvesting time and money into Emacs							 :emacs:experiment:
+	 CLOSED: [2014-04-19 Sat 20:53]
+	 :LOGBOOK:
+	 CLOCK: [2014-04-19 Sat 17:14]--[2014-04-19 Sat 20:53] =>  3:39
+	 CLOCK: [2014-04-19 Sat 11:57]--[2014-04-19 Sat 13:27] =>  1:30
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :ID:       o2b:e34309e5-69c6-42fd-bbd6-3841f26fcfdd
+	 :POST_DATE: [2014-04-19 Sat 20:26]
+	 :POSTID:   27185
+	 :BLOG:     sacha
+	 :END:
+http://sachachua.com/blog/?p=27185&shareadraft=baba27185_535314a5c3fb4
+
 ** Write about use-package
 Why?
 Benefits
