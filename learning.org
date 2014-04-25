@@ -1,0 +1,1522 @@
+#+TITLE: Things I'm learning
+
+#+OPTIONS: toc:t
+
+Want to help me with anything on this list? Please feel free to contact me at
+[[mailto:sacha@sachachua.com][sacha@sachachua.com]] . [[http://sachachua.com/wp/2009/12/what-can-i-help-you-learn-looking-for-mentees/][What can I help you learn?]] I'm sure I'll learn tons along the way, too!
+
+You can find this document at http://sach.ac/my-learning
+
+* Questions
+
+Help me figure things out! E-mail me with your thoughts and ideas.
+
+- Emacs
+	- What are the best resources out there? How can we logically arrange them so that people can find the appropriate resources for their level?
+	- How can we make it easier and less intimidating for people to customize Emacs through Emacs Lisp?
+    - I'm working on https://github.com/sachac/emacs-notes/blob/gh-pages/how-to-read-emacs-lisp.org
+	- How can we inspire people to learn more?
+		- I'm recording Emacs Chats (to help people get to know Emacs), screencasts, and show-and-tells
+    - I blog about how I tweak Emacs
+	- How can we help people get a sense of other people in the community, and feel like they belong?
+		- I'm recording Emacs Chats (to help people get to know Emacs), screencasts, and show-and-tells
+    - I want to create something like "usesthis"
+	- What makes code beautiful or idiomatic Emacs Lisp?
+- Coaching
+	- How can I connect with people who want to learn more about Emacs? How can I keep track of their progress and guide them along their path?
+- Sharing
+  - I've shared a _lot_ of stuff. How can I organize things so that they make sense to other people?
+	- How can I organize things so that I remember more effectively?
+	- How can I repurpose things to address different learning styles or needs?
+- How can I garden more effectively with the setup that I have?
+  - Trying hand-watering, attention
+  - Will try bulk compost
+- Delegation: What kinds of tasks can I ask others to do? How can I help people develop their skills?
+- How can I get better at learning from other people?
+- What do other people need or want that is easy for me to provide?
+
+* Current curiosities - Jan 29, 2014   :learning:
+** Working well without deadlines
+*** DONE A-B-A test: Without, with, without deadlines
+    CLOSED: [2014-03-02 Sun 14:05] SCHEDULED: [2014-03-01 Sat]--[2014-06-01 Sun]
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-03-02 Sun 14:05]
+    :END:
+** Learning from people
+*** DONE Make a list of questions I'm curious about
+		 CLOSED: [2014-04-20 Sun 23:13]
+		:LOGBOOK:
+		- State "DONE"       from "STARTED"    [2014-04-20 Sun 23:13]
+		CLOCK: [2014-04-20 Sun 23:09]--[2014-04-20 Sun 23:13] =>  0:04
+		CLOCK: [2014-04-20 Sun 22:34]--[2014-04-20 Sun 22:57] =>  0:23
+		:END:
+		:PROPERTIES:
+		:Effort:   0:30
+		:END:
+
+*** DONE Ask questions in public
+		 CLOSED: [2014-04-20 Sun 23:25]
+		:LOGBOOK:
+		- State "DONE"       from "STARTED"    [2014-04-20 Sun 23:25]
+		CLOCK: [2014-04-20 Sun 23:14]--[2014-04-20 Sun 23:25] =>  0:11
+		:END:
+		:PROPERTIES:
+		:Effort:   0:30
+		:QUANTIFIED: Business Learn
+		:END:
+*** DONE Set up conversations
+		 CLOSED: [2014-04-20 Sun 23:25]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-20 Sun 23:25]
+		 :END:
+		:PROPERTIES:
+		:Effort:   0:30
+		:END:
+*** DONE Share notes/transcripts
+		 CLOSED: [2014-04-18 Fri 10:25]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-18 Fri 10:25]
+		 :END:
+*** Learn from historical figures
+**** Note-taking
+- Leonardo da Vinci
+- Michael Faraday http://www.academia.edu/442248/Faradays_Notebooks_the_Active_Organization_of_Creative_Science
+  - Diaries, idea books, loose slips, retrieval sheets, work sheets; paste-ups, indexes; amanuensis; common-place book
+- Locke - real-time index
+- Benjamin Franklin 
+
+- Improvement of the Mind (Isaac Watts)
+
+** Turning ideas and assumptions into experiments
+*** TODO Tracking: Update the number of tasks							:lowenergy:routine:
+		 SCHEDULED: <2014-04-24 Thu .+1d>
+			 :LOGBOOK:
+			 - State "DONE"       from "TODO"       [2014-04-23 Wed 23:59]
+			 - State "DONE"       from "TODO"       [2014-04-21 Mon 23:22]
+			 - State "DONE"       from "TODO"       [2014-04-21 Mon 23:22]
+			 - State "DONE"       from "TODO"       [2014-04-20 Sun 23:27]
+			 - State "DONE"       from "STARTED"    [2014-04-18 Fri 16:37]
+			 CLOCK: [2014-04-18 Fri 16:35]--[2014-04-18 Fri 16:37] =>  0:02
+			 - State "DONE"       from "STARTED"    [2014-04-17 Thu 22:03]
+			 CLOCK: [2014-04-17 Thu 21:49]--[2014-04-17 Thu 21:59] =>  0:10
+			 :END:
+			 :PROPERTIES:
+			 :CREATED:  [2014-04-16 Wed 22:17]
+			 :Effort:   0:10
+			 :LAST_REPEAT: [2014-04-23 Wed 23:59]
+			 :END:
+
+<2014-04-16>--<2014-05-16 Fri>
+
+What do I eventually want? I want to be able to see how quickly I'm accumulating new tasks and checking off DONE tasks. It would be interesting to look at the proportion, too, but that can come later. So first, I want a table that looks like this:
+
+#+NAME: burndown
+|       Date | DONE | STARTED | TODO | WAITING | DELEGATED | CANCELLED | SOMEDAY | Total | % done | + done | + total | + t - d - c | Note                       |
+|------------+------+---------+------+---------+-----------+-----------+---------+-------+--------+--------+---------+-------------+----------------------------|
+| 2014-04-16 | 1104 |       1 |  403 |       3 |         1 |       104 |      35 |  1651 |    67% |        |         |             |                            |
+| 2014-04-17 | 1257 |       0 |  114 |       4 |         1 |       171 |     107 |  1654 |    76% |    153 |       3 |        -217 | Lots of trimming           |
+| 2014-04-18 | 1292 |       0 |   74 |       4 |         5 |       183 |     100 |  1658 |    78% |     35 |       4 |         -43 | A little bit more trimming |
+| 2014-04-20 | 1305 |       0 |   80 |       4 |         5 |       183 |     100 |  1677 |    78% |     13 |      19 |           6 |                            |
+| 2014-04-21 | 1311 |       1 |   78 |       4 |         4 |       184 |      99 |  1681 |    78% |      6 |       4 |          -3 |                            |
+| 2014-04-22 | 1313 |       2 |   75 |       4 |         4 |       184 |      99 |  1681 |    78% |      2 |       0 |          -2 |                            |
+| 2014-04-23 | 1361 |       3 |   75 |       4 |         5 |       186 |      99 |  1733 |    79% |     48 |      52 |           2 | Added sharing/index.org    |
+| 2014-04-23 | 1369 |       4 |   66 |       4 |         5 |       186 |     101 |  1735 |    79% |      8 |       2 |          -6 |                            |
+#+TBLFM: @3$11..@>$11=$2-@-1$2::@3$12..@>$12=$9-@-1$9::@3$13..@>$13=$12-$11-($7-@-1$7)
+
+#+begin_src R :var data=burndown :results graphics :file output.png
+library(ggplot2)
+dates <- strptime(as.character(data$Date), "%Y-%m-%d")
+tasks_done <- as.numeric(data$DONE)
+tasks_uncancelled <- as.numeric(data$Total) - as.numeric(data$CANCELLED)
+df <- data.frame(dates, tasks_done, tasks_uncancelled)
+ggplot(data=df, aes(x=dates, y=tasks_done)) + geom_line() + geom_point()
+# + geom_line(aes(y=tasks_uncancelled)) + geom_point(aes(y=tasks_uncancelled))
+#+end_src
+
+#+RESULTS:
+[[file:output.png]]
+
+
+#+begin_src R :var data=burndown :results graphics :file output.png
+    library(ggplot2)
+    a <- rnorm(100)                                                                                                                            
+    b <- 2*a + rnorm(100)                                                                                                                      
+    d <-data.frame(a,b)                                                                                                                       
+    ggplot(d,aes(a,b)) + geom_point()       
+#+end_src
+
+#+RESULTS:
+[[file:output.png]]
+
+Hmm, maybe I'll go ahead and calculate that first.
+
+#+begin_src emacs-lisp
+  (defun sacha/org-count-tasks-by-status ()
+    (interactive)
+    (let ((counts (make-hash-table :test 'equal))
+          (today (format-time-string "%Y-%m-%d" (current-time)))
+          values)
+      (org-map-entries
+       (lambda ()
+         (let* ((status (elt (org-heading-components) 2)))
+           (when status
+             (puthash status (1+ (or (gethash status counts) 0)) counts))))
+       nil
+       'agenda)
+      (setq values (mapcar (lambda (x)
+                             (or (gethash x counts) 0))
+                           '("DONE" "STARTED" "TODO" "WAITING" "DELEGATED" "CANCELLED" "SOMEDAY")))
+      (insert "| " today " | "
+              (mapconcat 'number-to-string values " | ")
+              " | "
+              (number-to-string (apply '+ values))
+              " | "
+              (number-to-string
+               (round (/ (* 100.0 (car values)) (apply '+ values))))
+              "% |\n")))
+#+end_src
+
+#+RESULTS:
+: sacha/org-count-tasks-by-status
+*** DONE [#C] Track cat data 																	:@home:routine:
+		SCHEDULED: <2014-04-24 Thu .+1d/3d>
+
+<2014-03-23>--<2014-04-23>
+
+[[https://docs.google.com/a/sachachua.com/spreadsheet/ccc?key=0AsLpkeSVIjRYdE40bU13V3I5YV9XMlA3bW5XaVB4Tmc&usp=drive_web#gid=0][Spreadsheet]]
+http://192.168.1.11/webcam
+
+    :LOGBOOK:
+		- State "DONE"       from "STARTED"    [2014-04-23 Wed 23:53] \\
+			Leia's X is remarkably stable at 6%.
+		CLOCK: [2014-04-23 Wed 23:24]--[2014-04-23 Wed 23:53] =>  0:29
+		CLOCK: [2014-04-23 Wed 19:04]--[2014-04-23 Wed 19:11] =>  0:07
+		- State "DONE"       from "STARTED"    [2014-04-20 Sun 11:03] \\
+			13 data points
+		CLOCK: [2014-04-20 Sun 10:58]--[2014-04-20 Sun 11:03] =>  0:05
+		- State "DONE"       from "STARTED"    [2014-04-19 Sat 17:13] \\
+			15 data points. That's weird, Leia pooped outside the box without checking the other two empty boxes...
+		CLOCK: [2014-04-19 Sat 17:06]--[2014-04-19 Sat 17:13] =>  0:07
+		- State "DONE"       from "STARTED"    [2014-04-18 Fri 12:16] \\
+			11 data points
+		CLOCK: [2014-04-18 Fri 12:10]--[2014-04-18 Fri 12:16] =>  0:06
+		- State "DONE"       from "STARTED"    [2014-04-17 Thu 21:48] \\
+			22 data points. Also, Neko covered! Learned how to use INDEX(F2:F,COUNTA(F2:F)) to get the last item.
+		CLOCK: [2014-04-17 Thu 21:27]--[2014-04-17 Thu 21:48] =>  0:21
+		- State "DONE"       from "TODO"       [2014-04-16 Wed 17:35]
+		- State "DONE"       from "STARTED"    [2014-04-15 Tue 00:03]
+    24 data points
+		CLOCK: [2014-04-14 Mon 23:41]--[2014-04-15 Tue 00:03] =>  0:22
+		- State "DONE"       from "STARTED"    [2014-04-13 Sun 18:34]
+		CLOCK: [2014-04-13 Sun 18:11]--[2014-04-13 Sun 18:34] =>  0:23
+		CLOCK: [2014-04-12 Sat 15:24]--[2014-04-12 Sat 15:28] =>  0:04
+		- State "DONE"       from "TODO"       [2014-04-11 Fri 22:27]
+		- State "DONE"       from "STARTED"    [2014-04-11 Fri 20:47] 32 data points
+		CLOCK: [2014-04-11 Fri 20:20]--[2014-04-11 Fri 20:47] =>  0:27
+    - State "DONE"       from "STARTED"    [2014-04-09 Wed 19:28]
+    CLOCK: [2014-04-09 Wed 19:13]--[2014-04-09 Wed 19:28] =>  0:15
+    - State "DONE"       from "STARTED"    [2014-04-05 Sat 00:51]
+    CLOCK: [2014-04-05 Sat 00:12]--[2014-04-05 Sat 00:51] =>  0:39
+    :END:
+    :PROPERTIES:
+    :STYLE:    habit
+    :QUANTIFIED: Track
+    :Effort:   0:30
+    :LOGGING: lognoterepeat
+		:LAST_REPEAT: [2014-04-23 Wed 23:53]
+    :END:
+
+
+
+
+** Self-directed learning
+*** DONE Use the structured debriefing framework for one occasion, then reflect on it
+		 CLOSED: [2014-04-23 Wed 16:25]
+		:LOGBOOK:
+		- State "DONE"       from "STARTED"    [2014-04-23 Wed 16:25]
+		CLOCK: [2014-04-23 Wed 15:43]--[2014-04-23 Wed 16:25] =>  0:42
+		:END:
+		:PROPERTIES:
+		:Effort:   1:00
+		:QUANTIFIED: Writing
+		:END:
+** Delegation
+:PROPERTIES:
+:QUANTIFIED: Delegation
+:END:
+*** Work up to delegating 30 hours of work a week
+		:PROPERTIES:
+		:Effort:   1:15
+		:END:
+**** DONE Consider encouraging current assistants vs adding more assistants
+		 CLOSED: [2014-04-18 Fri 18:05]
+		 :LOGBOOK:
+		 - State "DONE"       from "STARTED"    [2014-04-18 Fri 18:05]
+		 CLOCK: [2014-04-18 Fri 17:46]--[2014-04-18 Fri 18:05] =>  0:19
+		 :END:
+		 :PROPERTIES:
+		 :Effort:   0:15
+		 :END:
+- Sticking with current team
+  - Decent skills
+  - Need more pushing, perhaps, since I'm too nice and I allow people to pick instead of assigning tasks? Try getting the hang of assigning tasks first.
+- Adding more people
+  - Could possibly run into task starvation
+  - But more skills! Coding? Emacs Lisp?
+  - Learn how to manage the assistants I have first, before greedily adding more.
+
+**** DONE Add more tasks to delegation board in Trello
+		 CLOSED: [2014-04-23 Wed 15:42]
+		 :LOGBOOK:
+		 - State "DONE"       from "STARTED"    [2014-04-23 Wed 15:42]
+		 CLOCK: [2014-04-23 Wed 15:34]--[2014-04-23 Wed 15:42] =>  0:08
+		 :END:
+		 :PROPERTIES:
+		 :Effort:   0:30
+		 :END:
+
+
+**** DONE Examine unscheduled tasks for things that can be delegated
+		 CLOSED: [2014-04-18 Fri 17:23]
+		 :LOGBOOK:
+		 - State "DONE"       from "STARTED"    [2014-04-18 Fri 17:23]
+		 CLOCK: [2014-04-18 Fri 17:19]--[2014-04-18 Fri 17:23] =>  0:04
+		 :END:
+		 :PROPERTIES:
+		 :Effort:   0:30
+		 :END:
+Nothing! Really? Weird...
+*** TODO Document three processes each week
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-03-15 Sat 18:51]
+    - State "DONE"       from "TODO"       [2014-03-12 Wed 14:30]
+    - State "DONE"       from "TODO"       [2014-03-11 Tue 15:10]
+    - State "DONE"       from "TODO"       [2014-03-09 Sun 21:55]
+    - State "DONE"       from "TODO"       [2014-03-07 Fri 15:19]
+    - State "DONE"       from "TODO"       [2014-03-06 Thu 19:04]
+    - State "DONE"       from "TODO"       [2014-03-05 Wed 16:34]
+    - State "DONE"       from "TODO"       [2014-02-28 Fri 20:13]
+    - State "DONE"       from "TODO"       [2014-02-27 Thu 23:30]
+    - State "DONE"       from "TODO"       [2014-02-26 Wed 19:53]
+    - State "DONE"       from "TODO"       [2014-02-23 Sun 18:01]
+    - State "DONE"       from "TODO"       [2014-02-17 Mon 01:17]
+    - State "DONE"       from "TODO"       [2014-02-15 Sat 23:23]
+    - State "DONE"       from "TODO"       [2014-02-15 Sat 23:23]
+    - State "DONE"       from "TODO"       [2014-02-15 Sat 23:20]
+    - State "DONE"       from "TODO"       [2014-02-10 Mon 10:56]
+    - State "DONE"       from "TODO"       [2014-02-08 Sat 10:47]
+    - State "DONE"       from "TODO"       [2014-01-31 Fri 20:01]
+    :END:
+    :PROPERTIES:
+    :LAST_REPEAT: [2014-03-15 Sat 18:51]
+    
+		:Effort:   2:00
+    :END:
+http://www.chrisducker.com/101-tasks-to-outsource-to-virtual-staff/
+    <2014-01-29 Wed>--<2014-03-01 Sat>
+- [2013-01-31] Update QuantifiedSelf.ca blog posts with video embeds
+- [2013-01-30] Request books from the library
+- [2013-01-28] How to add tags to Flickr sketches
+
+** Exercise
+*** DONE Borrow yoga DVD and try half an hour every other day
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-02-05 Wed 20:27]
+    :END:
+*** TODO Sign up for a class series (8 weeks?)
+    SCHEDULED: <2014-06-05 Thu>--<2014-07-08 Tue>
+** Cooking
+*** DONE Try two spice combinations
+    CLOSED: [2014-03-17 Mon 16:07]
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-03-17 Mon 16:07]
+    :END:
+* Learning update - Jan 3, 2014                                    :learning:
+
+** Learning (T)
+*** DONE Planning: Figuring out good questions to explore and resources/experiments for those questions
+		 CLOSED: [2014-04-18 Fri 16:45]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:45]
+		 :END:
+**** DONE If I focus on just-in-time learning (instead of scheduled courses or recurring membership), then I will use the momentum to directly apply the lessons and I won't feel guilty about unused resources
+		 CLOSED: [2014-04-18 Fri 16:45]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:45]
+		 :END:
+**** DONE If I name the things I'm learning about and map them to categories, then I can look up my notes and visualize the accumulation
+		 CLOSED: [2014-04-18 Fri 16:45]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:45]
+		 :END:
+**** DONE If I track experiments in Org Mode, then good ideas won't slip through the cracks and I will be deliberately observing effects and making progress :month:
+     CLOSED: [2014-01-14 Tue 20:21]
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-01-14 Tue 20:21]
+     :END:
+     <2014-01-05 Sun>--<2014-02-05 Wed>
+Duration: 1 month
+Previous state: Flickr
+Conclusion: GOOD.
+
+*** SOMEDAY Learning from people
+- Triggered experiment: When i have an idea or I could use some help, then I should ask my social networks, and maybe others will get involved
+*** SOMEDAY Finding and filling gaps
+*** To share
+- Visual thinking
+- Note-taking
+- Reading
+- Experimenting
+** Sharing (W)
+*** Writing
+**** DONE Pretend that I am confident
+		 CLOSED: [2014-04-17 Thu 22:56]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:56]
+		 :END:
+*** DONE Collecting questions and sharing answers/tips
+		 CLOSED: [2014-04-18 Fri 16:49]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:49]
+		 :END:
+*** SOMEDAY Organizing and collating
+*** SOMEDAY Finding and filling gaps
+*** DONE Podcasting, video
+*** DONE Hangouts
+*** DONE Helpouts
+**** DONE When I offer 30-minute Helpouts for Emacs, then this will be enough time to comfortably explore someone's configuration
+     CLOSED: [2014-03-05 Wed 16:06] SCHEDULED: <2014-03-05 Wed>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-03-05 Wed 16:06]
+     :END:
+*** SOMEDAY Personal updates (see Connecting)
+*** To share
+- Blogging
+- Drawing
+- Google Helpouts
+- E-mail
+- Social networks
+** Drawing and visual thinking (Th)
+*** DONE Using colour for emphasis, structure, and visual variety
+		 CLOSED: [2014-04-17 Thu 22:57]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:57]
+		 :END:
+**** DONE If I draw with blue and black as my default workflow, then I can add shading with a light blue or light yellow highlight to add more depth and interest to my sketches
+     CLOSED: [2014-01-11 Sat 22:19]
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-01-11 Sat 22:19]
+     :END:
+- 2014-01-11: Pretty all right. Will continue.
+- Previous: Drew with red and black; used to draw with blue and black, but decided not to because I didn't have the pens handy. Will change to always carrying the pens in my belt bag.
+- If false: Blue is hard to see at a glance, and switching and colouring are less fun.
+     SCHEDULED: <2014-01-05 Sun>--<2014-01-11 Sat>
+
+**** DONE If I draw with red and black, then my sketchnotes will be more visually structured while still keeping post-processing simple 
+     CLOSED: [2014-01-05 Sun 21:29] DEADLINE: <2014-01-05 Fri>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-01-05 Sun 21:29]
+     :END:
+- Previous: All black or all blue; sometimes computer-coloured
+- If false: Thumbnails are still difficult to distinguish; feeling vs all-black sketches; feeling vs blue-and-black sketches like 
+
+| Blue | [[http://www.flickr.com/photos/sachac/10994747174/][Flickr]] | [[http://sachachua.com/blog/2013/12/making-paper-notes/][Blog]] |
+| Red  | [[http://www.flickr.com/photos/sachac/11733224444/][Flickr]] | [[http://sachachua.com/blog/2014/01/spiral-learning/][Blog]] |
+
+- [2014-01-05]: If I use red, I usually have to colour-correct it in Autodesk Sketchbook Pro so that it doesn't look pink. I haven't figured out how to automate this yet, since Autodesk Sketchbook Pro neatly allows me to avoid correcting grayscale items. Per image, it's a few clicks and a drag. Leaning towards blue again. Red is more fun, though.
+
+Evaluated over three days:  <2014-01-03 Fri>--<2014-01-05 Sun>
+
+**** DONE If I spend at least one day a week drawing on my computer, then I will improve my workflow and get a better sense of my needs
+		 CLOSED: [2014-04-18 Fri 16:45]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:45]
+		 :END:
+*** SOMEDAY Figures, hands, faces :low-energy:
+*** SOMEDAY Depth :low-energy:
+*** DONE Visual vocabulary :low-energy:
+		 CLOSED: [2014-04-18 Fri 10:31]
+		 :LOGBOOK:
+		 - State "DONE"       from "SOMEDAY"    [2014-04-18 Fri 10:31]
+		 :END:
+*** DONE Metaphors :low-energy:
+		 CLOSED: [2014-04-18 Fri 10:31]
+		 :LOGBOOK:
+		 - State "DONE"       from "SOMEDAY"    [2014-04-18 Fri 10:31]
+		 :END:
+*** To share
+- Workflow
+- Thinking
+- Models
+** Living (F)
+*** DONE Establishing a winter exercise routine
+		 CLOSED: [2014-04-18 Fri 16:46] SCHEDULED: <2014-11-01 Sat>
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:46]
+		 :END:
+**** DONE If I play with exercise (ex: zombie survival mode), then I can make it fun enough to do 3x a week
+		 CLOSED: [2014-04-18 Fri 16:46]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:46]
+		 :END:
+Biking is fun. At home - strength exercises while playing?
+*** SOMEDAY House
+**** DONE If we let Leia out in the basement on non-litterbox-accident days, then the number of accidents will be less than three times a month :quarter:
+     CLOSED: [2014-01-26 Sun 22:24]
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-01-26 Sun 22:24]
+     :END:
+     [2014-01-05 Sun]--[2014-04-05 Sat]
+Started [2013-01-05]
+(three-day isolation protocol whenever she has tummy problems)
+
+Previous: Bathroom almost all day except when we're there to monitor
+**** DONE If we don't turn on special heating downstairs, the cats will still be fine :month:
+     CLOSED: [2014-01-11 Sat 22:58]
+     :LOGBOOK:
+     - State "DONE"       from ""           [2014-01-11 Sat 22:58]
+     :END:
+If false: The cats are shivering or they catch cold
+     <2014-01-05 Sun>--<2014-01-11 Wed>
+**** DONE If I establish a weekly routine with daily vacuuming, then I will clean more regularly :week:
+     CLOSED: [2014-01-11 Sat 22:56]
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-01-11 Sat 22:56]
+     :END:
+- If false: I drop the schedule after a week
+- Previous: Occasional weekend cleaning
+     <2014-01-05 Sun>--<2014-01-12 Sun>
+
+Yeaaaah... right.
+**** DONE If I embrace research and comparison shopping as an opportunity to geek out more, then I will feel less overwhelmed and more edified
+		 CLOSED: [2014-04-17 Thu 22:57]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:57]
+		 :END:
+- 2013-01-06: Vacuum
+**** DONE If I spend time maintaining the things I like, then I can make them last longer than I expected
+		 CLOSED: [2014-04-17 Thu 22:57]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:57]
+		 :END:
+- 2013-01-06: Boots
+**** If I invest in amending the soil and I stop trying to balance the cost (treat it like a hobby instead of as grocery-replacement), then I'll enjoy growing basil, tomatoes, and bitter melon
+[[file:~/personal/organizer.org::*Garden][Garden]]
+*** SOMEDAY Minimalism, quality
+*** SOMEDAY More recipes
+*** Stoicism
+**** DONE Track negative feelings
+		 CLOSED: [2014-04-17 Thu 22:55]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:55]
+		 :END:
+<2014-01-26 Sun>--<2014-02-26 Wed>
+
+http://sachachua.com/blog/2014/01/simplifying-with-stoicism-examining-negative-feelings/
+
+| [2014-01-26]     | Went for a two-hour walk in the snow. Was fine. |
+| [2014-01-27 Mon] | Paper cut. No problem.                          |
+| [2014-01-28 Tue] | Worked with Java. Not frustrated.               |
+| [2014-02-09]     | Anxious about potential side-effects. |
+
+
+**** DONE Identify attachments
+		 CLOSED: [2014-04-17 Thu 22:55]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:55]
+		 :END:
+**** DONE Identify what I can control
+		 CLOSED: [2014-04-17 Thu 22:55]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:55]
+		 :END:
+**** DONE Practise negative visualization
+		 CLOSED: [2014-04-18 Fri 16:49]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:49]
+		 :END:
+
+*** To share
+- Frugality, personal finance
+- Relationships
+- Biking
+- Cooking
+** Business
+*** DONE Creating collections and courses
+		 CLOSED: [2014-04-17 Thu 22:56]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:56]
+		 :END:
+*** SOMEDAY Delegation
+**** DONE If I identify a large list of tasks to outsource AND I set aside time to train and document, then I will benefit from having the tasks regularly taken care of, and this will be more reassuring than stressful
+		 CLOSED: [2014-04-17 Thu 22:57]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:57]
+		 :END:
+**** Hypothesis: I can manage 30 hours of useful delegated work each week
+<2014-01-26 Sun>--<2014-02-26 Wed>
+
+Duplicate of [[*Work%20up%20to%20delegating%2030%20hours%20of%20work%20a%20week][Work up to delegating 30 hours of work a week]]
+
+*** SOMEDAY Partnering
+*** To share
+- Paperwork
+- Consulting
+** Connecting
+*** DONE Learning more about people online, and sharing more of myself
+		 CLOSED: [2014-04-17 Thu 22:57]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:57]
+		 :END:
+*** SOMEDAY Asking for help
+*** SOMEDAY Games
+*** SOMEDAY Social updates (personal stories, etc.)
+*** SOMEDAY Conferences
+*** DONE Hacklab
+		 CLOSED: [2014-04-18 Fri 10:31]
+		 :LOGBOOK:
+		 - State "DONE"       from "SOMEDAY"    [2014-04-18 Fri 10:31]
+		 :END:
+**** DONE If I mentally commit to going to Hacklab at least one full day a week, then I'll appreciate more of the benefits of going there :month:
+		 CLOSED: [2014-04-17 Thu 22:49]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:49]
+		 :END:
+Previous: I try to go once a week, but I often talk myself out of it because it's cold or I'm not sure if anyone will be there
+(Fridays? Mondays?)
+*** To share
+- Meetups
+- Helping
+
+** Emacs (M)
+*** DONE Drawing and writing things to help people learn basic and intermediate topics
+		 CLOSED: [2014-04-17 Thu 22:57]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:57]
+		 :END:
+Under "Explaining Emacs, helping people learn"
+*** DONE Org improvements
+		 CLOSED: [2014-04-18 Fri 10:31]
+		 :LOGBOOK:
+		 - State "DONE"       from "SOMEDAY"    [2014-04-18 Fri 10:31]
+		 :END:
+*** DONE Emacs/package contributions
+		 CLOSED: [2014-04-18 Fri 10:31]
+		 :LOGBOOK:
+		 - State "DONE"       from "SOMEDAY"    [2014-04-18 Fri 10:31]
+		 :END:
+*** To share
+- Configuration
+- Customization
+- Emacs Lisp
+- Org, Babel
+
+* Learning update May 9, 2013   :learning:
+  :PROPERTIES:
+  :ID:       o2b:4596faa3-398b-465b-8fa6-76048a05d05e
+  :POST_DATE: [2013-05-09 Thu 21:13]
+  :POSTID:   24783
+  :BLOG:     sacha
+  :END:
+
+Every so often, I make a list of things I would like to learn or work
+on. Not only does thinking about what I want to learn help me decide
+how to spend my time, it also makes it easier for me to ask for help.
+I don't refer to the previous lists while making a new one, because
+the differences between the lists gives me valuable information. If my
+new list is missing some things that were on my previous list, that
+tells me that my priorities and interests have changed. I can decide
+whether I want to go back to those old priorities, or if it's okay to
+shelve those ideas for later.
+
+Here's my current list:
+
+** Business
+
+- Consulting for E1: Plugin development might be an excellent new skill to add so that I can hit even more home runs when it comes to client requests
+- Tech skills: This is too good an advantage to waste, and I enjoy it.
+  - Automation/productivity hacking: More text, data, and image processing! More macros and shortcuts and application scripting!
+  - System administration: It's good to have a solid platform and a streamlined development process. I want to learn more about managing multiple sites, setting up reliable backup and restore systems, automating deployment, and keeping up with security updates.
+  - Web development: It's so nice to be able to quickly build my own systems. I want to get better at writing neat, solid code that follows best practices so that I can rely on tests to keep me from breaking things that I infrequently modify.
+  - Web design: I really like using HTML5 and Javascript for data visualization, and I want to get even better at doing that.
+  - Other geekery: 3D printing, electronics, sensors, speech recognition, scripting… there's so much to play with. =)
+- Writing: It's a fantastic way to learn.
+  - Collecting and organizing my blog posts, then filling in the gaps: Right now, people discover lots of my posts through search engines, and I write new things based on what I'm learning or what other people ask me about. I want to get better at making an outline and filling it in so that I can guide more people along their journeys.
+  - Exploring more visual formats: This takes more work up front, but it can be more enjoyable and more accessible for people. Someday it would be great to be comfortable making comic books and illustrated guides!
+- Drawing: It's becoming more and more fun, and people find it useful too.
+  - Drawing people and situations: It would be fun to learn how to draw manga characters well, because that will give me anchors for my imagination.
+  - Animated sequences: Wouldn't it be nifty to be able to put together short explanations and tutorials that help people learn useful things?
+
+** Relationships
+
+- Cooking: I want to try lots of recipes so that we can enjoy a variety of yummy and healthy meals at home.
+- Gardening: I'd like to learn how to work with the seasons and the soil for a productive and happy garden.
+- Enjoying time with and helping family and friends
+
+** Life
+
+- Languages: I'd like to be comfortable enough with Japanese that I can read manga, watch animé, listen to tech podcasts or read articles, and go to technical conferences. Super-awesome level would be to sketchnote something in Japanese – that would be a challenge! I also want to be able to chat with W-, neighbours, and shopkeepers in Cantonese. (And let's throw Latin in there for quirky fun…)
+- Exercise: Learning good exercise habits will have lifelong benefits.
+- Learning: I could get even better at learning by building habits around spaced-repetition study and practical application. I could expand my range by learning how to learn from online courses. I could get deeper into learning from books, blog posts, conversations, and experiences. I could get better at reviewing, consolidating, and sharing what I'm learning.
+- Making decisions: Quantified Self, tracking, applied rationality, all sorts of other good things…
+- Sewing: Useful skill, and might be a way for me to work around clothes shopping. =)
+
+** Thoughts
+
+Compared to my list from January, it looks like traditional sales,
+marketing, and entrepreneurship skills aren't as large a part of my
+list at the moment. Delegation is lower too because I'm less
+interested in scaling up beyond myself (at the moment) and more
+interested in making the most of my flexibility. I haven't dug into
+Android development, so I can probably shelve that for now. Connecting
+is still somewhat interesting, though.
+
+Now, how do I want to learn?
+
+I like the idea of working on personal projects, and possibly applying
+the skills commercially if people get inspired. Being able to follow
+my interests is one of the advantages of this semi-retirement, so I
+should make the most of that. Maybe that looks like this: “Hmm, that
+seems like an interesting idea… <clackety-clack> Let's see if we can
+build a quick prototype… Here it is, and here's a blog post about what
+I'm learning along the way!”
+
+I'm not very good at asking for help. I'm too comfortable with my
+limits. I might learn something more slowly, or not as effectively as
+I could with other people's help, but that's okay. If I rely only on
+myself, though, I think I'd miss out on all the interesting
+opportunities that happen when you learn together with other people.
+I'm not entirely clear on what that might look like. I imagine that it
+would be along the lines of, “Hey, check out this thing I just
+learned!” “Oooh, that's serendipitously close to what I've been
+learning – check this out!” “That's super-helpful. What did you think
+about this other thing?” … Which is actually what I have through this
+blog, so I guess it works out after all. Onward with the blog posts,
+then.
+
+I also tend to feel a little scattered, mostly because I work and
+write in short chunks (~2-4 hours of learning). The blog's
+chronological format obscures the growth in various areas over time,
+unless you look at a category view – and that's not really a map,
+either. I've been maintaining a topical index to make it easier to see
+blog posts, but it might be interesting to mindmap the key things I
+want to know, look at what I already know, and identify the specific
+small gaps I want to address first.
+
+Mm. That might work. If I map out the questions, I can pick from this
+grab-bag of curiosities. Who knows where that might lead? So much good
+stuff out there!
+
+* Learning plans for 2013 - outdated
+(January 2013)
+
+See also: [[http://sachachua.com/blog/2013/01/imagining-the-next-five-years-and-planning-2013/][Imagining the next five years and planning 2013]]
+
+Blogging rhythm:
+
+- Monday: Emacs / Wordpress
+- Tuesday: Decision review / Quantified Self
+- Wednesday: Sketchnote of book or presentation
+- Thursday: Business experience report
+- Friday: Reflection / planning
+- Saturday: Weekly review
+- Sunday: Personal story
+
+What do I want to learn about and write about this year?
+
+** Work
+*** Entrepreneurship
+**** DONE Defining the problem
+**** DONE Validating ideas
+**** DONE Planning my next mini-experiments
+**** CANCELLED Experimenting with microstock illustrations
+**** DONE Decision review: Starting my own business
+**** DONE Learning about business
+**** DONOE What I've learned about service businesses
+**** DONE Learning about product businesses
+**** CANCELLED Amazon affiliate update
+**** DONE Business and my personal learning network
+*** Sales
+**** DONE How to not be overwhelmed by opportunities and to-dos
+- target: one conference
+**** CANCELLED Writing sales letters
+**** DONE Reaching out for that initial conversation
+**** DONE Following up on conversations
+**** DONE Closing the sale
+**** DONE Refining my message
+**** DONE Sketchnoting my sales letter
+**** DONE Experience report: Connecting with agencies
+**** DONE Experience report: Connecting with organizers
+*** Marketing
+**** DONE Developing an editorial calendar for my business blog
+**** CANCELLED Experience report: Finding trade publications
+*** Skills
+**** Summarizing is hard
+**** Learning how to summarize
+- newspaper game
+**** DONE What's new in Rails
+		 CLOSED: [2014-04-23 Wed 16:32]
+		 :LOGBOOK:
+		 - State "DONE"       from "STARTED"    [2014-04-23 Wed 16:32]
+		 CLOCK: [2014-04-23 Wed 16:25]--[2014-04-23 Wed 16:32] =>  0:07
+		 :END:
+		 :PROPERTIES:
+		 :Effort:   2:00
+		 :QUANTIFIED: 0:30
+		 :END:
+**** TODO Adding tests to Quantified Awesome
+		 :PROPERTIES:
+		 :Effort:   4:00
+		 :END:
+**** DONE How to draw abstract concepts
+**** DONE Developing a colour scheme
+**** DONE How to listen and draw at the same time
+**** DONE Sketchnote compilation
+**** DONE Organizing sketchnotes
+**** DONE Animation workflow
+**** DONE Learning plan: Sketchnotes
+**** DONE Revising my sketchnotes
+**** DONE Planning how to learn: Whiteboard animations
+**** DONE Getting the hang of drawing sketchnotes
+*** Reading
+**** DONE Planning my business reading list
+**** DONE Reviewing my book notes
+*** Delegation
+**** DONE How I hire people on oDesk
+**** DONE Learning from how other people delegate
+**** DONE Imagining wild success: delegation
+**** DONE Delegating scheduling to a virtual assistant
+**** DONE Using Trello to visually track delegated tasks
+**** DONE Planning ahead in terms of people
+**** DONE Writing down your processes
+**** DONE Evaluating assistants
+*** Connecting
+**** CANCELLED Get a rich e-mail summary of your agenda
+**** DONE Personal contact relationship management
+		 CLOSED: [2014-04-17 Thu 22:56]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:56]
+		 :END:
+**** DONE Helping people get started
+		 CLOSED: [2014-04-17 Thu 22:55]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:55]
+		 :END:
+**** DONE Making the most of meetups
+**** DONE The shy connector: choosing your events
+
+
+**** DONE The shy connector: taking notes
+**** DONE The shy connector: following up
+**** DONE Getting better at following up
+**** DONE Working on being more social
+**** DONE My meetup workflow
+**** DONE Spending on people
+		 CLOSED: [2014-04-18 Fri 16:54]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:54]
+		 :END:
+*** Paperwork
+**** DONE Reducing stress around accounting
+*** Others
+**** 52 visual book reviews
+
+#+CALL: list-files-with-target(directory="g:/documents/photoSync/Visual book reviews", pattern=".png", target=52) :results value org
+
+#+RESULTS:
+#+BEGIN_SRC org
+22 items - 42%
+1. 2012-02-29 Book - 6 Secrets to Startup Success - John Bradberry.png
+2. 2012-03-04 Book - The Start-up of You - Reid Hoffman, Ben Casnocha.png
+3. 2012-03-06 Book - How to Read a Book - Mortimer J. Adler, Charles van Doren.png
+4. 2012-03-19 Book - Critical Inquiry - Michael Boylan.png
+5. 2012-03-19 Book - Getting to Yes - Roger Fisher, William Ury, Bruce Patton.png
+6. 2012-03-21 Book - Enough - Patrick Rhone.png
+7. 2012-03-21 Book - Thank You for Arguing - Jay Heinrichs.png
+8. 2012-05-09 Book - 100-dollar Startup - Chris Guillebeau.png
+9. 2012-09-04 Book - Help Your Kids Get Better Grades - Gary E.png
+10. 2012-12-04 Book - Visual Problem-solving - Dan Roam.png
+11. 2012-12-11 Book - Best Practices Are Stupid - Stephen M. Shapiro.png
+12. 2012-12-11 Book - The Sketchnote Handbook - Mike Rohde.png
+13. 2012-12-28 Book - Blue Ocean Strategy - W Chan Kim, Renee Mauborgne.png
+14. 2012-12-28 Book - Running Lean - Ash Maurya.png
+15. 2012-12-29 Book - The Art of Pricing - Rafi Mohammed.png
+16. 2012-12-30 Book - Cool Time - A Hands-on Plan for Managing Work and Balancing Time - Steve Prentice.png
+17. 2013-05-01 Book - Red Thread Thinking - Debra Kaye, Karen Kelly.png
+18. 2013-06-28 Book - Leading Out Loud - Terry Pearce.png
+19. 2013-07-05 Book - The First 20 Hours - How to Learn Anything.png
+20. 2014-01-28 Book - Decode and Conquer - Lewis Lin.png
+21. 2014-03-26 Book - Conscious Millionaire - JV Crum III.png
+22. 2014-04-16 Book - Mastery - Robert Greene.png
+#+END_SRC
+
+
+#+name: list-files-with-target
+#+begin_src emacs-lisp :var directory="~/Google Drive/Delegation/Processes" :var pattern="How to" :var target=50 :var strip="\\.gdoc$"
+  (let ((count 0)
+        (files
+         (directory-files directory nil pattern)))
+    (format "%d items - %d%%\n%s" 
+            (length files)
+            (/ (* 100.0 (length files)) target)
+            (mapconcat
+             (lambda (x)
+               (setq count (1+ count))
+               (format "%d. %s" count (replace-regexp-in-string strip "" x)))
+             files
+             "\n")))
+#+end_src
+
+**** CANCELLED 365 presentations
+**** DONE Experience report: 1-year anniversary
+**** DONE Figuring out what to spend on
+**** DONE On job titles
+**** DONE Improving my bike ride
+**** DONE Combinations of skills
+**** CANCELLED Planning a presentation 20 seconds at a time
+**** DONE Planning for emergencies
+**** DONE Decision review: Tablet PC
+**** DONE Developing more flexible skills
+**** CANCELLED Looking forward to tablet development
+** Relationships
+*** Cooking
+**** Exploring ingredients
+***** DONE Cooking: Warm lentil salad with sausages
+***** CANCELLED Celeriac soup
+			 CLOSED: [2014-04-17 Thu 22:13]
+			 :LOGBOOK:
+			 - State "CANCELLED"  from "TODO"       [2014-04-17 Thu 22:13]
+			 :END:
+***** DONE The quest for quinoa
+***** DONE Barley beginnings
+***** CANCELLED Swiss chard surprises
+***** DONE Salad days
+***** CANCELLED Lentil and sausage salad
+**** Exploring techniques
+***** CANCELLED Cooking with the rice cooker
+***** CANCELLED Making our own siumai
+***** DONE Quiche quiche quiche quiche
+**** DONE List: Frozen lunches and other bulk meals
+*** Gardening
+**** CANCELLED Growing lentils
+		 CLOSED: [2014-04-17 Thu 22:12]
+		 :LOGBOOK:
+		 - State "CANCELLED"  from "TODO"       [2014-04-17 Thu 22:12]
+		 :END:
+*** Organizing
+**** DONE Organizing my notes with Evernote and Emacs
+*** Spending time together
+**** DONE Spending time with friends
+**** DONE Spending time with W-
+**** CANCELLED Taking more pictures
+**** CANCELLED Sending more letters
+**** DONE Learning more about friends
+*** Learning new skills
+**** SOMEDAY Getting started with Cantonese
+**** SOMEDAY Cantonese: Learning jyutping
+**** SOMEDAY Cantonese: Phrases at home
+**** SOMEDAY Random Cantonese sentences
+**** DONE Getting started with Latin
+**** SOMEDAY Latin: Phrases at home
+*** Helping out
+**** CANCELLED Meetup marketing: Developing a communications plan
+		 CLOSED: [2014-04-17 Thu 22:12]
+		 :LOGBOOK:
+		 - State "CANCELLED"  from "TODO"       [2014-04-17 Thu 22:12]
+		 :END:
+
+*** Exercise
+**** CANCELLED Decision: Krav maga gym membership?
+		 CLOSED: [2014-04-17 Thu 22:12]
+		 :LOGBOOK:
+		 - State "CANCELLED"  from "TODO"       [2014-04-17 Thu 22:12]
+		 :END:
+** Life
+*** Emacs
+**** DONE Learning Emacs keyboard shortcuts
+**** DONE Learning from others: Emacs and your personal learning network
+**** DONE Playing games in Emacs
+**** DONE Organizing my Org Mode archive
+**** DONE Org-babel and why it's good to mix code and explanation
+**** CANCELLED Tracking people with org-contacts
+*** Wordpress and web development
+**** CANCELLED Custom post types and book reviews
+**** CANCELLED Custom post types and search
+**** CANCELLED NextGen Gallery and search
+**** DONE Things I like about other people's websites
+*** Personal finance
+**** DONE Managing your money with uneven income
+		 CLOSED: [2014-04-18 Fri 16:59]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:59]
+		 :END:
+**** DONE Managing my personal and business finances
+		 CLOSED: [2014-04-18 Fri 17:17]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-18 Fri 17:17]
+		 :END:
+*** Planning
+**** DONE 2013 in review
+		 CLOSED: [2014-04-17 Thu 22:07]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:07]
+		 :END:
+**** CANCELLED Tag clouds for planning
+		 CLOSED: [2014-04-18 Fri 10:26]
+		 :LOGBOOK:
+		 - State "CANCELLED"  from "TODO"       [2014-04-18 Fri 10:26]
+		 :END:
+**** DONE Planning how to learn
+		 CLOSED: [2014-04-18 Fri 16:59]
+		 :LOGBOOK:
+		 - State "DONE"       from "DONE"       [2014-04-18 Fri 16:59]
+		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:59]
+		 :END:
+**** DONE Premortems and wild success stories
+		 CLOSED: [2014-04-18 Fri 17:17]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-18 Fri 17:17]
+		 :END:
+**** DONE What I feel brilliant at
+		 CLOSED: [2014-04-18 Fri 16:59]
+		 :LOGBOOK:
+		 - State "DONE"       from "TOBLOG"     [2014-04-18 Fri 16:59]
+		 :END:
+**** DONE Making my own opportunities
+		 CLOSED: [2014-04-18 Fri 17:17]
+		 :LOGBOOK:
+		 - State "DONE"       from "TOBLOG"     [2014-04-18 Fri 17:17]
+		 :END:
+*** Quantified
+**** DONE Analyze a year of clothing data
+		 CLOSED: [2014-04-21 Mon 12:10]
+		 :LOGBOOK:
+		 - State "DONE"       from "STARTED"    [2014-04-21 Mon 12:10]
+		 CLOCK: [2014-04-21 Mon 09:54]--[2014-04-21 Mon 12:10] =>  2:16
+		 CLOCK: [2014-04-20 Sun 23:37]--[2014-04-21 Mon 00:35] =>  0:58
+		 CLOCK: [2014-04-20 Sun 23:28]--[2014-04-20 Sun 23:34] =>  0:06
+		 CLOCK: [2014-04-20 Sun 23:28]--[2014-04-20 Sun 23:28] =>  0:00
+		 :END:
+		 :PROPERTIES:
+		 :Effort:   2:00
+		 :QUANTIFIED: Quantified
+		 :END:
+
+**** TODO Building a price book
+		 :PROPERTIES:
+		 :Effort:   2:00
+		 :END:
+**** DONE A year of grocery update
+		 CLOSED: [2014-04-17 Thu 22:55]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:55]
+		 :END:
+**** CANCELLED Looking at my application use
+		 CLOSED: [2014-04-18 Fri 16:59]
+		 :LOGBOOK:
+		 - State "CANCELLED"  from "TODO"       [2014-04-18 Fri 16:59]
+		 :END:
+**** CANCELLED Taking more pictures
+		 CLOSED: [2014-04-18 Fri 16:59]
+		 :LOGBOOK:
+		 - State "CANCELLED"  from "TODO"       [2014-04-18 Fri 16:59]
+		 :END:
+**** DONE Learning plan: Data analysis
+		 CLOSED: [2014-04-17 Thu 22:55]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:55]
+		 :END:
+**** DONE Examining my morning routine
+		 CLOSED: [2014-04-17 Thu 22:55]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:55]
+		 :END:
+*** Writing
+**** CANCELLED The hundred-item list
+		 CLOSED: [2014-04-18 Fri 16:59]
+		 :LOGBOOK:
+		 - State "CANCELLED"  from "TODO"       [2014-04-18 Fri 16:59]
+		 :END:
+**** DONE Organizing what I know
+**** DONE Brainstorming lists
+		 CLOSED: [2014-04-17 Thu 22:55]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:55]
+		 :END:
+**** CANCELLED The power of long lists
+		 CLOSED: [2014-04-18 Fri 16:59]
+		 :LOGBOOK:
+		 - State "CANCELLED"  from "TODO"       [2014-04-18 Fri 16:59]
+		 :END:
+**** DONE Improving my writing systems
+		 CLOSED: [2014-04-17 Thu 22:55]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:55]
+		 :END:
+**** SOMEDAY Collecting stories and quotes
+**** SOMEDAY Writing everywhere
+**** DONE What I like writing about
+		 CLOSED: [2014-04-17 Thu 22:48]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:48]
+		 :END:
+*** Other
+**** DONE Remembering to make time for yourself
+		 CLOSED: [2014-04-17 Thu 22:48]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:48]
+		 :END:
+**** CANCELLED Decision review: Shed
+		 CLOSED: [2014-04-17 Thu 22:12]
+		 :LOGBOOK:
+		 - State "CANCELLED"  from "TODO"       [2014-04-17 Thu 22:12]
+		 :END:
+**** DONE Getting started with weekly reviews
+		 CLOSED: [2014-04-17 Thu 22:48]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:48]
+		 :END:
+**** CANCELLED Decision review: mobile phone decisions
+		 CLOSED: [2014-04-17 Thu 22:12]
+		 :LOGBOOK:
+		 - State "CANCELLED"  from "TODO"       [2014-04-17 Thu 22:12]
+		 :END:
+**** CANCELLED Decision review: Asus Infinity TF700
+		 CLOSED: [2014-04-17 Thu 22:12]
+		 :LOGBOOK:
+		 - State "CANCELLED"  from "TODO"       [2014-04-17 Thu 22:12]
+		 :END:
+**** DONE Make better decisions with emotions
+		 CLOSED: [2014-04-17 Thu 22:48]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:48]
+		 :END:
+**** DONE Without the excuse of time
+		 CLOSED: [2014-04-17 Thu 22:48]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:48]
+		 :END:
+**** CANCELLED List: Ways I use my tablet
+		 CLOSED: [2014-04-18 Fri 10:31]
+		 :LOGBOOK:
+		 - State "CANCELLED"  from "SOMEDAY"    [2014-04-18 Fri 10:31]
+		 :END:
+**** SOMEDAY Learning R
+**** SOMEDAY APIdventures: Google Mail
+
+**** SOMEDAY APIdventures: Meetup
+
+**** SOMEDAY APIdventures: Twitter
+**** SOMEDAY APIdventures: Evernote
+**** SOMEDAY Learning plan: Android
+**** DONE How I read
+		 CLOSED: [2014-04-17 Thu 22:48]
+		 :LOGBOOK:
+		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:48]
+		 :END:
+**** SOMEDAY Meditations in everyday moments
+**** SOMEDAY Looking for patterns
+**** SOMEDAY Relaxing
+* Learning plans for 2012
+  :PROPERTIES:
+  :Post Date: [2011-12-15 Thu 01:36]
+  :Post ID: 23066
+  :ID:       o2b:505f9007-6167-451a-96e9-b85d56d98d24
+  :END:
+
+** Plan
+*** [X] Relationships
+Not estimated because this is part of social time
+**** [X] Planning and decision-making: Learn by making decisions
+- [X] Decided to start business after checking with family
+- [X] Sort out upcoming plans
+**** [X] Cultivating relationships with family: Learn by reaching out
+- [X] Establish regular habit of chatting with my mom over Skype
+**** [X] Cultivating connections online: Learn by reaching out
+- [X] Find role models online
+- [X] Build a cohort online
+**** [X] Making time for friends: Learn by reaching out
+**** [X] Local tech events: Learn by finding out about events and attending them
+**** [X] Shared interests
+***** [X] Once-a-month cooking: Learn by doing
+***** [X] Dealing with community-supported agriculture: Learn by doing
+***** [X] Tutoring: Learn by doing and reading
+*** [X] Drawing: Learn by doing and by being inspired by other people
+**** [X] Drawing with more colours
+**** [X] Organizing information visually
+**** [X] Drawing figures
+**** [X] Illustrating life, tips
+**** [X] Taking, organizing, and sharing more pictures
+*** [X] Writing: Learn by doing and reading
+**** [X] Writing about life and things I'm learning
+- Goal: Write notes and pointers to memories so that I can remember and share stories
+- Current: 0.9 hours a day
+- Estimate: 80 hours, part of discretionary buffer time as well
+**** [/] Writing family stories
+- Goal: Help capture and share some of our family stories
+- Estimate: 40 hours
+**** [/] Organizing stories
+- Goal: Build a system for collaboratively working on and organizing stories
+- Estimate: 40 hours
+**** [X] Organizing notes
+- Goal: Make it easy for me (and possibly other people) to browse my notes by topic or explore a knowledge map
+- Estimate: 40 hours
+**** [X] Putting together an e-book that will be useful to at least one other person
+- Goal: Learn how to package information so that I can scale up
+- Estimate: 80 hours
+*** [X] Business
+**** [X] Incorporate
+**** [X] Set up finances
+**** [X] Work with clients
+**** [C] Work with an accountant to file a return
+**** [X] Earn at least $100 online
+*** [X] Self-tracking / personal informatics: Learn with Quantified Awesome
+**** [X] Goal tracking
+- Goal: Visual way to keep track of how much I work each week, how much I sleep, how much time I spend on focused learning, etc.; also, customizable questions to help me change my behaviour
+- Estimate: 16 hours
+
+Built this into dashboard, yay!
+
+**** [X] Visualization
+***** [X] Time
+- Goal: Overall view of how I spent my time in a month or in a year, so that I can shift my time patterns 
+- Estimate: 16 hours
+***** [X] Goals
+      CLOSED: [2012-01-13 Fri 11:08]
+       - State "DONE"       from ""           [2012-01-13 Fri 11:08]
+      :PROPERTIES:
+      :Modified: 1326470907
+      :END:
+- Goal: See goal tracking
+- Estimate: 16 hours
+***** [X] Use - tried it with groceries
+- Goal: Identify things worth spending money or time on based on past use and satisfaction
+- Estimate: 16 hours
+**** [/] Behavioural change    
+- Goal: Get better and better at life by structuring each month as an experiment
+- Estimate: 48 hours
+**** [/] Applying automated testing to life
+- Goal: Stop more things from falling through the cracks by developing automated tests (ex: checking balances, etc.)
+- Estimate: 16 hours
+**** [/] Accommodating other people's patterns
+- Goal: Build systems that other people can use so that I can help them and so that I can learn from how they live
+- Estimate: 80 hours
+**** SOMEDAY HTML5 development - changed from Android development
+- Goal: custom app for tracking and reporting, so that I can keep an eye on my goals and collect/analyze more data
+- Estimate: 80 hours
+*** Tools: Learn by doing
+**** [X] Take advantage of improvements in Emacs and Org-mode
+- Goal: Make the most of the tools I use
+- Estimate: 16 hours
+**** [X] Learn how to make the most of Org-mode outlines - maybe use this for knowledge representation?
+- Goal: Get to know Emacs Org Mode thoroughly so that I can use it to organize and publish what I know
+- Estimate: 8 hours
+**** [X] Other tools that can take advantage of extra CPU and memory
+- Goal: Find apps or packages that can help me work even more effectively
+- Estimate: 26 hours
+
+Speech recognition
+**** [X] Org and synchronization between multiple computers
+- Goal: Get this sorted out so that I don't accidentally lose any information
+- Estimate: 4 hours
+**** [X] [#C] Web service integration
+- Goal: Interact with Quantified Awesome from Emacs so that I can meld Org and QA
+- Estimate: 16 hours
+*** [#C] Delegation / elimination: Learn by doing
+Lowered priority on this to make space for other interests; may still look into delegating, but am okay with taking longer to accomplish my plans (maturation is handy!)
+**** [-] Delegating some chores?
+**** [X] Simplifying stuff and routines
+*** Consulting / services
+Not estimated because this is part of work
+**** [X] Determining needs: Learn with engagements
+**** [X] Social business consulting - in progress
+**** [-] Business writing
+**** [X] Illustration - in progress
+**** CANCELLED Social analytics: Learn with work engagements
+*** Development
+**** [#C] Front-end and web design
+- 2012-04-01: Still on the list, but lowered the priority
+***** [-] More JQuery + AJAX for richer interactions?: Learn with work projects
+Not estimated because this is part of work
+***** [X] CSS and frameworks: Learn with work projects
+Not estimated because this is part of work
+- Project C: Sass, Compass, CSS3 (January 2012)
+***** [X] Basic information architecture: Learn with Quantified Awesome
+- Goal: Figure out a mobile and web interface that fits the way I (and maybe other people) live
+- Estimate: 40 hours
+**** Launching
+***** [X] Testing ideas: Learn with Quantified Awesome
+- Goal: Test ideas and see which ones might be useful to people; build networks
+- Estimate: 40 hours
+- 2012-04-01: Some people using it already
+***** [X] Launching with minimal or no defects: Learn with work projects
+- 2012-04-01: No further progress specifically planned for this year; focusing on non-development projects
+***** [X] Launching personal projects: Learn with Quantified Awesome
+- Goal: Make life better for at least one other person
+- Estimate: 80 hours
+- 2012-04-01: Some people using it already
+**** [P] Projects
+- 2012-04-01: Demoted to focus on drawing, writing, and consulting
+***** [-] Agile development: I want to get better at planning and executing agile projects
+***** [X] Documentation: I want to take better notes so that I can support projects more effectively
+**** DONE Testing
+- 2012-04-01: No further progress specifically planned for this year
+***** [X] 100% test coverage
+- Goal: Get used to building more slowly and reliably
+- Estimate: 40 hours; rest included in development
+***** [X] Selenium and other front-end tests
+- Learned how to write Selenium IDE and Selenium RC tests
+***** [X] Behaviour-driven development: Learn with work projects, Quantified Awesome
+- Goal: Learn how to express behaviour clearly and concisely so that I can specify my own apps
+**** [P] Rails: Learn with Quantified Awesome
+- 2012-04-01: Demoted Rails development in order to focus on drawing and writing
+- Previous goal: I want to learn more about Rails because I want to get better at building systems to support the way I want to live, and because I enjoy using it.
+***** [-] Rails 3.1: I want to take advantage of new features while building Quantified Awesome
+- Goal: Use Quantified Awesome to answer my questions about how I spend my time, what I use, and how I want to grow
+- Estimate: 80 hours
+***** [-] Mongo and other data stores
+- Goal: Work with data that does not easily fit SQL data models
+- Estimate: 20 hours
+***** [-] APIs: I want to integrate my web apps with lots of other tools, and allow for integration
+- Goal: Add a native Android app and an Emacs interface; possibly integrate Twitter, my blog, and other websites for more data / questions
+- Estimate: 80 hours
+***** [-] Performance tuning: I want to make sure my systems can handle the requests I want it to.
+Not estimated because this is part of work
+***** [-] Security testing: I want to be more confident in the applications I build.
+Not estimated because this is part of work
+**** CANCELLED Drupal
+- 2012-04-01: Demoted Drupal development in order to focus on drawing and writing
+***** [ ] Installation profiles and code packaging: Learn with work projects
+***** [ ] Testing
+***** [ ] Drupal 7
+**** CANCELLED Android development
+***** DONE Set up my development environment again
+      CLOSED: [2011-12-16 Fri 18:54]
+       - State "DONE"       from "TODO"       [2011-12-16 Fri 18:54]
+      CLOCK: [2011-12-16 Fri 17:33]--[2011-12-16 Fri 18:54] =>  1:21
+      :PROPERTIES:
+      :Modified: 1324079663
+      :END:
+***** DONE Get Quantified Awesome to show up on my Android
+      CLOSED: [2011-12-16 Fri 18:54]
+       - State "DONE"       from "TODO"       [2011-12-16 Fri 18:54]
+      :PROPERTIES:
+      :Modified: 1324079665
+      :END:
+***** DONE Accept a file from Tap Log Records
+      CLOSED: [2011-12-16 Fri 20:34]
+       - State "DONE"       from "TODO"       [2011-12-16 Fri 20:34]
+      :PROPERTIES:
+      :Modified: 1324085675
+      :END:
+#+BEGIN_EXAMPLE
+       <intent-filter>
+       <action android:name="android.intent.action.SEND" />
+       <category android:name="android.intent.category.DEFAULT" />
+       <data android:mimeType="*/*" />
+       </intent-filter>
+#+END_EXAMPLE
+***** DONE Display a value from the file from Tap Log Records
+      CLOSED: [2012-01-13 Fri 11:07]
+       - State "DONE"       from "TODO"       [2012-01-13 Fri 11:07]
+      :PROPERTIES:
+      :Modified: 1326470850
+      :END:
+***** DONE Display the total work time
+      CLOSED: [2012-01-13 Fri 11:07]
+       - State "DONE"       from "TODO"       [2012-01-13 Fri 11:07]
+      :PROPERTIES:
+      :Modified: 1326470857
+      :END:
+***** DONE Display the total work time this week
+      CLOSED: [2012-01-13 Fri 11:07]
+       - State "DONE"       from "TODO"       [2012-01-13 Fri 11:07]
+      :PROPERTIES:
+      :Modified: 1326470858
+      :END:
+***** DONE Display yesterday's statistics for sleep and discretionary time
+      CLOSED: [2012-01-13 Fri 11:07]
+       - State "DONE"       from "TODO"       [2012-01-13 Fri 11:07]
+      :PROPERTIES:
+      :Modified: 1326470859
+      :END:
+***** DONE Build simple text input
+      CLOSED: [2012-01-13 Fri 11:07]
+       - State "DONE"       from "TODO"       [2012-01-13 Fri 11:07]
+      :PROPERTIES:
+      :Modified: 1326470864
+      :END:
+
+** Quick update 2012-04-01
+Going into business myself means major changes to my time budget and
+learning plan! =) Will continue to refine this as I go along.
+
+** Time budget from 2011-12-14
+
+Nudged by [[https://twitter.com/#!/catehstn/status/146994766075265024][@catehstn]]'s recommendation of my blog to [[https://twitter.com/#!/Tending2Entropy/status/146985789941755904][@Tending2Entropy]] as
+an example of goal planning in personal life, I updated my learning
+plan with [[http://sachachua.com/blog/learn-2012/][the things I'm planning to learn next year]]. 
+
+It was easy to come up with a quick outline. There are so many
+interesting things I want to learn. The tough part, however, was
+thinking about what I might actually get to do.
+
+What does my cognitive surplus look like? I wanted to get a sense of
+how much discretionary time I actually had on a regular basis. I have
+about 20 weeks of data since I resumed time-tracking near the end of
+July. So that my numbers wouldn't be thrown off by the vacation we
+took, I focused on the last eight weeks ([[http://quantifiedawesome.com/time/graph/2011-10-16/2011-12-11][graph: 2011-10-16 to
+2011-12-11]]).
+
+Over the eight-week period, I got an average of 3.5 hours of
+discretionary time per weekday and 7 hours of discretionary time per
+weekend day. I can simplify that to an average of 4.5 hours per day,
+which comes out to 1642 hours for 2012 (not including vacations, which
+include more discretionary time).
+
+Around 40% of discretionary time was used for social activities. Let's
+say that another 30% is a buffer for breaks and other things that come
+up, leaving 30% for focused learning. That gives me a time budget of
+around 500 hours. I want to do more than 1,000. Hmm.
+
+Prioritization is important. I can focus on the things I want the
+most, then see how the rest of the year shakes out. Plans will change
+anyway, and estimates are flexible. My first few priorities for
+personal learning:
+
+- Android development, so that I can save time syncing and get more of the data I want
+- Goal tracking (handy for keeping the rest of my time in line)
+- Behavioural change (trying small experiments)
+
+Another way to deal with the gap is to shift more time. Over those
+eight weeks, tidying took about 0.7 hours / day, and cooking took
+about that much time too. Let's say half of future tidying and all of
+future cooking is outsourceable at $20/hour. That's an additional 384
+hours for a trade-off of $7,680 after tax, which is a large chunk of
+money. I'd rather save the money and let it compound for later use,
+especially if I time chores so that they take advantage of low energy.
+Besides, cooking and other chores are partly social time too.
+
+I can shift time in other ways. For example, I can use commuting time
+to learn more about Emacs, Org, and Rails, so that will help too. I
+can also use walking time to record life stories if I can figure out a
+workflow for dealing with audio or short notes.
+
+Good to know what the size of the box is, and how much I want to pack
+into it! Let's see how it all works out...
+* Learning plans from 2010
+
+What do I want to learn? There's a lot more than this, but it's a good starting map! I'll fill this out with notes along the way.
+
+- Work
+  - Helping clients succeed and be happy
+    - Why this matters: Our clients work on amazing things, and IBM has many talents and resoures. If IBM and I can support clients in making the kind of difference they want to make, we can all make the world better.
+    - Ideal: I help clients envision the possible, troubleshoot problems, navigate IBM's capabilities, and work with IBM on making things happen.
+    - Strengths I can build on 
+      - I'm great at connecting people, tools, and resources across the organization. This is something many clients and many IBMers have a hard time with. If I build on this strength, I can help more people learn how to do this well.
+      - I'm also good at understanding the big picture and communicating it to other people. I can empathize with clients' objectives and communicate that big picture with people in IBM.
+    - How I can grow 
+      - Find role models and mentors who exemplify this for clients or industries
+      - Move from development or consulting into a client account supporting role
+      - Map out my network and strategies for connecting
+    - Notes 
+      - I want to work cross-brand instead of focusing on a particular brand
+      - I would like to either focus on a specific client or a specific industry
+      - I particularly like the public sector because of how they collaborate, but I'm happy to explore other industries as well
+  - Connecting the dots
+    - Why this matters: Being able to connect people with other people, tools, and resources not only saves a lot of time and effort, but it also starts all these great collaborations. People get inspired when they find out about other people working on similar things, and together, they build something better than they could make on their own.
+    - Ideal: Not only am I a go-to person when people need to find other people or things, but I've pushed my knowledge into the network and helped build communities so that other people can find people, tools, and resources without relying on connectors like me.
+    - Strengths I can build on: I can remember what or who to look for when the need arises. I love keeping track of a diverse network of people, and lots of people tell me about interesting things that are going on. I can forward requests to the right community or to connectors who have wide networks as well. I take notes and help publicize other people's work, helping them become even more findable. Even though I've only been working at IBM for two years, people often ask me for help in finding people or resources. Imagine what this will be like when I've got more experience!
+    - How I can grow 
+      - Organize my feeds so that I can keep track of more information
+      - Document and share more of my network knowledge
+      - Help people learn how to do what I do
+      - Map the organization
+  - Contributing to Smarter Cities and a smarter planet
+    - Why this matters: I believe in what we're doing at IBM and our ability to really help transform the way the world works. Our vision around Smarter Cities (and a smarter planet, in general) can touch many, many people's lives.
+    - Ideal: I help organizations and jurisdictions around the world learn more about Smarter Cities and a smarter planet. I can refer them to relevant examples and success stories. I help people envision the future, develop roadmaps, and implement initiatives.
+    - Strengths I can build on: Although I don't have a deep knowledge of this area yet, I do have many mentors and colleagues who are working on this, and I can learn from them and from the knowledgebases they're building. I'm also passionate about what we're all working towards.
+    - How I can grow 
+      - Review all the Smarter Cities material that's out there
+      - Shadow or participate in engagements
+      - Bring together and summarize external examples
+      - Learn from other IBMers as they work on engagements
+  - Sharing what I'm learning and organizing the information so that people can learn more effectively
+    - Why this matters: It's amazing how much sharing can save people time, inspire people, and start great conversations. People really value the notes that I've shared through blog posts and presentations. I want to get even better at documenting, sharing, and organizing what I know, so that other people can build even better things on that foundation.
+    - Ideal: Every day, I share as much as I can of what I've learned. In addition to chronological updates, people can explore what I'm sharing through an organized map that makes it easy to see the big picture. I am clear, concise, and coherent. I package knowledge in different forms to fit different needs: blog posts, wikis, presentations, videos, books. I inspire other people to share, too, and I help them learn how to do so effectively.
+    - Strengths I can build on: Blogging has helped me learn how to write freely and quickly. I'm comfortable with giving energetic and engaging presentations, and I'm also good at preparing stand-alone presentations and videos. I'm comfortable building wikis. I'm good at searching my archives to find things I've already written. I love learning from people, books, and other sources. I make time to share what I know, and I have plenty of success stories that reinforce the value of that investment.
+    - How I can grow 
+      - Map what I know and map what I want to learn, then organize my notes accordingly.
+      - Read and learn from blogs and books by other people who are focused on sharing.
+      - Edit and organize excerpts from my archive into a more coherent form, such as an e-book.
+      - Explore a random information management system (like a "morgue file") to capture snippets of information for later processing.
+      - Coach people on how to share and organize what they know.
+  - Facilitating visions, discussions, and decisions
+    - Why this matters: If we can figure out how to bring people together for more effective discussions both online and in real-life, we can tap the power in the diverse perspectives in a group.
+    - Ideal: I can confidently and effectively set up, facilitate, and summarize different kinds of discussions: creating a vision, brainstorming and developing ideas, and deciding on priorities and actions.
+    - Strengths I can build on: I can respond very positively to ideas and help think of further improvements. I'm good at organizing and facilitating virtual discussions involving hundreds of people. I type and read very quickly, so I can capture what people are sharing or quickly summarize a long virtual discussion. My background helps me bring perspectives that many people are interested in (Gen Y, social networks, etc.).
+    - How I can grow 
+      - Learn from other consultants
+      - Facilitate small workshop sessions
+      - Explore other facilitation techniques
+  - Inspiring and leading others, and helping others become more effective leaders
+    - Why this matters: People can work much better when they're happier and when they can see their role in the big picture. Great management and great leadership make such a big difference in people's working lives.
+    - Ideal: I inspire people though my energy and passion, and I help them discover or rediscover their own energy and passion, understand the big picture, and communicate that to other people. I help formal leaders learn how to use social networks to connect and inspire. I help informal leaders learn how to grow and share. Together, we figure out how organizations can be even better.
+    - Strengths I can build on: I have a lot of energy, and I really love what we do and why we do it. I'm good at expressing that through blogs, presentations, and other media. I'm good at seeing the bright side of life. I'm good at figuring out my connection to the big picture, and at showing other people why their work matters. I'm consistently happy (can't help it; life is awesome!).
+    - How I can grow 
+      - Explore leadership ideas with Rawn Shah, John Handy-Bosma, Sarah Siegel, and other IBMers thinking a lot about this topic
+      - Continue to share my passion, energy, and happiness
+      - Help explain the big picture or the bright side, particularly during challenging times
+      - Express more appreciation publicly, to help people remember/see the good stuff
+      - Coach people on how to share their energy/passion/vision as well
+- Life
+  - Being happy
+    - Why this matters: Happiness has lots of other good things in it. I care about happiness not because I want to be happy–I already am!–but because I want to stay happy, deepen my understanding of happiness, and share that understanding with other people.
+    - Ideal: I figure out what works for me and what doesn't, and the difference between making myself miserable and growing by stepping outside my comfort zone. I share what I've learned and my processes for learning with other people. I help lots of other people grow happier.
+    - Strengths I can build on: I'm very very happy. I have an awesome life. I'm an optimist (almost automatic now!). I enjoy reflection. I like sharing what I'm learning with other people.
+    - How I can grow 
+      - Take on new challenges, like marriage and parenting, to figure out more about happiness with a richer and more complex life.
+      - Share more appreciation and reflection.
+  - Practicing relentless improvement
+    - Why this matters: Getting better and better at life means saving time, enjoying more benefits, deepening my appreciation of life, learning things I can share with other people, and having fun.
+    - Ideal: I deliberately invest time in experimenting and reflecting on how I live, and I share notes about what I learn along the way.
+    - Strengths I can build on: I'm good at thinking of experiments, particularly small steps I can take to try an idea out. I'm good at sharing what I'm learning through my blog. I'm good at setting aside money and time to make things happen.
+    - How I can grow 
+      - Map out the ideas I'm working on and what I've learned so far.
+      - Connect with other lifehackers.
+      - Write and share more.
+      - Build systems that make it easier for other people to experiment.
+  - Preparing and enjoying good food
+    - Why this matters: I'm going to eat every day for the rest of my life, so I might as well figure out how to enjoy healthy, yummy food. =) Bonus points if I can share those experiences with other people!
+    - Ideal: I have a well-stocked kitchen, plenty of favourite recipes and experiments, awesome cooking and baking skills, and tons of stories.
+    - Strengths I can build on: W- and I both enjoy cooking, and he's a great cook. I enjoy exploring recipes and comparing different kinds of ingredients. We have an eat-in kitchen with lots of counter space (and room for two cooks!). We have the time and energy to enjoy cooking and eating at home. We prepare almost all of our meals at home. We have a large outdoor cooling area during winter, and fresh herbs and vegetables from the garden during the rest of the time. ;) We have access to all sorts of ethnic ingredients because Toronto is multicultural. We can walk or bike to good supermarkets. We have a chest freezer and lots of food containers.
+    - How I can grow
+      - Keep accurate inventories of freezer contents
+      - Develop a better groceries/meal plan system
+      - Move towards cooking once every two weeks, or longer
+      - Explore more recipes: desserts, breakfasts, make-ahead lunches…
+  - Growing good food in my garden
+    - Why this matters: It's so much fun to watch plants grow, to harvest your own fruits and vegetables, and to pick fresh herbs whenever you want. And the taste and variety are amazing, too! Growing food means we know what's in it, we can explore different kinds, we enjoy really fresh stuff, and we don't throw away as much produce.
+    - Ideal: I have a large, productive garden that gives us what we want and takes little effort to maintain. There's plenty of sun for my fruits and vegetables, and some shade for our greens too. I may even get away with a calamansi tree. =D And someday, I'm going to grow asparagus!
+    - Strengths I can build on: We have a decent-sized plot with some sun. W- and I built two raised beds. We have plenty of herbs already growing, and a cat-proof space for indoor plants as well. I can get lots of different kinds of seeds online and at stores. I can buy gardening supplies at stores within biking distance. We have lots of earthworms. We have two compost heaps. There are lots of gardeners in Toronto, and plenty of communities and blogs on the Internet.
+    - How I can grow
+      - Keep a gardening journal
+      - Organize seeds by weeks
+      - Set up another greenhouse
+      - Experiment with starting more seeds
+  - Sewing clothes, accessories and gifts
+    - Why this matters: I often find shopping frustrating. Things don't fit well, or styles are too frilly, or stores don't have small, petite clothes in black or warm colours. I can't find organizers with the pockets I want. I'd rather make gifts than buy them. Making my clothes, accessories, and gifts is a great way to exercise my imagination and make something real.
+    - Ideal: The clothes I make are comfortable, and they fit well. I keep myself organized by making pouches and bags for things. I give people home-made gifts.
+    - Strengths I can build on: I enjoy experimenting, and practice has helped me develop my spatial skills too. I'm patient. I enjoy sewing and spending time at home. I've made space for a sewing machine and fabric. I'm close to a fabric store at work. I can bike to places that sell sewing supplies if needed.
+    - How I can grow
+      - Sew more!
+      - Sew more!
+      - Sew more!
+  - Taking pictures that share memories
+    - Why this matters: I like the way that photographs can trigger memories and stories. I want to take more of them. I also want to take better pictures that tell stories or share what I see.
+    - Ideal: I always have a camera with me so that I can capture interesting moments. I notice intriguing visual patterns or metaphors. I organize, share, and archive my pictures.
+    - Strengths I can build on: My family is into photography, and I can learn from them. W- enjoys photography, too. I have a small camera and a bigger camera with more power. We have a decent collection of lenses. I have a photo gallery on my site, and I can also organize and share pictures on other sites.
+    - How I can grow
+      - Practice taking a picture every day.
+      - Practice really looking around and noticing contrast, colour, etc.
+
