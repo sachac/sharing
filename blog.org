@@ -17,10 +17,11 @@ Quick links to trails that are already logically ordered (more to come):
 
 * Topical index
 ** 5-year experiment [15/15]
+See also: [[starting_business][Starting my own business]]
+
 - [X] [[http://sachachua.com/blog/2014/03/living-your-dream/][Living your dream]]
 - [X] [[http://sachachua.com/blog/2014/03/reflecting-want-contribute-interested-people-might-semi-work/][Reflecting on what I want to contribute to and how interested people might (semi-)work with me]]
 - [X] [[http://sachachua.com/blog/2014/03/going-fishing-three-years/][Going fishing for three years]]
-See also: [[#starting_business][Starting my own business]]
 
 - [X] [[http://sachachua.com/blog/2014/02/learning-entrepreneur/][Reflections on learning to be an entrepreneur]]
 - [X] [[http://sachachua.com/blog/2014/02/reflecting-wild-success/][Reflecting on wild success]]
@@ -74,14 +75,14 @@ See also: [[#starting_business][Starting my own business]]
 - [X] [[http://sachachua.com/blog/2009/09/riding-on-my-bicycle/][Riding on my bicycle]]
 - [X] [[http://sachachua.com/blog/2011/06/its-bike-month-in-toronto/][It's Bike Month in Toronto!]]
 - [X] [[http://sachachua.com/blog/2011/06/bike-ride-in-the-rain/][Bike ride in the rain]]
-** Blogging (see also: Writing) [22/22]
-# <<blogging>>
+** Blogging [22/22]
+<<blogging>>
 
 Key resource:
 - [X] [[http://sachachua.com/blog/2014/02/excuses-guide-blogging-pdf-epub-mobi-free-also-notes-publishing/][A No Excuses Guide to Blogging (PDF, EPUB, MOBI - free!); also, notes on publishing]]
 
-See also: [[#writing][Writing]] \\
-See also: [[#no-excuses-blogging][Blogging, A No-Excuses Guide to]]
+See also: [[writing][Writing]] \\
+See also: [[no-excuses-blogging][Blogging, A No-Excuses Guide to]]
 
 - [X] [[http://sachachua.com/blog/2013/12/daily-blogging-and-different-interests/][Daily blogging and different interests]]
 - [X] [[http://sachachua.com/blog/2013/10/integrating-visual-outlining-into-my-writing-process/][Integrating visual outlining into my writing process]]
@@ -105,7 +106,7 @@ See also: [[#no-excuses-blogging][Blogging, A No-Excuses Guide to]]
 - [X] [[http://sachachua.com/blog/2008/04/addicted-to-blogging/][Addicted to blogging?]]
 - [X] [[http://sachachua.com/blog/2012/03/mapping-blog-archives/][Mapping my blog archives]]
 ** Blogging, A No-Excuses Guide to   :trail:book:
-# <<no-excuses-blogging>>
+<<no-excuses-blogging>>
 
 See http://sach.ac/no-excuses-blogging
 
@@ -138,7 +139,7 @@ See http://sach.ac/no-excuses-blogging
      3. [[http://sachachua.com/blog/2010/03/how-to-get-people-to-read-your-blog-post/][How to get people to read your blog post]]
 
 ** Blogging, Discovering yourself through                             :trail:
-# <<discovering-yourself-through-blogging>>
+<<discovering-yourself-through-blogging>>
 
 1. [[http://sachachua.com/blog/2011/09/discovering-yourself-through-blogging-transcript-from-lotus-blossoming-telesummit/][Transcript: Blogging (Part 1): Blogging and introverts]]
 2. [[http://sachachua.com/blog/2011/09/transcript-blogging-part-2-growing-into-blogging/][Transcript: Blogging (Part 2): Growing into blogging]]
@@ -158,7 +159,7 @@ See http://sach.ac/no-excuses-blogging
 16. [[http://sachachua.com/blog/2011/08/session-follow-up-1-discovering-yourself-through-blogging/][Session follow-up #1: Discovering Yourself through Blogging]]
 
 ** Blogging, Get more value from [8/8]  :trail:
-# <<value-blogging>>
+<<value-blogging>>
 1. [X] [[http://sachachua.com/blog/2011/02/the-value-of-blogging-part-i-thought/][Get More Value from Blogging, part I: The Immediate Benefits of Thought]]
 2. [X] [[http://sachachua.com/blog/2011/02/the-value-of-blogging-part-ii-archive/][Get More Value from Blogging, part II: The Compounding Value of an Archive]]
 3. [X] [[http://sachachua.com/blog/2011/02/get-more-value-from-blogging-part-iii-sharing-makes-the-blog-go-round/][Get More Value from Blogging, part III: Sharing Makes the Blog Go ‘Round]]
@@ -734,9 +735,10 @@ See http://sach.ac/no-excuses-blogging
 - [X] [[http://sachachua.com/blog/2014/01/building-habit-of-drawing-with-colours/][Building a habit of drawing with colours]]
 - [X] [[http://sachachua.com/blog/2013/11/handwriting/][Handwriting]]
 ** Drawing tools and processes [29/29]
+See also [[sketchnote-lessons][Sketchnote lessons]]
+
 - [X] [[http://sachachua.com/blog/2014/03/replay-meloney-hall-interviewed-sketchnoting/][Replay: Meloney Hall interviewed me about sketchnoting]]
 - [X] [[http://sachachua.com/blog/2014/03/how-i-animate-sketches-with-autodesk-sketchbook-pro-and-camtasia-studio/][How I animate sketches with Autodesk Sketchbook Pro and Camtasia Studio]]
-See also [[sketchnote-lessons][Sketchnote lessons]]
 - [X] [[http://sachachua.com/blog/2014/02/freepay-want-resources-sketchnoting-autodesk-sketchbook-pro/][Free/pay-what-you-want resources for sketchnoting with Autodesk Sketchbook Pro]]
 - [X] [[http://sachachua.com/blog/2014/01/drawing-action/][Drawing in action]]
 - [X] [[http://sachachua.com/blog/2013/11/how-i-organize-and-publish-my-sketches/][How I organize and publish my sketches]]
@@ -826,7 +828,7 @@ See also [[sketchnote-lessons][Sketchnote lessons]]
 - [X] [[http://sachachua.com/blog/2009/05/drupal-in-the-trenches-ajax-history-makes-my-brain-hurt/][Drupal in the trenches: AJAX history makes my brain hurt]]
 - [X] [[http://sachachua.com/blog/2009/06/drupal-in-the-trenches-mysql-and-delete-joins-multiple-tests/][Drupal in the trenches: MySQL and DELETE joins; multiple tests]]
 ** Drupal, development process for [22/22]
-See also: Testing
+See also: [[testing][Testing]]
 - [X] [[http://sachachua.com/blog/2009/03/25-tips-for-totally-rocking-your-drupal-development-environment-pre-session-notes/][25 Tips for Totally Rocking Your Drupal Development Environment: pre-session notes]]
 - [X] [[http://sachachua.com/blog/2008/07/kaizen-what-would-make-our-drupal-lives-better/][Kaizen: What would make our Drupal lives better?]]
 - [X] [[http://sachachua.com/blog/2008/05/getting-through-the-plateau-of-mediocrity-picking-up-the-idioms/][Getting through the plateau of mediocrity; Picking up the idioms]]
@@ -873,14 +875,14 @@ See also: Testing
 ** Emacs [35/35]
 - [X] [[http://sachachua.com/blog/2014/03/emacs-tweaks-export-org-checkboxes-using-utf-8-symbols/][Emacs tweaks: Export Org checkboxes using UTF-8 symbols]]
 - [X] [[http://sachachua.com/blog/2014/03/emacs-evernote-enscript-exe-org-links/][Emacs, Evernote (through enscript.exe), and Org links]]
-See also: [[Emacs chats]]
+See also: [[emacs-chats][Emacs chats]]
 
 Featured:
-
 - [X] [[http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/][How to Learn Emacs: A Hand-drawn One-pager for Beginners]]
 - [X] [[http://sachachua.com/blog/2013/09/how-to-learn-emacs-keyboard-shortcuts-a-visual-tutorial-for-newbies/][How to learn Emacs keyboard shortcuts (a visual tutorial for newbies)]]
 - [X] [[http://sachachua.com/blog/2013/04/emacs-conference-2013-sketchnotes-also-pdf/][Emacs Conference 2013 Sketchnotes (also, PDF!)]]
 
+Other:
 - [X] [[http://sachachua.com/blog/2013/06/animating-things-in-emacs/][Animating things in Emacs]]
 - [X] [[http://sachachua.com/blog/2013/04/brainstorming-ways-to-help-build-the-emacs-community/][Brainstorming ways to help build the Emacs community]]
 - [X] [[http://sachachua.com/blog/2013/04/emacs-conference-2013-videos/][Emacs Conference 2013 videos]]
@@ -1663,7 +1665,10 @@ Obsolete
 - [X] [[http://sachachua.com/blog/2010/02/harvesting-the-backchannel-bazaar-of-insights/][Harvesting the backchannel bazaar of insights]]
 - [X] [[http://sachachua.com/blog/2010/04/thoughts-on-presenting-i-love-the-backchannel/][Thoughts on presenting: I love the backchannel]]
 - [X] [[http://sachachua.com/blog/2009/02/feel-free-to-use-your-laptop-or-your-phone-in-my-talks-i-love-the-backchannel/][Feel free to use your laptop or your phone in my talks! I love the backchannel]]
-** Presentations, remote (see also: Remote Presentations That Rock) [7/7]
+** Presentations, remote [7/7]
+<<remote-presentations>>
+
+See also: [[remote-presentations-that-rock][Remote Presentations That Rock]]
 - [X] [[http://sachachua.com/blog/2011/04/remote-training-rocks/][Remote training that rocks]]
 - [X] [[http://sachachua.com/blog/2011/04/giving-a-presentation-using-autodesk-sketchbook-pro-and-a-web-conference/][Giving a presentation using Autodesk Sketchbook Pro and a web conference]]
 - [X] [[http://sachachua.com/blog/2009/03/virtual-conferences-change-the-game/][Virtual conferences change the game]]
@@ -1806,6 +1811,10 @@ Obsolete
 - [X] [[http://sachachua.com/blog/2009/12/scenes-from-a-geek-life-duel/][Scenes from a geek life: Duel]]
 - [X] [[http://sachachua.com/blog/2010/11/book-choose-to-be-happily-married-how-everyday-decisions-can-lead-to-lasting-love/][Book: Choose to be happily married: How everyday decisions can lead to lasting love]]
 ** Remote Presentations That Rock (see also: Presentations, Remote) [12/12]
+<<remote-presentations-that-rock>>
+
+See also: [[remote-presentations][Presentations, remote]]
+
 - [X] [[http://sachachua.com/blog/2009/10/the-remote-presentations-that-rock-reading-list/][The "Remote Presentations That Rock" reading list]]
 - [X] [[http://sachachua.com/blog/2009/11/thoughts-from-remote-presentations-that-rock-changing-dynamics/][Thoughts from "Remote Presentations That Rock", changing dynamics]]
 - [X] [[http://sachachua.com/blog/2009/10/7-tips-for-remote-presentations-that-rock/][7 Tips for Remote Presentations That Rock]]
@@ -1848,7 +1857,7 @@ Obsolete
 - [X] [[http://sachachua.com/blog/2014/01/caring-for-things-without-caring-about-things/][Caring for things without caring about things]]
 - [X] [[http://sachachua.com/blog/2014/01/thinking-about-routines-after-an-extended-trip/][Thinking about routines after an extended trip]]
 ** Sketchnote lessons [11/11]  :trail:
-# <<sketchnote-lessons>>
+<<sketchnote-lessons>>
 1. [X] [[http://sachachua.com/blog/2013/08/resources-for-getting-started-with-sketchnoting/][Resources for getting started with sketchnoting]]
 2. [X] [[http://sachachua.com/blog/2013/08/sketchnote-lessons-quick-lettering/][Sketchnote Lessons: Quick Lettering]]
 3. [X] [[http://sachachua.com/blog/2013/09/sketchnote-lesson-using-color/][Sketchnote Lessons: Adding color]]
@@ -1968,7 +1977,7 @@ Obsolete
 - [X] [[http://sachachua.com/blog/2012/09/sketchnotes-from-wordcamp-toronto-day-1/][Sketchnotes from WordCamp Toronto Day 1: Marketing, giving back, multilingual sites, security, SEO & analytics, e-commerce]]
 - [X] [[http://sachachua.com/blog/2012/09/sketchnotes-from-wordcamp-toronto-2012-day-2-case-studies/][Sketchnotes from WordCamp Toronto 2012 Day 2: Case studies]]
 ** Sharing
-See also [[#blogging][Blogging]], [[#writing][Writing]]
+See also [[blogging][Blogging]], [[writing][Writing]]
 - [X] [[http://sachachua.com/blog/2014/02/stepping-publishing/][Stepping up to publishing]]
 - [X] [[http://sachachua.com/blog/2014/01/work-self-work/][Other-work and self-work]]
 - [X] [[http://sachachua.com/blog/2014/03/describing-personal-knowledge-management-routines-harold-jarches-seek-sense-share-framework/][Describing my personal knowledge management routines with Harold Jarche’s Seek-Sense-Share framework]]
@@ -2036,7 +2045,8 @@ See also [[#blogging][Blogging]], [[#writing][Writing]]
 ** Software [1/1]
 - [X] [[http://sachachua.com/blog/2012/03/tool-tuesday-trying-out-mindmanager-2012-almost-but-not-quite-the-right-fit-for-me/][Trying out MindManager 2012 - Almost but not quite the right fit for me]]
 ** Starting my own business [15/15]
-# <<starting-business>>
+<<starting_business>>
+
 - [X] [[http://sachachua.com/blog/2012/02/experience-report-incorporating-a-federal-numbered-corporation-in-canada/][Experience report: Incorporating a federal numbered corporation in Canada]]
 - [X] [[http://sachachua.com/blog/2012/02/experience-report-renting-a-business-mailbox/][Experience report: Renting a business mailbox]]
 - [X] [[http://sachachua.com/blog/2012/02/experience-report-opening-the-rbc-small-business-eaccount-2/][Experience report: Opening the RBC Small Business eAccount]]
@@ -2132,6 +2142,8 @@ See also [[#blogging][Blogging]], [[#writing][Writing]]
 - [X] [[http://sachachua.com/blog/2008/07/sowing-seeds-common-objections-to-technology-evangelism-for-collaborative-tools/][Sowing seeds: Common objections to technology evangelism for collaborative tools]]
 - [X] [[http://sachachua.com/blog/2010/07/technology-evangelists-what-we-do-how-to-find-and-hire-one-how-to-become-one/][Technology evangelists: What we do, how to find and hire one, how to become one]]
 ** Testing [15/15]
+<<testing>>
+
 - [X] [[http://sachachua.com/blog/2008/06/drupal-adding-lines-to-settingsphp-in-an-installation-profile-2/][Drupal: Adding lines to settings.php in an installation profile]]
 - [X] [[http://sachachua.com/blog/2009/03/drupal-tip-test-mail-sending-with-devel/][Drupal tip: Test mail sending with Devel]]
 - [X] [[http://sachachua.com/blog/2011/04/running-the-selenium-ide-testing-plugin-with-firefox-4/][Running the Selenium IDE testing plugin with Firefox 4]]
@@ -2304,10 +2316,10 @@ See also [[#blogging][Blogging]], [[#writing][Writing]]
 - [X] [[http://sachachua.com/blog/2011/09/getting-better-at-working-at-the-office/][Getting better at working at the office]]
 - [X] [[http://sachachua.com/blog/2010/06/book-making-peace-with-your-office-life/][Book: Making Peace with Your Office Life]]
 ** Writing [33/33]
-# <<writing>>
+<<writing>>
 
-See also: [[#blogging][Blogging]] \\
-See also: [[#no-excuses-blogging][Blogging, A No-Excuses Guide to]]
+See also: [[blogging][Blogging]] \\
+See also: [[no-excuses-blogging][Blogging, A No-Excuses Guide to]]
 
 - [X] [[http://sachachua.com/blog/2013/12/pens-are-not-the-limiting-factor-for-writing/][Pens are not the limiting factor for writing]]
 - [X] [[http://sachachua.com/blog/2013/12/update-developing-thoughts-further/][Update: Developing thoughts further]]
@@ -2374,6 +2386,8 @@ See also: [[#no-excuses-blogging][Blogging, A No-Excuses Guide to]]
 - [X] [[http://sachachua.com/blog/2012/03/the-confidence-of-non-expertise/][The confidence of non-expertise]]
 * Podcasts, interviews, and screencasts
 ** Emacs chats [8/8]
+<<emacs-chats>>
+
 - [X] [[http://sachachua.com/blog/2013/11/emacs-chat-magnar-sveen-emacs-rocks/][Emacs Chat: Magnar Sveen (Emacs Rocks)]]
 - [X] [[http://sachachua.com/blog/2013/07/emacs-chat-sacha-chua-with-bastien-guerry/][Emacs Chat: Sacha Chua (with Bastien Guerry)]]
 - [X] [[http://sachachua.com/blog/2013/05/emacs-chat-bastien-guerry/][Emacs Chat: Bastien Guerry]]
