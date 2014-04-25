@@ -6201,20 +6201,6 @@ services like Evernote.
 
 ** Finding what different things have in common
 
-* Behind the scenes
-
-#+begin_html
-<style type="text/css">
-body { margin-left: 80px; font-family: Calibri, sans-serif }
-h1 { margin-left: -80px; }
-h2 { margin-left: -60px; }
-h3 { margin-left: -40px; }
-h4 { margin-left: -20px; }
-h1, h2, h3 { font-family: Calibri, sans-serif }
-</style>
-#+end_html
-
-
 * E-mail newsletter
 ** Welcome (day after sign-up)
 
