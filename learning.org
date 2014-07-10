@@ -13,7 +13,7 @@ Help me figure things out! E-mail me with your thoughts and ideas.
 
 - Emacs
 	- What are the best resources out there? How can we logically arrange them so that people can find the appropriate resources for their level?
-	- How can we make it easier and less intimidating for people to customize Emacs through Emacs Lisp?
+	- [X] How can we make it easier and less intimidating for people to customize Emacs through Emacs Lisp?
     - I'm working on https://github.com/sachac/emacs-notes/blob/gh-pages/how-to-read-emacs-lisp.org
 	- How can we inspire people to learn more?
 		- I'm recording Emacs Chats (to help people get to know Emacs), screencasts, and show-and-tells
@@ -34,7 +34,8 @@ Help me figure things out! E-mail me with your thoughts and ideas.
 - Delegation: What kinds of tasks can I ask others to do? How can I help people develop their skills?
 - How can I get better at learning from other people?
 - What do other people need or want that is easy for me to provide?
-
+- Life
+  - How can I develop Aristotelian friendships?
 * Current curiosities - Jan 29, 2014   :learning:
 ** Working well without deadlines
 *** DONE A-B-A test: Without, with, without deadlines
