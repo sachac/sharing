@@ -511,6 +511,8 @@ http://www.forbes.com/sites/stevenkotler/2013/07/03/learning-to-learn-faster-par
 **** The 4-Hour Chef
 ** Packaging/sharing  :focus:
 *** What awesome content creators can delegate
+** Listening to your future self
+
 
 * Personal finance, semi-retirement, cooking, frugality, and household life
 ** Philosophy
@@ -521,6 +523,137 @@ To be a philosopher, is not merely to have subtle thought, or even to found a sc
 - Thoreau
 
 ** Personal finance
+*** TODO Building an opportunity fund
+
+Sometimes I hear from people who are stuck. They want to try something
+that could result in more earnings, but they don't have the time to do
+so because they need to focus on paid work. For freelancers, this bind
+can be particularly tight if you don't have good savings or you've
+exhausted your resources.
+
+If you have savings, it's easier to take risks and try things out.
+You're less worried about messing things up. If you have savings that
+are dedicated for exploring opportunities in addition to a general
+emergency fund, it's even easier to experiment. It's a good idea to
+set aside a portion of your income for an *opportunity fund*. You can
+use your opportunity fund to pay for tools, education, coaching,
+services, or other time-savers. You can also use it as a safety net
+when you want to spend more time and energy on your personal projects.
+False starts hurt less, so you can try more. You become a capitalist,
+an entrepreneur, examining the opportunities and deciding where to
+deploy your money. You work on getting the best return, because you
+want to feed those profits back into your opportunity fund.
+
+I'm a natural saver, so it was easy for me to keep my wants simple and
+set aside a small percentage of my income for an opportunity fund. I
+remember being excited about watching the balance grow. One time, I
+used my opportunity fund to buy a Nintendo DS partly for entertainment
+and partly for drawing. I used that to draw my presentations, which
+resulted in invitations to conferences, connections with mentors, and
+a boost to my career. I took the results and confidence from that and
+saved up for a professional drawing tablet, which I used to put
+together something that won a competition. That success encouraged me
+to take the next step of getting a tablet PC, which led me to
+sketchnoting, which led to even more opportunities. Small investments
+compound. I've used the opportunity fund for things that didn't work
+out as well as I hoped, too, but since I limit myself to small bets
+before making bigger ones, things have been okay.
+
+But what if you don't have those savings yet?
+
+*Frugality* can help you widen the gap between your income and your
+expenses so that you can keep more money and build up your savings.
+The more savings you have, the easier it is to save. For example, if
+you live on the edge, it's hard to wait for sales or buy in bulk. If
+you have a little more capital, though, you can take advantage of the
+occasional sale on essential items, and equip yourself with the tools
+and skills you need to make the most of them. Aside from finding more
+cost-effective ways to do things, you might take a look at your
+expenses and trim things that you'd been paying out of inattention or
+limit the luxuries you enjoy. Frugality might not make you that much
+richer, but it can give you breathing room.
+
+*Widen your work options.* If your freelancing income is unpredictable
+and this is wreaking havoc on your finances, consider taking a stabler
+job (even if it's less exciting). Build up your savings and work on
+your passion projects in your off hours. Then, when you've got the
+safety net you need in order to do well, make the jump again. Many
+people rule out certain types of jobs as beneath them, but if you
+shift your perspective, you might be able to make it work for you.
+
+*Learn to sell.* Let's say that you want to keep freelancing and
+working on your own projects because you're worried that you might
+forget your dreams if you're distracted by a regular job. Learn to
+sell, then. Find out how to communicate more value so that you can
+earn more. See if you can break your project down into smaller parts
+and sell those. Instead of waiting until you find the time to finish
+an entire book, try to publish shorter guides and resources. If
+there's a project you really want to work on but you can't carve out
+enough time to work on it, see if you can pre-sell the idea to people
+who might find it useful and who are willing to contribute to its
+development.
+
+I think the best thing of all is to build yourself that safety net--
+usually a combination of savings and a frugal lifestyle--so that you
+can
+
+Want that freedom more than you want a moment's entertainment,
+convenient food, or other comforts. 
+
+*** DONE Learning from frugal lives of years past				 :experiment:finance:
+		 CLOSED: [2014-07-11 Fri 20:19]
+		:LOGBOOK:
+		CLOCK: [2014-07-11 Fri 18:45]--[2014-07-11 Fri 20:19] =>  1:34
+		:END:
+		:PROPERTIES:
+		:Effort:   1:00
+		:ID:       o2b:6c99f252-ce12-4f28-96d4-e43978f3af1c
+		:POST_DATE: [2014-07-11 Fri 20:14]
+		:POSTID:   27385
+		:BLOG:     sacha
+		:END:
+
+I've been reading a lot about early frugal living. I read Henry David
+Thoreau's [[http://thoreau.eserver.org/walden00.html][Walden]] (1854), and I followed a link in a [[http://simple-living-in-suffolk.co.uk/2014/07/ralph-borsodi-and-a-codicil-to-two-years-on/][blog post]] to Ralph
+Borsodi's [[http://www.soilandhealth.org/03sov/0303critic/030302borsodi.ugly/030302borsodi.toc.html][This Ugly Civilization]] (1929) and thence to his [[http://www.soilandhealth.org/03sov/0302hsted/030204borsodi/030204borsoditoc.html][Flight from
+the City]] (1933, during the Great Depression - particularly poignant
+bits in the chapter on security versus insecurity). Both authors
+provided detailed breakdowns of their expenses and descriptions of
+their methods, fleshing out philosophies of simple living. There's
+much that I don't agree with, but there are also many ideas that I
+recognize and can learn even more from. I'd probably get along with
+the authors, and their mental voices will be handy to keep in my mind.
+I found both of them somewhat more relatable than Ralph Waldo Emerson
+in his essays, but I'm sure Emerson will yield additional insights on
+re-reading.
+
+Both Thoreau and Borsodi emphasized the freedom you get (or keep!) by
+minimizing your wants. Thoreau wrote, "... for my greatest skill has
+been to want but little." Borsodi points out the artificiality of many
+desires as products of a factory-oriented culture that must have
+people buy the things that factories produce. By questioning your
+wants and becoming as self-sufficient as you can be, you free yourself
+from the restrictions many other people have. In a way, it's a
+follow-up from what I'm learning from Epictetus. I like how the Greeks
+tend to be more about living in society instead of going away from it,
+though.
+
+Homesteading is a big thing for both Thoreau and Borsodi. I'm not
+particularly curious about exploring homesteading at the moment. City
+bylaws ban keeping chickens, and I still struggle with garden
+productivity. The city is all I know so far. W- and J- both have
+reasons to be here. Besides, the Toronto Public Library system and a
+decent, reliable connection to Internet are doing amazing things for
+my learning at the moment. Perhaps someday, but not now. In the
+meantime, despite Borsodi's disdain for the stock market, I like the
+fact that it's doing well. The gains are much less than Virginia
+Woolf's [[http://en.wikipedia.org/wiki/A_Room_of_One's_Own][five hundred a year]] (about US$45,000 these days), but I don't
+need that much to live well, anyway. Still, I'm going to keep working
+on some skills for independent living (cooking, sewing, repairing,
+making, etc.), since I can do that wherever I am.
+
+Onward!
+
 *** DONE Baby steps towards investing 															:finance:
 		:PROPERTIES:
 		:ID:       o2b:cfd2f1f9-6823-4356-a966-2d090f9ec5b7
@@ -665,6 +798,19 @@ maybe I can learn how to create so much value that it becomes a
 self-perpetuating machine.
 
 *** Life without a job
+*** STARTED Reflecting on patronization, liberality, prodigality, meanness
+		:LOGBOOK:
+		CLOCK: [2014-07-18 Fri 22:18]--[2014-07-18 Fri 22:22] =>  0:04
+		:END:
+		:PROPERTIES:
+		:Effort:   1:00
+		:END:
+
+Every so often, we hear about projects that are raising funds through Kickstarter or Indiegogo. 
+
+to be a patron 
+
+
 ** Household life
 *** Use baking soda and vinegar to clean sinks and tubs and food containers
 *** Get started with cooking
@@ -739,101 +885,6 @@ And I'm going to do it without gym memberships or other things like
 that. We already have all the tools I need, so I just have to do it. =)
 
 ** 5-year experiment
-
-*** Books about applying advice to your life   :writing:
-		:PROPERTIES:
-		:ID:       o2b:a7d88452-c012-404b-9656-d004facb60f9
-		:POST_DATE: [2014-07-09 Wed 14:39]
-		:POSTID:   27379
-		:BLOG:     sacha
-		:END:
-
-I'm fascinated by books about applying advice to your life. "[[https://www.goodreads.com/genres/stunt-memoirs][Stunt
-memoir]]" seems to be the phrase for it. Part self-help book and part
-memoir, these are usually broken up into one chapter per principle,
-applying research or time-tested ideas to everyday life. Book titles
-are often long multi-parters where the second part refers to the
-adventure or lists an incongruous combination of techniques. The
-authors illustrate principles with struggles, successes, and
-epiphanies, and then eventually make their peace with the advice.
-Oddly enough, chapters tend to fit rather neatly into the usual
-three-act story structure - the storyteller's craft at work.
-
-A year seems to be a common size for these experiments, often divided
-into one principle per month: long enough to test ideas and write a
-decent-sized book for print. I think that one principle a month looks
-manageable for readers, too: not so short that you won't see changes,
-and not so long that you'd get bored or discouraged.
-
-Here are some examples:
-
-- [[http://books.google.ca/books?id=u_obbSgefBAC&dq=isbn:1416599061&source=gbs_navlinks_s][The Guinea Pig Diaries: My Life as an Experiment]]
-- [[http://books.google.ca/books?id=H0S3V_XNKw4C&dq=the+happiness+project&source=gbs_navlinks_s][The Happiness Project: Why I Spent a Year Trying to Sing in the Morning, Clean My Closets, Fight Right, Read Aristotle and Generally Have More Fun]]
-- [[http://books.google.ca/books?id=KvC7l-lo_JEC&dq=ben+%26+me&source=gbs_navlinks_s][Ben & Me: From Temperance to Humility: Stumbling Through Ben Franklin's Thirteen Virtues, One Unvirtuous Day at a Time]]
-- [[http://books.google.ca/books?id=Ir6qMCMvcYkC&dq=mwf+seeking+bff&source=gbs_navlinks_s][MWF Seeking BFF: My Yearlong Search for a New Best Friend]]
-
-I imagine that writing such a book is good for self-improvement even
-if no one else ever buys or reads it, so any sales are a bonus. I
-wonder what the process of writing that kind of a book is like: how to
-organize notes into a narrative, how to push yourself beyond what's
-easy. 
-
-There are lots of experiments I could run along those lines:
-- *Self-tracking*: focusing on quantifying different
-  things per month, bringing in research as well. Time, finance,
-  productivity, mood, habits, fitness, food, learning, thinking,
-  relationships, others
-- *Practical philosophy:* paying close attention to ancient wisdom and
-  applying that to daily life
-- *Behavioural economics and psychology in daily life:* rationality, decision-making, etc.
-
-Still, I want to be careful about the kinds of things that have rubbed
-me and other people the wrong way A month is not that long, and
-sometimes these books feel a little... shallow? Like someone's going
-through the Cliff Notes for a deep idea, trying out a few things, and
-then calling it a day. As if someone's just going through a checklist,
-crossing off different techniques. There's also that consciousness of
-privilege, and the self-absorption of memoirs. That said, I write
-about my reflections a lot on this blog, so... maybe? I tend to think
-of it more as "Ack, there's so much I still have to figure out; if I
-post my notes, maybe someone will take pity on me and share their
-insights (or possibly recognize something that they might find useful
-in theirs)" rather than "Here, learn from my life."
-
-So... I don't know. On one hand, I like the "I'm figuring this out
-too" approach compared to the didactic awesomer-than-thou feel of many
-self-help books. On the other hand, I'm not keen on the "My life is
-incomplete and unhappy; I must search outside for ways to make it
-better."
-
-What's at the core of the things I like about these kinds of books?
-
-- *Translates research or principles into everyday actions:* There's a
-  lot of good stuff buried in scientific language, abstract concepts,
-  or even self-help books. Sometimes it's hard to imagine applying
-  those ideas to real life, and seeing someone go through the process
-  (recovering from mistakes and all!) can help.
-- *Pays attention to things we often take for granted:* We do many
-  things repeatedly and with little attention. If we look closely at
-  them, we can get better. For example, if we think about a principle
-  and relate it to how we want to communicate, make decisions, or use
-  our time, we'll often find things that we can tweak and turn into
-  new habits.
-- *Shares the struggles and the little celebrations:* Self-help books
-  can feel a little too pat with all their success stories. I relate a
-  little better to stories along the lines of "Yeah, this was hard to
-  learn, but here's how I picked myself up and tried again. Here are
-  some things that made it a little easier for me until I got the hang
-  of it. This is what encouraged me to keep going, and now here I am.
-  Maybe this can help you too."
-
-Maybe less stunt-ish, then? I'm not thinking of these as radical
-changes to my life ("Oh, I only have to do this a month at a time, for
-a year"), but more like gradual improvement. I can always try things
-informally, and then stitch the essays together into a book. It might
-not be as impressive as spending one contiguous year focused on
-something, packaging this up for other people's entertainment and
-perhaps inspiration, but we'll see where it goes. =)
 
 *** OUTLINED Experiment review: Income and expenses
 - Preparation
@@ -1305,6 +1356,20 @@ Pretty good, actually.
 - mrmoneymustache
 - earlyretirementextreme
 - http://gamingyourfinances.com/?
+*** Designing habits
+		:LOGBOOK:
+		CLOCK: [2014-07-18 Fri 14:11]--[2014-07-18 Fri 16:28] =>  2:17
+		:END:
+		:PROPERTIES:
+		:Effort:   1:00
+		:END:
+
+
+
+
+
+
+
 *** DONE Reflections on Aristotle, ends, and leisure 				:life:philosophy:
 		:PROPERTIES:
 		:ID:       o2b:fd67833d-76f2-4def-ba9d-dd966a44c3bb
@@ -1698,6 +1763,199 @@ How to say no to opportunities
   if I ignore travel - slightly below predictions, even!
 
 
+*** Rhythms
+		:LOGBOOK:
+		CLOCK: [2014-07-11 Fri 14:34]--[2014-07-11 Fri 18:45] =>  4:11
+		:END:
+		:PROPERTIES:
+		:Effort:   1:00
+		:END:
+
+I have a few 8 AM meetings this week. I don't /really/ have to go, but
+I think it would be useful and good for the team, so I go and
+contribute as much as I can. The downside is that my brain is fuzzy
+the rest of the day, although a short nap or break is remarkably
+restorative. I can nap easily when I'm at Hacklab. When I am with my
+consulting client, napping is harder to arrange, so I typically head
+home early.
+
+I experimented with going to a breakfast meetup. I made it there early
+and was alert enough to [[https://www.flickr.com/photos/sachac/14605456916/][take notes]], but found myself mentally drifting
+afterwards. I read some nonfiction, then idled a while reading blogs,
+and then finally gave in to my better judgment and took a half-hour
+nap. Post-nap I can read and understand bigger thoughts, and now I can
+write. 
+
+I find that having less than eight hours of sleep the night before
+generally leads to this sort of fuzziness, which could be avoided,
+perhaps, if I just went to bed earlier. Despite efforts, somehow the
+rhythms of our household life lead to me going to bed some time
+between 11:30 PM and 12:30 PM unless I am very tired. (Otherwise, if I
+go to bed too early, I often end up fidgeting.) I get up between 8 to
+9 AM, sometimes even 10 or 11. The morning's routines take me an hour,
+which means I can have brunch, then settle in for a few hours of
+writing or reading. The occasional early morning is easier to
+accommodate as a one-off than to shift my routines earlier in general.
+
+*** DONE Books about applying advice to your life										:writing:
+		 CLOSED: [2014-07-16 Wed 16:02]
+		:PROPERTIES:
+		:ID:       o2b:a7d88452-c012-404b-9656-d004facb60f9
+		:POST_DATE: [2014-07-09 Wed 14:39]
+		:POSTID:   27379
+		:BLOG:     sacha
+		:END:
+
+I'm fascinated by books about applying advice to your life. "[[https://www.goodreads.com/genres/stunt-memoirs][Stunt
+memoir]]" seems to be the phrase for it. Part self-help book and part
+memoir, these are usually broken up into one chapter per principle,
+applying research or time-tested ideas to everyday life. Book titles
+are often long multi-parters where the second part refers to the
+adventure or lists an incongruous combination of techniques. The
+authors illustrate principles with struggles, successes, and
+epiphanies, and then eventually make their peace with the advice.
+Oddly enough, chapters tend to fit rather neatly into the usual
+three-act story structure - the storyteller's craft at work.
+
+A year seems to be a common size for these experiments, often divided
+into one principle per month: long enough to test ideas and write a
+decent-sized book for print. I think that one principle a month looks
+manageable for readers, too: not so short that you won't see changes,
+and not so long that you'd get bored or discouraged.
+
+Here are some examples:
+
+- [[http://books.google.ca/books?id=u_obbSgefBAC&dq=isbn:1416599061&source=gbs_navlinks_s][The Guinea Pig Diaries: My Life as an Experiment]]
+- [[http://books.google.ca/books?id=H0S3V_XNKw4C&dq=the+happiness+project&source=gbs_navlinks_s][The Happiness Project: Why I Spent a Year Trying to Sing in the Morning, Clean My Closets, Fight Right, Read Aristotle and Generally Have More Fun]]
+- [[http://books.google.ca/books?id=KvC7l-lo_JEC&dq=ben+%26+me&source=gbs_navlinks_s][Ben & Me: From Temperance to Humility: Stumbling Through Ben Franklin's Thirteen Virtues, One Unvirtuous Day at a Time]]
+- [[http://books.google.ca/books?id=Ir6qMCMvcYkC&dq=mwf+seeking+bff&source=gbs_navlinks_s][MWF Seeking BFF: My Yearlong Search for a New Best Friend]]
+
+I imagine that writing such a book is good for self-improvement even
+if no one else ever buys or reads it, so any sales are a bonus. I
+wonder what the process of writing that kind of a book is like: how to
+organize notes into a narrative, how to push yourself beyond what's
+easy. 
+
+There are lots of experiments I could run along those lines:
+- *Self-tracking*: focusing on quantifying different
+  things per month, bringing in research as well. Time, finance,
+  productivity, mood, habits, fitness, food, learning, thinking,
+  relationships, others
+- *Practical philosophy:* paying close attention to ancient wisdom and
+  applying that to daily life
+- *Behavioural economics and psychology in daily life:* rationality, decision-making, etc.
+
+Still, I want to be careful about the kinds of things that have rubbed
+me and other people the wrong way A month is not that long, and
+sometimes these books feel a little... shallow? Like someone's going
+through the Cliff Notes for a deep idea, trying out a few things, and
+then calling it a day. As if someone's just going through a checklist,
+crossing off different techniques. There's also that consciousness of
+privilege, and the self-absorption of memoirs. That said, I write
+about my reflections a lot on this blog, so... maybe? I tend to think
+of it more as "Ack, there's so much I still have to figure out; if I
+post my notes, maybe someone will take pity on me and share their
+insights (or possibly recognize something that they might find useful
+in theirs)" rather than "Here, learn from my life."
+
+So... I don't know. On one hand, I like the "I'm figuring this out
+too" approach compared to the didactic awesomer-than-thou feel of many
+self-help books. On the other hand, I'm not keen on the "My life is
+incomplete and unhappy; I must search outside for ways to make it
+better."
+
+What's at the core of the things I like about these kinds of books?
+
+- *Translates research or principles into everyday actions:* There's a
+  lot of good stuff buried in scientific language, abstract concepts,
+  or even self-help books. Sometimes it's hard to imagine applying
+  those ideas to real life, and seeing someone go through the process
+  (recovering from mistakes and all!) can help.
+- *Pays attention to things we often take for granted:* We do many
+  things repeatedly and with little attention. If we look closely at
+  them, we can get better. For example, if we think about a principle
+  and relate it to how we want to communicate, make decisions, or use
+  our time, we'll often find things that we can tweak and turn into
+  new habits.
+- *Shares the struggles and the little celebrations:* Self-help books
+  can feel a little too pat with all their success stories. I relate a
+  little better to stories along the lines of "Yeah, this was hard to
+  learn, but here's how I picked myself up and tried again. Here are
+  some things that made it a little easier for me until I got the hang
+  of it. This is what encouraged me to keep going, and now here I am.
+  Maybe this can help you too."
+
+Maybe less stunt-ish, then? I'm not thinking of these as radical
+changes to my life ("Oh, I only have to do this a month at a time, for
+a year"), but more like gradual improvement. I can always try things
+informally, and then stitch the essays together into a book. It might
+not be as impressive as spending one contiguous year focused on
+something, packaging this up for other people's entertainment and
+perhaps inspiration, but we'll see where it goes. =)
+
+*** DONE Quiet days												 :reflection:experiment:philosophy:
+		 CLOSED: [2014-07-18 Fri 14:10]
+		:PROPERTIES:
+		:ID:       o2b:05d5230c-a3e1-4bee-9e26-d06f97c245f6
+		:POST_DATE: [2014-07-16 Wed 16:39]
+		:POSTID:   27391
+		:BLOG:     sacha
+		:END:
+
+I set aside Tuesdays and Thursdays for consulting. Fridays are for
+meetings and getting together with people. Saturdays are for spending
+time with my husband or having the rare party, and Sundays are for
+cooking and chores. 
+
+Mondays, Wednesdays, and Fridays are discretionary time. I could spend
+those days working. My consulting clients would love to have more
+time, and there are all sorts of other things I could work on as well.
+
+I've been making myself find good uses of that time on my own, though.
+Depending on the projects I'm focusing on, I might spend those days
+coding, drawing, reading, or writing. Lately, I've been working my way
+through a stack of philosophy books from the library. Histories give
+me overviews and show me the relationships between thinkers, while
+treatises give me the context for all these quotes that have been
+floating around.
+
+Hmm. Maybe that's what fascinates me about philosophy at the
+moment. I've picked up bits and pieces of wisdom through quotes and
+summaries. Now I want to learn more about the context of those sound
+bites and the thought processes behind them. I want to reflect on the
+maxims, choose the ones I want to apply to life, and learn how to
+observe and improve. At some point, I'll probably feel that I can
+learn more from experience than from books, and then I'll jump back
+into the fray. In the meantime, it's amazing to be able to condense
+centuries of thought into afternoons of reading. Not that I fully
+understand everything, but there's enough to spark awareness and
+recognition.
+
+I'm not particularly interested in the big questions of metaphysics,
+epistemology, or logic. Ethics, maybe--small "e" ethics, not as much
+the Ethics of What Everyone Ought To Do. I want to get better at
+choosing what's good for me and doing it. The ancient Greeks have a
+lot to say about that, and some of the later philosophers also do.
+
+I'm not an entrepreneur, or at least not yet. I'm using this space and
+capital to improve myself (or at least theoretically improve myself)
+instead of building a business. I'm not even focused on learning a
+marketable skill that I can list on my résumé, although I'm sure my
+interests will turn towards that at some point. In the meantime, it
+feels good to lay the groundwork for more clarity and better
+decisions.
+
+What's the next step? Well, since I'm interested in applied
+philosophy, that probably means testing these ideas out in everyday
+life. On the personal side, there's living simply and thoughtfully. On
+the social side, maybe practising more loving-kindness. I don't think
+I'm cut out to be a pure philosopher, so I'll likely use my time to
+learn, code, write, and draw. I wonder what I'll be curious about
+after I build a good foundation in this area. Useful skills, perhaps?
+Design and aesthetics? Business? We'll see.
+
+In the meantime, I'll give my mind enough space to unfold questions
+and learn from the notes that people have left for us. 
 
 ** Gardening
 *** The garden is becoming part of my daily life 										 :garden:
@@ -2413,311 +2671,6 @@ POSTPONED - feel like writing about something else. What? Maybe about figuring o
 There's only so much you can plan ahead. You can save
 
 I like using cFireSim to check my numbers against history.
-*** DONE Things to do when you aren't sure what to do with your life :planning:
-		 CLOSED: [2014-05-05 Mon 14:28]
-		:LOGBOOK:
-		CLOCK: [2014-05-05 Mon 14:07]--[2014-05-05 Mon 14:28] =>  0:21
-		CLOCK: [2014-05-05 Mon 13:01]--[2014-05-05 Mon 14:01] =>  1:00
-		:END:
-		:PROPERTIES:
-		:Effort:   2:00
-		:ID:       o2b:e2f9cf87-0be5-4b50-b34e-f17084a8ca22
-		:POST_DATE: [2014-05-05 Mon 14:27]
-		:POSTID:   27226
-		:BLOG:     sacha
-		:END:
-
-# GOAL: Help myself (and readers!) come up with a list of productive
-# tasks to keep making progress when you're not sure about what you
-# should do with your life.
-# - Limit second-guessing
-# - Keep moving forward
-# - Incorporate feedback; structure your tasks so that you can learn something
-
-"What should I do with my life?"
-
-When you have the freedom to set your own TO-DO list, it can be
-difficult to decide what goes on it. Should you focus on one project
-or juggle a few? Why one goal instead of another? How much time should
-you spend on something new, and how much time on polishing something
-old?
-
-It's easy to get stuck in rumination. You can end up spending so much
-time and mental energy worrying about what you should do with your
-life that you don't actually get things done.
-
-Here are some things I'm learning about learning from constant
-progress and setting limits on second-guessing.
-
-*I keep a list of tasks that I can work on* even when I feel the twinges
-of doubt. I organize this by project and type of task. For example, I
-feel like coding, I can quickly pick a task related to that. This
-means that if I don't feel inspired, I can trust that the Sacha who
-made this list came up with tasks that would be a pretty good use of
-my time. It might not be the best use, but it won't be a complete
-waste either. These unscheduled tasks give me a baseline of
-productivity. If I don't want to work on something, I have to justify
-that by coming up with another task that would be even better.
-
-For example, I know that I will generally get good value out of:
-- writing 1,000 to 2,000 words to answer a question or help people
-  learn more
-- learning more about a specific programming language or platform by
-  reading tutorials, source code, or blog posts, by working through
-  tutorials, or by coding
-- writing tests and code
-- sketchnoting a video or book
-- exercising or cooking
-- braindumping thoughts
-
-You probably have a list like that too: types of tasks that tend to
-work well for you, especially if they leave you feeling awesome.
-
-Even a good list of tasks wouldn't help much if I'm switching projects
-all the time. I'd keep getting started on different things, with very
-little to show for it. To deal with this second-guessing, I try to
-*publish or share things as early as possible.* That way, even if I
-switch focus, my notes are out there for other people to build on.
-This also opens it up for feedback and appreciation, which is great
-for encouraging me to work on something even more.
-
-I also limit /when/ I plan. During the week, I might decide to focus
-more on one project instead of another, but I don't dump all my
-previous projects. If I come up with an idea I'm curious about, I add
-it to my list for later review. Every month, I look at my goals and
-evaluate my projects, checking which ones are still relevant. Every
-year, I look at my values and evaluate my goals.
-
-When I catch myself procrastinating a task, I often use that as an
-opportunity to evaluate my projects and goals as well. Am I
-procrastinating because other projects have become more important?
-Great, I can replace the task with one for a higher-priority project.
-On the other hand, am I procrastinating because I overvalue immediate
-rewards over my long-term goals? The project/goal review reminds me
-why something matters and helps me get back on track. I don't spend a
-lot of time thinking about whether I should come up with new projects
-instead. The time for that is when I review my goals and plan my
-month, not when I feel like procrastinating things.
-
-Another thing that helps me box in my tendency to over-plan is
-reminding myself that I'm not trying to decide the absolute best thing
-to do with my time. Good enough is good enough. If I move forward,
-even if it's not *quite* optimal, I can learn more than I would
-standing still. If I feel I'm slightly off-track, that can teach me
-about where the track is.
-
-[[file:optimal.png]]
-
-So it's worth spending a little time making sure I'm pointed in
-roughly the right direction, but it might not make to spend four hours
-trying to figure out how I can get 100% instead of 80% value out of an
-afternoon. 
-
-It's good to periodically check if I'm going the right way. I'm
-probably doing okay if:
-- I can tell how I'm different or what I learn week to week, month to month
-- My projects include several things that excite me, and I'm learning from my experiences working on different tasks
-- Other people tell me that what I share or work on is useful
-- Things build up; scale or network effects happen
-
-If those are true, then I'm probably not wasting my time. I might even
-be able to get away without worrying about better ways at all. I can
-wait for people to suggest better ways to spend my time, and I can
-listen for suggestions that resonate with me.
-
-What do you do to avoid getting stuck in the question "What should I
-do with my life?"
-
-Related: [[http://sachachua.com/blog/2014/05/thinking-want-time/][Thinking about what I want to do with my time]]
-
-# Name the top 3 peak experiences in your life. What do they have in common?  What does this tell you about yourself?
-# What did you dream of becoming when you were a kid?
-# What are your strengths and values?
-# If money weren’t a problem, what would you spend your every day doing?
-# What would you be doing if you knew you couldn’t fail?
-# What’s your favorite way to spend your free time?
-# What have you done in your life that you are especially proud of?
-# What activity are you doing when it feels like time just flies by?
-# When do you feel the most alive?
-# What kind of impact do you want to have?
-# What kind of professional and personal breakthroughs do you want to experience?
-# What are things (a language, a sport) you want to learn?
-# How do you envision you will leave your goal or legacy on people’s lives?
-# What are you excited, happy, and enjoying most in your life right now?
-
-# Most people would love to have this kind of freedom: a flexible
-# schedule, no immediate financial pressures, the ability to make your
-# TODO list practically whatever you want. A little over two years into
-# my experiment, and I'm still learning how to make the most of it. What
-# should I spend my time on? What's actually important to me, and what
-# might be helpful to the world? What should I do with my life? Maybe
-# not the Big Question, which is intimidating and difficult to
-# consider--but what shall I do with this hour, this afternoon, this
-# day?
-
-# I'm not afraid of making decisions that are clearly wrong. Things are
-# rarely that clear-cut. Sometimes I worry about making suboptimal
-# decisions. What are the possible consequences? I might be working more
-# slowly than I could. I might spend time on less-important tasks, just
-# because they're clearer. I might get distracted by easy temptations.
-# I'm uncertain. Am I working on things that people don't need? Should I
-# spend more time testing interest, like the way Lean Startup encourages
-# people to do so?
-
-# On the flipside: What would it be like to get this right? I'd be
-# writing useful posts that save people time, speak to people's
-# challenges, or inspire people to explore. I'd build up my own
-# knowledge and skills so that I can imagine and do more things. I'd
-# finish projects (or at least get things to a shareable state). I'd
-# maintain great health and relationships. I'd feel great about my
-# progress. I'd have a clear sense of where my time is going, and that
-# would be aligned with my values and goals. I can justify that time to
-# myself and to others.
-
-# The negative side isn't actually that bad, considering the kinds of
-# tasks I work on. I'm pretty good at not getting lost in rumination,
-# not going around in circles. If I revisit questions like this, at
-# least I write or draw my thinking so that I can understand it and so
-# that other people might connect with it. "What should I do with my
-# life?" has come up a fair bit. The positive side is also not too far
-# from my current experience.
-
-		
-# When I'm not sure about how I should spend my time, I fall back to the unscheduled
-
-# 		  - uncertainty: writing about things that people don't need?
-# 			  - not that that's ever stopped me before! (see blog posts)
-# 			  - helping people right now is nice, but it's okay for me to count on search engines and people connecting the dots
-# 			  - EmacsNYC has a helpful list of topics
-# 			- cohort envy
-# 		    - the nice thing about being in my thirties is that there are plenty of other people who have done significant things in their thirties
-# 				  - but really, that shouldn't matter
-# 		- *getting things right?* - how would it feel
-# 			- write useful posts that save people time and inspire people to explore
-# 			- build up knowledge that helps me imagine and do more things
-# 			- spend time in ways that I can justify to myself and others
-# 			- finish projects
-# 			- develop skills
-# 			- yay health and relationships!
-# 		  - feel great about progress, have a sense of where my time is going
-# - information
-# 	- idea
-# 		- rumination = going around in circles
-# 			- easy to waste time wondering if you're doing the right thing
-# 			- good to think about it, though
-# 				- what's the difference?
-# 					- good: identify key actions and make plans
-# 					- bad: make lots of plans. discard them without action/sharing.
-# 					- good: see common factors, opportunities to scale up
-# 					- bad: feel overwhelmed, doubtful
-# 		- make a list of productive things I can do even when I feel uncertain
-# 			- write 1,000 to 2,000 words to help people learn about and get excited about Emacs
-# 			- learn more about a specific programming language or platform
-# 				- Emacs Lisp goal: understand internals, core code
-#         - Javascript: build good code with node
-#         - Clojure: wrap my brain around practical applications
-# 				- Python: learn image processing and apply to tracking
-# 				- Haskell: wrap my brain around practical applications
-# 			- write test, develop new code
-# 			- sketchnote a video or book
-# 			- exercise
-# 			- cook
-# 		  - braindump
-# 		- this is what unscheduled tasks help with
-# 			- hmm... unscheduled tasks as a baseline for productivity
-# 			- and then some dedicated planning time so that I don't end up doing it all the time
-# 				- when and what?
-# 				- every week, I briefly review my projects and pick ones to focus on
-# 				- every month, I review my goals and think about my projects
-# 				- every year, I review my values and think about my goals
-# 			  - as needed:
-# 					- when a new project idea comes in, I add it to the list to review every week/month
-# 		- what's the real thing I'm trying to figure out?
-# 			- should I be focusing these efforts on one project? If so, what should that project be?
-# 				- that requires too much brainpower and wisdom, I think. =)
-# 				- How can I acquire wisdom?
-# 					- experience
-# 			- if I'm focused, great. If I'm spread out, I just need to be good at collecting everything together afterwards 
-# 		- hmm, maybe I should organize my weekly review by projects, not just by tasks/rough categories
-# 		  - now that I have more detail
-# 			- review my plans and sketches? sketchnote more. ex: fluency 
-# 	- related
-#     - multiple lives: http://www.bravenewlife.com/02/financial-independence-enabling-a-life-worth-living/
-#     - no need to focus on doing the optimal thing
-# 			- enough to keep moving forward
-# - ending
-# - follow-up
-
-#+optimal.png http://sachachua.com/blog/wp-content/uploads/2014/05/wpid-optimal.png
-*** DONE Figuring out what to do with one's life
-		CLOSED: [2014-04-14 Mon 13:39]
-		:LOGBOOK:
-		CLOCK: [2014-04-14 Mon 11:16]--[2014-04-14 Mon 13:39] =>  2:23
-		:END:
-		:PROPERTIES:
-		:Effort:   1:00
-		:END:
-http://sachachua.com/blog/2014/04/thinking-want-time/
-- why
-  - a friend's to-do list included thinking about his priorities
-  - what are mine?
-- too much time thinking about it = not enough progress
-- movement helps you understand
-  - more of this, less of this
-- biking, raking, turning compost, carrying water
-- coding
-	- doing more Emacs coding and other tech stuff (Node, Python, Ruby, CSS3)
-  - why: because I can build stuff (and more importantly, _imagine_ cool stuff)
-  - wild success: I can come up with ideas and make tools
-    - for example, this little beeminder.el thing
-    - I want to get better at making web tools that are useful and that look good
-			- do I really? lots of people out there can do this
-			- and I haven't really come up with ideas that need this yet
-			- back to the lack of imagination!
-			- wait until I have a stronger idea? learn so that I can get ideas?
-			- hmm, integration with APIs
-				- warning: digital sharecropping; even more transient than trusting my data elsewhere. TOBLOG: 10 years of blogging, trust that things will be around
-		- let's investigate some possible futures
-			- toolmaker
-				- lots of little tools for niche audiences
-					- role models: technomancy, johnw,
-			- one big tool with a community behind it
-				- role models: carsten, bastien, matt mullenweg
-			- hmm. I like working with Emacs more than I like working with the web.
-				- maybe I'll dig into backend things instead (clojure? node?) if I need to maintain a path back into the workforce
-				- I like talking to fellow geeks anyway, so it's okay if I don't focus on front end (and I won't have to deal with fiddly browser differences or client tweaks)
-- writing 
-  - why: because I learn and understand things, and because it saves other people time / tickles other people's brains
-  - what about?
-    - things that are not already thoroughly covered elsewhere
-		- geeky and approachable
-- what's on the backburner for now?
-  - sketchnoting other people's content
-    - yes, it's useful and easy to appreciate
-    - I may make an exception for books, since I like reading anyway.
-  - spreading sketchnoting
-    - Mike Rohde, Sunni Brown, and Dan Roam are taking good care of this
-		- I can focus on showing by doing
-  - spreading the idea of alternative lifestyles (semi-retirement, portfolio careers, etc.)
-    - Jeff Goins, Pamela Slim, and Mr. Money Mustache are doing fine with this
-    - I don't want to inadvertently feed wantrepreneurship 
-  - spreading blogging in general
-		- might make an exception for tech blogging, because I have a vested interest in getting more geeks to blog ;)
-  - drawing better
-- What I understand about what drives me
-  - I like the feeling of figuring things out and of contributing to something that will build over time
-	- I like positive feedback, but I can move away from it if I want
-		- ex: lots of people want more sketchnotes, but I like Emacs stuff more
-  - If I don't have a particularly strong idea for something I want to build, I:
-		- learn more about the capabilities of the tools I use
-		- fill in small gaps along the way
-  - Some examples of past ideas
-		- Advertising on back of laptop: Quickly implemented for experiment, done.
-		- SketchnoteIndex: Built, populated; shelved as my interest had moved on
-		- Visual vocabulary: Populated; added to sporadically
-		- Quantified Awesome: Built, populated; continue adding to
-	- I tend to build things for my own convenience. I open it up if I think a web interface will be handy, and if other people find it helpful, yay
-
 *** Decision review: Starting my own business
 - Ending my second fiscal year
 - So far, excellent!
@@ -2743,7 +2696,6 @@ http://sachachua.com/blog/2014/04/thinking-want-time/
                     - Past couple of weeks, I've been focused on choosing ways to reinvest in my business
                     - I ordered the Fujitsu ScanSnap IX500 because I want to scan more sketches, documents, and receipts quickly, which will also encourage me to work on paper more. It has good reviews, and I've been thinking about the purchase for a year.
                 - 
-
 
 
 
@@ -3269,6 +3221,362 @@ stress and more happiness? =)
 #+end_html
 
 *** Starting my own business
+*** DONE Things to do when you aren't sure what to do with your life :planning:
+		 CLOSED: [2014-05-05 Mon 14:28]
+		:LOGBOOK:
+		CLOCK: [2014-05-05 Mon 14:07]--[2014-05-05 Mon 14:28] =>  0:21
+		CLOCK: [2014-05-05 Mon 13:01]--[2014-05-05 Mon 14:01] =>  1:00
+		:END:
+		:PROPERTIES:
+		:Effort:   2:00
+		:ID:       o2b:e2f9cf87-0be5-4b50-b34e-f17084a8ca22
+		:POST_DATE: [2014-05-05 Mon 14:27]
+		:POSTID:   27226
+		:BLOG:     sacha
+		:END:
+
+# GOAL: Help myself (and readers!) come up with a list of productive
+# tasks to keep making progress when you're not sure about what you
+# should do with your life.
+# - Limit second-guessing
+# - Keep moving forward
+# - Incorporate feedback; structure your tasks so that you can learn something
+
+"What should I do with my life?"
+
+When you have the freedom to set your own TO-DO list, it can be
+difficult to decide what goes on it. Should you focus on one project
+or juggle a few? Why one goal instead of another? How much time should
+you spend on something new, and how much time on polishing something
+old?
+
+It's easy to get stuck in rumination. You can end up spending so much
+time and mental energy worrying about what you should do with your
+life that you don't actually get things done.
+
+Here are some things I'm learning about learning from constant
+progress and setting limits on second-guessing.
+
+*I keep a list of tasks that I can work on* even when I feel the twinges
+of doubt. I organize this by project and type of task. For example, I
+feel like coding, I can quickly pick a task related to that. This
+means that if I don't feel inspired, I can trust that the Sacha who
+made this list came up with tasks that would be a pretty good use of
+my time. It might not be the best use, but it won't be a complete
+waste either. These unscheduled tasks give me a baseline of
+productivity. If I don't want to work on something, I have to justify
+that by coming up with another task that would be even better.
+
+For example, I know that I will generally get good value out of:
+- writing 1,000 to 2,000 words to answer a question or help people
+  learn more
+- learning more about a specific programming language or platform by
+  reading tutorials, source code, or blog posts, by working through
+  tutorials, or by coding
+- writing tests and code
+- sketchnoting a video or book
+- exercising or cooking
+- braindumping thoughts
+
+You probably have a list like that too: types of tasks that tend to
+work well for you, especially if they leave you feeling awesome.
+
+Even a good list of tasks wouldn't help much if I'm switching projects
+all the time. I'd keep getting started on different things, with very
+little to show for it. To deal with this second-guessing, I try to
+*publish or share things as early as possible.* That way, even if I
+switch focus, my notes are out there for other people to build on.
+This also opens it up for feedback and appreciation, which is great
+for encouraging me to work on something even more.
+
+I also limit /when/ I plan. During the week, I might decide to focus
+more on one project instead of another, but I don't dump all my
+previous projects. If I come up with an idea I'm curious about, I add
+it to my list for later review. Every month, I look at my goals and
+evaluate my projects, checking which ones are still relevant. Every
+year, I look at my values and evaluate my goals.
+
+When I catch myself procrastinating a task, I often use that as an
+opportunity to evaluate my projects and goals as well. Am I
+procrastinating because other projects have become more important?
+Great, I can replace the task with one for a higher-priority project.
+On the other hand, am I procrastinating because I overvalue immediate
+rewards over my long-term goals? The project/goal review reminds me
+why something matters and helps me get back on track. I don't spend a
+lot of time thinking about whether I should come up with new projects
+instead. The time for that is when I review my goals and plan my
+month, not when I feel like procrastinating things.
+
+Another thing that helps me box in my tendency to over-plan is
+reminding myself that I'm not trying to decide the absolute best thing
+to do with my time. Good enough is good enough. If I move forward,
+even if it's not *quite* optimal, I can learn more than I would
+standing still. If I feel I'm slightly off-track, that can teach me
+about where the track is.
+
+[[file:optimal.png]]
+
+So it's worth spending a little time making sure I'm pointed in
+roughly the right direction, but it might not make to spend four hours
+trying to figure out how I can get 100% instead of 80% value out of an
+afternoon. 
+
+It's good to periodically check if I'm going the right way. I'm
+probably doing okay if:
+- I can tell how I'm different or what I learn week to week, month to month
+- My projects include several things that excite me, and I'm learning from my experiences working on different tasks
+- Other people tell me that what I share or work on is useful
+- Things build up; scale or network effects happen
+
+If those are true, then I'm probably not wasting my time. I might even
+be able to get away without worrying about better ways at all. I can
+wait for people to suggest better ways to spend my time, and I can
+listen for suggestions that resonate with me.
+
+What do you do to avoid getting stuck in the question "What should I
+do with my life?"
+
+Related: [[http://sachachua.com/blog/2014/05/thinking-want-time/][Thinking about what I want to do with my time]]
+
+# Name the top 3 peak experiences in your life. What do they have in common?  What does this tell you about yourself?
+# What did you dream of becoming when you were a kid?
+# What are your strengths and values?
+# If money weren’t a problem, what would you spend your every day doing?
+# What would you be doing if you knew you couldn’t fail?
+# What’s your favorite way to spend your free time?
+# What have you done in your life that you are especially proud of?
+# What activity are you doing when it feels like time just flies by?
+# When do you feel the most alive?
+# What kind of impact do you want to have?
+# What kind of professional and personal breakthroughs do you want to experience?
+# What are things (a language, a sport) you want to learn?
+# How do you envision you will leave your goal or legacy on people’s lives?
+# What are you excited, happy, and enjoying most in your life right now?
+
+# Most people would love to have this kind of freedom: a flexible
+# schedule, no immediate financial pressures, the ability to make your
+# TODO list practically whatever you want. A little over two years into
+# my experiment, and I'm still learning how to make the most of it. What
+# should I spend my time on? What's actually important to me, and what
+# might be helpful to the world? What should I do with my life? Maybe
+# not the Big Question, which is intimidating and difficult to
+# consider--but what shall I do with this hour, this afternoon, this
+# day?
+
+# I'm not afraid of making decisions that are clearly wrong. Things are
+# rarely that clear-cut. Sometimes I worry about making suboptimal
+# decisions. What are the possible consequences? I might be working more
+# slowly than I could. I might spend time on less-important tasks, just
+# because they're clearer. I might get distracted by easy temptations.
+# I'm uncertain. Am I working on things that people don't need? Should I
+# spend more time testing interest, like the way Lean Startup encourages
+# people to do so?
+
+# On the flipside: What would it be like to get this right? I'd be
+# writing useful posts that save people time, speak to people's
+# challenges, or inspire people to explore. I'd build up my own
+# knowledge and skills so that I can imagine and do more things. I'd
+# finish projects (or at least get things to a shareable state). I'd
+# maintain great health and relationships. I'd feel great about my
+# progress. I'd have a clear sense of where my time is going, and that
+# would be aligned with my values and goals. I can justify that time to
+# myself and to others.
+
+# The negative side isn't actually that bad, considering the kinds of
+# tasks I work on. I'm pretty good at not getting lost in rumination,
+# not going around in circles. If I revisit questions like this, at
+# least I write or draw my thinking so that I can understand it and so
+# that other people might connect with it. "What should I do with my
+# life?" has come up a fair bit. The positive side is also not too far
+# from my current experience.
+
+		
+# When I'm not sure about how I should spend my time, I fall back to the unscheduled
+
+# 		  - uncertainty: writing about things that people don't need?
+# 			  - not that that's ever stopped me before! (see blog posts)
+# 			  - helping people right now is nice, but it's okay for me to count on search engines and people connecting the dots
+# 			  - EmacsNYC has a helpful list of topics
+# 			- cohort envy
+# 		    - the nice thing about being in my thirties is that there are plenty of other people who have done significant things in their thirties
+# 				  - but really, that shouldn't matter
+# 		- *getting things right?* - how would it feel
+# 			- write useful posts that save people time and inspire people to explore
+# 			- build up knowledge that helps me imagine and do more things
+# 			- spend time in ways that I can justify to myself and others
+# 			- finish projects
+# 			- develop skills
+# 			- yay health and relationships!
+# 		  - feel great about progress, have a sense of where my time is going
+# - information
+# 	- idea
+# 		- rumination = going around in circles
+# 			- easy to waste time wondering if you're doing the right thing
+# 			- good to think about it, though
+# 				- what's the difference?
+# 					- good: identify key actions and make plans
+# 					- bad: make lots of plans. discard them without action/sharing.
+# 					- good: see common factors, opportunities to scale up
+# 					- bad: feel overwhelmed, doubtful
+# 		- make a list of productive things I can do even when I feel uncertain
+# 			- write 1,000 to 2,000 words to help people learn about and get excited about Emacs
+# 			- learn more about a specific programming language or platform
+# 				- Emacs Lisp goal: understand internals, core code
+#         - Javascript: build good code with node
+#         - Clojure: wrap my brain around practical applications
+# 				- Python: learn image processing and apply to tracking
+# 				- Haskell: wrap my brain around practical applications
+# 			- write test, develop new code
+# 			- sketchnote a video or book
+# 			- exercise
+# 			- cook
+# 		  - braindump
+# 		- this is what unscheduled tasks help with
+# 			- hmm... unscheduled tasks as a baseline for productivity
+# 			- and then some dedicated planning time so that I don't end up doing it all the time
+# 				- when and what?
+# 				- every week, I briefly review my projects and pick ones to focus on
+# 				- every month, I review my goals and think about my projects
+# 				- every year, I review my values and think about my goals
+# 			  - as needed:
+# 					- when a new project idea comes in, I add it to the list to review every week/month
+# 		- what's the real thing I'm trying to figure out?
+# 			- should I be focusing these efforts on one project? If so, what should that project be?
+# 				- that requires too much brainpower and wisdom, I think. =)
+# 				- How can I acquire wisdom?
+# 					- experience
+# 			- if I'm focused, great. If I'm spread out, I just need to be good at collecting everything together afterwards 
+# 		- hmm, maybe I should organize my weekly review by projects, not just by tasks/rough categories
+# 		  - now that I have more detail
+# 			- review my plans and sketches? sketchnote more. ex: fluency 
+# 	- related
+#     - multiple lives: http://www.bravenewlife.com/02/financial-independence-enabling-a-life-worth-living/
+#     - no need to focus on doing the optimal thing
+# 			- enough to keep moving forward
+# - ending
+# - follow-up
+
+#+optimal.png http://sachachua.com/blog/wp-content/uploads/2014/05/wpid-optimal.png
+*** DONE Figuring out what to do with one's life
+		CLOSED: [2014-04-14 Mon 13:39]
+		:LOGBOOK:
+		CLOCK: [2014-04-14 Mon 11:16]--[2014-04-14 Mon 13:39] =>  2:23
+		:END:
+		:PROPERTIES:
+		:Effort:   1:00
+		:END:
+http://sachachua.com/blog/2014/04/thinking-want-time/
+- why
+  - a friend's to-do list included thinking about his priorities
+  - what are mine?
+- too much time thinking about it = not enough progress
+- movement helps you understand
+  - more of this, less of this
+- biking, raking, turning compost, carrying water
+- coding
+	- doing more Emacs coding and other tech stuff (Node, Python, Ruby, CSS3)
+  - why: because I can build stuff (and more importantly, _imagine_ cool stuff)
+  - wild success: I can come up with ideas and make tools
+    - for example, this little beeminder.el thing
+    - I want to get better at making web tools that are useful and that look good
+			- do I really? lots of people out there can do this
+			- and I haven't really come up with ideas that need this yet
+			- back to the lack of imagination!
+			- wait until I have a stronger idea? learn so that I can get ideas?
+			- hmm, integration with APIs
+				- warning: digital sharecropping; even more transient than trusting my data elsewhere. TOBLOG: 10 years of blogging, trust that things will be around
+		- let's investigate some possible futures
+			- toolmaker
+				- lots of little tools for niche audiences
+					- role models: technomancy, johnw,
+			- one big tool with a community behind it
+				- role models: carsten, bastien, matt mullenweg
+			- hmm. I like working with Emacs more than I like working with the web.
+				- maybe I'll dig into backend things instead (clojure? node?) if I need to maintain a path back into the workforce
+				- I like talking to fellow geeks anyway, so it's okay if I don't focus on front end (and I won't have to deal with fiddly browser differences or client tweaks)
+- writing 
+  - why: because I learn and understand things, and because it saves other people time / tickles other people's brains
+  - what about?
+    - things that are not already thoroughly covered elsewhere
+		- geeky and approachable
+- what's on the backburner for now?
+  - sketchnoting other people's content
+    - yes, it's useful and easy to appreciate
+    - I may make an exception for books, since I like reading anyway.
+  - spreading sketchnoting
+    - Mike Rohde, Sunni Brown, and Dan Roam are taking good care of this
+		- I can focus on showing by doing
+  - spreading the idea of alternative lifestyles (semi-retirement, portfolio careers, etc.)
+    - Jeff Goins, Pamela Slim, and Mr. Money Mustache are doing fine with this
+    - I don't want to inadvertently feed wantrepreneurship 
+  - spreading blogging in general
+		- might make an exception for tech blogging, because I have a vested interest in getting more geeks to blog ;)
+  - drawing better
+- What I understand about what drives me
+  - I like the feeling of figuring things out and of contributing to something that will build over time
+	- I like positive feedback, but I can move away from it if I want
+		- ex: lots of people want more sketchnotes, but I like Emacs stuff more
+  - If I don't have a particularly strong idea for something I want to build, I:
+		- learn more about the capabilities of the tools I use
+		- fill in small gaps along the way
+  - Some examples of past ideas
+		- Advertising on back of laptop: Quickly implemented for experiment, done.
+		- SketchnoteIndex: Built, populated; shelved as my interest had moved on
+		- Visual vocabulary: Populated; added to sporadically
+		- Quantified Awesome: Built, populated; continue adding to
+	- I tend to build things for my own convenience. I open it up if I think a web interface will be handy, and if other people find it helpful, yay
+
+*** DONE Don't worry about your tools in the beginning: Avoiding premature optimization :productivity:decision:
+		 CLOSED: [2014-07-14 Mon 11:53]
+		:PROPERTIES:
+		:ID:       o2b:5750a28e-9cbf-4f4e-a603-2a17a4f7240a
+		:POST_DATE: [2014-07-14 Mon 11:52]
+		:POSTID:   27389
+		:BLOG:     sacha
+		:END:
+
+"What tools should I buy?" "What platform do I start with?" "What's
+the best option out there?" Geeks have a special case of analysis
+paralysis at the beginning of things. We try to optimize that first
+step, and instead end up never getting started.
+
+Here's what I'm learning: *In the beginning, you're unlikely to be
+able to appreciate the sophisticated differences between tools.* Don't
+bother spending hours or days or weeks picking the perfect tool for
+you. Sure, you can do a little bit of research, but then *pick one and
+learn with that first.* If you run into the limits, /that's/ when you
+can think about upgrading.
+
+*Start with something simple and inexpensive (or even free).* If you
+wear it out or if you run into things you just can't do with it and
+that are worth the additional expense, then decide if you want to get
+something better. I do this with:
+- Food: We start with inexpensive ingredients and work our way up as necessary.
+- Shoes: Upgraded from cheap to medium.
+- Bicycles: Still on the first bicycle I bought in Canada, since it was enough for me.
+- Ukeleles: Glad I just bought the basic one, since it turns out it's not quite my thing.
+- Knives: Okay, we splurged on this one and started with good knives,
+  since I piggybacked off W-'s experience and recommendations.
+- Drawing: I tried the Nintendo DS before upgrading to a tablet and
+  then to a tablet PC. For paper, I tried ordinary sketchbooks that
+  cost $4.99 on sale, and have been happy with them so far - although
+  I might downgrade to just having a binder of loose sheets.
+
+*Don't worry about what the "best" is until you figure out what your
+actual needs are.*
+
+There are situations in which the cheapest or the simplest might not
+be the best place to start. You can easily get frustrated if something
+is not well-designed, and some inferior tools like dull kitchen knives
+are dangerous. That's a sign that you've run into your choice's limits
+and can therefore upgrade without worry. Yes, it might waste a little
+money and time, but you'll probably waste even more time if you
+procrastinate choosing (more research! more!) and waste more money if
+you always buy things that have more capacity than you ultimately
+need. You can tweak how you make that initial decision--maybe always
+consider the second-from-the-bottom or something like that--but the
+important part is *getting out there and learning.*
+
 ** Applied rationality
 *** DONE Balancing scheduled and unscheduled tasks 
 		 CLOSED: [2014-05-04 Sun 14:06]
@@ -3402,7 +3710,6 @@ fiction. It's neither here nor there.
 
 The past surfaces in in-jokes, but I don't spend much time in
 it aside from the occasional review where I notice 
-
 
 
 ** Self-tracking
@@ -4774,7 +5081,6 @@ Is your podcast a source of revenue? What kind of business benefit do you antici
     - Lots of blog readers, website visitors, or social media followers - sketchnotes can help you convert them to podcast listeners or reach out to their networks for new audiences. Newsletter subscribers get limited benefits as well.
     - You provide information that people regularly refer to. Sketchnotes are great for printing out and keeping as "cheat sheets."
     - Your podcast is sponsored or is a major contributor to your business marketing or outreach.
-
 
 
 ** "How can I switch from testing to development?"
@@ -6826,6 +7132,247 @@ community as you put in, and these little domestic touches can help
 make a place feel more like home. (I'm going to keep nudging people to
 put their dishes in the dishwasher, though! ;) )
 
+** I like being introverted  :snippets:
+
+Sometimes people tell me that they can’t believe I’m introverted. You
+organize meetups, they say. You share a lot online. You can’t possibly
+be introverted. Not only do I need to recharge after conferences or
+other intense social interactions, I like being introverted – it’s
+good to be comfortable with yourself. That said, you learn a lot when
+you bump into other people, so I’ve been experimenting with ways to
+have more of those serendipitous conversations.
+
+I like group conversations more than one-on-ones because I get to
+learn from the intersections of people’s interests. I see different
+aspects of people than I might bring out on my own. Group
+conversations also reduce the pressure to carry the conversation
+myself – people bring their own questions and tips and ideas to the
+table.
+
+I’m particularly interested in virtual meetups because there are so
+many wonderful people out there whom I will probably never be in the
+same city with. Toronto is a great meetup city because there’s always
+something going on, but there’s no reason why knowledge-sharing should
+be unnecessarily privileged or limited by geographic proximity. If
+people are curious about blogging, drawing, Emacs, Quantified Self, or
+whatever we have in common, maybe we can have virtual show-and-tells
+instead of relying on the probability of finding critical mass for a
+meetup in our own areas.
+
+---
+I get my energy from a quiet and simple life. I’ve learned to say no
+when I need more space: no if I need quiet instead of networking (even
+if there could be someone who could change my life or vice versa just
+over there); no if I need silence instead of a taxi cab conversation;
+no to people’s requests in favour of spending time with W- or on my
+own projects.
+
+It’s hard to learn how to say no, or even to learn that you can. “Say
+yes to everything,” the advice goes. Seize the day. Grab those
+opportunities.
+
+But there’s a lot of power in being able to listen to your needs and
+carve out the time and space that you need—to meet the world on your
+own terms, and to be happy to give because you’re ready to do so.
+
+** Hacking my way into meeting people
+I try to minimize the number of things I’ve promised to other people
+so that I have the flexibility to follow opportunities when they come
+up. Conversations are an exception. It’s hard to not schedule those if
+I want to make sure they happen at some point. Left to my own devices,
+I might never get around to talking to people. So I pay someone a
+small amount to handle my scheduling, which neatly removes me from the
+back-and-forth hassles of coordinating times and also (useful and
+possibly more important!) prevents me from giving myself excuses not
+to do it. Then I remind myself that getting to and from these
+appointments is either reading time or free exercise (for in-person
+meetings), or possible podcast or blog material (if online). Introvert
+hack. =)
+
+** Staying in touch
+** Learning more about friends
+** Spending on people
+** My meetup workflow
+** How to follow up after an event
+** Working on being more social
+** Sending more letters
+** Choosing your events
+** Making the most of meetups
+** Things to do with friends
+** Learning more about communication
+** Planning meetups
+** Connecting through code: Software as conversation
+** OUTLINED Experimenting with virtual meetups  
+- Motivation
+  - Lots of interesting people out there
+  - Prime the pump: Get the hang of doing it
+- See what's out there
+- Ramping up: content
+  - Blog posts
+  - YouTube
+- Building an audience
+  - Visual: Visual Thinking Hub, I Sketchnote
+  - Self-tracking: Quantified Self Toront, Quantified Self Labs
+  - Emacs: My blog, Planet Emacsen, Org mailing list
+- Next steps:
+  - Upcoming virtual meetups in August
+
+** DONE What are people looking for when they talk about challenges? :connecting:communication:
+	 CLOSED: [2014-07-14 Mon 11:14]
+	 :LOGBOOK:
+	 CLOCK: [2014-07-14 Mon 10:00]--[2014-07-14 Mon 11:05] =>  1:05
+	 CLOCK: [2014-07-14 Mon 09:30]--[2014-07-14 Mon 09:33] =>  0:03
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :ID:       o2b:8ce28f59-77ce-401b-8f90-581aac7e6660
+	 :POST_DATE: [2014-07-14 Mon 11:05]
+	 :POSTID:   27387
+	 :BLOG:     sacha
+	 :END:
+
+Sometimes I hear from people who are having a hard time finding a job
+or clients for their business, working on establish healthier habits,
+or sorting out their finances. The Internet tells me that people who
+are struggling generally don't need /more/ advice, since they've been
+told by everyone else around them to apply to jobs, go to events,
+exercise, lose weight, stop eating junk food, stop buying coffee, etc.
+In fact, we should probably stop asking how things are going and stop
+trying to solve people's problems for them. Ditch the clichés, too.
+Sympathy, encouragement, support, and maybe even a little distraction
+are apparently the way to go.
+
+It got me thinking about different purposes for conversation, and how
+to match someone's purpose better. Mismatches can lead to frustration
+on both sides, like when you're really looking for advice and
+different perspectives and someone fobs you off with "You can do it!",
+or when you're feeling like this situation will never end and someone
+passes on a piece of trite advice that you'd already tried on day 1,
+or when someone just wants to talk and you jump in with a
+problem-solving mindset.
+
+It feels a little weird to explicitly talk about what people are
+looking for in a conversation, but what if clarifying that up front
+can lead to a more effective exchange? You could minimize those
+mismatches or even direct people onward if you're not in the right
+space for a conversation. For example, although people have told me
+that they appreciate how positive I am (which is good for when people
+need encouragement), I catch myself becoming impatient if people just
+want to vent without taking action. I'm much better with breaking down
+big challenges, finding alternative approaches, and celebrating small
+steps forward (even if they're minuscule). I read extensively, so I
+can tell people some common approaches to different life challenges,
+but I don't have a lot of personal experiences because my life has
+been pretty straightforward.
+
+There are so many different kinds of conversations, so I'll keep the
+scope of this reflection manageable by focusing only on the
+conversations where someone has started by describing a problem.
+What are some of the things people look for, and how do I want to respond?
+
+*Advice (rarely)*: "You should..." is a common response when people
+share what they're going through. People rarely need additional
+information, but oddly enough, they get spades of it (even
+unsolicited). It's not like it's difficult to search the Internet or
+find books about different life challenges... and yet it's so tempting
+to fall into the trap of thinking that just a little more knowledge
+will help people solve their problems.
+
+I've been curbing the impulse to give advice by reminding myself that
+people are generally smart and usually try everything before asking
+for help. Instead of "You should...", I often phrase things as "You've
+probably .... How did that go?" If they hadn't done it yet, I ask
+what's been getting in their way. I rarely have experience with the
+particular situation they're in, but barriers tend to be common, so I
+can share how I've dealt with those - not in a "You should" way, but
+rather "Here's what I tried and what worked for me."
+
+*Acknowledgement*: Sometimes people just want someone to see them and
+know what they're going through. This is the "Oh, you poor dear; let's
+have some ice cream and you can tell me all about it" sort of thing, I
+think. Active listening techniques (restating, etc.) can help here.
+I'm not particularly good at this yet, but I might get better at this
+by focusing on the interestingness of people.
+
+*Distraction*: Sometimes you just want to have fun and take your mind
+off stuff. Like acknowledgement, but this time you're having ice cream
+and watching your favourite movies or something like that. I'm not
+particularly good at this yet, but I can get better at this by asking
+people what they want to do.
+
+*Encouragement and celebration*: "I'm in a sucky situation, but I'm
+working on it. I'm making slow progress, but I'm making progress!"
+"Woohoo! You can do it!" is sort of how this conversation goes. It's
+like acknowledgement, but people are moving forward instead of getting
+stuck. I like cheering people on, and I might be able to do even
+better by helping people track their progress so that they can see how
+they're doing over time.
+
+*Thinking out loud*: I often find myself understanding things better
+when I explain them either to myself (through blogging) or to other
+people. Conversation is great for making sense of and making peace
+with things. People can ask questions to probe your reasoning and
+direct your thinking, helping you deepen your understanding.
+
+Active listening and thoughtful questions can help. For my part, I can
+see it as a way to learn from other people's lives and thought
+processes, so there's a lot of benefit in doing this too. Learning
+about therapy might help here.
+
+*Poking holes (rarely)*: "I'm going to ..." "That might not work
+because of .... Have you thought about ...? What about ...?" It's
+mind-boggling how many people have this as their default reaction,
+actually - probably second to advice. My parents used to struggle with
+this a lot, because my dad would come up with wild ideas and my mom
+would immediately have her "How would we make this actually work?" hat on.
+I hardly ever do this with other people, although I do this myself to
+test scenarios: come up with ideas, then put on the "What could go
+wrong?" hat and poke holes, then update the plans to address those
+holes. 
+
+It's probably better to assume people are *not* looking for this
+unless they explicitly ask for it. If people do want this, I like
+approaching it from a "Let's make the plan better" perspective rather
+than the "You suck at planning" perspective.
+
+*Accountability*: It can be easier to take action or change habits
+when you publicly commit to that, and having a friend follow up with
+you and keep you accountable can help a lot. I do okay with this,
+although I don't actually enforce anything in case people miss their
+goals. (Perhaps I should start insisting on some kind of consequence -
+maybe ice cream.) Learning about coaching techniques might help here too.
+
+*Different perspectives*: "I'm in this situation and I think you've
+been in something similar. How did you solve it?" is the gist of this
+conversation. Sometimes knowing that something is possible (because
+someone you can identify with succeeded at it!) is enough to give you
+the strength to get through the situation.
+
+*Requesting help*: This is where you're asking for help. Requesting
+specific favours do well, I think, because that makes it easier for
+other people to recognize situations in which they can help you.
+That's why it's good to describe your ideal client and ask friends to
+keep an eye out for people matching that description, describe your
+ideal contact and ask people to check their networks, etc.
+
+I feel like my network is not as plugged-in as it could be in terms of
+business owners and potential clients for friends. I probably need to
+meet more people who need stuff! Hmm, actually, the input part works
+pretty well in terms of sketchnoting/graphic recording - I get the
+occasional request that I can forward to other people. In other areas,
+I can usually point people to other people who have experience in the
+kinds of things they want to do and the meetups to check out, so I
+guess that's something. There's room to work on this, though! Time to
+go to more events and connect with more people. Although come to think
+of it, that's not actually the thing that worked for me in
+sketchnoting - maybe I'll focus more on creating useful stuff, and go
+to a few events for serendipity.
+
+Acknowledgement, distraction, encouragement, thinking out loud, poking
+holes, accountability, different perspectives, requesting help... What
+other purposes have you noticed when you talk to people about life's
+challenges?
+
 ** DONE Tweaking small talk responses
 	 CLOSED: [2014-04-14 Mon 15:55]
 	 :LOGBOOK:
@@ -6935,90 +7482,101 @@ Small talk might be small, but if I have thousands of conversations over the yea
   	- "This is like what I do on my own!"
       - Awesome! Connect with global community  
 
-** I like being introverted  :snippets:
+** DONE On Aristotle and talking to people about troubles				 :connecting:
+	 CLOSED: [2014-07-18 Fri 16:57]
+	 :LOGBOOK:
+	 CLOCK: [2014-07-18 Fri 16:41]--[2014-07-18 Fri 16:57] =>  0:16
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :ID:       o2b:ba8536de-1b36-4617-a17d-fc27188c0005
+	 :POST_DATE: [2014-07-18 Fri 16:57]
+	 :POSTID:   27392
+	 :BLOG:     sacha
+	 :END:
 
-Sometimes people tell me that they can’t believe I’m introverted. You
-organize meetups, they say. You share a lot online. You can’t possibly
-be introverted. Not only do I need to recharge after conferences or
-other intense social interactions, I like being introverted – it’s
-good to be comfortable with yourself. That said, you learn a lot when
-you bump into other people, so I’ve been experimenting with ways to
-have more of those serendipitous conversations.
+After reflecting on [[http://sachachua.com/blog/2014/07/what-are-people-looking-for-talk-challenges/][how I'd like to respond to people who want to talk
+about their challenges and how I want to discuss mine]], I've been
+thinking a little bit more about the approaches that I favour and why.
 
-I like group conversations more than one-on-ones because I get to
-learn from the intersections of people’s interests. I see different
-aspects of people than I might bring out on my own. Group
-conversations also reduce the pressure to carry the conversation
-myself – people bring their own questions and tips and ideas to the
-table.
+Despite my faith in friends and availability of support groups or
+forums for pretty much any situation one can find yourself in, I tend
+to work through things independently. Sometimes I talk to W-. Even
+then, it's often retrospective: "I worked through this-and-this
+dilemma. This is the decision I've come to because of these reasons,
+but I'd love to hear your thoughts in case I missed something." I'd
+rather talk to people about the good stuff.
 
-I’m particularly interested in virtual meetups because there are so
-many wonderful people out there whom I will probably never be in the
-same city with. Toronto is a great meetup city because there’s always
-something going on, but there’s no reason why knowledge-sharing should
-be unnecessarily privileged or limited by geographic proximity. If
-people are curious about blogging, drawing, Emacs, Quantified Self, or
-whatever we have in common, maybe we can have virtual show-and-tells
-instead of relying on the probability of finding critical mass for a
-meetup in our own areas.
+When it comes to other people talking to me about stuff they're going
+through, I assume they're smart and have tried things, so I ask
+questions about the obstacles they've run into. I like focusing on
+getting over barriers because this is one thing that other people
+/can/ actually help with. You might get stuck on something because you
+don't know where to start, don't have the skills or experience for it,
+or because it intimidates you. Other people might be able to map out
+an easier way for you, directly help you (hooray for comparative
+advantage), or share how it's really not that scary if you focus on
+doing X, Y, and Z.
 
----
-I get my energy from a quiet and simple life. I’ve learned to say no
-when I need more space: no if I need quiet instead of networking (even
-if there could be someone who could change my life or vice versa just
-over there); no if I need silence instead of a taxi cab conversation;
-no to people’s requests in favour of spending time with W- or on my
-own projects.
+While reading D.P. Chase's translation of Aristotle's /Nicomachean
+Ethics/, I came across this passage on what to share with your friends
+when you're going through challenges:
 
-It’s hard to learn how to say no, or even to learn that you can. “Say
-yes to everything,” the advice goes. Seize the day. Grab those
-opportunities.
+#+begin_quote
+But [friends'] presence has probably a mixed effect: I mean, not only is
+the very seeing friends pleasant, especially to one in misfortune, and
+actual help towards lessening the grief is afforded (the natural
+tendency of a friend, if he is gifted with tact, being to comfort by
+look and word, because he is well acquainted with the sufferer's
+temper and disposition and therefore knows what things give him
+pleasure and pain), but also the perceiving a friend to be grieved at
+his misfortunes causes the sufferer pain, because every one avoids
+being cause of pain to his friends. And for this reason they who are
+of a manly nature are cautious not to implicate their friends in their
+pain; and unless a man is exceedingly callous to the pain of others he
+cannot bear the pain which is thus caused to his friends: in short, he
+does not admit men to wail with him, not being given to wail at all:
+women, it is true, and men who resemble women, like to have others to
+groan with them, and love such as friends and sympathisers. But it is
+plain that it is our duty in all things to imitate the highest
+character.
+#+end_quote
 
-But there’s a lot of power in being able to listen to your needs and
-carve out the time and space that you need—to meet the world on your
-own terms, and to be happy to give because you’re ready to do so.
+So if you're sad, it can help to have company in your sadness, but
+that might cause your friends to feel sad as well. Be strong, if you can.
 
-** Hacking my way into meeting people
-I try to minimize the number of things I’ve promised to other people
-so that I have the flexibility to follow opportunities when they come
-up. Conversations are an exception. It’s hard to not schedule those if
-I want to make sure they happen at some point. Left to my own devices,
-I might never get around to talking to people. So I pay someone a
-small amount to handle my scheduling, which neatly removes me from the
-back-and-forth hassles of coordinating times and also (useful and
-possibly more important!) prevents me from giving myself excuses not
-to do it. Then I remind myself that getting to and from these
-appointments is either reading time or free exercise (for in-person
-meetings), or possible podcast or blog material (if online). Introvert
-hack. =)
+#+begin_quote
+It would seem, therefore, that we ought to call in friends readily on
+occasion of good fortune, because it is noble to be ready to do good
+to others: but on occasion of bad fortune, we should do so with
+reluctance; for we should as little as possible make others share in
+our ills; on which principle goes the saying, "I am unfortunate, let
+that suffice." The most proper occasion for calling them in is when
+with small trouble or annoyance to themselves they can be of very
+great use to the person who needs them.
+#+end_quote
 
-** Staying in touch
-** Learning more about friends
-** Spending on people
-** My meetup workflow
-** How to follow up after an event
-** Working on being more social
-** Sending more letters
-** Choosing your events
-** Making the most of meetups
-** Things to do with friends
-** Learning more about communication
-** Planning meetups
-** Connecting through code: Software as conversation
-** OUTLINED Experimenting with virtual meetups  
-- Motivation
-  - Lots of interesting people out there
-  - Prime the pump: Get the hang of doing it
-- See what's out there
-- Ramping up: content
-  - Blog posts
-  - YouTube
-- Building an audience
-  - Visual: Visual Thinking Hub, I Sketchnote
-  - Self-tracking: Quantified Self Toront, Quantified Self Labs
-  - Emacs: My blog, Planet Emacsen, Org mailing list
-- Next steps:
-  - Upcoming virtual meetups in August
+That's probably going to be my approach to getting by with a little
+help from my friends: to figure out, perhaps, if there are small
+things people can do that could have a big impact, and to focus on
+those instead of on commiseration. As for when people approach me, or
+when I notice friends in difficult situations, I will try to keep this
+in mind:
+
+#+begin_quote
+But, on the contrary, it is fitting perhaps to go to one's friends in
+their misfortunes unasked and with alacrity (because kindness is the
+friend's office and specially towards those who are in need and who do
+not demand it as a right, this being more creditable and more pleasant
+to both); and on occasion of their good fortune to go readily, if we
+can forward it in any way (because men need their friends for this
+likewise), but to be backward in sharing it, any great eagerness to
+receive advantage not being creditable.
+#+end_quote
+
+... to see the opportunity to be kind, where kindness might be cooking
+a good meal, giving a person a hug, or helping out in ways that take
+advantage of our different skills and experiences.
 
 * Family
 ** Five things I'm learning from playing Legend of Heroes: Trails in the Sky
@@ -8032,6 +8590,79 @@ We have a lot of spices in the cabinet. I should make an inventory of them and o
 
 I've written a lot about [[http://sachachua.com/blog/category/cooking][bulk cooking and other things I've learned]], so check out those blog posts for more tips.
 You can also read the posts in [[http://sachachua.com/blog/category/cooking/?order=asc][chronological order]] if you want to see all the steps along the way. If you're learning how to cook, good luck and have fun - I hope my story helps!
+
+** DONE Avoiding spoilage with bulk cooking									 :cooking:kaizen:
+	 CLOSED: [2014-07-14 Mon 12:28]
+	 :LOGBOOK:
+	 CLOCK: [2014-07-14 Mon 12:00]--[2014-07-14 Mon 12:28] =>  0:28
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :ID:       o2b:b84d7ae5-b881-4b8c-8651-bc709eaa70d4
+	 :POST_DATE: [2014-07-14 Mon 12:27]
+	 :POSTID:   27390
+	 :BLOG:     sacha
+	 :END:
+
+We'd been letting some vegetables and cooked food go to waste, so I've
+been tinkering with how we prepare our meals in order to reduce
+spoilage. Here's how we now cook in bulk.
+
+*During the weekend, I prepare two types of dinners.* I usually pick
+bulk recipes based on what's on sale at the supermarket. If there are
+unused groceries from the previous week (sometimes I end up not
+cooking things), I prepare a recipe that can use those up: curry,
+okonomiyaki, soup, etc. I start a 10-cup pot of rice, too, since I'm
+likely to use that up when packing individual meals and we go through
+a lot of rice during the week.
+
+*After the food is cooked, I put three-person portions into our large glass containers, setting aside four meals total (two of each type).*
+That way, we have a little room to cook fresh dinners during the week
+(which W- likes to do), but we also have some backups in case things
+get busy. We alternate the prepared dinners for variety. For prepared
+meals that are inefficient to portion out (ex: pasta sauce), I just
+keep the entire pot in the fridge.
+
+*The rest of the food is packaged in individual lunch-sized containers (at least 500g, including rice)* until the freezer is full
+or the pots are empty. I label the containers using painter's tape and
+a marker, writing down the initials of the recipe and a number for the
+month. For example, chicken curry prepared in July is labeled CC7. 
+
+*If the freezer is full but there's still some food left, I pack the rest and refrigerate them.* If I still have rice
+left, I might pack individual portions that I can add to the freezer
+as we use up our supply. If I'm out of rice, I'll pack larger portions
+that we can use for dinner or that I can split up into individual
+portions later on.
+
+Sometimes we mix things up by having pizza or cooking lots of fresh
+dinners during the week. *If there's still food in the fridge by the following weekend, I pack them up as frozen lunches.* There'll be space
+in the freezer by then, and we're more likely to enjoy the variety if
+it's spread out over the coming weeks. Freezing the leftovers means we
+can avoid spoiling food out of procrastination.
+
+*When it comes to the freezer, individual portions are much more convenient than larger portions.* You can take one to work and
+microwave it for lunch. Sometimes I pack larger portions (ex: pizza,
+pasta sauce), so we need to plan for that when defrosting them. If a
+dinner portion is thawed in the fridge, it has to get eaten since it
+can't be refrozen (unless we re-cook it, which we rarely do).
+
+Our costs tend to be between $1.50 and $3 per portion. For example,
+the Thai curry I made last time resulted in 20 portions out of $22.39
+of groceries. Even if you count the spices and rice in our pantry, it
+still comes to a pretty frugal (and yummy!) meal. Sure, there's labour
+and electricity, but I enjoy cooking and we schedule it for the lower
+rates of the weekend. Well worth it for us, and we're working on
+getting even better at it.
+
+Aside from reducing spoilage, I'm also working on increasing variety.
+Getting the hang of spices will help me with that. I enjoyed making
+curry from scratch, and am looking forward to exploring the different
+curries of the world. We have a 5.3 cu.ft. Haier chest freezer
+(fortunately not one of those affected by the [[http://www.cpsc.gov/en/Recalls/2013/Haier-America-Expands-Recall-of-Chest-Freezers/][recall]]) and probably
+won't be upgrading it until it conks out, since it's enough for us to
+cook every two weeks or so. There's still room for improvement in
+terms of freezer organization and getting through
+ingredients/processed stuff, anyway. So much to learn! =)
 
 * Other snippets
 ** How can you design a good "Help and Support" page?
