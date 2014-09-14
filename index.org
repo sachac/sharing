@@ -57,46 +57,6 @@ learn for fun?
 **** Action-based learning
 **** Problem-based learning
 ****
-*** I notice I have cyclic interests  :my-learning:
-		:PROPERTIES:
-		:ID:       o2b:f0f39d45-fe42-445e-99f8-adc81d3bc1ee
-		:POST_DATE: [2014-06-23 Mon 20:57]
-		:POSTID:   27314
-		:BLOG:     sacha
-		:END:
-
-I learn about some topics in sprints, then let them go for a bit, and
-then come back to them. For example, my [[http://quantifiedawesome.com/record_categories/60?utf8=%E2%9C%93&start=2011-06-23&end=2014-06-24&split=keep&filter_string=&commit=Filter][time logs for Emacs]] show:
-
-- June 2012
-- Mid-March to mid-April 2013
-- April-June 2014
-
-Oh. Actually, that's an interestingly seasonal pattern. I hadn't
-realized that the months lined up like that. (Although to be fair, I
-probably wasn't tracking it as a category before May 2012.) I wonder
-what it is...
-
-Now I feel myself shifting temporarily to other things. I know I'll be
-back, but it's just not at the forefront of my mind.
-
-What am I thinking about instead? What am I learning more about? What
-am I spending more time on? Oh, the [[http://quantifiedawesome.com/time/review?end=2014-06-24&start=2011-11-01][spar]]klines are surprisingly
-useful. I can just scroll down looking for patterns. Non-Emacs coding,
-apparently. Learning about other things. Playing video games,
-relaxing. Gardening. I'm spending nowhere near as much time biking as
-I used to, but I do spend more time walking.
-
-Where would I like to direct my shifting interests and attention?
-I want to focus on building solid habits around health and fitness.
-That's probably 15-30 minutes of exercise a day and preparing even
-better food (salads, variety). Once I've internalized those, I think I
-might circle back to Latin (I can mostly remember the [[http://www.latintests.net/grammar/nouns.php][declensions]] now,
-although I still make errors), and maybe either Japanese (so I can
-read and listen) or Cantonese (so that I can chat with W- and with the
-fellow gardener up the street). There's drawing practice, too. Time to
-swing non-technical or non-computer-based for a bit? Hmm...
-
 *** OUTLINED Improving my input speed
 - Currently type ~108wpm on Dvorak
     - Type faster and rely on autocorrect and editing to fix errors?
@@ -132,9 +92,6 @@ swing non-technical or non-computer-based for a bit? Hmm...
     - Experiment with using speech recognition to draft e-mails and blog posts
     - Revisit Plover after speech recognition is part of my workflow (or shelved)
     - Revisit Colemak after Plover is part of my workflow (or shelved)
-*** DONE How to keep up when taking notes
-   CLOSED: [2014-01-20 Mon 14:23]
-http://sachachua.com/blog/2013/09/what-keeps-you-from-taking-notes/63/
 *** Taking notes
 
 **** Why
@@ -156,9 +113,6 @@ be rude or distracting or that they won't be able to keep up.
 - "I can't keep up and I don't want to miss anything."
 - "I tried taking notes, but I never used them."
 
-*** DONE How to read a book
-   CLOSED: [2014-01-20 Mon 14:24]
-http://sachachua.com/blog/2012/03/visual-book-notes-how-to-read-a-book/
 *** DONE How to take visual notes
    CLOSED: [2014-01-20 Mon 14:24]
 http://sachachua.com/blog/2013/08/resources-for-getting-started-with-sketchnoting/
@@ -425,24 +379,8 @@ I really like the way sharing helps me learn more effectively, and I want to get
   - Tried out keybr's random words level 1 - dismal 14wpm
   - 23wpm on lesson 1 for Type Faster - a slightly more encouraging 23wpm
 
-*** DONE Save time by browsing through blogs in a reader
-   CLOSED: [2014-01-20 Mon 14:43]
-http://sachachua.com/blog/2014/01/read-blogs-efficiently-feed-reader/?preview=true
-- Blogs are great for tips and experiences, but reading all those blogs can take a lot of time.
-- E-mail subscriptions can clutter your inbox.
-- Solution: subscribe to the blogs in a feed reader.
-- I use Feedly.
-- If you have a smartphone, you can read there.
-    - Headlines and excerpts
-    - Categories
-    - Can read offline
-- Can also read on your computer. Synchronized.
-- To try it with this blog
-
 *** Personal Quality Improvement
 http://www.personalchange.info/2013/09/personal-quality-improvement.html
-*** DONE Want to learn more effectively? Get over your embarrassment and share what you're learning
-    CLOSED: [2014-01-20 Mon 14:43]
 *** Learning Latin
 *** How I taught myself to speed-read in grade school: no magic involved
 *** This weekend: Learn how to cook
@@ -456,8 +394,6 @@ http://www.personalchange.info/2013/09/personal-quality-improvement.html
 *** Don't be afraid to make mistakes
 *** Broaden your learning
 *** Practice before passion
-*** Upwind skills
-http://paulgraham.com/hs.html
 *** Feeling overwhelmed? Focus on just-in-time learning
 *** When you're not the best
 *** Ask "stupid" questions
@@ -509,20 +445,845 @@ http://www.forbes.com/sites/stevenkotler/2013/07/03/learning-to-learn-faster-par
 *** Books
 **** The First 20 Hours
 **** The 4-Hour Chef
+*** Learning from things I like
+**** How It Should Have Ended
+*** DONE I notice I have cyclic interests  :my-learning:
+		:PROPERTIES:
+		:ID:       o2b:f0f39d45-fe42-445e-99f8-adc81d3bc1ee
+		:POST_DATE: [2014-06-23 Mon 20:57]
+		:POSTID:   27314
+		:BLOG:     sacha
+		:END:
+
+I learn about some topics in sprints, then let them go for a bit, and
+then come back to them. For example, my [[http://quantifiedawesome.com/record_categories/60?utf8=%E2%9C%93&start=2011-06-23&end=2014-06-24&split=keep&filter_string=&commit=Filter][time logs for Emacs]] show:
+
+- June 2012
+- Mid-March to mid-April 2013
+- April-June 2014
+
+Oh. Actually, that's an interestingly seasonal pattern. I hadn't
+realized that the months lined up like that. (Although to be fair, I
+probably wasn't tracking it as a category before May 2012.) I wonder
+what it is...
+
+Now I feel myself shifting temporarily to other things. I know I'll be
+back, but it's just not at the forefront of my mind.
+
+What am I thinking about instead? What am I learning more about? What
+am I spending more time on? Oh, the [[http://quantifiedawesome.com/time/review?end=2014-06-24&start=2011-11-01][spar]]klines are surprisingly
+useful. I can just scroll down looking for patterns. Non-Emacs coding,
+apparently. Learning about other things. Playing video games,
+relaxing. Gardening. I'm spending nowhere near as much time biking as
+I used to, but I do spend more time walking.
+
+Where would I like to direct my shifting interests and attention?
+I want to focus on building solid habits around health and fitness.
+That's probably 15-30 minutes of exercise a day and preparing even
+better food (salads, variety). Once I've internalized those, I think I
+might circle back to Latin (I can mostly remember the [[http://www.latintests.net/grammar/nouns.php][declensions]] now,
+although I still make errors), and maybe either Japanese (so I can
+read and listen) or Cantonese (so that I can chat with W- and with the
+fellow gardener up the street). There's drawing practice, too. Time to
+swing non-technical or non-computer-based for a bit? Hmm...
+
+*** DONE How to keep up when taking notes
+   CLOSED: [2014-01-20 Mon 14:23]
+http://sachachua.com/blog/2013/09/what-keeps-you-from-taking-notes/63/
+*** DONE How to read a book
+   CLOSED: [2014-01-20 Mon 14:24]
+http://sachachua.com/blog/2012/03/visual-book-notes-how-to-read-a-book/
+*** DONE Want to learn more effectively? Get over your embarrassment and share what you're learning
+    CLOSED: [2014-01-20 Mon 14:43]
+*** DONE Save time by browsing through blogs in a reader
+   CLOSED: [2014-01-20 Mon 14:43]
+http://sachachua.com/blog/2014/01/read-blogs-efficiently-feed-reader/?preview=true
+- Blogs are great for tips and experiences, but reading all those blogs can take a lot of time.
+- E-mail subscriptions can clutter your inbox.
+- Solution: subscribe to the blogs in a feed reader.
+- I use Feedly.
+- If you have a smartphone, you can read there.
+    - Headlines and excerpts
+    - Categories
+    - Can read offline
+- Can also read on your computer. Synchronized.
+- To try it with this blog
+
 ** Packaging/sharing  :focus:
 *** What awesome content creators can delegate
 ** Listening to your future self
 
-
 * Personal finance, semi-retirement, cooking, frugality, and household life
 ** Philosophy
+*** DONE Becoming comfortable with simplicity and even discomfort :philosophy:
+		 CLOSED: [2014-08-09 Sat 21:33]
+		:LOGBOOK:
+		CLOCK: [2014-08-09 Sat 21:11]--[2014-08-09 Sat 21:33] =>  0:22
+		CLOCK: [2014-08-09 Sat 16:50]--[2014-08-09 Sat 16:53] =>  0:03
+		:END:
+		:PROPERTIES:
+		:Effort:   1:00
+		:ID:       o2b:eb7acf93-5f59-4c05-be69-918888324cce
+		:POST_DATE: [2014-08-09 Sat 21:32]
+		:POSTID:   27419
+		:BLOG:     sacha
+		:END:
 
-*** TODO Reflections on Thoreau
+Here's an excerpt from Seneca's /Epistles/ (Letter 18) that made me
+think about voluntary simplicity:
 
-To be a philosopher, is not merely to have subtle thought, or even to found a school but so to love wisdom as to live, according to its dictates, a life of simplicity, independence, magnanimity and trust - See more at: http://batr.org/solitary/112805.html#sthash.fZ3RgEt9.dpuf
-- Thoreau
+#+begin_quote
+Such is the course which those men I have followed who, in their
+imitation of poverty, have every month come almost to want, that they
+might never recoil from what they had so often rehearsed. 
+
+... Even Epicurus, the teacher of pleasure, used to observe stated
+intervals, during which he satisfied his hunger in niggardly fashion;
+he wished to see whether he thereby fell short of full and complete
+happiness, and, if so, by what amount be fell short, and whether this
+amount was worth purchasing at the price of great effort.
+
+... For though water, barley-meal, and crusts of barley-bread, are not
+a cheerful diet, yet it is the highest kind of Pleasure to be able to
+derive pleasure from this sort of food, and to have reduced one's
+needs to that modicum which no unfairness of Fortune can snatch away.
+#+end_quote
+
+I'm careful with my finances because I don't want to end up in the
+kinds of situations that I see play out around me and on the Internet.
+I know I can't eliminate those risks (no one is immune to bad luck!),
+but I can try to minimize the risks.
+
+I'm pretty insulated from everyday troubles. I'm not often hungry or
+thirsty. I usually bring a bottle of water and a snack in my bag, and
+in the city, there are always places to go. We have what we need and
+want, and we don't worry about where our next meal is coming from or
+how we can keep a roof over our heads.
+
+Sometimes when I talk to people a little further ahead in life, I'm
+reminded that prosperity can lead to complacency. Some people tell me
+they wish they could do something like this experiment of mine with
+semi-retirement, but on the other hand, they like their current
+lifestyle a lot too. I like keeping my life simple and my budget
+almost student-ish. I check out thrift stores for clothes. I shop for
+groceries with a list, do the math when it comes to prices, and enjoy
+home-cooked meals more than restaurant steaks. It's a way of
+minimizing risks and increasing safety, I guess. If I don't get used
+to the good life -- if I fight lifestyle inflation and hedonic
+adaptation -- then I can more easily weather any downturns in markets
+or luck.
+
+How can I get even better at this? In terms of food, it's good to
+practice with simple ingredients and simple techniques. Then the main
+differentiator would be skill in choosing, combining, and cooking. I
+can still enjoy the things that I'm not very skilled at. I might even
+skip a meal, or eat lightly. In terms of transportation, maybe I
+should walk long distances once in a while, so I don't get too
+accustomed to taking transit or biking. In terms of things, I can give
+more things away, or box things up temporarily.
+
+It's good to get pleasure from the small stuff. I can drink tap water
+here in Toronto, which still boggles me no end. I can read hundreds of
+books from the library. I can walk and feel the sun shining. I can
+breathe and feel my lungs inflate. What do I need richer pleasures
+for, if these simple ones can be enough?
+
+*** Learning philosophy at the right time  :philosophy:
+		:LOGBOOK:
+		CLOCK: [2014-08-07 Thu 22:46]--[2014-08-08 Fri 22:46] => 24:00
+		:END:
+		:PROPERTIES:
+		:Effort:   2:00
+		:ID:       o2b:69b0e632-e5ad-4817-add2-715f66add5f8
+		:POST_DATE: [2014-08-07 Thu 23:09]
+		:POSTID:   27410
+		:BLOG:     sacha
+		:END:
+
+When I took the required philosophy courses in university, I was too
+young for it. We all were; inarticulate adolescents with little life
+experience. Perhaps a brilliant teacher would have been able to teach
+it anyway, and perhaps for some of my classmates our teachers were
+brilliant. I struggled with the courses, though. The topics seemed
+abstract and impractical. We read Plato's /Republic/ and were quizzed
+on his ideal society. We read the /Nichomachean Ethics/ and
+differentiated among types of friendship. We read Hannah Arendt's
+thoughts on totalitarianism and discussed terror. But nothing really
+made an impact on my everyday life, aside from the unexpected oddness
+of being comfortable with--even enjoying--the hopelessness and despair
+described by Sartre when it seemed, based on how we were taught and
+how my classmates responded, that I should have had more philosophical
+discomfort with the concept.
+
+#+begin_quote
+Hence the young man is not a fit student of Moral Philosophy, for he
+has no experience in the actions of life, while all that is said
+presupposes and is concerned with these: and in the next place, since
+he is apt to follow the impulses of his passions, he will hear as
+though he heard not, and to no profit, the end in view being practice
+and not mere knowledge.
+#+end_quote
+Aristotle, /Nichomachean Ethics/ (Book 1 - 1095a)
+
+The normal course of events, perhaps, might be that I'd revisit these
+topics later in life. Much later, the way people conscious of
+mortality tend to think about life. I think this 5-year experiment of
+mine nudged me to think about the best use of time, and from there to
+wonder about Aristotle's recommendation of the contemplative life.
+Time and patience
+
+I'm not quite at the point of understanding Heidegger and similar
+thinkers. I don't need to get there, I think, in order to get some
+benefit from applying philosophy to life. I want to train my mind to
+see clearly, want the right things, not want the wrong things, act on
+these right judgments, and be able to explain what I'm learning to
+myself and to others. Starting this early makes sense, because then I
+can avoid bad habits (or unlearn them before they get ingrained) and
+enjoy the benefits for longer.
+
+#+begin_quote
+Keep on as you have begun, and make all possible haste, so that you
+may have longer enjoyment of an improved mind, one that is at peace
+with itself. Doubtless you will derive enjoyment during the time when
+you are improving your mind and setting it at peace with itself; but
+quite different is the pleasure which comes from contemplation when
+one's mind is so cleansed from every stain that it shines.
+#+end_quote
+Seneca, /Epistles/, Letter 4
+
+In a later letter, Seneca also tells us that we don't have to put this
+kind of thinking off until we are comfortably settled. This reminds me
+of how people set these constantly moving goalposts for themselves ("I
+just need to make $XXX,000" - and then higher, and higher), and why it
+made sense to me to risk jumping earlier rather than later. We'll see
+how this works out.
+
+#+begin_quote
+Study cannot be helpful unless you take pains to live simply; and
+living simply is voluntary poverty. Away, then, with all excuses like:
+"I have not yet enough; when I have gained the desired amount, then I
+shall devote myself wholly to philosophy." And yet this ideal, which
+you are putting off and placing second to other interests, should be
+secured first of all; you should begin with it. You retort: "I wish to
+acquire something to live on." Yes, but learn while you are acquiring
+it; for if anything forbids you to live nobly, nothing forbids you to
+die nobly.
+#+end_quote
+Seneca, /Epistles/, Letter 17
+
+Now is a good time, I think. I can train my thinking and inspire my
+writing with classic, clear texts, and I can work on learning things
+that are common to more people than my other niche interests are.
+
+*** Happiness
+		:LOGBOOK:
+		CLOCK: [2014-08-08 Fri 22:46]--[2014-08-09 Sat 13:29] => 14:43
+		:END:
+		:PROPERTIES:
+		:Effort:   1:00
+		:END:
+
+
+*** Golden mean
+		:LOGBOOK:
+		CLOCK: [2014-08-06 Wed 11:16]--[2014-08-06 Wed 12:27] =>  1:11
+		:END:
+		:PROPERTIES:
+		:Effort:   1:00
+		:END:
+
+In /Nichomachean Ethics/, Aristotle considers virtue as the ideal balance between two vices (one type of deficiency and one of excess). For example, courage is between cowardice and foolhardiness. This is the idea of the golden mean. Virtue is a little closer to one end than the other, so we should err on the side of the lesser evil. We also naturally skew to one side, so we should try to counteract our biases.
+
+#+begin_quote
+Therefore he who aims at the mean should make it his first care to keep away from that extreme which is more contrary than the other to the mean; just as Calypso in Homer advises Ulysses, 
+
+"Clear of this smoke and surge thy barque direct;" 
+
+because of the two extremes the one is always more, and the other less, erroneous; and, therefore, since to hit exactly on the mean is difficult, one must take the least of the evils as the safest plan; and this a man will be doing, if he follows this method.
+#+end_quote
+(from D.P. Chase's translation)
+
+and
+
+#+begin_quote
+We ought also to take into consideration our own natural bias; which varies in each man's case, and will be ascertained from the pleasure and pain arising in us. Furthermore, we should force ourselves off in the contrary direction, because we shall find ourselves in the mean after we have removed ourselves far from the wrong side, exactly as men do in straightening bent timber.
+#+end_quote
+(also D.P. Chase)
+
+Of the ranges he describes, I think I lean towards:
+
+- *cowardice*, COURAGE, recklessness
+- *stinginess*, LIBERALITY, prodigality
+- *parsimony*, MAGNIFICENCE, vulgarity and crassness
+- *unirasciblility/slavishness*, GENTLENESS, irascibility
+ 
+These vices of mine are a set. Despite knowing that people tend to
+regret inaction more than action and that in the grand scheme of
+things, there is nothing to fear, I make decisions carefully and anticipate more pain than I should. Still, I'm pretty good at hope. 
+I prefer to save money so that I can maintain my freedom. I give a
+little to charities and to people when it could make a big difference.
+I tend to think that people usually benefit more from time and
+attention more than money, so I rarely have clear decisions between
+noble action and money. I'm definitely not good at using large sums for worthy work, and more habituated towards accounting for the small things. 
+I keep myself a little distant from the world, minimizing anger. There are many things that perhaps I should be angrier at, but I prefer to move on.
+
+- insensibility, MODERATION, licentiousness
+- irony/understatement, PLAIN DEALING, boastfulness
+
+I am generally good at not being pained by the absence of pleasures and not taking more pleasure in things than they're worth. Possibly I err on the side of insensibility, since I don't get as much pleasure from things that I probably should appreciate better. I also tend to be good at disclaiming my limitations instead of pretending to be better than I am. 
+
+- boorishness, WITTINESS, buffoonery
+
+I enjoy wordplay. Still, I don't recognize myself in Aristotle's
+descriptions here. I guess it's just not developed enough to be a
+virtue (even a virtue-in-training?) and not extreme enough to be a
+vice.
+
+- quarrelsomeness, FRIENDLINESS, *obsequity*
+
+I skew towards finding things and people agreeable (or at least
+letting them make their own decisions). I probably don't challenge
+people enough, not the way a good friend would call you out if you're
+doing things wrong.
+
+With that in mind, how can I improve? It's pretty difficult to take
+Aristotle's suggestion for counteract my biases by aiming for the
+opposite vice. Examples of consequences are too easy to recall. The
+Internet is full of stories of recklesness, prodigality, crassness,
+irascibility, licentiousness, and buffoonery. No one enjoys
+quarrelsomeness. Irony/understatement recedes into the background.
+
+There are some other ways that have been working for me, though. Maybe
+building on these approaches will help me do even better. Aristotle
+says that you can develop virtue by practising virtuous acts, so maybe
+there's hope for me yet. Here are some workarounds for my biases:
+
+- *Towards courage, liberality, and magnificence - setting aside money and time beforehand:* Pre-allocating a small
+  portion of my savings for trying things out helps me reduce the
+  mental cost of choices. Setting aside a small charity budget (both
+  time and money) makes it easier to say, yes, this is something I can
+  help with. I don't have to limit myself to formal channels for
+  generosity, either. Even listening, cleaning, or cooking can be acts
+  of generosity, done with the right heart.
+- *Towards courage - Keeping learning in mind:* If I'm conservative about choices
+  because I don't want to mess up really badly, remembering that I can
+  learn even from messing up may help. Besides, I can practice on
+  choices with smaller consequences, and I can remember all those
+  times when making similar choices worked out okay.
+- *Approaching life with the question "How wonderful can it be?" *:
+  I'm reluctant to be too ambitious because I've seen so many stories
+  of people who get carried away by their passions, dealing with the
+  ups and downs of having a business or following their goals. I'm not
+  keen on having that kind of narrative. However, if I start with a
+  good foundation of happiness and then constantly expand by learning
+  more, doing more, and helping more, I think I can enfold larger and
+  larger things in my ambition without taking the other kind of greed
+  or desire into me.
+- *Learning about the little differences*: Knowledge sharpens
+  appreciation. A tiny example - I now have a preference for the
+  blueberries we grow (however scant the handful) over the blueberries
+  we buy at No Frills because I know that blueberries can be tastier
+  than what we get at the supermarket. This doesn't stop me from
+  appreciating blueberry muffins made with supermarket berries, but it
+  allows me to take greater pleasure when we do have berries at home.
+  Likewise, learning about the little distinctions can help me enjoy
+  other things better, and I can be careful about not turning into a
+  snob who can't enjoy simpler things.
+- *Focusing on the good*: 
+
+- humility, MODESTY, *pride*
+- secrecy, HONESTY, *loquacity*
+- moroseness, GOOD HUMOR, *absurdity*
+- quarrelsomeness, FRIENDSHIP, *flattery*
+
+
+We've been trying
+
+and we occasionally succeed, but more often than not, we end up going for a yummy home-cooked dinner instead.
+
+*** Balancing virtues
+
+It got me thinking: *What happens if you look for a good balance between two (or more) virtuous positions instead?* Philosophers throughout the ages have illuminated very different ways of life, and it's interesting to see what might resonate with you. What are some of the contrasts I've learned about, and where do I stand?
+
+- Life is suffering vs. *life is pleasurable*: Detachment would keep me safer, I guess, but I like the idea of appreciating the little we have - to take pleasure in existence.
+- Gadflies vs. *guides and co-learners*: Some philosophers sting us out of complacency with criticism and questions; others gently help us untangle tough topics for ourselves.
+- Abstract
+
+
+*** TODO Reflections on a philosophy of life   :reflection:philosophy:
+
+I remember struggling with the required philosophy classes in
+university. Some concepts came easily. Others remained abstract. My
+teachers were generally animated and good educators, but lectures tend
+to lull me into sleep. Fortunately, 19-year-old me had a laptop,
+tolerant teachers, the work-around of transcribing as much as she
+could before trailing off into unintelligibility.
+
+-
+More than a decade 
+
+
+
+
+
+#+begin_quote
+To be a philosopher is not merely to have subtle thoughts, nor even to found a school, but so to love wisdom as to live according to its dictates, a life of simplicity, independence, magnanimity and trust. It is to solve some of the problems of life, not only theoretically, but practically.
+#+end_quote
+- Henry David Thoreau, [[http://thoreau.eserver.org/walden1a.html][Walden]] (1854)
+
+#+begin_quote
+
+#+end_quote
+Ancient philosophy proposed to mankind an art of living. By contrast, modern philosophy appears above all as the construction of a technical jargon reserved for specialists.
+*** M
+
+*** DONE What's in your handbook?											:philosophy:reflection:
+		 CLOSED: [2014-07-22 Tue 20:19]
+		:LOGBOOK:
+		CLOCK: [2014-07-22 Tue 19:47]--[2014-07-22 Tue 20:19] =>  0:32
+		:END:
+		:PROPERTIES:
+		:Effort:   1:00
+		:ID:       o2b:a085bdae-57d0-49c9-911d-d4565acd9a02
+		:POST_DATE: [2014-07-22 Tue 20:16]
+		:POSTID:   27394
+		:BLOG:     sacha
+		:END:
+
+#+begin_quote
+Ancient philosophy was designed to be memorized, so that it could be "at hand" when we are confronted with tumultuous situations like the one Stockdale found himself in. ... The students wrote these maxims down in their handbook, memorized them, repeated them to themselves, and carried them around--that's the point of a handbook, so the teachings are /procheiron/, or "close at hand." 
+#+end_quote
+
+/Philosophy for Life and other Dangerous Situations/, Jules Evans (2013) - p116
+
+Oh! Hence *handbook* - something small that you carry with you to
+guide your actions or remember principles when the craziness of life
+messes up your mind. This got me thinking about what might be the
+beginnings of my handbook: the little ideas that run through my life.
+Here are some.
+
+- *Happiness is a response.* Happiness isn't something you buy or
+  pursue, nor is it something that happens to you or that someone
+  gives to you. This feeling of well-being comes from how you decide
+  to respond to the world.
+- *It's just stuff.* A common refrain when we're donating things to
+  the thrift store, passing up on purchases, cleaning up after
+  something breaks, and so on.
+- *Life is short.* Before, nothingness. After, nothingness. We know
+  people for such a short time. This is okay; in fact, it makes life sweeter.
+- *Life is long.* There's lots of things to learn, and you're going to
+  run into similar situations again and again. You don't need to sweat
+  over making the absolute best decisions, since you'll probably be
+  able to try out different options. Still, giving things a little
+  thought helps, because you can reap the benefits over time.
+- * "Enough" is in the mind.* You have enough.
+- *Celebrate small steps.* Because they're fun!
+- *Everything is part of the story.* Especially the tough parts. They
+  make the story interesting.
+- *Build on your strengths.* Situations can often be transformed into
+  similar situations that take advantage of your strengths instead of
+  hitting your weaknesses. Likewise, you can translate your strengths into new ones.
+- *See the third way.* When you think something is the only way, or
+  when you're stuck with the dilemma of one or another, step back and
+  see even more approaches. You don't have to accept the way the
+  problem is framed; look for creative solutions.
+- *Choose what to assent to.* Be careful about what you let into your
+  brain. For example, just because advertising is compelling doesn't
+  mean you have to be compelled.
+- *It's okay to be weird. Life is a grand experiment.* If you zig when
+  other people zag, you might feel weird, but don't worry - there are
+  lots of people zigging in the grand scheme of things, too.
+- *Everyone's learning.* Everyone messes up. Everyone has bad days.
+  Everyone has awesome moments. Practise loving kindness.
+- *Share.* Your memory is fuzzy and life is short. Get things out of
+  your head and in a form that might help other people, and you could
+  be pleasantly surprised by how it comes back.
+- *A safety net helps you fly.* It's worth weaving a strong net so
+  that you can take risks.
+- *Everything will be okay.* Things always work out, although
+  sometimes it takes some time, action, or perspective.
+- *Cats will be cats.* There is no point in getting upset over
+  out-of-the-litter-box thinking, throwing up, etc. Just tidy up and
+  enjoy the purring and the fluffy cat-ness. The same can be said of
+  much of life.
+
+Ask me again in five years and I'll probably have added a few more.
+What's in your handbook?
+
+*** Applying 'learn, share, scale' to philosophy
+	 :LOGBOOK:
+	 CLOCK: [2014-08-01 Fri 16:47]--[2014-08-01 Fri 17:06] =>  0:19
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+
+[[http://sachachua.com/blog/2012/11/coming-up-with-a-three-word-life-philosophy/]["Learn, share, scale"]] were the three words I picked in 2012 to
+describe what I want to do. It's a useful framework for looking at my
+different interests and figuring out how I can learn, what I can
+share, and how I can scale up beyond the limits of 24 hours in a day
+and only one life. By breaking things down into those components, I
+can look for more effective approaches. By seeing them as a whole
+cycle, I can try to move more through each stage instead of getting
+stuck in one or the other.
+
+[[http://sachachua.com/blog/wp-content/uploads/2012/11/20121102-Three-Word-Life-Philosophy-Sacha-Chua_thumb.png]]
+
+I've been learning about philosophy over the past few weeks. I like
+the way Thoreau frames it:
+
+#+begin_quote
+To be a philosopher is not merely to have subtle thoughts, nor even to found a school, but so to love wisdom as to live according to its dictates, a life of simplicity, independence, magnanimity and trust. It is to solve some of the problems of life, not only theoretically, but practically.
+#+end_quote
+- Henry David Thoreau, [[http://thoreau.eserver.org/walden1a.html][Walden]] (1854)
+
+So I'm more interested in ethical philosophy rather than, say, phenomenology.
+
+
+
+What would that look like in this framework of "learn, share, scale?"
+
+*Learn*: I read a lot of books
+
+*Share*: i
+
+*Scale*: This one's a little harder to think about. 
+
+*** Things I don't know how to describe yet
+
+*** Upgrades 
+	 :LOGBOOK:
+	 CLOCK: [2014-08-04 Mon 21:06]--[2014-08-05 Tue 17:35] => 20:29
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+
+We've been looking at cellphones lately, since W-'s thinking about
+replacing his (if he doesn't repair the screen). We browsed through
+the shops at the Eaton Centre. There were all these new models of
+phones and all these people oohing and aahing over them, but he didn't
+end up choosing any of the phones. Me, I have the Samsung Galaxy S3 that I got two years ago, and 
+
+
+
+- Fashion
+- Upgrade
+- Increment
+
+- Opportunity fund, trying things out
+
+*** One day closer
+		:LOGBOOK:
+		CLOCK: [2014-08-05 Tue 17:35]--[2014-08-05 Tue 18:19] =>  0:44
+		:END:
+		:PROPERTIES:
+		:Effort:   1:00
+		:END:
+
+We've been watching episodes of [[https://www.youtube.com/user/HISHEdotcom][How It Should Have Ended]] lately. One
+of them led to Stan's Rants, so we watched Stan Lee rant about a few
+things. [[https://www.youtube.com/watch?v=zXl0g6LxGyc][His rant about birthdays]] was particularly interesting for me
+because of our reflections on Stoicism, negative visualization, and
+the idea of /memento mori/ - remembering your mortality.
+
+W- and I don't celebrate the way it seems other people do. We're not
+really into going to a bar with friends, having people over for a
+party, or going to a fancy restaurant. We did end up going for dimsum
+with his family yesterday, since his mom insisted, but otherwise we
+would have probably stayed home.
+
+I like treating these occasions as an opportunity to account for how I
+used the previous year, reflect on (and celebrate!) the changes, and
+think about how my priorities might shift for the upcoming year. Doing
+this kind of annual review around this time makes more sense to me
+than New Year's Day, since New Year's Day has all that noise around
+holidays and resolutions. I used to do annual reviews a few times a
+year, but I found myself covering the same ground and getting slightly
+confused about the timespans. I do like checking in with myself on an
+infrequent basis, though. You might not see day-to-day changes, but
+when you look back over a longer period of time, you can appreciate
+the distance you've covered.
+
+Still, there's something to be said about celebrating milestones,
+creating opportunities for shared experiences, and thanking people who
+are part of my life. Perhaps I'll revisit it sometime, or find a
+different way.
+
+But I'll still wish my parents a happy birthday, since after all, my mom did all that hard work. =)
+
+*** Striking the balance between what works and what might be better
+		:LOGBOOK:
+		CLOCK: [2014-08-05 Tue 18:19]--[2014-08-05 Tue 20:23] =>  2:04
+		:END:
+		:PROPERTIES:
+		:Effort:   1:00
+		:END:
+
+*** DONE That moment when time comes together										 :philosophy:
+		 CLOSED: [2014-08-05 Tue 18:14]
+		:PROPERTIES:
+		:ID:       o2b:50498ba6-3d94-40bd-ac23-8164809f90f6
+		:POST_DATE: [2014-08-05 Tue 18:12]
+		:POSTID:   27407
+		:BLOG:     sacha
+		:END:
+
+I reflect on mortality pretty frequently; at least every week, and
+probably much more often than that. If you do it just a few times each
+year, you'll hardly get used to it. I think it makes life sweeter,
+knowing that life's so short. 
+
+I used to clearly separate this meditation from other things because I
+sometimes cried. Now I sometimes find myself simultaneously aware of
+it as I play with the cats, hang out with friends, talk to my parents,
+or spend time with my husband. Those moments feel oddly grace-ful,
+like I'm seeing one of our cats as a kitten, at the end of her life,
+and beyond, all super-imposed. It's interesting to imagine who someone
+was before you knew them, and to trace their impact on your life by
+seeing their absence--or even non-existence, "It's a Wonderful Life"
+sort of not-existed-at-all-ness.
+
+When I feel this way, it's easier to be appreciative and grateful for
+the gift that was given. It's easier to feel safe, oddly enough,
+knowing that I can look on without clinging too much.
+
+I'm not always like this, of course. I am often less thoughtful, more
+immediate. I think it would be interesting to be in that kind of
+moment more often, though. Perhaps writing about it like this will
+help me remember what it's like, and how to do things with that
+perspective--even in those normal moments when time is separate and
+not all together.
+
+
+
+*** DONE Stoic impressions: Weebles wobble but they don't fall down
+	 :LOGBOOK:
+	 CLOCK: [2014-07-30 Wed 11:51]--[2014-07-30 Wed 13:05] =>  1:14
+	 CLOCK: [2014-07-30 Wed 11:38]--[2014-07-30 Wed 11:44] =>  0:06
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+
+I'm with the Stoics rather than the Aristotelians on this one (or at least based on how I understand things): all you need for a good life is you. I'm not wise enough to know whether that's true, but I think that it's better for me to live as if that's the case instead of thinking that happiness can be that much influenced by luck and external events. Challenge accepted!
+
+I'm starting to understand what I'd like to aspire to be when I've infused whatever wisdom I can get from philosophy into my reflexive responses to life's situations.
+
+I'm not trying to get through life completely unruffled and serene. Stuff happens. I get sad. I get excited. I get scared. I get delighted. I react to the world around me.
+
+At the same time, I like this ability to step outside of these impressions. I can see myself even as I laugh or cry. I can enjoy the ups and downs and yet not get carried away by them. I can be happy that something I cooked turned out well and that people liked it; and I can know that in the grand scheme of things, it's insignificant (but worth doing anyway). I can be scared about the possible downsides of something I'm going to try anyway; and I can know that in the grand scheme of things, it's insignificant (but worth doing anyway).
+
+Whatever life throws at me, I can choose to respond and not just react. Sure, the first few moments might be more instinctive--pain hurts, joy elates, sometimes I say the wrong thing--but what happens after that is up to me.
+
+I'd like to avoid getting carried away by stuff, the way people get consumed by grudges or misled by temptations. I think that's what the Stoics meant in their focus on ridding themselves of passions--not "passion" in the modern sense of "things I feel awesome about and enjoy doing," but rather the kind of "passion" that takes over your reason and leads to suffering.
+
+I guess I'd like to continue to be like a [[http://en.wikipedia.org/wiki/Roly-poly_toy][roly-poly toy]], like the egg-shaped [[http://en.wikipedia.org/wiki/Weeble][Weebles]] of the slogan "Weebles wobble but they don't fall down." Then the Stoic idea of a passion would be wobbling so much and not quite being the shape that you need to be, and ending up so far off your center of mass that you stay down. Or at least until other people help you get back up. Because really, sometimes people do get wobbled more than they can handle, and that's an opportunity for other people to help out.
+
+So far, I've been extraordinarily lucky. It's been easy to return to normal from the little things I've come across so far. You know how some video games are designed to gradually help you learn different skills and others throw you in the deep end? So far my life has been like the former. When things come, they're within my range and I have the support structure that makes them easier to deal with. So I guess that's like I'm playing a game where you get just enough wobbling so that you can correct your mass distribution or egg-shaped profile in order to wobble back better. Which is sort of Stoicism, I think. Stoicism helps with adjusting so that you can deal with bigger and bigger wobbles if you need to. Stoicism reminds you that you are not the wobble that pushes you. You don't control the wobble, so why bother stressing out about it? You can get better at bouncing back. You can work on becoming the weebliest Weeble.
+
+I sometimes hear from people who are playing a much harder game, where they have to deal with pretty darn big wobbles before they've been able to sort things out. I'm not sure I have much to offer. Newbie tips aren't as useful for people stuck playing life on the "hardcore" setting, I guess! I can /say/ that I'm working on being a better roly-poly toy and that it seems to be working out so far, but I definitely haven't wobbled as much as other people have. But maybe reflections from someone living an easier version of the game can help people think about little aspects of their own games, either from the actual thoughts or even just the process itself.
+
+One of the thoughts that helps me is this: wobbling's what makes Weebles fun. So as much as I'm sure people wish for care-free lives, I'm okay with there being some wobbling in mine. I might not actively seek out really wobbly situations, but if they're there, they're there, and they can help me be better.
+
+Anyway, wobble on. 
+
+*** DONE Living like you're old																	 :philosophy:
+	 :LOGBOOK:
+	 CLOCK: [2014-07-30 Wed 17:35]--[2014-07-30 Wed 18:10] =>  0:35
+	 CLOCK: [2014-07-30 Wed 13:05]--[2014-07-30 Wed 16:30] =>  3:25
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :ID:       o2b:ca2be33a-3cd0-463a-97a7-4f5324dc772b
+	 :POST_DATE: [2014-07-30 Wed 17:40]
+	 :POSTID:   27403
+	 :BLOG:     sacha
+	 :END:
+
+There's a saying that you should live each day as if it were your
+last, which is supposed to help you fully enjoy each moment. I've been
+recently thinking about another way of looking at it: *living each day
+as if /yesterday/ was your last.* What do I mean by this? Well, let me
+explain how I got around to thinking about this in the first place.
+
+I am a bit of a pessimist when planning, which is perhaps a little
+surprising to people who know me in person because I'm generally
+cheerful and positive. I think it's precisely because I think about
+risks and safety nets that I can easily focus on the bright side. Now,
+thinking about what can go wrong often leads to dealing with ultimate
+consequences. (I can't be the only one who routinely thinks about
+death before biking in city traffic, am I? But I bike anyway.) 
+
+From time to time, I reassure myself that hey, life so far has been
+pretty darn awesome, actually, so even if it were abruptly cut off or
+made significantly more challenging, things are on the whole pretty
+good. I might not have worked on things of lasting significance (and
+what could /really/ be significant, anyway, in a universe probably
+heading towards heat death in gazillions of years?) and there may be
+more awesomeness ahead of me, but even after the thirty years I've
+been around so far, people have sent me e-mail and commented on my
+blog and told me that some of my thoughts have been useful. In any
+case, I'm happy with what I've been learning so far. That's as good
+a start as any, and anything else is icing on the cake. Instead of accepting
+the common view that life is incomplete unless you do X, Y, and Z, I
+like to think that life is pretty good, actually, and that things just
+get even more wonderful. (This is why I haven't quite gotten the hang
+of bucket lists--I don't have that burning sense of urgency and
+incompleteness.)
+
+While chasing down some notes about [[http://en.wikipedia.org/wiki/Hypomnema][/hypomnemata/]] (those personal
+notes I wrote about while [[http://sachachua.com/blog/2014/07/whats-handbook/][thinking about my handbook]]), I came across
+Michel Foucault's /The Hermeneutics of the Subject/ (2001, translated
+by Graham Burchell in 2005; you might be able to [[http://inventingself.commons.gc.cuny.edu/files/2013/07/foucault-hermeneutics-of-the-subject-2.pdf][read it online]]).
+Here's the segment that got me thinking about this particular
+reflection:
+
+#+begin_quote
+With regard to our life, and this is the central point of this new
+ethics of old age, we should place ourselves in a condition such that
+we live it as if it is already over. In fact, even if we are still
+young, even if we are adult and still active, with regard to all that
+we do and all that we are we should have the attitude, behavior,
+detachment, and accomplishment of someone who has already completed
+his life. We must live expecting nothing more from our life and, just
+as the old man is someone who expects nothing more from his life, we
+must expect nothing from it even when we are young. We must complete
+our life before our death. The expression is found in Seneca's letter
+32: "/consummare vitam ante mortem./" We must complete our life before
+our death, we must fulfill our life before the moment of death
+arrives, we must achieve perfect satiety of ourselves. "/Summa tui
+satietas/": perfect, complete satiety of yourself. This is the point
+towards which Seneca wants Lucilius to hasten. You can see that this
+idea that we must organize our life in order to be old, that we must
+hasten towards our old age, and that even if we are young we should
+constitute ourselves in relation to our life as if we are old, raises
+a series of important questions to which we will return.
+#+end_quote
+(p110-111)
+
+Aha! People smarter than me have thought about the same thing, but
+more eloquently and more deeply than I could have. In the same
+section, he writes about how society typically thinks old age is not
+as awesome as youth, but actually, old age is pretty cool because
+that's when all of your philosophical work comes to fruition and
+you're safe from many of the things that disturb other people. This
+reminds me a little of how my mom is slowly making peace with growing
+old. She is not quite there yet. Sometimes it makes her sad. Oddly,
+sometimes I feel older than other people; old in the sense of
+accepting the shortness of life and embracing whatever we've lived so
+far. Granted, I /am/ only turning 31 next month, so it's quite
+possible that I don't know what I'm talking about. We'll see in forty
+or sixty years. But if Foucault and Seneca say something along those
+lines with the advantage of quite a few years of experience (Foucalt
+was maybe 55 when he gave those lectures on hermeneutics that were
+later transcribed and translated for that book), maybe I'm onto
+something, or maybe I can take advantage of the springboard that
+they're offering.
+
+The nice thing about reading philosophers (especially classic ones!)
+is that they've often come up with short, clear ways to say things
+that you've been trying to untangle. Like this, from Seneca's [[http://www.stoics.com/seneca_epistles_book_1.html][12th
+letter]] ("On old age"):
+
+#+begin_quote
+When a man has said: "I have lived!", every morning he arises he receives a bonus.'
+#+end_quote
+
+Every day above ground is a good day. This is already more than I
+could have asked for, and what I have is already enough. Anything
+beyond this is icing on the cake and fudge on the brownie. =) 
+
+
+*** DONE Writing incomplete thoughts																:writing:
+		 CLOSED: [2014-08-07 Thu 00:00]
+		:LOGBOOK:
+		CLOCK: [2014-08-06 Wed 18:46]--[2014-08-06 Wed 19:25] =>  0:39
+		:END:
+		:PROPERTIES:
+		:Effort:   1:00
+		:ID:       o2b:dd778e0e-0e01-4ca2-b94e-e26cab0d9514
+		:POST_DATE: [2014-08-06 Wed 19:19]
+		:POSTID:   27408
+		:BLOG:     sacha
+		:END:
+
+Writing helps me make myself. In a quiet, considered moment, I can
+think through things and figure out how I'd like to respond or act.
+Most of the time, I don't end up referring to my old blog posts;
+writing is itself enough to help. Sometimes I do link back so that I
+can trace the development of a thought, build on what I've written, or
+share that moment in time with someone else who's figuring out similar
+things.
+
+Sometimes I have all these little thoughts that don't quite gel into a
+single post. I'm still attached to the idea of having some kind of
+question, some kind of realization, or at least a little progress in a
+post. Sometimes I have two or more threads and I /feel/ there's some
+kind of connection between them, but I can't quite articulate it
+coherently. I'm getting better at writing regardless, but I keep the
+notes until they make a little more sense. I've been saving those
+snippets in an ever-growing outline, but maybe I should just post
+things. After all, present-Sacha has found the time machine of a blog
+archive to be unexpectedly interesting reading, so maybe future-Sacha
+will be able to make sense of all this. As Steve Jobs said (in his
+2005 commencement speech at Stanford), "You can't connect the dots
+looking forward; you can only connect them looking backwards. So you
+have to trust that the dots will somehow connect in your future."
+
+Today I thought about /chronos/ and /kairos/, clock-time and
+personal-time. I thought about Aristotle's golden means and the vices
+that my nature tends towards. I thought about our almost-daily habit
+of watching movies borrowed from the library, and what we did before
+this became our routine; and similarly, what were those long-ago
+weekends like? Maybe I should write more about everyday life so that
+future-Sacha can see the changes.
+
+Here is what our lives are like at the moment. Mondays and Wednesdays
+are quiet days at home. I skim a stack of books, taking notes on a
+few. Because my consulting client needs a little extra help, I usually
+interrupt my reading and writing with an hour or two of work,
+responding to e-mail and dealing with quick, important requests.
+Tuesdays and Thursdays are more focused on consulting. On Tuesday
+evenings, I go to Hacklab to cook and hang out. Fridays I go out, meet
+friends, and experiment with a change of scene. On either Saturday or
+Sunday, we do laundry, groceries, cooking, and chores; the other
+weekend day is for outside errands or other forms of relaxation,
+although sometimes W- uses it to catch up on work. 
+
+I spend a lot more time reading and writing than I did when I worked
+full-time. (From about 5 hours a week to about 19 hours!) I enjoy it
+immensely. I'm beginning to feel more of a sense of the authors I
+encounter through their works, both ancient and modern; their voices,
+their ideas, the conversations that thread their way through the books
+I read. 
+
+There's always that need to combine learning, doing, and sharing.
+Book-learning isn't enough; I have to try things in real life. Doing
+something is good, but sharing what I'm learning from it is even
+better. My writing this year is a lot more self-focused than it was
+last year, but in the grand scheme of things, a little exploration
+should be all right. (Who knows, it might even be useful.)
+
 
 ** Personal finance
+*** Eating out and eating in
+
+W- and I have been taking advantage of the summer weather by biking around the city during weekends. We're working on being more adventurous, and have so far discovered a Japanese curry place that we like. What tends to happen, though, is that we end up talking ourselves out of going out to eat (expensive; can be less healthy; besides, it's all the same at the end)
+
+
+*** Working on ignoring thresholds
+
+Isn't it funny how we end up being pulled by round numbers and thresholds? 
+
+I calculate my net worth every month, and sometimes more often out of
+curiosity. It goes up and down with the markets. This is gratifying
+when it's going up (look! I didn't have to do anything special for
+that!). Oddly, it's still reassuring even when it goes down, since I'm
+not drawing down the money yet. I don't really change my decisions based on this information. I'm just curious about the growth.
+
+Still, I've been checking my finances more recently because my 31st birthday is coming up, and I'm /this close/ to reaching one of those arbitrary savings thresholds.
+
 *** TODO Building an opportunity fund
 
 Sometimes I hear from people who are stuck. They want to try something
@@ -810,7 +1571,6 @@ Every so often, we hear about projects that are raising funds through Kickstarte
 
 to be a patron 
 
-
 ** Household life
 *** Use baking soda and vinegar to clean sinks and tubs and food containers
 *** Get started with cooking
@@ -885,6 +1645,15 @@ And I'm going to do it without gym memberships or other things like
 that. We already have all the tools I need, so I just have to do it. =)
 
 ** 5-year experiment
+*** Learning early
+
+#+begin_quote
+Study cannot be helpful unless you take pains to live simply; and living simply is voluntary poverty.  Away, then, with all excuses like: "I have not yet enough; when I have gained the desired amount, then I shall devote myself wholly to philosophy." And yet this ideal, which you are putting off and placing second to other interests, should be secured first of all; you should begin with it. You retort: "I wish to acquire something to live on." Yes, but learn while you are acquiring it; for if anything forbids you to live nobly, nothing forbids you to die nobly.
+#+end_quote
+
+- Seneca, [[http://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_17][Moral letters to Lucilius, Letter 17]]
+
+
 
 *** OUTLINED Experiment review: Income and expenses
 - Preparation
@@ -902,6 +1671,8 @@ that. We already have all the tools I need, so I just have to do it. =)
 - Monthly reviews
   - Ledger
 - Investment results
+*** Laying the ground work
+
 *** Incremental
 *** Choosing the Aristotelian way
 
@@ -962,14 +1733,6 @@ healthy range, though.
 Sometimes I have bursts of watching videos or reading comics. 
 
 Aristotle splits up leisure into amusement (passive entertainment), recreation (active exertion), and contemplation (building understanding).
-
-*** Teaching myself to prefer what's good for me
-		:LOGBOOK:
-		CLOCK: [2014-07-01 Tue 15:55]--[2014-07-01 Tue 15:57] =>  0:02
-		:END:
-		:PROPERTIES:
-		:Effort:   1:00
-		:END:
 
 *** Planning little achievements
 		:LOGBOOK:
@@ -1325,22 +2088,88 @@ Pretty good, actually.
 - Useful tool: imagine worst-case scenario
 - http://sachachua.com/blog/2012/12/experiment-pre-mortem-imagining-and-dealing-with-causes-of-failure/
 
-*** Anticipating experiment outcomes
-- How would I live if the outcome of this experiment is "I probably
-  don't have to work again"?
-  - Writing, drawing, coding based on my own interests
-  - Sharing as much as possible
-  - Open to receiving payment from other people as a way of funding
-    more experiments - maybe tie value directly to experiments in a
-    micro-Kickstarter sort of way?
-- How would I live if the outcome of this experiment is "I want to
-  'lean in' in terms of business?"
-- How would I live if the outcome of this experiment is "I don't have
-  to work a regular job again"?
-- How would I live if the outcome of this experiment is "I want to go
-  back to a regular job?"
-  - Rebuild my network and dust off my resume
-  - Probably go back to a technical position in a good team
+*** DONE Anticipating experiment outcomes												 :experiment:
+		 CLOSED: [2014-07-30 Wed 17:49]
+		:PROPERTIES:
+		:Effort:   1:00
+		:ID:       o2b:031dbe71-a0d1-4ded-905b-a301acae3c67
+		:POST_DATE: [2014-07-28 Mon 11:18]
+		:POSTID:   27398
+		:BLOG:     sacha
+		:END:
+
+I'm almost half-way through this 5-year experiment with
+semi-retirement. Every so often, I like reflecting on the possible
+outcomes and whether I want to influence things one way or another.
+(Totally unscientific here!) Thinking about this will also help me
+figure out what I need to try so that I can properly discriminate
+among the options. Here are some of the ways this experiment could
+work out.
+
+- A. "*I want to go back to a regular job.*" Let's say that at the end of
+  five years, I've learned what I want to learn to have a
+  smoothly-running, wonderful life, and I want to go back to working
+  within someone else's business so that I can take advantage of its
+  scale and infrastructure. I'd rebuild my network and dust off my
+  resume, likely working my way back into a technical position in a
+  team I enjoy working with. Life would be pretty similar to what life
+  was like at IBM, except perhaps I'd be fitter, cook better, and
+  write more.
+  - *Factors that would nudge me towards this:* Possible job
+    satisfaction, scale, learning experiences, team I like; also, if
+    W- downshifts to part-time or takes a break
+  - *What would a typical week look like?* Work, cook, read, write. I
+    might use the extra cash to outsource chores or buy conveniences.
+    Hmm, danger of lifestyle inflation here?
+- B. "*I want to keep freelancing.*" Let's say that I like the
+  flexibility and usefulness that consulting a few days a week gives
+  me. I'd probably expand my consulting practice slightly so that I
+  don't have to worry about being classified as a personal services
+  business. During my free days, I might continue to do the kinds of
+  things I'm doing now: writing, learning, tinkering with stuff.
+  - *Factors that would nudge me towards this:* Happy clients,
+    continued growth; also, if W- downshifts to part-time
+  - *What would a typical week look like?* Much like my current weeks,
+    but maybe consulting for different companies for a good balance.
+- C. "*I want to build a lifestyle business.*" This would be if I'm
+  curious about building other types of businesses. Maybe I'd learn
+  more about web marketing, for example. I'd still keep it low-key so
+  that I can do other things with the rest of my time.
+  - *Factors that would nudge me towards this:* Curiosity about
+    businesses that go beyond time-for-money exchanges; commitment to
+    make products or automated services
+  - *What would a typical week look like?* Responding to people's
+    questions, creating new things, improving old stuff. Occasionally
+    learning new skills and trying them out.
+- D. "*I want to 'lean in' in terms of business.*" This would probably be
+  the next stage after building a small lifestyle business that's
+  focused on products or automated services. Assuming I've got the
+  rest of my life sorted out, I might channel my curiosity and energy
+  into building the business so that I can help more people and apply
+  what I've been learning from business books.
+  - *Factors that would nudge me towards this:* Finding a good market
+    that I really want to help
+  - *What would a typical week look like?* I'd probably learn how to
+    manage a small team, do lots of research and customer service, and
+    make stuff happen.
+- E. "*I probably don't have to work, at least for a while.*" Stock
+  market growth and savings might mean that I'll have lots of
+  flexibility, so I could choose to work or not. Depending on our
+  circumstances, I might decide to focus on building up skills, making
+  our lives easier, learning things, and sharing whatever I can. It'll
+  be an interesting challenge figuring things out. I'd like to get
+  really good at writing. I'd still be open to going back to work
+  (even in a non-tech job) if the market plummets or W- needs me to
+  cover things.
+  - *Factors that would nudge me towards this:* ~3% withdrawal rate,
+    good cash buffer for market corrections, productive things to do
+    with my time, questions to explore
+  - *What would a typical week look like?* Read, write, garden,
+    exercise, cook. Occasionally get together with other people.
+
+I'm the most curious about E (financial independence plus writing),
+but C (lifestyle business) that might eventually transition to D
+(larger business) could be interesting too.
 
 *** Experimenting with semi-retirement  :PROJECT:book-idea:
 - How long
@@ -1356,19 +2185,67 @@ Pretty good, actually.
 - mrmoneymustache
 - earlyretirementextreme
 - http://gamingyourfinances.com/?
-*** Designing habits
+	
+*** Contemplating the temptations that would draw me out of this experiment
 		:LOGBOOK:
-		CLOCK: [2014-07-18 Fri 14:11]--[2014-07-18 Fri 16:28] =>  2:17
+		CLOCK: [2014-07-28 Mon 10:23]--[2014-07-28 Mon 10:35] =>  0:12
+		CLOCK: [2014-07-25 Fri 15:52]--[2014-07-25 Fri 19:03] =>  3:11
 		:END:
 		:PROPERTIES:
 		:Effort:   1:00
 		:END:
 
+People occasionally ask me what it would take for me to consider
+stopping my experiment early and go back to full-time work. On
+reflection, I think the answer is: unfortunate circumstances, depleted
+savings, or other family needs. (I don't recommend setting me up for
+this!)
 
+It's a little odd realizing that I can't think of any positive things
+that would tempt me away from this path for the next few years, not
+even being offered another job tailored to my interests and skills. If
+people offered a ridiculously high salary, I would question the sanity
+and longevity of the company; if they offered a more reasonable one,
+I'd pick the freedom and the flexibility of the experiment. We have
+enough for our needs and few wants. 
 
+It's natural for people to want to help people, like the way
 
+Besides, as Benjamin Franklin noted, sometimes the best way to build a relationship
 
+*** Rhythms
+		:LOGBOOK:
+		CLOCK: [2014-07-11 Fri 14:34]--[2014-07-11 Fri 18:45] =>  4:11
+		:END:
+		:PROPERTIES:
+		:Effort:   1:00
+		:END:
 
+I have a few 8 AM meetings this week. I don't /really/ have to go, but
+I think it would be useful and good for the team, so I go and
+contribute as much as I can. The downside is that my brain is fuzzy
+the rest of the day, although a short nap or break is remarkably
+restorative. I can nap easily when I'm at Hacklab. When I am with my
+consulting client, napping is harder to arrange, so I typically head
+home early.
+
+I experimented with going to a breakfast meetup. I made it there early
+and was alert enough to [[https://www.flickr.com/photos/sachac/14605456916/][take notes]], but found myself mentally drifting
+afterwards. I read some nonfiction, then idled a while reading blogs,
+and then finally gave in to my better judgment and took a half-hour
+nap. Post-nap I can read and understand bigger thoughts, and now I can
+write. 
+
+I find that having less than eight hours of sleep the night before
+generally leads to this sort of fuzziness, which could be avoided,
+perhaps, if I just went to bed earlier. Despite efforts, somehow the
+rhythms of our household life lead to me going to bed some time
+between 11:30 PM and 12:30 PM unless I am very tired. (Otherwise, if I
+go to bed too early, I often end up fidgeting.) I get up between 8 to
+9 AM, sometimes even 10 or 11. The morning's routines take me an hour,
+which means I can have brunch, then settle in for a few hours of
+writing or reading. The occasional early morning is easier to
+accommodate as a one-off than to shift my routines earlier in general.
 
 *** DONE Reflections on Aristotle, ends, and leisure 				:life:philosophy:
 		:PROPERTIES:
@@ -1763,40 +2640,6 @@ How to say no to opportunities
   if I ignore travel - slightly below predictions, even!
 
 
-*** Rhythms
-		:LOGBOOK:
-		CLOCK: [2014-07-11 Fri 14:34]--[2014-07-11 Fri 18:45] =>  4:11
-		:END:
-		:PROPERTIES:
-		:Effort:   1:00
-		:END:
-
-I have a few 8 AM meetings this week. I don't /really/ have to go, but
-I think it would be useful and good for the team, so I go and
-contribute as much as I can. The downside is that my brain is fuzzy
-the rest of the day, although a short nap or break is remarkably
-restorative. I can nap easily when I'm at Hacklab. When I am with my
-consulting client, napping is harder to arrange, so I typically head
-home early.
-
-I experimented with going to a breakfast meetup. I made it there early
-and was alert enough to [[https://www.flickr.com/photos/sachac/14605456916/][take notes]], but found myself mentally drifting
-afterwards. I read some nonfiction, then idled a while reading blogs,
-and then finally gave in to my better judgment and took a half-hour
-nap. Post-nap I can read and understand bigger thoughts, and now I can
-write. 
-
-I find that having less than eight hours of sleep the night before
-generally leads to this sort of fuzziness, which could be avoided,
-perhaps, if I just went to bed earlier. Despite efforts, somehow the
-rhythms of our household life lead to me going to bed some time
-between 11:30 PM and 12:30 PM unless I am very tired. (Otherwise, if I
-go to bed too early, I often end up fidgeting.) I get up between 8 to
-9 AM, sometimes even 10 or 11. The morning's routines take me an hour,
-which means I can have brunch, then settle in for a few hours of
-writing or reading. The occasional early morning is easier to
-accommodate as a one-off than to shift my routines earlier in general.
-
 *** DONE Books about applying advice to your life										:writing:
 		 CLOSED: [2014-07-16 Wed 16:02]
 		:PROPERTIES:
@@ -1956,6 +2799,193 @@ Design and aesthetics? Business? We'll see.
 
 In the meantime, I'll give my mind enough space to unfold questions
 and learn from the notes that people have left for us. 
+
+*** DONE Teaching myself to prefer what's good for me								 :kaizen:
+		 CLOSED: [2014-07-28 Mon 10:22]
+		:LOGBOOK:
+		CLOCK: [2014-07-28 Mon 09:55]--[2014-07-28 Mon 10:22] =>  0:27
+		CLOCK: [2014-07-01 Tue 15:55]--[2014-07-01 Tue 15:57] =>  0:02
+		:END:
+		:PROPERTIES:
+		:Effort:   1:00
+		:ID:       o2b:c36bdac6-751b-431f-97b7-6765a47e5b1a
+		:POST_DATE: [2014-07-28 Mon 10:22]
+		:POSTID:   27397
+		:BLOG:     sacha
+		:END:
+
+One of the ideas I'm mulling over from this study of ancient Greek
+philosophy is this: Instead of using willpower to get through things
+you don't like, you can learn to appreciate the things that are good
+for you or gradually move up through activities that you enjoy and
+that are a little better for you than what you were doing before.
+
+I've been trying this idea in terms of exercise. Having decided that I
+would be [[http://sachachua.com/blog/2014/06/this-is-the-year-im-going-to-build-an-exercise-habit/][the type of person who exercises]], I've been keeping up this
+habit for a little over a month. I usually run with W-. He treats
+those sessions as recovery runs (he's much fitter than I am and can
+run circles around me), and I treat them as "extra time with W- /and/
+an occasion for [[http://sachachua.com/blog/2013/01/the-smugometer/][smugness]]." I'm not yet at the point of experiencing
+the runner's high, but I do feel somewhat pleased by this ability to
+keep up with the heart rate thresholds that should help me build up
+endurance. I've even gone for runs on my own, propelled by growing
+custom and the knowledge that I'm going to be able to celebrate
+whatever progress I'm making. Gradual progress through [[https://www.fourmilab.ch/hackdiet/www/chapter1_2_5.html][the Hacker's
+Diet exercise ladder]] is fun, too.
+
+In terms of food, I'm finally beginning to appreciate the sourness of
+yogurt, the peppery taste of radishes, and other things I'm still not
+particularly fond of but can deal with.
+
+As for substitution, keeping a range of nonfiction books in the house
+means I'm less inclined to spend time playing video games. Latin and
+Japanese flashcards on my phone mean less time reading fiction. A file
+full of writing ideas means less time spent browsing the Web. 
+
+We change a little at a time. It's good to pay attention to your
+changing tastes, and to influence them towards what's good for you.
+Sometimes you can kick it off with a little bribery or willpower, if
+you use that temporary space to look for more things to appreciate.
+Sometimes you can encourage yourself by making better activities more
+convenient. Good to keep growing!
+
+*** DONE Thinking about leisure activities: noble, advantageous, pleasant
+		 CLOSED: [2014-08-07 Thu 22:42]
+		:LOGBOOK:
+		CLOCK: [2014-08-07 Thu 21:05]--[2014-08-07 Thu 22:42] =>  1:37
+		:END:
+		:PROPERTIES:
+		:Effort:   1:00
+		:ID:       o2b:84892f0c-4096-4ca3-8dd3-bd5ec2743325
+		:POST_DATE: [2014-08-07 Thu 22:39]
+		:POSTID:   27409
+		:BLOG:     sacha
+		:END:
+
+As an experiment (and because the timing works), I have a three-month
+break coming up. It'll be quite a different experience from the
+1-month breaks I've been taking so far, probably as different as the
+way that having an entire weekday to yourself is different from
+squeezing your activities into an evening. So I have a few questions to think about:
+
+- How can I make the most of that time?
+- With the answers to that question in mind, how can I make the most
+  of the weekdays I have until then? How do those activities compare
+  with working a little more from August to September?
+- Considering the most likely situations, how would I like to adjust
+  my work/discretionary-time balance?
+
+It got me thinking about what I actually /do/ during my leisure time,
+and why. Oddly enough, despite the ability to spend lots of time
+reading and writing, I still end up writing at roughly the same rate I
+did back when I was working full-time. Some days the words flow freely
+and I queue up a few posts, other days I'm casting about for ideas. My
+reading has shifted a little, and for the better (I think). I doubt
+I'd have had the patience to read philosophy and reflect on it slowly
+back when I read in the evenings and the occasional weekend.
+
+Aristotle writes in the /Nichomachean Ethics/ on the topic of why we choose what we choose:
+#+begin_quote
+But that [virtue and vice] are concerned with the same things might become manifest to us also from these considerations: there being three objects of choice and three of avoidance--the noble, the advantageous, and the pleasant together with their three contraries, the shameful, the harmful, and the painful--in all these the good person is apt to be correct, the bad person to err, but especially as regards pleasure. (1104b30)
+#+end_quote
+
+It might be useful, then, to reflect on these leisure activities and
+figure out how they stack up against Aristotle's objects, along with
+some notes on how adding more time to these activities makes sense.
+This will help me make a decision about the months leading up to
+November, and for after the break (depending on how things turn out).
+
+Legend:
+- T: Well-served by additional time
+- N: Noble
+- A: Advantageous
+- P: Pleasant
+
+| T | N | A | P | Activity and notes                                                                                                                                                                                               |
+|---+---+---+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| T | N | A | P | Work so that I can develop my skills and reputation, help people out, make a difference, and enjoy excellence; More time = better skills, more help, more appreciation                                           |
+| T | N | A | P | Write or draw what I'm learning so that I can understand, remember, and share; More time = more application and sharing, and better skills too                                                                   |
+| T | N | A | ? | Spend time with people (online/offline) so that I can appreciate other people's interestingness; More time = more opportunities to get to know people                                                     |
+| T | N | A |   | Copy, review, and apply my notes so that I can learn more; More time = deeper understanding and application, more connections among ideas                                                                        |
+| T |   | A | P | Tidy up, take care of chores/errands, and cook so that we have a smoothly running household and so that W- feels wonderful; More time = cleaner and smoother-running household, but possibly diminishing returns |
+| T |   | A | P | Learn Latin so that I can read and enjoy older works, and so that I can enjoy learning; More time = more practice, but constrained by memory                                                                     |
+| T |   | A | P | Learn Japanese so that I can enjoy listening to anime/podcasts and reading tech news/blogs; More time = more practice, but constrained by memory                                                                 |
+| T |   | A | P | Bike so that I can exercise, get somewhere, and save money; More time = more explorations                                                                                                                        |
+| T |   | A | ? | Go to meetups and talks so that I can learn and meet people; More time = more knowledge and connections                                                                                                          |
+| T |   | A | ? | Build simple furniture or fix things around the house so that I can make/repair things that suit us (haven't done this in a few years, but worth revisiting); More time = better DIY skills                      |
+| T |   | A | ? | Work on Emacs so that I can learn more, customize it better, and help others learn; More time = more knowledge and resources                                                                                     |
+| T |   | A |   | Finish projects so that I can reduce mental clutter; More time = more stuff done                                                                                                                                 |
+| ? | N | A | P | Exercise so that I can become healthier; More time = fitter, but constrained by gradual training program                                                                                                         |
+| ? | N | A |   | Read nonfiction books so that I can recognize and articulate ideas, and so that it prompts thinking / writing. More time = more reading, but application may be better                                           |
+| ? |   | A | P | Have a massage so that I can learn more about my muscles; More time = more relaxed and more aware                                                                                                                |
+| ? |   | A | P | Draw what I'm watching or reading so that I can practise drawing people and so that I get more out of the movie; More time = better drawing skills                                                               |
+| ? |   | A | ? | Read social media updates and interact with people online so that I can maintain connections and learn from people's lives; More time = more interaction                                                         |
+| ? |   | A |   | Read and write e-mail so that I can help or learn from more people; More time = prompter replies                                                                                                                 |
+| ? |   | A |   | Balance my books and plan my finances so that I can make better decisions; More time = better prepared, but possibly diminishing returns                                                                         |
+| ? |   | A |   | Sew so that I can make or fix things suited for us; More time = projects, better attention to detail, improved skills                                                                                            |
+| ? |   | A |   | Research and buy things to improve our quality of life; More time = wider awareness and better decisions                                                                                                         |
+| ? |   |   | P | Play with the cats so that I can be amused and so that I can appreciate them; More time = happier cats                                                                                                           |
+| ? |   |   | P | Garden so that I can slow down and enjoy watching things grow; More time = more attention, but limited by knowledge and conditions                                                                               |
+|   | N | A | P | Cook at Hacklab so that I can connect with people and learn new recipes; More time = more elaborate or consistent meals, but limited by frequency                                                                |
+|   | N | A |   | Simplify our things so that I can practise detachment and resourcefulness; More time = simpler life                                                                                                              |
+|   |   | A | P | Read blogs so that I can get a sense of other people's lives and challenges; More time = greater awareness and possible interactions                                                                             |
+|   |   | A |   | Do paperwork and plan ahead so that we can minimize risks; More time = better organization, but diminishing returns                                                                                              |
+|   |   |   | P | Watch movies so that I can spend time with W-, accumulate more in-jokes, and enjoy other people's work; More time = more shared experiences                                                                      |
+|   |   |   | P | Watch amusing videos and read fiction/blogs/analyses online so that I can appreciate other people's brilliance; More time = more pleasure and appreciation, but limited value                                    |
+|   |   |   | P | Play video games so that I can appreciate other people's brilliance and enjoy figuring things out; More time = more pleasure and appreciation, but limited value                                                 |
+|   |   |   | P | Sleep so that I am well-rested; More time = an excess of sleep                                                                                                                                                   |
+
+Hmm. Tabulating and sorting it like this is actually pretty useful. I
+can see why work is so tempting for me, despite the opportunity to do
+other things. It is an opportunity to work towards and practise
+nobility/excellence through work; it is advantageous in terms of
+resources and reputation, which contributes to safety; and it's
+pleasant, especially when I get a chance to do some rapid-prototyping
+magic or some custom analytics.
+
+Writing and drawing are less clear and more self-directed. But they
+are useful techniques for working towards nobility; they are
+advantageous both in terms of the content and the skills I develop;
+and both the process and the results of figuring things out are
+pleasant. If I spend more time and attention on these things, I can
+improve my ability to observe and articulate. It may take me years to
+get the hang of these skills, but they are good to develop.
+
+I can develop both writing and drawing in the afternoons and evenings,
+but I do notice a difference in attention. I usually watch movies in
+the evening as a way of spending time with W-. This is okay for slow
+and light writing, but does not lend itself well to study, deep
+reflection, or application. When I worked full-time, I generally wrote
+in the evenings (sometimes before dinner, sometimes shortly after) or
+on one of the weekend afternoons. I like writing on weekday
+afternoons, now. I like the pace. Would I pick that over consulting?
+Yes, actually, depending on what kinds of tasks I'd work on. I can put
+off writing when there are important and time-sensitive tasks to be
+done, but writing is also important to me long-term, and I'm willing
+to take on a little risk in order to experiment with it.
+
+Hmm. If I do two to three days of work a week--maybe even four--from
+now to October, while leaving at least one full day for writing,
+that's probably good. I can front-load the writing, since that's
+important to me. If I feel it could use more time, I might adjust what
+I work on. I'll spend the usual time cooking and taking care of
+house-things, although I might spend a little more time during the
+week to cook fresh dinners. I can use the three-month break to
+experiment with more writing and drawing. In the meantime, I can avoid
+getting used to the additional income by stashing it all in a safety
+net, opportunity fund, or similar budget. If we keep our lifestyle the
+same, it's easy to evaluate work for its own sake.
+
+Are there some smaller-value activities that I should spend more time
+on instead of reading, writing, and drawing? Spending time with people
+is nice, but it can be a little iffy in terms of energy, so I might
+take the occasional opportunity and use the rest of the time on other
+things. I can review my notes instead of reading lots of new books,
+and use those notes for material for blog posts and experiments. When
+I find myself looking for non-writing activities, this table might be
+handy to review.
+
+Let's see how this works out.
 
 ** Gardening
 *** The garden is becoming part of my daily life 										 :garden:
@@ -4268,7 +5298,8 @@ I'm giving myself permission to take long walks, to draw for the sake of drawing
 	:PROPERTIES:
 	:QUANTIFIED: Emacs
 	:END:
-** STARTED Emacs geek, but not Lisp geek?
+** CANCELLED Emacs geek, but not Lisp geek?
+	 CLOSED: [2014-08-09 Sat 22:05]
 	 :LOGBOOK:
 	 CLOCK: [2014-05-28 Wed 19:48]--[2014-05-28 Wed 20:37] =>  0:49
 	 :END:
@@ -5045,6 +6076,50 @@ Bastien's travelling at the moment, but wouldn't it be lovely if he got back to 
 Hey, if there are [[http://www.intertech.com/Consulting/Eclipse-Consulting][*Eclipse* consultants]]... Surely we can get even more value out of Emacs consulting!
 
 * Other tech notes
+** DONE Back to drawing digitally, thanks to Wacom drivers						 :geek:
+	 CLOSED: [2014-08-10 Sun 12:29]
+	 :LOGBOOK:
+	 CLOCK: [2014-08-10 Sun 11:45]--[2014-08-10 Sun 12:29] =>  0:44
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :ID:       o2b:509fef5f-2d68-4891-921b-966d5c41524c
+	 :POST_DATE: [2014-08-10 Sun 11:52]
+	 :POSTID:   27421
+	 :BLOG:     sacha
+	 :END:
+
+I [[http://sachachua.com/blog/2013/01/first-thoughts-on-windows-8/][upgraded to Microsoft Windows 8]] in January 2013 mainly primarily
+because I noticed myself resisting the change. For the most part, I
+adapted easily. I liked using Win-q to launch applications, and I even
+got the hang of the complicated procedure for shutting down. 
+
+Still, the upgrade was a step backwards in terms of drawing on my
+tablet PC. On Windows 7, I had disabled the touchscreen in order to
+make stylus use easier; on Windows 8 (and later 8.1), I couldn't
+reliably disable the touchscreen. The option had disappeared from the
+built-in Pen & Touch configuration dialog, and disabling it through
+the hardware devices list sometimes didn't work. 
+
+This meant that I either had to wear something to insulate my palm
+from the screen in order to avoid accidental touches (even my thinnest
+glove was still warm and unwieldy), or I had to occasionally erase
+stray dots. Both got in the way of drawing on my computer, so I didn't
+do much of either.
+
+While upgrading various pieces of software (Autodesk Sketchbook Pro,
+Dragon Naturally Speaking), I thought to check if Lenovo or Wacom had
+released new drivers yet. Wacom had! Woohoo. I insntalled the [[http://us.wacom.com/en/feeldriver/][Wacom
+Feel driver]], rebooted my computer, and found the Wacom Pen & Touch
+dialog had a checkbox for disabling touch.
+
+It's funny how these little inconveniences can add just enough
+friction to make something feel annoying, and how smoothening those
+inconveniences over can make a big difference in how you work and how
+you feel about it. I'm looking forward to playing around with the new
+features in Sketchbook Pro now. Glad I checked for updates!
+
+
 ** Stuff I use
 	 :LOGBOOK:
 	 CLOCK: [2014-06-11 Wed 09:53]--[2014-06-11 Wed 09:59] =>  0:06
@@ -5061,6 +6136,17 @@ quantifiedawesome.com has a more detailed breakdown of my time.
 
 ** How to use Drush to download and install a Drupal module          :search:
 ** After a year: Logitech H800 review
+** Consulting
+	 :LOGBOOK:
+	 CLOCK: [2014-07-31 Thu 19:05]--[2014-07-31 Thu 19:12] =>  0:07
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+
+When I worked as a consultant at IBM, I generally worked on short-term projects
+One of the things I 
+
 * Business and career
 ** Is your podcast a good fit for sketchnotes?
 
@@ -5153,6 +6239,24 @@ up people.
 ** DONE Year 2 Review
 ** Learning from how other people delegate
 ** Brock Health review: Setting up your own HSPA
+** Passing on skills
+	 :LOGBOOK:
+	 CLOCK: [2014-07-25 Fri 19:03]--[2014-07-26 Sat 10:49] => 15:46
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+
+It's been a little over two years since I started consulting for this
+one client of mine. Come to think of it, it's the longest I've ever
+spent working on the same project. I like the team and what we work
+on, so I continue to do this even though I'm slowly nudging the
+balance of my time closer to retirement/leisure. I want them to be able to do cool stuff even when I've moved all the way over
+
+
+Both analytics and rapid prototyping 
+
+
 * Visual thinking: sketchnotes, mindmaps, models, etc.
 ** Daily sketches
 http://www.flickr.com/photos/sachac/sets/72157633473617366/
@@ -7071,66 +8175,24 @@ student--they seek to eliminate the feeling instead.
 - Seth Godin, The Icarus Deception
 
 * Connecting
-** TODO Hacklab open houses and connecting through service   :connecting:
+** The house where friends gather
+	 :LOGBOOK:
+	 CLOCK: [2014-08-06 Wed 16:37]--[2014-08-06 Wed 16:49] =>  0:12
+	 :END:
 	 :PROPERTIES:
-	 :ID:       o2b:e25055ef-9d4a-491b-ba99-b4da18e9d283
-	 :POST_DATE: [2014-07-09 Wed 15:32]
-	 :POSTID:   27380
-	 :BLOG:     sacha
+	 :Effort:   1:00
 	 :END:
 
-I joined [[http://hacklab.to][Hacklab]] (a small makerspace here in Toronto) [[http://sachachua.com/blog/2013/02/thinking-about-joining-hacklab-to/][early in 2013]]. I
-thought of it mostly as a way to meet people who are working on
-interesting projects, hang out, and learn together. [[http://sachachua.com/blog/2013/10/decision-review-seven-months-hacklab/][It's been working
-out well,]] and I'm gradually getting into helping the community more.
+J- often has friends over. Sometimes she and a friend will disappear
+into her room to hang out playing games and chatting. Other times,
+they'll take over the living room with its television and PS3. We help
+with the occasional study group. One time J- showed up with thirteen
+other kids and two pies, and they celebrated Pi Day on the deck.
 
-Hacklab hosts an open house every Tuesday evening. It's a good
-opportunity for prospective members to check out the place and chat
-with people about their projects. We usually put together a vegan
-dinner donated by the person cooking it so that it's free for the
-members and guests (although sometimes people pitch in for groceries).
-There's no fixed schedule; people just volunteer to cook whenever they
-want. When I'm there, I often volunteer. I treat it as a vegan cooking
-lesson / soup kitchen / party. Sure, I'm teaching myself, but it's
-still an excuse to try new recipes. I think the people there are worth
-supporting, and cooking is a much more efficient use of money than
-having people go out to dinner. Besides, other people often help with
-preparing the ingredients, and we can chat while doing so.
+We encourage this with food, space, patience. 
 
-Here are some easy dishes that we can make with ingredients from
-nearby grocery stories:
 
-- Gazpacho: tomatoes, cucumbers, peppers, onions, garlic; serve with bread
-- Pasta salad: peas, tomatoes, olives, cucumbers
-- Curry: potatoes, carrots, green beans, tofu, onions; there are
-  plenty of spices in the cabinet
-- Ratatouille: potatoes, zucchini, peppers, onions, garlic; serve with
-  bread
-- Lentil dal: tomatoes, lentils, ginger, garlic, onions
 
-I think I'll make recipe cards with serving numbers and cost
-estimates. That will probably make it easier to come up with dinners
-on the fly, and it might encourage other people to cook too.
-
-We've been slowly improving the Hacklab kitchen. The addition of pots,
-a rice cooker, and lots of cutlery helped a lot. (It was difficult to
-cook and serve before those things!) Last week, I replaced the rather
-ineffective and hadn't-been-washed-in-ages kitchen towels with two
-sets I'd made from some fabric we had at home. I'll add the towels to
-our weekly laundry cycle, so things actually get washed. Storage is
-still an issue. The fridge is used mostly for drinks, so we try to not
-have any left-over ingredients or servings.
-
-I'm not currently working on super-geeky projects that involve other
-members or the equipment that's there. (It would be interesting to do
-more with the laser cutter, 3D printers, or the new mill!) But cooking
-gives me a way to help other people, so that's something.
-
-I think I like this approach of taking responsibility for making
-Hacklab a little bit better for people. You get as much out of a
-community as you put in, and these little domestic touches can help
-make a place feel more like home. (I'm going to keep nudging people to
-put their dishes in the dishwasher, though! ;) )
 
 ** I like being introverted  :snippets:
 
@@ -7578,6 +8640,126 @@ receive advantage not being creditable.
 a good meal, giving a person a hug, or helping out in ways that take
 advantage of our different skills and experiences.
 
+** DONE Sharing cooking adventures											 :cooking:connecting:
+	 CLOSED: [2014-07-30 Wed 23:05]
+	 :LOGBOOK:
+	 CLOCK: [2014-07-30 Wed 21:23]--[2014-07-30 Wed 23:05] =>  1:42
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :ID:       o2b:292cbf95-f9b4-444c-b98c-1e4b9327ce0e
+	 :POST_DATE: [2014-07-30 Wed 23:05]
+	 :POSTID:   27405
+	 :BLOG:     sacha
+	 :END:
+
+I told W- about the [[http://allrecipes.com/recipe/ethiopian-cabbage-dish/][Ethiopian cabbage dish]] that Eric and I made at
+Tuesday's open house at Hacklab, to go with the [[http://en.wikipedia.org/wiki/Injera][injera]] that we bought
+from a store a few doors down from Hacklab. We had decided to go with
+cooking Ethiopian food because it was a cool day (so, a warm meal), we
+hadn't cooked anything Ethiopian before, and Eric had mentioned the
+injera previously; so we looked online for vegan Ethiopian recipes and
+picked a simple one to start with. A typical Ethiopian meal includes
+several kinds of stews served on top of the flatbread, but we figured
+it was fine to start with just one recipe and let people decide how
+they want to eat it. It worked out pretty well, although there were a
+few moments when we weren't quite sure how to fit all that shredded
+cabbage in. (Eric picked the biggest head of cabbage, I think!) $16 of
+groceries fed lots of people, and there were still leftovers by the
+time I left.
+
+W- asked, "How come you're not as experimental when cooking at home?"
+Come to think of it, I tend to test recipes at Hacklab before trying
+them at home: gazpacho, Thai curry, Japanese curry... Cooking at
+Hacklab is fun because other people help (getting that second chef's
+knife for Hacklab was totally worth it!) and the meals disappear
+pretty quickly. 
+
+But we're even better set up to experiment at home. Proper chopping
+boards, all the pots and pans I need, no worries about extra
+ingredients or leftovers, and backup plans in case things go wrong...
+Slightly pickier eaters, but if I mess up, I can always pack it in the
+freezer for later, or even toss it out if I really have to. (I tend to
+have more tolerance for cooking than I should, although even I have
+had to give up on some attempts before. Ah well!)
+
+W- is much more experienced at cooking than I am, so I'm catching up
+by exploring different recipes. Cooking has become a hobby for me -
+something I enjoy for its own sake, even if I'm still working on
+getting better at it. It's even more fun when you're cooking with
+someone, since you can laugh at stuff and swap stories. Sometimes W-
+and I cook together, although I guess lately I've been trying to do
+most of the household prep so that he can focus on work. Choosing the
+recipe is part of the fun, and making something often results in funny
+stories even if there are hiccups along the way (/especially/ if there
+are!). Maybe we'll just make a habit of trying one new recipe a week.
+Between that and Hacklab, I'll be learning tons of recipes, yay!
+
+Mmm... What do I want to try? Different kinds of pasta, for J-.
+Curries of the world! Salads for summer, both cold and warm! Mmm...
+
+** DONE Hacklab open houses and connecting through service			 :connecting:
+	 CLOSED: [2014-07-30 Wed 21:22]
+	 :PROPERTIES:
+	 :ID:       o2b:e25055ef-9d4a-491b-ba99-b4da18e9d283
+	 :POST_DATE: [2014-07-09 Wed 15:32]
+	 :POSTID:   27380
+	 :BLOG:     sacha
+	 :END:
+
+I joined [[http://hacklab.to][Hacklab]] (a small makerspace here in Toronto) [[http://sachachua.com/blog/2013/02/thinking-about-joining-hacklab-to/][early in 2013]]. I
+thought of it mostly as a way to meet people who are working on
+interesting projects, hang out, and learn together. [[http://sachachua.com/blog/2013/10/decision-review-seven-months-hacklab/][It's been working
+out well,]] and I'm gradually getting into helping the community more.
+
+Hacklab hosts an open house every Tuesday evening. It's a good
+opportunity for prospective members to check out the place and chat
+with people about their projects. We usually put together a vegan
+dinner donated by the person cooking it so that it's free for the
+members and guests (although sometimes people pitch in for groceries).
+There's no fixed schedule; people just volunteer to cook whenever they
+want. When I'm there, I often volunteer. I treat it as a vegan cooking
+lesson / soup kitchen / party. Sure, I'm teaching myself, but it's
+still an excuse to try new recipes. I think the people there are worth
+supporting, and cooking is a much more efficient use of money than
+having people go out to dinner. Besides, other people often help with
+preparing the ingredients, and we can chat while doing so.
+
+Here are some easy dishes that we can make with ingredients from
+nearby grocery stories:
+
+- Gazpacho: tomatoes, cucumbers, peppers, onions, garlic; serve with bread
+- Pasta salad: peas, tomatoes, olives, cucumbers
+- Curry: potatoes, carrots, green beans, tofu, onions; there are
+  plenty of spices in the cabinet
+- Ratatouille: potatoes, zucchini, peppers, onions, garlic; serve with
+  bread
+- Lentil dal: tomatoes, lentils, ginger, garlic, onions
+
+I think I'll make recipe cards with serving numbers and cost
+estimates. That will probably make it easier to come up with dinners
+on the fly, and it might encourage other people to cook too.
+
+We've been slowly improving the Hacklab kitchen. The addition of pots,
+a rice cooker, and lots of cutlery helped a lot. (It was difficult to
+cook and serve before those things!) Last week, I replaced the rather
+ineffective and hadn't-been-washed-in-ages kitchen towels with two
+sets I'd made from some fabric we had at home. I'll add the towels to
+our weekly laundry cycle, so things actually get washed. Storage is
+still an issue. The fridge is used mostly for drinks, so we try to not
+have any left-over ingredients or servings.
+
+I'm not currently working on super-geeky projects that involve other
+members or the equipment that's there. (It would be interesting to do
+more with the laser cutter, 3D printers, or the new mill!) But cooking
+gives me a way to help other people, so that's something.
+
+I think I like this approach of taking responsibility for making
+Hacklab a little bit better for people. You get as much out of a
+community as you put in, and these little domestic touches can help
+make a place feel more like home. (I'm going to keep nudging people to
+put their dishes in the dishwasher, though! ;) )
+
 * Family
 ** Five things I'm learning from playing Legend of Heroes: Trails in the Sky
 - solo Japanese RPG
@@ -7661,6 +8843,16 @@ Every so often, I go through my list and remove plugins I don't use as much in o
 - Namecheap
 - Odesk
   
+* Learning from things I like
+** Learning from things I like: Honest Trailers, How It Should Have Ended
+
+W- and I really like these two Youtube channels:
+
+- [[https://www.youtube.com/playlist?list=PL86F4D497FD3CACCE][Honest Trailers]]
+- [[https://www.youtube.com/user/HISHEdotcom][How It Should Have Ended]]
+
+What do I like about it? I like the way these videos poke fun at the [[http://tvtropes.org][tropes]] (and especially the [[http://tvtropes.org/pmwiki/pmwiki.php/Headscratchers/HomePage?from=JustForFun.Musings][headscratchers]]) that you sometimes don't notice when you're watching a movie. Honest Trailers point out the similarities between movies (examples: [[https://www.youtube.com/watch?v=qPUZo3dQSEM][Divergent]], [[https://www.youtube.com/watch?v=AOIi9SjJvgU][Lord of the Rings]]). HISHE applies common sense
+
 * Life
 ** Positivity
 	 :LOGBOOK:
@@ -7773,7 +8965,7 @@ How about your garden? How about your life?
 
 
 
-** TODO Gardening and learning to see the small differences
+** CANCELLED Gardening and learning to see the small differences
 I'm in the garden every other day, sometimes more often. I pull weeds, test the soil, water the plants. I'm paying closer attention this year, trying to learn the differences, trying to get a sense of things growing (as slow as they do). 
 ** DONE Started gardening - April 2014														:gardening:
 	 CLOSED: [2014-04-13 Sun 21:55]
@@ -8733,3 +9925,167 @@ P.S. Tell me a little bit about you: who you are, how you came across this blog,
 - [[http://sachachua.com/blog/book-accelerate-your-learning-with-sketchnotes/][Accelerate your learning with sketchnotes]]
 - [[http://sachachua.com/blog/book-thinking-with-emacs/][Thinking with Emacs]]
 
+* Reviews
+** DONE Turning 31																									 :yearly:
+	 :LOGBOOK:
+	 CLOCK: [2014-08-09 Sat 14:04]--[2014-08-09 Sat 15:32] =>  1:28
+	 CLOCK: [2014-08-09 Sat 13:30]--[2014-08-09 Sat 13:56] =>  0:26
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :ID:       o2b:320040b3-2d19-4ff9-b6d0-2753b0c715ba
+	 :POST_DATE: [2014-08-09 Sat 15:26]
+	 :POSTID:   27416
+	 :BLOG:     sacha
+	 :END:
+
+What a year! Life just keeps getting better and better.
+
+I like looking forward by looking back: imagining myself in the future and seeing what changed. 
+[[http://sachachua.com/blog/2013/08/year-in-review-life-as-a-29-year-old/][Last August, I wrote]]: "When I look back at this year on the eve of turning 31, I’d like to say..."
+So here's how all that worked out.
+
+#+begin_quote
+I’ve learned and shared a lot. This next year will probably be a year
+of intense learning in terms of life and work and Making Things
+Happen. As tempting as it always is to go full speed ahead, I think
+the result will be even better if I slow down and take notes along the
+way.
+#+end_quote
+
+I slowed down in terms of work, scaling back my consulting hours to
+about two days a week and using the freed-up time for reading,
+cooking, spending time with family, and working on other
+projects/experiments like Emacs and sketchnoting. That worked out
+really well. 
+
+#+begin_quote
+I’ve gotten very good at making decisions under lots of uncertainty.
+The outcomes might not always be good, but at least the processes
+will be well-reasoned and I’ll have notes to help me (and other
+people) learn more.
+#+end_quote
+
+I'm comfortable taking on bigger and bigger challenges. I'm
+comfortable with research and can generally find some background
+information quickly. I have fun sketching out different scenarios and
+finding my way. This is working nicely too.
+
+#+begin_quote
+I’ve expanded my freedom and abilities in this 5-year experiment.
+I’ve focused on building up skills, knowledge, and relationships out
+of curiosity (“What if?” “How can we make this better?”) instead of
+fear (“Will I be able to hit the ground running if I decide to go
+back to the workforce?”). I find creative ways to deal with
+constraints, and those ideas help others. Writing, drawing, and
+coding continue to be a large part of my life.
+#+end_quote
+
+I added a few useful business-related skills and improved a number of
+my existing skills. Yay! This is definitely fun, and I'm looking
+forward to figuring out what the next year will bring.
+
+#+begin_quote
+I’ve gotten better at asking questions. This is tough, because I
+tend to want to dig into things myself, Google+books+experiments
+give me so much information, and advice can get a little weird if
+you don’t take it. Maybe if I start asking people questions through
+this blog, I might elicit interesting perspectives or encourage
+people to teach something (especially if they don’t have blogs of
+their own).
+#+end_quote
+
+Philosophy turned out to be a good addition to the things I'm learning
+and thinking about. By immersing myself in the conversations of book
+authors throughout the ages, I can learn from all these very smart
+people who have thought about things. =)
+
+#+begin_quote
+I live a simple and frugal life. Lifestyle inflation is the enemy.
+If I can keep my wants and needs the same–-or even reduce them–-then
+that helps us be even more free.
+#+end_quote
+
+My base expenses were actually a little bit lower than they were the
+previous year. Neat! The stock market has been doing pretty well
+(aside from the current dip), and I've been saving most of the income
+from consulting too. I'm going to figure out dividends next year, so
+then I'll be able to move more money from savings into investments.
+
+Where did the year go?
+
+| [[http://sachachua.com/blog/2013/8/][August 2013]] | Lots of drawing, making sketchnote lessons                       |
+| [[http://sachachua.com/blog/2013/9][September]]   | Emacs, writing, sketchnotes, learning tips                       |
+| [[http://sachachua.com/blog/2013/10][October]]     | More drawing, reflecting on my experiment                        |
+| [[http://sachachua.com/blog/2013/11][November]]    | Google Helpouts, Emacs chats                                     |
+| [[http://sachachua.com/blog/2014/12][December]]    | Trip to the Philippines!                                         |
+| [[http://sachachua.com/blog/2014/1][January]]     | Lots of learning tips                                            |
+| [[http://sachachua.com/blog/2014/2][February]]    | Writing about blogging; making that no-excuses guide to blogging |
+| [[http://sachachua.com/blog/2014/3][March]]       | Frugal Fire podcast experiment                                   |
+| [[http://sachachua.com/blog/2014/4][April]]       | More Emacs Chats and Frugal Fire podcasts; Raspberry Pi          |
+| [[http://sachachua.com/blog/2014/5/][May]]         | Even more Emacs Chats                                            |
+| [[http://sachachua.com/blog/2014/6/][June]]        | Read Lisp, Tweak Emacs                                           |
+| [[http://sachachua.com/blog/2014/7/][July]]        | Philosophy                                                       |
+
+So, how am I different from the person I was last year?
+
+- *I'm healthier.* I like these new exercise habits (running to build
+  up endurance, the Hacker's Diet exercise ladder for very gradually
+  building up strength). We've been eating even better too.
+- *I did a lot of cool front-end work on my consulting engagement.* I
+  picked up new skill: Jive app/add-on development. Improved existing
+  skills, too: Javascript, analytics, etc.
+- *I spent a lot less time working, networking, and socializing*
+  (reduced by 263, 333, and 324 hours respectively!), and more time
+  working on Emacs, gardening, reading, and sleeping. I spent about as
+  much time writing as I did last year. I shifted most of my
+  socialization to Hacklab, since I like the way it fits me.
+- *I had good experiments with self-publishing.* I published my [[http://sachachua.com/blog/2014/03/new-freepay-want-resource-sketchnotes-2013-also-emacs-dired-rocks/][2013
+  collection of sketchnotes]], [[http://sachachua.com/blog/series/a-no-excuses-guide-to-blogging/#post-26790][a no-excuses guide to blogging]] and [[emacslife.com/how-to-read-emacs-lisp.html][a
+  beginner's guide to learning Emacs Lisp]]. I checked out Createspace
+  for making [[http://sachachua.com/blog/sketchnotes2013book][a print version of my sketchnotes collection]], and that
+  actually worked out nicely. I did the Emacs Lisp guide as an e-mail
+  course, too.
+- *I drew more.* I thought I drew less, but actually, my time records
+  and my files say that I drew a /lot/ more. It just didn't feel that
+  way because I've been writing so many text-based blog posts lately.
+  (Hah! Recency bias.)
+- *I learned more about podcasting* by doing short series of shows
+  with live sketchnotes, followed up with transcripts (Emacs Chats,
+  Helpers Help Out, Frugal Fire Show). I might not get into it
+  long-term, but it was interesting to try out.
+- *I'm more comfortable with talking to people and helping them
+  online.* I experimented with the Google Helpouts platform, helping
+  people learn more about note-taking, learning, building on introvert
+  strengths, and Emacs. That worked out well (tons of 5-star
+  reviews!), although I scaled my availability down so that I could
+  focus on other things.
+- *I'm more comfortable with philosophy*, and with the humanities in
+  general. I've been reading a lot lately, and I find philosophy to be
+  useful and interesting. I'm getting better at not worrying about
+  things and at writing about what I'm thinking. Yay!
+- *I'm more involved in family life.* I spend more time on
+  family-related things, and I've been helping W- more too.
+- *I've learned a little more about gardening.* Watering regularly
+  makes a difference, but I'm still constrained by environmental
+  factors.
+
+Next year, I'll turn 32. (Nice round number!) *When I do my annual review then, what would I like to be able to say about life as a 31-year-old?*
+
+#+begin_quote
+- *I have excellent health-related habits* I have the strength,
+  flexibility, and endurance to do what I want to do.
+- *Our home life is wonderful.* We enjoy yummy food, good projects, a
+  tidy house, simple lives, great relationships, and other things.
+- *I helped my consulting client make successful transitions.*
+  Upgrades, training, time away... I did my work well, and they're in
+  a great position to continue doing awesome things in the future.
+- *I've broadened my business a little bit more.* I might go deeper
+  into writing/drawing/publishing, or I might look into product
+  development. This reduces the risk of being classified as a personal
+  services business, and it may lead to other interesting skills and
+  opportunities. In terms of development, I like web-based stuff more
+  than mobile, so maybe I'll focus on that.
+#+end_quote
+
+Life is good. Looking forward to seeing how this year turns out!
