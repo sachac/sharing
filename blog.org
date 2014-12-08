@@ -126,10 +126,6 @@ See also: [[no-excuses-blogging][Blogging, A No-Excuses Guide to]]
 - [X] [[http://sachachua.com/blog/2008/01/blogging-works-in-mysterious-ways/][Blogging works in mysterious ways]]
 - [X] [[http://sachachua.com/blog/2008/01/10-tips-for-new-bloggers/][10 tips for new bloggers]]
 - [X] [[http://sachachua.com/blog/2008/04/addicted-to-blogging/][Addicted to blogging?]]
-- Mapping
-  - [X] [[http://sachachua.com/blog/2012/03/mapping-blog-archives/][Mapping my blog archives]]
-  - [X] [[http://sachachua.com/blog/2012/05/maintaining-a-manual-topical-index-for-my-blog-using-emacs/][Maintaining a manual topical index for my blog using Emacs]]
-  - [X] [[http://sachachua.com/blog/2013/07/how-to-manage-a-large-blog-archive/][How to manage a large blog archive]]
 
 ** Blogging, A No-Excuses Guide to   :trail:book:
 	 :PROPERTIES:
@@ -1421,7 +1417,6 @@ Obsolete
 - [X] [[http://sachachua.com/blog/2010/01/thinking-out-loud-mapping-what-i-know/][Thinking out loud: Mapping what I know]]
 - [X] [[http://sachachua.com/blog/2010/01/how-i-explore-my-interests/][How I explore my interests]]
 - [X] [[http://sachachua.com/blog/2010/01/accessing-tacit-knowledge-and-building-pathways-for-two-way-learning/][Accessing tacit knowledge and building pathways for two-way learning]]
-- [X] [[http://sachachua.com/blog/2010/01/personal-knowledge-management-morgue-files-capture-systems/][Personal knowledge management, morgue files, capture systems]]
 - [X] [[http://sachachua.com/blog/2010/01/information-gardening-tasks/][Information gardening tasks]]
 - [X] [[http://sachachua.com/blog/2010/03/what-do-i-want-to-learn-making-a-map/][What do I want to learn? Making a map]]
 - [X] [[http://sachachua.com/blog/2010/04/on-role-models/][On role models]]
@@ -1679,6 +1674,15 @@ Obsolete
 - [X] [[http://sachachua.com/blog/2009/10/grocery-round-up-toronto/][Grocery round-up: Toronto]]
 - [X] [[http://sachachua.com/blog/2008/05/gen-y-growing-up-my-first-chat-with-a-financial-planner/][Gen Y Growing Up: My first chat with a financial planner]]
 - [X] [[http://sachachua.com/blog/2011/01/book-let%e2%80%99s-real-money-profit-habits-personal-finance-managers/][Book: Let's Get Real About Money: Profit from the Habits of the Best Personal Finance Managers]]
+** Personal knowledge management [5/5]
+
+- [X] [[http://sachachua.com/blog/2014/03/describing-personal-knowledge-management-routines-harold-jarches-seek-sense-share-framework/][Describing my personal knowledge management routines with Harold Jarche’s Seek-Sense-Share framework]] (March 2014)
+- [X] [[http://sachachua.com/blog/2014/03/notes-managing-large-blog-archive/][More notes on managing a large blog archive: 17 things I do to handle 10+ years of blog posts]] (March 2014)
+- [X] [[http://sachachua.com/blog/2012/03/mapping-blog-archives/][Mapping my blog archives]] (March 2012)
+- [X] [[http://sachachua.com/blog/2012/05/maintaining-a-manual-topical-index-for-my-blog-using-emacs/][Maintaining a manual topical index for my blog using Emacs]] (May 2012)
+- [X] [[http://sachachua.com/blog/2013/07/how-to-manage-a-large-blog-archive/][How to manage a large blog archive]] (July 2013)
+- [X] [[http://sachachua.com/blog/2010/01/personal-knowledge-management-morgue-files-capture-systems/][Personal knowledge management, morgue files, capture systems]] (Jan 2010)
+
 ** Philosophy [15/15]
 - [X] [[http://sachachua.com/blog/2014/08/learning-philosophy-right-time/][Learning philosophy at the right time]]
 - [X] [[http://sachachua.com/blog/2014/08/call-man-happy-dead-think-okay-happy/]["Call no man happy until he is dead" - I think it's okay to be happy]]
@@ -2159,8 +2163,6 @@ See also: [[remote-presentations][Presentations, remote]]
 See also [[blogging][Blogging]], [[writing][Writing]]
 - [X] [[http://sachachua.com/blog/2014/02/stepping-publishing/][Stepping up to publishing]]
 - [X] [[http://sachachua.com/blog/2014/01/work-self-work/][Other-work and self-work]]
-- [X] [[http://sachachua.com/blog/2014/03/describing-personal-knowledge-management-routines-harold-jarches-seek-sense-share-framework/][Describing my personal knowledge management routines with Harold Jarche’s Seek-Sense-Share framework]]
-- [X] [[http://sachachua.com/blog/2014/03/notes-managing-large-blog-archive/][More notes on managing a large blog archive: 17 things I do to handle 10+ years of blog posts]]
 
 ** Shopping [3/3]
 - [X] [[http://sachachua.com/blog/2014/08/shopping-clothes/][Shopping for clothes]]
@@ -3084,3 +3086,39 @@ http://frugalfire.com
 - [X] [[http://sachachua.com/blog/2007/12/weekly-report-2/][Weekly report: December 14, 2007]]
 - [X] [[http://sachachua.com/blog/2007/12/weekly-review-12/][Weekly review: Week ending November 30, 2007]]
 * Inbox
+
+#+begin_html
+<script type="text/javascript">
+// from http://www.jquerybyexample.net/2012/06/get-url-parameters-using-jquery.html
+function getURLParameter(sParam)
+{
+    var sPageURL = window.location.search.substring(1);
+    var sURLVariables = sPageURL.split('&');
+    for (var i = 0; i < sURLVariables.length; i++)
+    {
+        var sParameterName = sURLVariables[i].split('=');
+        if (sParameterName[0] == sParam)
+        {
+            return sParameterName[1];
+        }
+    }
+}
+
+function sachaScrollToBlog() {
+  if (getURLParameter("url")) {
+    var link = $('a[href="' + getURLParameter("url") + '"]');
+    if (link.length > 0) { 
+      $('html, body').scrollTop(link.offset().top - 100);
+      link.addClass("highlighted");
+    } else {
+      alert("Sorry, could not find post in index.");
+    }
+  }
+}
+
+$(document).ready(sachaScrollToBlog);
+</script>
+<style type="text/css">
+a.highlighted { background-color: yellow; padding: 10px }
+</style>
+#+end_html
