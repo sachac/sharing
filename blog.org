@@ -1,6 +1,5 @@
 #+TITLE: sacha chua :: blog
-#+OPTIONS: toc:t
-
+#+OPTIONS: toc:nil
 
 This is an index of my blog posts (http://sachachua.com/blog/index). If you want to
 get in touch with me, please check out
@@ -14,6 +13,8 @@ Quick links to trails that are already logically ordered (more to come):
 - [[#discovering-yourself-through-blogging][Blogging, Discovering Yourself through]]
 - [[#value-blogging][Blogging, Get More Value from]]
 - [[#sketchnote-lessons][Sketchnote Lessons]]
+
+#+TOC: headlines 2  
 
 * Topical index
 ** 5-year experiment   :organized:

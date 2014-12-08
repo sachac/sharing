@@ -33,188 +33,28 @@ Click on the headings to expand them.
 - http://sachachua.com/blog/2013/11/finding-the-right-balance-between-thinking-learning-doing-and-reviewing/
 - http://sachachua.com/blog/2013/11/decluttering-and-reimagining-the-house/
 - http://sachachua.com/blog/2013/11/how-i-review-my-notes/
+- http://sachachua.com/blog/2014/03/describing-personal-knowledge-management-routines-harold-jarches-seek-sense-share-framework/
+- http://sachachua.com/blog/2013/12/exploring-limiting-beliefs/
+- http://sachachua.com/blog/2013/12/making-decisions-that-dont-matter-that-much-to-me/
+- http://sachachua.com/blog/2013/12/think-about-your-delta-increasing-the-difference-you-want-to-make/
 
-* Learning, writing, visual notetaking, sharing knowledge, and constant improvement
+* Learning, writing, sharing knowledge, and constant improvement
+** Personal knowledge management
+*** Visualization
+https://twitter.com/awolfson0/status/540626036837208065
+**** Threads
+[[file:~/personal/organizer.org::*Visualize%20the%20connected%20components%20in%20my%20blog][Visualize the connected components in my blog]]
+
+*** Commonplace book
+https://twitter.com/awolfson0/status/540626036837208065
+** Learning
+- [[http://sachachua.com/blog/2014/12/different-dimensions-scaling/][Different dimensions of scaling up]]
 - If you can get better at learning, everything else gets better
 - What does better mean?
-    - Make time to learn
     - Ask better questions
     - Find resources
     - Apply what you learn
     - Remember what you learn
-- Why do I care?
-    - 
-- What can you expect from this blog?
-** Learning
-*** STARTED [#A] Improving my learning speed
-    :LOGBOOK:
-    CLOCK: [2014-11-25 Tue 18:01]--[2014-11-26 Wed 17:46] => 23:45
-    :END:
-    :PROPERTIES:
-    :Effort:   1:00
-    :END:
-so that I can learn faster and more effectively
-
-- Bottleneck is not typing
-  - http://sachachua.com/blog/2012/05/quantified-awesome-blogging-wpm-and-the-speed-of-reflection/
-- [[http://sachachua.com/blog/2014/12/learning-effectively-exploring-various-unknowns/?preview=true][Learning more effectively by exploring various unknowns]]
-- [[http://sachachua.com/blog/2014/12/connecting-previous-thoughts-covering-ground/?preview=true][Connecting to previous thoughts and covering more ground]]
-- [[http://sachachua.com/blog/2014/12/making-personal-blogs-useful-people/][Making personal blogs useful for other people]]
-
-**** Collecting my thoughts, organizing them, identifying gaps
-  - fascinated by how nonfiction writers organize their notes
-    - nonfiction, because fiction writers have to deal with a whole 'nother kettle of fish
-  - Better: Quickly pulling things together, identifying uncertainties or gaps, non-linearly organizing notes into a logical flow
-  - What are the key challenges?
-    - Finding a specific thing
-    - Seeing the overall picture
-
-  - How do other people do it?
-    - question by question; forward, or backward
-    - Managing information overload, index, etc.
-    - Scrivener, non-linear writing
-    - Outlines
-    - personal knowledge management
-    - How to make a map of every thought
-  - How do I do it?
-    - Outlines
-    - Links, blog posts, chunks
-    - Good at small outlines; transform
-    - Larger outlines sometimes sprawl, or I lose motivation
-  - How
-    - Sketch or blog post
-    - Outline
-    - Semi-linear, can be all over
-
-**** Learning more
-  - Better: identify and make sense of relevant info; construct more knowledge (vs retrieving it)
-  - Actually diving into documentation, experimentation, search
-  - Learning from other people's thoughts
-    - Do I usually jump to this state for non-technical stuff, or do I try to explore the question a little? It usually develops in a bit of a cycle
-**** Tidying up my notes
-  - Better: Balance between personal notes (to keep the sense of figuring things out) and tips for other people (to help people learn things quickly)
-  - Very little of this, since I want to get stuff out there quickly
-  - Trust that future Sacha will pull together
-  - YAGNI / lazy organization
-
-*** Intellectual goals
-**** Excerpt
-The book /[[http://earlyretirementextreme.com/ere-book][Early Retirement Extreme]]/ (Jacob Fisker - CreateSpace: 2010)
-
-#+begin_quote
-Intellectual goals for someone aspiring to be a Renaissance man are to:
-- Be able to quickly prioritize the relevance of information and be able to quickly research and find relevant information in many different areas. Learn independently and have an interest in doing so.
-- Have enough generalized knowledge to be able to understand the information and put it into the context of a mental framework, a model or procedure, and use it to ask further questions.
-- Recognize which problems the model applies to, take the solution to one problem, generalize it, and apply it to another problem.
-- Be able to critically analyze the model, refine it, and combine different models to achieve an objective. Practice critical thinking in all aspects of life to reach a degree of rational certainty. Be open to new ideas but do not accept anything uncritically.
-- Synthesize interdisciplinary information and laterally connect similarities which are not immediately apparent, discovering new models and procedures.
-- Evaluate different methods, models, and procedures while effectively ranking them for utility, and picking the best one while recognizing the pertinence of other methods. Pursue relevant and correct knowledge persistently and consistently. Master the fundamentals.
-#+end_quote
-
-This! I want to get better at all of these things. Based on feedback
-from my clients, I do pretty well already, prioritizing requests and
-potential resources, quickly cobbling together a tool from different
-pieces, and connecting the dots.
-
-But what would even better look like, and how do I inch closer to
-that?
-
-The more you know--the broader and deeper relevant knowledge you
-have--the easier it is to learn, since you have more resources for
-understanding and remembering new information. So the more I read and the more I try, 
-
-**** TODO Figuring out what's relevant
-**** TODO Making sense of things
-**** TODO Figuring out how the pieces fit together
-**** TODO Recognizing the right nail when you have a hammer
-**** TODO Thinking about thinking
-**** TODO Connecting the dots
-**** TODO Choosing among strategies
-
-*** Self-directed learning   :book:
-How to apply educational theory to your life
-**** How can I choose and prioritize things to learn about? :question:learning:
-
-When you have the freedom to choose what you want to learn, how can
-you choose more effectively? When students are picking courses or
-majors in school, they typically balance career prospects and personal
-interests. What if you've got more latitude in picking something to
-learn for fun?
-
-- Health and fitness
-  - Exercise
-  - Nutrition
-  - Gardening
-
-- Practical use
-  - Skills
-
-**** Reflective learning
-**** Action-based learning
-**** Problem-based learning
-****
-*** OUTLINED Improving my input speed
-- Currently type ~108wpm on Dvorak
-    - Type faster and rely on autocorrect and editing to fix errors?
-    - Use speech recognition?
-        - Easiest startup, extra benefits for dictating book notes and transcribing my own stuff
-        - Highest frustration
-    - Learn Colemak for same-hand optimization?
-        - Closest to Dvorak in terms of how I use my computer
-        - Because it's close, I get the most confusion; sigmoid curve?
-        - Colemak FAQ says stick with Dvorak if you're already happy with it
-        - Maybe I should play with this incremental approach? http://forum.colemak.com/viewtopic.php?id=1684
-        - Hah, maybe I should see about making my Dvorak home row close to
-        - Big selling point of Colemak: similar to QWERTY, common shortcuts stay the same.
-            - Emacs has different shortcuts anyway
-            - and I've gotten used to where things are
-            - and also, normal Ctrl-x, Ctrl-c, Ctrl-v suck because you get tempted to do them on the same hand
-        - No
-    - Learn Plover (stenography) and much higher WPM?
-        - My keyboard doesn't handle some of the chords well
-        - Phonetic, so...
-    - Draw pictures instead (work on getting even better at communicating concisely?)
-    - Bottleneck is not typing speed; improve thinking speed somehow?
-- Three cases
-    - Outlining
-        - Uses a lot of keyboard shortcuts, so Dvorak or Colemak would be better than Plover or speech recognition
-        - Pictures - mindmap?
-            - Computer
-            - Paper
-    - Turning an outline into a blog post
-        - Current workflow involves a lot of editing and deleting, so speech recognition and Plover are less useful
-        - Speech/Plover might be more useful if I'm typing into a separate buffer
-    - Capturing notes from books (quotes, outlines)
-- Decision
-    - Focus on improving speech recognition accuracy by dictating book notes
-    - Try more tweaks to current keyboard layout (ex: mapping left control to Backspace)
-    - Experiment with using speech recognition to draft e-mails and blog posts
-    - Revisit Plover after speech recognition is part of my workflow (or shelved)
-    - Revisit Colemak after Plover is part of my workflow (or shelved)
-*** Taking notes
-
-**** Why
-What's your favourite excuse to NOT take notes? Ex: "I don't need to
-take notes because I'll get the slides or recording."
-
-#+BEGIN_COMMENT
-Do I really need to write about this? It seems sanctimonious to tell
-people who aren't taking notes that they should take notes. I do want
-to help people who /want/ to take notes, but are afraid that they'll
-be rude or distracting or that they won't be able to keep up. 
-#+END_COMMENT
-
-- No more pencils, no more books, no more teachers' dirty looks!
-- "I don't want to be rude or distracting."
-- "I don't want to get distracted from what the speaker is saying."
-- "I don't need to take notes. I can just get the slides or
-  recording."
-- "I can't keep up and I don't want to miss anything."
-- "I tried taking notes, but I never used them."
-
-*** DONE How to take visual notes
-   CLOSED: [2014-01-20 Mon 14:24]
-http://sachachua.com/blog/2013/08/resources-for-getting-started-with-sketchnoting/
 *** OUTLINED How I learn: My learning and sharing workflow        :requested:
 # <<learning-workflow>>
 This outline can be found at http://sach.ac/outline#learning-workflow
@@ -292,244 +132,271 @@ This outline can be found at http://sach.ac/outline#learning-workflow
 
 Requested by @gozes https://twitter.com/sachac/status/380763070382866432
 
-*** DONE The learning machine: How I turn what I learn into blog posts :requested:
-   CLOSED: [2013-09-20 Fri 16:32]
-   :LOGBOOK:
-   CLOCK: [2013-09-20 Fri 15:35]--[2013-09-20 Fri 15:59] =>  0:24
-   :END:
-   :PROPERTIES:
-   :Effort:   1:00
-   :ID:       o2b:f30fadbd-9c35-49e7-b72b-c5cfa7b648c4
-   :POST_DATE: [2013-09-20 Fri 16:32]
-   :END:
-# <<transform-notes>>
+**** TODO Working out loud vs asking for help
+     CLOSED: [2014-12-04 Thu 12:15] SCHEDULED: <2014-12-03 Wed>
 
-The post is now available at http://sachachua.com/blog/?p=26159&shareadraft=baba26159_523cb03277650
+ http://sachachua.com/blog/2014/11/figuring-temporary-sleep-schedule-interacts-programming-writing-drawing/#comment-654298
+ http://sachachua.com/blog/2013/11/thinking-about-how-to-get-better-at-asking-questions/
 
-This outline is available at http://sach.ac/outline#transform-notes
+ - Tend to work on things where I don't have formal relationships with anyone whom I could ask.
+ - My threshold for working on something tends to be between 2-4 hours (taking lots of notes along the way).
+   - and since the Internet has many answers, I read quickly, and I
+     work in small chunks, I tend to have solved the problem by then.
+   - for the ones that are harder to solve, it's because I'm having a hard time framing the question
+   - wall of text
+ - Working out loud
+   - Theoretically give value
+   - Asking without asking
+   - Following up?
+ - Next actions
+   - Work out loud more
+   - Share next actions/questions
 
-- @gozes was curious about my workflow for transforming my notes and lessons learned into blog posts
-- Many people struggle with this
-    - "I don't have time to blog."
-    - "No one will read it, so it's not worth it."  
-    - "I'm not an expert."
-    - "Knowledge is power."
-- The time I take to share what I learn is the most valuable part of my learning process
-    - I can spend three hours solving a technical problem or learning more about a skill, but the thing that makes it really worth it is the 30 minutes I spend writing about what I learned.
-    - If I don't write it down, I forget. I waste that time. If I don't publish it, I'm probably going to lose it.
-    - More subtle benefit: I /think/ I know something, but when I try to explain it to other people, I discover the holes. Even if it's obscure and I think no one else will find it useful. (The Internet being the Internet, surprisingly, people do.)
-        - Writing helps me relate what I learn to what I know.
-    - Sharing lets me help others, even if I'm not an expert.
-    - More selfishly, sharing helps me learn from others.
-- What and when
-    - I try to write a blog post as soon as possible instead of waiting until I can write a longer one
-        - One blog post answers one question or shares one thought - easier to link to, keeps it short, gets it out there
-        - I want to write down the details so that I can re-solve the problem if I run into it again
-        - or so that other people can learn (or at least ask follow-up questions)
-- How
-    - Quick link if the post has already been written 
-    - Sometimes start with the question and then just write
-    - Usually start with rough outline or technical notes
-    - In terms of tools
-        - I really like Org Mode for Emacs because of its great outlining support
-            - Plain text, so I can trust it
-            - I can collapse or expand parts of my outline
-            - I can organize my post ideas into a larger outline
-            - I can export to HTML and share it with others
-            - And it supports TODOs and integrates with my other tasks, so I can set deadlines, track TODO states, or even clock in/out to see how long something takes...
-    - So I have this detailed outline
-        - the sections and paragraphs are there, and I often include the points I want to make inside the paragraphs as well
-    - Copy the outline and then start transforming it into my blog post
-        - Not starting with a blank page
-        - Can leave it alone, think about it for a few days, and come back and improve it
-    - Editing
-        - Sometimes I cut out snippets and stash them back into my outline, or in a snippets area
-        - I sometimes have a temporary title, but I usually don't know what the title could be until I've written the post
-    - When it's ready to post: 
-        - Tools: http://sachachua.com/blog/2013/09/when-i-blog-with-emacs-and-when-i-blog-with-something-else/
-        - Add categories, sometimes tags
-        - Add images in Wordpress or Windows Live Writer
-            - Good practice for visual vocabulary: drawing stick figures or picking stock photos
-            - Otherwise, intimidating text, no featured image in feed readers
-    - Then I schedule the blog post using the Editorial Calendar plugin for Wordpress, using the Share A Draft plugin to give people a sneak preview
-        - Great for answering people's questions right away while managing the volume on my blog
-        - Can update with new information: ex: Org troubleshooting post
-            - handy because I schedule posts for the future, so there's time to make it better for everyone
-    - Follow-up ideas go into my outline, and the cycle continues
-- Getting better
-    - Practice structuring in terms of questions, logical flow
-        - Fix flow in the outline instead of just in prose
-    - Make posts more "scannable" with illustrations, headings, and emphasis
-    - Organize higher-level outlines
-        - Outline at the level of individual blog posts right now
-        - Want to get better at exploring and organizing larger topics
-    - Learn how to work with other people to flesh out my blog posts?
-        - Other perspectives?
-        - Other resources?
-- Share your thoughts: What's getting in your way when it comes to sharing what you learn?
-
-
-Requested by @gozes https://twitter.com/sachac/status/380763070382866432
-
-**** DONE The learning machine: How I turn what I learn into blog posts
-    CLOSED: [2013-09-20 Fri 16:24]
+*** Learning more effectively
     :LOGBOOK:
-    CLOCK: [2013-09-20 Fri 15:59]--[2013-09-20 Fri 16:24] =>  0:25
+    CLOCK: [2014-11-25 Tue 18:01]--[2014-11-26 Wed 17:46] => 23:45
     :END:
     :PROPERTIES:
     :Effort:   1:00
-    :ID:       o2b:c3184ce8-4794-41c6-95e0-127016b5e594
-    :POST_DATE: [2013-09-20 Fri 16:24]
-    :POSTID:   26159
-    :BLOG:     sacha
     :END:
 
-[[https://twitter.com/sachac/status/380763070382866432][@gozes]] was curious about my workflow for transforming my notes and lessons learned into blog posts.
+- Bottleneck is not typing
+  - http://sachachua.com/blog/2012/05/quantified-awesome-blogging-wpm-and-the-speed-of-reflection/
+- [[http://sachachua.com/blog/2014/12/learning-effectively-exploring-various-unknowns/?preview=true][Learning more effectively by exploring various unknowns]]
+- [[http://sachachua.com/blog/2014/12/connecting-previous-thoughts-covering-ground/?preview=true][Connecting to previous thoughts and covering more ground]]
+- [[http://sachachua.com/blog/2014/12/making-personal-blogs-useful-people/][Making personal blogs useful for other people]]
 
-#+begin_html
-<h3>Why it's worth taking the time to share</h3>
-#+end_html
+**** Learning more
+  - Better: identify and make sense of relevant info; construct more knowledge (vs retrieving it)
+  - Actually diving into documentation, experimentation, search
+  - Learning from other people's thoughts
+    - Do I usually jump to this state for non-technical stuff, or do I try to explore the question a little? It usually develops in a bit of a cycle
+**** Tidying up my notes
+  - Better: Balance between personal notes (to keep the sense of figuring things out) and tips for other people (to help people learn things quickly)
+  - Very little of this, since I want to get stuff out there quickly
+  - Trust that future Sacha will pull together
+  - YAGNI / lazy organization
+**** Planning
+***** Before you learn something, plan how you're going to apply it
 
-Many people struggle with sharing what they know. "I don't have time to blog." "No one will read it anyway, so why bother." "I'm not an expert." "Knowledge is power, so I should keep it to myself - job security!"
+***** Learn faster by breaking skills down
+**** Making sense
+***** How to understand what you're thinking
 
-Let me tell you this: *The time I take to share what I learn is the most valuable part of my learning process.*
+***** Learn holistically by organizing your thoughts
 
-I can spend three hours solving a technical problem or learning more about a skill, but the thing that makes it really worth it is the 30 minutes I spend writing about what I learned. The biggest benefit is being able to refer back to my notes. If I don't write it down, I forget, and I've wasted the time spent learning. [[sachachua.com/blog/2013/07/choosing-openness-and-scale/][If I don't publish my notes, I'm probably going to lose them]]. It makes sense to invest a little time now so that I can save time later. I can't tell you how many times I've searched for something and ended up at a blog post I'd completely forgotten I'd written.
+**** OUTLINED Collecting my thoughts, organizing them, identifying gaps
+  - fascinated by how nonfiction writers organize their notes
+    - nonfiction, because fiction writers have to deal with a whole 'nother kettle of fish
+  - Better: Quickly pulling things together, identifying uncertainties or gaps, non-linearly organizing notes into a logical flow
+  - What are the key challenges?
+    - Finding a specific thing
+    - Seeing the overall picture
 
-There's a more subtle benefit, too: *Explaining things to other people exposes holes in my understanding.* It's easy to think that I know something. When I start writing about it, though, I stumble across things I don't quite know how to explain. Filling in those gaps helps me learn even more. Even if I think no one's going to find my explanation useful because I'm working on something so quirky or obscure, the process of explanation helps. (And the Internet being the Internet, I'm often surprised by people who turn out to be working on similar things.)
+  - How do other people do it?
+    - question by question; forward, or backward
+    - Managing information overload, index, etc.
+    - Scrivener, non-linear writing
+    - Outlines
+    - personal knowledge management
+    - How to make a map of every thought
+  - How do I do it?
+    - Outlines
+    - Links, blog posts, chunks
+    - Good at small outlines; transform
+    - Larger outlines sometimes sprawl, or I lose motivation
+  - How
+    - Sketch or blog post
+    - Outline
+    - Semi-linear, can be all over
 
-*Sharing lets me help other people, even if I'm not an expert.* In fact, the best time to write is when you're a beginner, because you run into all the things that other people take for granted. More selfishly, sharing helps me learn from other people. People ask questions that help me learn more. They point out where I've made mistakes. They share better ways to do things. And because we’re building these connections, they also pass along professional and personal opportunities. Sharing is an excellent way to learn and grow.
+**** OUTLINED Accumulating value
 
-#+begin_html
-<h3>When and what to write</h3>
-#+end_html
+ How small steps can take you great distances
 
-*Write early, write often. Don't wait until you've figured everything out.* I try to write a blog post as soon as possible instead of waiting until I can write a more comprehensive one. I try to keep my blog post focused on answering a single question or sharing one thought. This makes the post easier to link to, keeps it (relatively) short, and gets rid of any excuse that would let me procrastinate putting it out there. 
+ - Related
+   - [[http://www.scotthyoung.com/blog/2014/11/04/20-percent-effort/][Make plans work on 20% effort (Scott H. Young)]]
+   - [[http://sachachua.com/blog/2014/12/choosing-impact-motivation-vs-understanding/][When you're spending a lot of time on low-impact activities]]
+   - [[https://hbr.org/2011/05/the-power-of-small-wins][The Power of Small Wins (HBR)]]
+   - [[http://sachachua.com/blog/2014/11/keeping-process-journal/][Keeping a process journal]]
+ - What do I want to add?
+   - Dealing with excuses  
+   - Taking notes: how to take notes, how to review your notes
 
-*Write enough to help you remember.* When I write posts, I want to include enough details so that I can re-solve the problem if I run into it again, place myself back into the situation if I'm reflecting on how things worked out, or share what I've learned so that other people can figure things out (or at least ask follow-up questions). I don't need to answer everything. Sometimes I'll skip explaining things because people can always ask me to go deeper if they're interested. You don't have to write a complete guidebook to everything, you just have to add more guideposts to the trail.
+ Beginner: do I need to cover this? maybe in its own post, or if people ask
 
-#+begin_html
-<h3>How</h3>
-#+end_html
+ - picking a good direction to go in
+   - doesn't have to be a complete, detailed plan
+   - rough direction, idea of good/better/best
+   - I like imagining wild success
+   - also see if you don't actually want it strongly enough
+ - figuring out what a few good next steps are - people often struggle with breaking things down into small, doable steps
+   - too big: I don't have the time
+   - too vague: I don't know where to start
+   - too small: I don't see how this will help me get there
+   - just right: let's try it!
+ - checking to see if you're still going in the right direction, tweaking plans
+   - keep track of ideas and next steps
+   - review your notes
+   - following up
 
-*I love it when other people have already done the hard work of writing something up.* Then I can just link to what they've said, adding some thoughts of my own. If I can't find a great explanation within the first few pages of a web search--or if I want to dig into something myself so that I understand it better--then I write my own post.
+ Intermediate:
 
-*Sometimes I can start with just a question and then I go from there.* I write paragraph after paragraph as if I was e-mailing someone the answer or talking to them in person. I jump around here and there to edit the text or add links. I write quickly, and then I post.
+ - taking notes, so you don't have to keep rediscovering things you've forgotten
+   - questions for reflection
+     - what are you doing?
+     - how are you doing it?
+     - what are you learning?
+     - what are the next steps?
+   - tools 
+     - paper journal; write down the date. If you're working on several topics, you might consider having one small notebook per topic, or using an index. [[http://blog.highfivehq.com/posts/a-little-known-hack-from-japan-to-get-your-notebook-organized][tabs]], or number your pages and keep an index at the back of the notebook.
+     - I like using Evernote because I can add notes using my phone or my computer
+   - finding the time
+     - do it while you're learning
+     - "I am going to ..."
+     - clarifies your thoughts
+     - helps you deal with interruptions and dead ends
 
-*Most times, I start with a rough outline or my technical notes.* When I explore something I want to learn, I jump around an outline, gradually filling it in with what I come across. When I research, troubleshoot, or try to figure something out, I copy links and ideas into my notes. I've learned that it can be difficult to backtrack your steps to remember the things you tried, or remember the resources that were particularly helpful. It's better to take notes and update them along the way, even if you find yourself sometimes going down dead ends. 
+ Advanced:
 
-*In terms of tools, I really like [[http://orgmode.org][Org mode for Emacs]] because of its great outlining support.* My notes are in plain text, so I can search or work with my notes easily. I can collapse or expand parts of my outline, and I can easily reorganize items. I can organize my post ideas into a larger outline. I can export to HTML and share it with others, like I did with the outline for this post. My outline also supports TODOs and integrates with my other tasks, so I can set deadlines, track TODO states, or even clock in/out to see how long something takes.
+ - *seeing the connections and patterns over time* <- probably worth a post, since I want to dig into this myself
+   - why 
+     - celebrate your achievements
+     - check your progress
+     - look for gaps and opportunities
+     - make sense and solidify your understanding
+   - rereading your notes
+   - this is not as easy as collecting them, I think
+   - comparisons: before and after (ex: a year)
+   - summarizing: timelines, outlines
+ - teaching other people
+   - explaining things in your own words
+   - organizing small steps into bigger, more logical chunks 
+   - teaching specific people vs teaching in the abstract 
+ - sharing with people
+   - because you could save someone out there a little time on that
+     same little step too, and if you multiply that by a thousand
+     people, that's a lot of value
 
-*When I'm happy with the outline, I start turning it into text.* I write detailed outlines that include sections and the key points I want to make in paragraphs. (If you're curious, the outline for this post can be found at http://sach.ac/outline#transform-notes .) When I'm happy with how the outline flows, I copy the outline and start transforming it into my blog post. It's much less intimidating than working with a blank page, and I don't have to flip back and forth between my outline and my blog post editor. Working with an outline gives me an overview of where I want to go with the post, and it can also hold my thoughts when I go on tangents.
+ Alan Lin
 
-*The outline doesn't always completely translate into the blog post, of course.* Sometimes I cut out snippets and stash them in a different place in my larger outline, for use in a future blog post. Sometimes I move things around, or add more explanations to glue paragraphs together. I sometimes have a temporary title, but I usually don't know what the title could be until I've written the post.
+**** Intellectual goals                                           :subskills:
+***** Excerpt
+ The book /[[http://earlyretirementextreme.com/ere-book][Early Retirement Extreme]]/ (Jacob Fisker - CreateSpace: 2010)
 
-*When I'm ready to post the entry, I add categories and sometimes tags to make posts easier to discover*. See [[http://sachachua.com/blog/2013/09/when-i-blog-with-emacs-and-when-i-blog-with-something-else/][When I blog with Emacs and when I blog with something else]] for a more detailed discussion of the tools I use for publishing. I often add images because that's good practice for developing my visual vocabulary, either drawing stick figures or picking stock photos. Besides, the images break up otherwise-intimidating text.
+ #+begin_quote
+ Intellectual goals for someone aspiring to be a Renaissance man are to:
+ - Be able to quickly prioritize the relevance of information and be able to quickly research and find relevant information in many different areas. Learn independently and have an interest in doing so.
+ - Have enough generalized knowledge to be able to understand the information and put it into the context of a mental framework, a model or procedure, and use it to ask further questions.
+ - Recognize which problems the model applies to, take the solution to one problem, generalize it, and apply it to another problem.
+ - Be able to critically analyze the model, refine it, and combine different models to achieve an objective. Practice critical thinking in all aspects of life to reach a degree of rational certainty. Be open to new ideas but do not accept anything uncritically.
+ - Synthesize interdisciplinary information and laterally connect similarities which are not immediately apparent, discovering new models and procedures.
+ - Evaluate different methods, models, and procedures while effectively ranking them for utility, and picking the best one while recognizing the pertinence of other methods. Pursue relevant and correct knowledge persistently and consistently. Master the fundamentals.
+ #+end_quote
 
-*I'm learning a lot, but I don't want to overwhelm people, so I try to keep it to at most one post a day.* (Although sometimes I get excited and post anyway.) I schedule blog posts using the Editorial Calendar plugin for Wordpress, and I use the Share A Draft plugin to give people a sneak preview. This lets me answer people's questions with links to future blog posts. That way, they get the info they want, and everyone else will get it eventually.
+ This! I want to get better at all of these things. Based on feedback
+ from my clients, I do pretty well already, prioritizing requests and
+ potential resources, quickly cobbling together a tool from different
+ pieces, and connecting the dots.
 
-*Writing about what I learned and reading people's feedback often gives me plenty of follow-up ideas.* I put those ideas back into my outline or TODO list, and the cycle continues.
+ But what would even better look like, and how do I inch closer to
+ that?
 
-#+begin_html
-<h3>How I'm working on getting better (continuous improvement for the win!)</h3>
-#+end_html
+ The more you know--the broader and deeper relevant knowledge you
+ have--the easier it is to learn, since you have more resources for
+ understanding and remembering new information. So the more I read and
+ the more I try, the easier it is to learn.
 
-I really like the way sharing helps me learn more effectively, and I want to get even better at it. Here are some things that I think will help:
+ Subskills:
+ - Figuring out what's relevant
+ - Making sense of things
+ - Figuring out how the pieces fit together
+ - Recognizing the right nail when you have a hammer
+ - Thinking about thinking
+ - Connecting the dots
+ - Choosing among strategies
 
-*I'm working on getting better at tweaking the structure of my posts before writing them.* As in programming, it makes sense to fix logical errors or flow issues earlier rather than later. Working with outlines can help me get better at thinking in terms of questions and the flow from one point to another, and it's much easier to see and reorganize things there than when everything's written up.
+**** Making better use of time
+***** STARTED Choosing what to think about on my subway commute
 
-*I'm working on making posts more "scannable" with illustrations, headings, and emphasis.* One of the tips I picked up from Beyond Bullet Points is that when designing presentations, your slide titles should make sense in sequence. I remember reading similar advice applied to writing. Paragraphs should also make sense when you're quickly scanning the starting sentences, and people who want more detail can read the rest of the paragraph or section. I've still got a long way to go here, but I think I'm getting better.
+  - about 50 minutes
+    - I often try to take this off-peak, so that I can avoid the rush and grab a seat.
+ 
+  One of the ideas I'm picking up from /How to Live on 24 Hours a Day/
+  (Arnold Bennett, 1910) is:
 
-*I'm working on organizing higher-level outlines.* I'm getting more used to with outlining individual blog posts. The next step is to be able to explore and organize larger topics so that I can guide people through a series of chunks, perhaps with blog posts series or e-books. This will also help me plan my learning and build resources that guide people step by step.
+  #+begin_quote
+  When you leave your house, concentrate your mind on a subject (no
+  matter what, to begin with). ... By the regular practice of
+  concentration (as to which there is no secret—save the secret of
+  perseverance) you can tyrannize over your mind (which is not the
+  highest part of you) every hour of the day, and in no matter what
+  place. The exercise is a very convenient one. If you got into your
+  morning train with a pair of dumb-bells for your muscles or an
+  encyclopedia in ten volumes for your learning, you would probably
+  excite remark. But as you walk in the street, or sit in the corner of
+  the compartment behind a pipe, or “strap-hang” on the Subterranean,
+  who is to know that you are engaged in the most important of daily
+  acts?
+  #+end_quote
 
-*I'm curious about delegation or outsourcing, but I haven't really made the jump yet.* Would it be worth learning how to work with other people to flesh out these blog posts? For example, working with an editor might help me find ways to make these posts clearer, more concise, or more approachable. Can article writers or blog researchers add other perspectives or resources to these posts so that we're learning from more people's experiences, not just mine? I have to work through a couple of my concerns before I can make the most of this, but I think it might be worth exploring.
+  The idea is to practise concentration. Bennett suggests a little bit
+  of Marcus Aurelius or Epictetus, who are both quite agreeable to me.
+  =) 
 
-#+begin_html
-<div class="highlight-box">Share your thoughts: What's getting in your way when it comes to sharing what you learn? What could help?</div>
-#+end_html
+  What kinds of questions lend themselves well to being thought about
+  while walking or taking the subway?
 
-*** CANCELLED Learning the Colemak keyboard layout
-		 CLOSED: [2014-04-26 Sat 14:41]
-- Background
-    - Grew up with a computer
-    - Learned how to type long before I had computer or typing classes
-    - Bad habits
-    - One summer, I decided to learn Dvorak. dvorak7min
-    - More than ten years ago
-    - I type faster and more comfortably in Dvorak than in QWERTY.
-    - Also, it keeps people off my laptop and adds to my reputation for geek weirdness.
-- Why
-    - Curious about computer-based optimization
-        - Rolls
-    - Keep my brain flexible
-    - Learn about learning
-    - Possibly get faster?
-        - Trade-offs
-- Nudged by http://kevinercia09.wordpress.com/2013/09/20/five-for-typing/
+  - Base
+    - Review my values, priorities, and actions
+    - Review or make decisions
+      - Non-trivial decisions with medium-term effects
+    - Observe the world around me
+      - Interesting products/services/needs/thoughts?
+  - When I can read
+    - Read technology resources in order to learn more about tools I can use
+    - Review my sketchnotes and blog posts in order to revisit thoughts
+    - Review other people's sketchnotes in order to build my visual vocabulary and develop my eye
+    - Read and save blog posts from my subscriptions
+  - When I can write
+    - Write a journal entry observing what happened that day, and then reflect on it
+    - Play around with blog post ideas
+      - Not outlining because of difficulty of text manipulation
+      - Maybe coming up with titles and some rough notes
+    - Answer quick e-mails
 
-- Experience
-    - Install support for it
-    - Try different typing tutors
-        - http://www.learncolemak.com/ - basic, two characters
-        - http://keybr.com - better interface
-        - http://colemak.com/TypeFaster - working on this because the lessons are built in
-- Day 1 (Sept 20, 2013) - two hours
-  - Went through the first six lessons of Learn Colemak (I still need to learn the bottom row)
-  - Tried out keybr's random words level 1 - dismal 14wpm
-  - 23wpm on lesson 1 for Type Faster - a slightly more encouraging 23wpm
+  Find myself spinning unless I have a way to slow down my thoughts
+  - writing
 
-*** Personal Quality Improvement
-http://www.personalchange.info/2013/09/personal-quality-improvement.html
-*** Learning Latin
-*** How I taught myself to speed-read in grade school: no magic involved
-*** This weekend: Learn how to cook
-*** Learning from video games
-*** My evolution as a learner and the tips I learned along the way
-*** Integrate your learning into other things you know
-*** Before you learn something, plan how you're going to apply it
-*** Improve your memory with the peg system
-*** Remember things in order by making them part of a journey
-*** Put your learning into practice
+  Some things you may want to do:
+  - Read [[http://www.gutenberg.org/ebooks/2274][Arnold Bennett's "How to Live on 24 Hours a Day" for free]] (1910 - 114 years old!)
+
+**** Integrate your learning into other things you know
+**** Application
+***** Put your learning into practice
+
+**** Scale
+***** Invest the time to get to the point where you can get paid to learn
+
+*** Memory
+**** Improve your memory with the peg system
+**** Remember things in order by making them part of a journey
+**** Remember better with spaced repetition systems
 *** Don't be afraid to make mistakes
 *** Broaden your learning
 *** Practice before passion
 *** Feeling overwhelmed? Focus on just-in-time learning
 *** When you're not the best
-*** Ask "stupid" questions
-*** Learn holistically by organizing your thoughts
-*** How to find resources for learning
-*** "I don't have time to learn"
-*** Dealing with distractions
-*** Remember better by making things visceral
-*** Make your own metaphors
-*** The power of habits
-*** The power of routines
-*** How to understand what you're thinking
-*** Untangling your emotions from what you're learning
-*** Get over your learning fears
-*** Build your personal learning network (PLN)
-*** Build your imaginary board of advisors
-*** Learn faster by breaking skills down
-*** Learn on the go: 5 tips for using your smartphone
-*** Write about what you learn
 *** Get more value from the time you spend learning
-*** Keep a learning journal
-*** Read at different rates depending on your goals
-*** Learn more efficiently by asking yourself questions
-*** What's getting in your way? 9 excuses not to learn and how to deal with them
-*** Build on your strengths
-*** Remember better with spaced repetition systems
 *** Manage your energy
 *** Deal with discouragement
 *** Use the 80/20 rule
 *** Let your mind wander in order to come up with ideas and solve problems
 http://www.forbes.com/sites/stevenkotler/2013/07/03/learning-to-learn-faster-part-ii/2/
-*** Analyze your reading
 *** Spring-clean your learning goals
 *** Learn how to fix things
 *** You don't have to live big to learn lots
 *** Expensive to cheap: Many different ways to learn the same thing
-*** Invest the time to get to the point where you can get paid to learn
 *** Go back to step one
 *** Talent is overrated
 *** Keep a beginner's mind
@@ -546,413 +413,266 @@ http://www.forbes.com/sites/stevenkotler/2013/07/03/learning-to-learn-faster-par
 **** The 4-Hour Chef
 *** Learning from things I like
 **** How It Should Have Ended
-*** DONE I notice I have cyclic interests  :my-learning:
-		:PROPERTIES:
-		:ID:       o2b:f0f39d45-fe42-445e-99f8-adc81d3bc1ee
-		:POST_DATE: [2014-06-23 Mon 20:57]
-		:POSTID:   27314
-		:BLOG:     sacha
-		:END:
+*** CANCELLED Improving my input speed
+- Currently type ~108wpm on Dvorak
+    - Type faster and rely on autocorrect and editing to fix errors?
+    - Use speech recognition?
+        - Easiest startup, extra benefits for dictating book notes and transcribing my own stuff
+        - Highest frustration
+    - Learn Colemak for same-hand optimization?
+        - Closest to Dvorak in terms of how I use my computer
+        - Because it's close, I get the most confusion; sigmoid curve?
+        - Colemak FAQ says stick with Dvorak if you're already happy with it
+        - Maybe I should play with this incremental approach? http://forum.colemak.com/viewtopic.php?id=1684
+        - Hah, maybe I should see about making my Dvorak home row close to
+        - Big selling point of Colemak: similar to QWERTY, common shortcuts stay the same.
+            - Emacs has different shortcuts anyway
+            - and I've gotten used to where things are
+            - and also, normal Ctrl-x, Ctrl-c, Ctrl-v suck because you get tempted to do them on the same hand
+        - No
+    - Learn Plover (stenography) and much higher WPM?
+        - My keyboard doesn't handle some of the chords well
+        - Phonetic, so...
+    - Draw pictures instead (work on getting even better at communicating concisely?)
+    - Bottleneck is not typing speed; improve thinking speed somehow?
+- Three cases
+    - Outlining
+        - Uses a lot of keyboard shortcuts, so Dvorak or Colemak would be better than Plover or speech recognition
+        - Pictures - mindmap?
+            - Computer
+            - Paper
+    - Turning an outline into a blog post
+        - Current workflow involves a lot of editing and deleting, so speech recognition and Plover are less useful
+        - Speech/Plover might be more useful if I'm typing into a separate buffer
+    - Capturing notes from books (quotes, outlines)
+- Decision
+    - Focus on improving speech recognition accuracy by dictating book notes
+    - Try more tweaks to current keyboard layout (ex: mapping left control to Backspace)
+    - Experiment with using speech recognition to draft e-mails and blog posts
+    - Revisit Plover after speech recognition is part of my workflow (or shelved)
+    - Revisit Colemak after Plover is part of my workflow (or shelved)
+**** CANCELLED Learning the Colemak keyboard layout
+		 CLOSED: [2014-04-26 Sat 14:41]
+ - Background
+     - Grew up with a computer
+     - Learned how to type long before I had computer or typing classes
+     - Bad habits
+     - One summer, I decided to learn Dvorak. dvorak7min
+     - More than ten years ago
+     - I type faster and more comfortably in Dvorak than in QWERTY.
+     - Also, it keeps people off my laptop and adds to my reputation for geek weirdness.
+ - Why
+     - Curious about computer-based optimization
+         - Rolls
+     - Keep my brain flexible
+     - Learn about learning
+     - Possibly get faster?
+         - Trade-offs
+ - Nudged by http://kevinercia09.wordpress.com/2013/09/20/five-for-typing/
 
-I learn about some topics in sprints, then let them go for a bit, and
-then come back to them. For example, my [[http://quantifiedawesome.com/record_categories/60?utf8=%E2%9C%93&start=2011-06-23&end=2014-06-24&split=keep&filter_string=&commit=Filter][time logs for Emacs]] show:
+ - Experience
+     - Install support for it
+     - Try different typing tutors
+         - http://www.learncolemak.com/ - basic, two characters
+         - http://keybr.com - better interface
+         - http://colemak.com/TypeFaster - working on this because the lessons are built in
+ - Day 1 (Sept 20, 2013) - two hours
+   - Went through the first six lessons of Learn Colemak (I still need to learn the bottom row)
+   - Tried out keybr's random words level 1 - dismal 14wpm
+   - 23wpm on lesson 1 for Type Faster - a slightly more encouraging 23wpm
 
-- June 2012
-- Mid-March to mid-April 2013
-- April-June 2014
+** Writing
+- [[http://sachachua.com/blog/2015/01/predictable-advice-productivity/][Predictable advice about productivity]]
+Logical flow - permut
+Right-size chunk
+Words that don't get in the way
+Empathy
+Expressiveness
+Organization
+Learning
+Memory
+Summarization
 
-Oh. Actually, that's an interestingly seasonal pattern. I hadn't
-realized that the months lined up like that. (Although to be fair, I
-probably wasn't tracking it as a category before May 2012.) I wonder
-what it is...
+*** Alchemy
 
-Now I feel myself shifting temporarily to other things. I know I'll be
-back, but it's just not at the forefront of my mind.
 
-What am I thinking about instead? What am I learning more about? What
-am I spending more time on? Oh, the [[http://quantifiedawesome.com/time/review?end=2014-06-24&start=2011-11-01][spar]]klines are surprisingly
-useful. I can just scroll down looking for patterns. Non-Emacs coding,
-apparently. Learning about other things. Playing video games,
-relaxing. Gardening. I'm spending nowhere near as much time biking as
-I used to, but I do spend more time walking.
 
-Where would I like to direct my shifting interests and attention?
-I want to focus on building solid habits around health and fitness.
-That's probably 15-30 minutes of exercise a day and preparing even
-better food (salads, variety). Once I've internalized those, I think I
-might circle back to Latin (I can mostly remember the [[http://www.latintests.net/grammar/nouns.php][declensions]] now,
-although I still make errors), and maybe either Japanese (so I can
-read and listen) or Cantonese (so that I can chat with W- and with the
-fellow gardener up the street). There's drawing practice, too. Time to
-swing non-technical or non-computer-based for a bit? Hmm...
+Some plans don't work out.
 
-*** DONE How to keep up when taking notes
-   CLOSED: [2014-01-20 Mon 14:23]
-http://sachachua.com/blog/2013/09/what-keeps-you-from-taking-notes/63/
-*** DONE How to read a book
-   CLOSED: [2014-01-20 Mon 14:24]
-http://sachachua.com/blog/2012/03/visual-book-notes-how-to-read-a-book/
-*** DONE Want to learn more effectively? Get over your embarrassment and share what you're learning
-    CLOSED: [2014-01-20 Mon 14:43]
-*** DONE Save time by browsing through blogs in a reader
-   CLOSED: [2014-01-20 Mon 14:43]
-http://sachachua.com/blog/2014/01/read-blogs-efficiently-feed-reader/?preview=true
-- Blogs are great for tips and experiences, but reading all those blogs can take a lot of time.
-- E-mail subscriptions can clutter your inbox.
-- Solution: subscribe to the blogs in a feed reader.
-- I use Feedly.
-- If you have a smartphone, you can read there.
-    - Headlines and excerpts
-    - Categories
-    - Can read offline
-- Can also read on your computer. Synchronized.
-- To try it with this blog
-
-*** DONE Learning a little more quickly   :learning:my-learning:
-    CLOSED: [2014-11-12 Wed 11:52]
-    :PROPERTIES:
-    :Effort:   0:30
-    :ID:       o2b:a442c23a-91d1-47fb-9c20-fa18f800b69d
-    :POST_DATE: [2014-11-12 Wed 11:50]
-    :POSTID:   27612
-    :BLOG:     sacha
-    :END:
-
-Sometimes I feel like I learn more slowly than I used to. Maybe my
-brain is a little fuzzier than before. That's what it tries to tell me
-as an excuse, but I soundly reject that, because too much belief in
-that can lead to accepting more excuses. It's more likely I'm spending
-time slogging through the [[http://sachachua.com/blog/2008/05/getting-through-the-plateau-of-mediocrity-picking-up-the-idioms/][plateau of mediocrity]] instead of playing on
-the slopes of awesomeness, and my brain is unfairly comparing the
-experiences of the two. Being aware of it means I can accept it as
-normal and deal with it.
-
-I suspect this is happening because a quick antidote for the "Grr, my
-brain is so fuzzy" feeling is to hang out in help channels and answer
-people's questions, or work on client projects and help them with
-their requests. Then I usually feel like I learn pretty quickly,
-especially when speed-reading and knowing what to search for and being
-able to combine different things means delighting people with how
-rapidly we can get stuff done. It's ego-gratifying, but I shouldn't do
-it all the time. It's better for me to sit with my occasional
-frustration and get better at learning things on my own.
-
-So it's not that my brain is being particularly bleah, but that it
-wants to snack on small questions and quick wins instead of eating its
-vegetables.
-
-This is where I stretch the metaphor and start thinking of ways to
-swap out some of the less-favoured vegetables for ones that are more
-palatable but just as nutritious, maaaybe letting it pick out a few
-things it doesn't like and offering it options so that it thinks it's
-choosing. Or something like that. 
-
-[[file:~/Dropbox/Inbox/To blog/2014-11-12 What are the things I want to learn more quickly, and what would that look like.png]]
-
-Hmm. That /is/ an interesting metaphor, actually. It's like I know
-there's value in chewing your vegetables and all sorts of other good
-stuff, but I just want to start with dessert, or if I have to eat the
-rest of the stuff, maybe I can just pick the good parts and be off to
-the next thing. And I'm all, like, "I've already tried the green
-beans! Why do I have to eat them again?" (Actually, in real life, I
-get along fine with green beans. But you probably get the idea.)
-
-So maybe the trick is to eat those vegetables and make "Mmmmmm!"
-noises until my brain gets the hang of it. Maybe even pretending that
-vegetables are coveted prizes. ("Good girl! Have a carrot / read an
-e-book.")
-
-Huh. Metaphors. Fun to play with. Surprisingly useful.
-
-If you'll excuse me, I'm off to read through a yummy Rails tutorial. Mmm. Fun. =)
-
-# c:/sacha/Dropbox/Inbox/To blog/2014-11-12 What are the things I want to learn more quickly, and what would that look like.png http://sachachua.com/blog/wp-content/uploads/2014/11/wpid-2014-11-12-What-are-the-things-I-want-to-learn-more-quickly-and-what-would-that-look-like.png
+Writing helps me make sense.
 ** Packaging/sharing  :focus:
 *** Working out loud when your work is technical
 
 *** What awesome content creators can delegate
 ** Listening to your future self
 
+** How can I become a better writer?
+
+- Goal for this post
+  - Break writing down into smaller skills. Identify ways I can deliberately practise writing so that I can become a better writer
+  - Invite other people to learn along with me
+  - Share resources I've come across
+- Resources
+  - David Fryxell: How to Write Fast While Writing Well
+  - William Zinsser: On Writing Well
+- Key points to focus on
+  1. Interesting idea
+     #+begin_quote
+     Writers who write interestingly tend to be men and women who keep themselves interesting. That's almost the whole point of becoming a writer. I've used writing to give myself an interesting life and a continuing education.
+     #+end_quote
+     - William Zinsser, /On Writing Well/
+
+     - Why
+       - Challenge myself to learn more
+       - Make reading this worthwhile, so I can get interesting conversations
+       - http://sachachua.com/blog/2015/01/predictable-advice-productivity/
+     - Flush out:
+       1. Shared curiosities
+       2. Differences
+       3. Counter-intuitive ideas, things that surprised me
+       4. Time-saving tips
+       5. Collections and summaries; pointers to people
+       6. Behind the scenes; working out loud
+  2. Research, learning, and summarization
+     1. Learning from other people's experiences, saving people time
+        1. quotes from books or visual summaries, so people can go and find out more
+        2. links to blog posts, so people can explore
+     2. Learning from my own experiences
+        1. start (groundwork)
+        2. middle (preliminary observation)
+        3. end (wrap-up, next step)
+  3. Right-size chunk, especially in terms of blogging
+     1. Too small: no action to take, no movement forward
+     2. Too big: massive, hard to remember, intimidating to act on
+     3. Just right: clear action and useful discussion
+  4. Logical flow, permutations   <- worth a blog post focusing on just this?
+     1. Why
+        1. Not just about linking verbs - tried looking for resources on improving logical flow.
+           1. Looks promising: /Structure & Flow: How to Focus, Organize and Unify All Types of Magazine Articles to Hold Your Reader from the Lead to the End/ (David A. Fryxell, 1996)
+        2. Things that don't have obvious structure
+        3. What do I mean by "hangs together beautifully"? Where can I find examples of this? Hmm, let me review.
+           1. Do I save a lot of blog posts because they are well-written, or do I care about the idea first?
+           2. Okay. I mostly care about the idea and less about the structure, so maybe this is less important to me.
+           3. Slate Star Codex has long blog posts that are more structured than mine. Scott H. Young, too.
+        4. *I make jumps because I take things for granted*
+        5. Feels more coherent, more polished
+        6. Minimize cognitive load
+        7. Encourage people to read and to apply thoughts
+     2. Why not
+        1. Magnitude of the benefit? Other places to focus on, like inter-post organization
+     3. Mediocre: List posts, posts I write mostly linearly
+     4. Average: Posts I write with an outline
+     5. Good: Posts where I've tested the flow with other people to
+        see if it makes sense to have one connect to the other and to
+        see what I'm missing
+        1. I'll always be missing /something/, because people will
+           have different experiences and background knowledge.
+        2. But it's good if I can address /one person/'s gaps; expectation if I write something in response to someone?
+        3. Fixing gaps
+           - Small gaps: Add a little more text, or remove dangling strings
+           - Larger gaps: Use links to fill in the details
+     6. Logical orders - managing information overload?
+        1. Random
+        2. Importance - but I don't often know what's important
+        3. Alphabet 
+        4. Chronology / *prerequisites*. Tip from On Writing Well (I think it's from that one) - working backwards from questions
+        5. Alphabetic pattern or abbreviation - Hard to pull off well. Can seem artificial, consultant-y (where's that lovely blog post I saw about that?) http://blog.ideatransplant.com/2014/12/3-things-with-3-things-each.html
+           #+begin_quote
+           Management consulting stories are always divided in 3 or 5
+           components (optimally starting with the same letter), and
+           each of these is then divided into 3 sub components as
+           well. Connect, communicate, control. And to achieve connect
+           we need to aggregate, accumulate, and accelerate. ... Using
+           too many words that start with a C make you sound like a
+           consulting report, not like a genuine speaker.
+           #+end_quote
+           sounds too contrived, like you spent some time with a thesaurus trying to figure out a good fit.
+     7. Tools
+        1. Practice: Reassembling sentences from model essays - Benjamin Franklin; computer tool for doing so? Maybe something in Emacs?
+           1. How would I implement this in Emacs? Take text and split it
+              up into sentences. Use diff to compare it against the
+              checked-in version. Can sort lines to reorganize. Org lets
+              you transpose lines easily.
+              1. TODO: Pick sample: Stoicism, or On Writing Well, or blog posts I really like from my round-ups? Probably from blogs, since they have a different format and rhythm compared to nonfiction books.
+              2. TODO: Write blog post about this
+              3. Ah. Quotes are too small. Maybe I should keep track of tables of contents in my notes.
+        2. Permuting my own?
+        3. Feedback?
+           1. How can I get more developmental feedback from readers?
+           2. Outsourced editing feedback tends to be copyediting instead of logical flow
+        4. Outlines
+           1. [[https://blogs.cul.columbia.edu/butler/2014/06/05/daniel-wessel-using-content-outlines-and-circus-ponies-notebooks-for-writing-articles-and-theses/][content outlines]], [[http://calnewport.com/blog/2007/11/05/monday-master-class-how-to-use-a-flat-outline-to-write-outstanding-papers-fast/][transforming outline]], [[http://christiantietze.de/posts/2014/05/how-i-use-outlines-to-write-any-text/][another example]]
+        5. Reverse outlines 
+           - http://writing.wisc.edu/Handbook/ReverseOutlines.html
+  5. Clarity and confidence - revision
+     1. Fuzzy, talking to myself
+     2. Clear, speaking to other people
+     3. Collect paragraphs that tickle my brain and analyze them
+  6. Organization? Flow across posts; this is tough <-- worth attention
+     1. Why
+        1. Organizing logical flow
+           1. Next steps
+           2. Drill-down
+           3. Zooming out
+        2. Seeing the gaps, opportunities to write
+        3. Keeping found things found
+     2. How I do it
+        1. [X] [[http://sachachua.com/blog/2014/03/describing-personal-knowledge-management-routines-harold-jarches-seek-sense-share-framework/][Describing my personal knowledge management routines with Harold Jarche’s Seek-Sense-Share framework]] (March 2014)
+        2. [X] [[http://sachachua.com/blog/2014/03/notes-managing-large-blog-archive/][More notes on managing a large blog archive: 17 things I do to handle 10+ years of blog posts]] (March 2014)
+        3. [X] [[http://sachachua.com/blog/2012/03/mapping-blog-archives/][Mapping my blog archives]] (March 2012)
+        4. [X] [[http://sachachua.com/blog/2012/05/maintaining-a-manual-topical-index-for-my-blog-using-emacs/][Maintaining a manual topical index for my blog using Emacs]] (May 2012)
+        5. [X] [[http://sachachua.com/blog/2013/07/how-to-manage-a-large-blog-archive/][How to manage a large blog archive]] (July 2013)
+        6. [X] [[http://sachachua.com/blog/2010/01/personal-knowledge-management-morgue-files-capture-systems/][Personal knowledge management, morgue files, capture systems]] (Jan 2010)
+        7. [[http://sachachua.com/blog/2015/01/thoughts-context-connecting-posts-blog-post-index/?shareadraft=baba27682_54861cba96af6][Thoughts in context: Connecting posts to my blog post index]]
+     3. Tools and techniques
+        1. Outline, planning ahead
+        2. Categories and tags
+        3. Linking to previous posts
+        4. Internal links, especially for old posts that people comment on
+        5. Search
+        6. Outline
+        7. Series
+        8. Summary posts
+  7. What would I like to learn from other people?
+     1. Archive management strategies
+     2. Behind-the-scenes organization (outlines, etc.)
+     3. 
+  8. Keeping found things found
+
+  9. Look for people who do this well? Blog to book, but good ones (not just chronology or rough categorization)
+     1. Maybe technical authors
+- Note-taking
+  1. Index cards [[http://takingnotenow.blogspot.ca/2007/12/luhmanns-zettelkasten.html][indexing]], [[http://sachachua.com/blog/2013/10/visual-book-review-how-to-make-a-complete-map-of-every-thought-you-think-lion-kimbro/][map]]
+  2. [[http://christiantietze.de/posts/2014/02/learn-faster-by-writing-zettel-notes/][Zettel notes]], connecting
+
+
+- Wrap-up
+
+
+
+#+begin_quote
+Writing for yourself is a powerful search mechanism: there's no better way to find out who you are and what you know and what you think.
+#+end_quote
+- William Zinsser, /On Writing Well/
+
 ** Psychology, etc.
 *** Confirmation bias
-** DONE Questionnaires from people
-	 CLOSED: [2014-10-01 Wed 13:39]
-	 :LOGBOOK:
-	 CLOCK: [2014-10-01 Wed 12:37]--[2014-10-01 Wed 13:39] =>  1:02
-	 :END:
-	 :PROPERTIES:
-	 :Effort:   1:00
-	 :ID:       o2b:68b47b72-1afd-48bb-813b-ed07b285ed7d
-	 :POST_DATE: [2014-10-01 Wed 13:38]
-	 :POSTID:   27523
-	 :BLOG:     sacha
-	 :END:
-
-As part of blog series or e-book compilations, people sometimes ask me
-to answer questionnaires they've put together. Sometimes they mention
-the size of their audience. Sometimes, they focus on our shared
-interests.
-
-On one hand, it's good that other people are putting together
-resources, and sometimes these things lead to interesting new
-conversations. On the other hand, grist for another's mill, and I
-generally don't enjoy reading short, too-standard answers. 
-
-So if I'm going to do stuff like that, I want to focus on the things I
-like. I never promise to write answers, and I don't commit to a
-specific date. I mull over the questions and cherrypick the ones I
-find interesting. Not very generous of me, I suppose, but it keeps me happy. <laugh>
-
-People are usually curious about the past: how one got started, what was helpful, what would you change. I tend to focus more on present and near-future, since that helps me a lot, and I'm not quite ready to hold my life up as an example that other people should be inspired by or follow. It's good to take notes along the way, though, since it's hard to reconstruct from memories afterwards. 
-
-So I'm okay with describing things and I can see the value of having a
-gallery of different approaches... What's the core of this, then? Maybe I'm not keen on the Q-and-short-A format. Might as well be a sketch so that I can practise that. Might as well try to wring out ideas for the future, notes to self - which don't make as much sense outside the context of my blog, I guess. 
-
-Hmm. I think there might be something there. In the context of my blog, it's clearer that life is a work in progress, and people can come across updates. I can link to things back and forth, and it's easier for me to keep track of comments. 
-
-I like it when people link to or excerpt my blog posts, since most of
-the time, bloggers make it easy to get back to the context. They put
-more of themselves into the post, too, sharing what they liked or what
-they think. It's different from having a short bio at the end.
-
-Oh! Maybe that's something else that's playing into this... I tend to feel meh about most of the guest posts I read, the generic-ish articles with short bios written for link-building and audience-building purposes. We might be a small tribe, but it's okay for us to grow slowly through remarkable ideas rather than from exposure.
-
-So I'll still take people's questions under advisement, but I'll reflect on those questions on my own schedule and to the extent that I want to, and I'll share those reflections on my blog. If people want to excerpt/link back, they're welcome to do so. Let's try that out...
-
-** DONE Keeping a process journal													 :writing:learning:
-	 CLOSED: [2014-11-01 Sat 21:08]
-	 :LOGBOOK:
-	 CLOCK: [2014-11-01 Sat 20:19]--[2014-11-01 Sat 21:08] =>  0:49
-	 :END:
-	 :PROPERTIES:
-	 :Effort:   1:0
-	 :ID:       o2b:5cd45902-cadc-474d-ace4-82df8afd7c4c
-	 :POST_DATE: [2014-11-01 Sat 20:47]
-	 :POSTID:   27581
-	 :BLOG:     sacha
-	 :END:
-
-I post a lot of notes on my blog, and I keep more snippets in my personal files so that I can learn from them and turn them into blog posts later. There's something still missing here, though, something I can tweak. Reading Louise DeSalvo's /The Art of Slow Writing/ (2014), I recognized part of what was missing in her description of process journals. Here's a relevant excerpt:
-
-#+begin_quote
-p82. In Steibeck's April 9, 1951, entry, written as he composed /East of Eden/, he evaluates his desk's new surface, determines how to keep his pencil drafts from smudging, figures when it's best to do his laundry, plans his week's work, determines to try to write somewhat more, assesses his energy level, discusses his fear of interruptions derailing his work, pledges maintaining his focus to complete the work by managing his work in his journal. 
-
-... Here we see Steinbeck deliberately managing his work before he begins the labor of writing. He evaluates his tools--his desk and pencils--shapes his day, sketches the new scene, deals with his emotions, summarizes and evaluates his progress, and figures how to move his work forward. And Steinbeck engaged in this process each day.
-#+end_quote
-
-(Oh! I love how writers Have Thought About Stuff. It's like the way
-programmers also tend to apply tools and systems to more than just
-programming... Come to think of it, I wonder how geeks of other
-persuasions end up applying their geekdoms to the rest of life!)
-
-Anyway: a place to clear your thoughts, a deliberate reflection on
-processes and practices, and perhaps a way to browse through those
-entries in chronological order or based on context... My blog is a
-little like that, but there's so much more stuff than I publish on it
-and it will continue to be like that if I insist on keeping to my
-mostly-one-post-a-day limit and scheduling things in advance. 
-
-I've been keeping a small journal--just a few keywords per day,
-scribbled into a paper notebook shortly before going to bed--for the
-past three months. It's amazing how that's enough to help me get back
-to those days, remembering more details than I could without them.
-
-Org Mode for Emacs has built-in support for quickly capturing notes
-and organizing them in an outline by date. I think I'll use that for
-at least quick memories, since those make sense in a timeline, and
-then I'll keep the larger notes in a topic-focused outline.
-Technically, I'm using a computer, so I should be able to organize
-things both ways: using tags and links to connect items by topic, and
-using Org's log view to view things by date.
-
-It would be good to start with this kind of deliberate, constant
-improvement in a few areas of my life:
-
-- *Web development:* I'd like to learn more about design, and also developing better code
-- *Writing:* I can pay more attention to the questions I formulate and how I explore them
-- *Cooking:* Hmm, more notes on how we make the recipes and what the cooking process is like?
- 
-If I make Fridays the days I focus on harvesting my notes from the previous week and plan some ideas for the next one, that would fit in nicely with reviewing this process journal and seeing what I can build on the next week. (I'm still going to post random snippets during the week, probably... =) )
-
-** DONE Building a better time machine										 :writing:blogging:
-	 CLOSED: [2014-11-01 Sat 22:07]
-	 :LOGBOOK:
-	 CLOCK: [2014-11-01 Sat 21:08]--[2014-11-01 Sat 22:07] =>  0:59
-	 :END:
-	 :PROPERTIES:
-	 :Effort:   1:00
-	 :ID:       o2b:508b8f16-a493-4dac-b612-79c18364f2c2
-	 :POST_DATE: [2014-11-01 Sat 21:54]
-	 :POSTID:   27582
-	 :BLOG:     sacha
-	 :END:
-
-#+begin_quote
-p98. In her essay "On Keeping a Notebook", [Joan] Didion describes what her notebook isn't. It isn't "an accurate factual record" because our recollection of an event might be vastly different from someone else'.s It isn't to "dutifully record a day's events" because that task inevitably becomes boring, and such a record conveys little or no meaning. Nor should we necessarily expect that we might one day open our notebooks and find "a forgotten account" of an event we can pluck for our work.
-
-Instead, Didion believes that the notebook's value lies in its record of "/How it felt to be me/" at a particular time. This, she says, is the notebook's truth. Although we might imagine using it to fix our impressions of others, instead, "/Remember what it was to be me:/ that is always the point" of the notebook. Part of a writer's education is "to keep on noding terms with the people we used to be, whether we find them attractive company or not." Reading our notebooks helps us to keep in touch with those past selves, and a record of "How it felt to be me" can be extraordinarily useful in writing memoir, creating fictional characacters, or writing poetry. 
-
-#+end_quote
-
-I've written before about how a blog is like a time machine, reflecting on my [[http://sachachua.com/blog/2012/12/understanding-how-im-changing-as-a-speaker/][growth as a speaker]] or looking back [[http://sachachua.com/blog/2013/08/turning-30-a-review-of-the-last-decade/][over the past decade]]. It's wonderful having all these notes. I often find myself referring to things from years ago -- many of the technical posts are still useful, surprisingly -- and then I bump into other memories nearby. 
-
-What can I do now to build a better time machine for me to use in
-another ten years or more? How can I tweak what I'm sharing and how
-I'm sharing it so that I can make the most of it? Let me think about
-how this has worked in the past, so that I can build on what's been
-working well.
-
-People like the tech posts, the workflow posts, the reflection posts
-where they recognize something they've been thinking about themselves.
-So those are all good. I also like point-in-time descriptions to help
-me remember what it was like. Maybe I'll take those [[http://sachachua.com/blog/2014/11/keeping-process-journal/][process journal]]
-entries and copy them in periodically so that they're available
-somewhere.
-
-I wonder: what other people have learned about writing for their futures? Here's another snippet from Louise DeSalvo's /The Art of Slow Writing/ (2014):
-
-#+begin_quote
-p98. In her essay "On Keeping a Notebook", [Joan] Didion describes what her notebook isn't. It isn't "an accurate factual record" because our recollection of an event might be vastly different from someone else'.s It isn't to "dutifully record a day's events" because that task inevitably becomes boring, and such a record conveys little or no meaning. Nor should we necessarily expect that we might one day open our notebooks and find "a forgotten account" of an event we can pluck for our work.
-
-Instead, Didion believes that the notebook's value lies in its record of "/How it felt to be me/" at a particular time. This, she says, is the notebook's truth. Although we might imagine using it to fix our impressions of others, instead, "/Remember what it was to be me:/ that is always the point" of the notebook. Part of a writer's education is "to keep on noding terms with the people we used to be, whether we find them attractive company or not." Reading our notebooks helps us to keep in touch with those past selves, and a record of "How it felt to be me" can be extraordinarily useful in writing memoir, creating fictional characacters, or writing poetry. 
-
-p100. Didion remarks on the fact that we change over time but that we forget the people we were: "I have already lost touch with a couple of people I used to be," she says. Without a notebook record, these selves are lost to us. For a writer, "keeping in touch" with our past selves is helpful. ... As Didion reminds us, "We forget all too soon the things we thought we could never forget."
-#+end_quote
-
-So, maybe the occasional snapshot of "How it felt to be me," a way to remember that there are selves to remember. Otherwise the time blurs.
-
-From that essay of Joan Didion:
-
-#+begin_quote
-Keepers of private notebooks are a different breed altogether, lonely
-and resistant rearrangers of things, anxious malcontents, children
-afflicted apparently at birth with some presentiment of loss.
-#+end_quote
-
-I think that might be part of it, a little bit of that worry (not a lot, but it's there, lurking in the background) that I might forget (no, will!) large chunks of my life, because even last month is a little fuzzy without notes and last year gets condensed into a few highlights. But no, that isn't quite it either, since I don't really hang on to the memories tightly even with my notes and my archive; I don't reread, I don't memorize. 
-
-Ah. I think this is it: my blog lets my past selves connect with other people who are looking for this stuff here and now (or in the future, as the case may be). So even if I am a different self--focused on other projects, learning about other interests--those past selves are there to nod at other people and share a little of what we've learned along the way. Mostly I leave things as snippets and blog posts, but on occasion, I consolidate things into summaries and documents - a clearer guide, a past self updated with a little present knowledge.
-
-Hmm...
-
-** DONE My current book workflow                                    :reading:
-   CLOSED: [2014-11-10 Mon 12:48] SCHEDULED: <2014-11-10 Mon>
-   :LOGBOOK:
-   CLOCK: [2014-11-10 Mon 12:23]--[2014-11-10 Mon 12:48] =>  0:25
-   :END:
-   :PROPERTIES:
-   :Effort:   1:00
-   :ID:       o2b:ac1e86ee-4d1e-4699-b9ff-9c58c715f122
-   :POSTID:   27602
-   :BLOG:     sacha
-   :END:
-http://sachachua.com/blog/?p=27602&shareadraft=baba27602_5460fa5402af3
-
-I pick up a lot of information from books. We have an amazing public library system, and I'm at the library at least once a week.
-Here's my current workflow for reading and taking notes on books.
-
-*Finding books to read:* I check the library's new releases for interesting titles. I have a Ruby script that extracts the information and puts it into a text file. I delete anything that doesn't interest me, and then I copy the IDs into another Ruby on Rails system that requests all the books for me. Sometimes I search for books by topic or get recommendations from other people.
-
-*Reading books:* I've successfully weaned myself off the bad habit of folding over the corners of book pages (dogearing). Instead, I use book darts to point to the passages that I want to copy into my notes. I have only one tin of them, so that encourages me to harvest the notes from books before moving on to other books. If I don't have my book darts handy, I use strips of paper, but they're not as awesome. 
-
-I also keep paper and pen handy (index cards, or the small notebook I always have in my vest) so that I can take notes on ideas, questions, and other things that aren't directly in the text of the book.
-
-I mostly read non-fiction, so that's easy to skim for interesting bits. I usually check the table of contents to get an overview of the book. I have no qualms about jumping straight to specific chapters and then wandering around a bit, or even picking just a few pages out of a book. I rarely use the index (and most books don't have a good one anyway), although maybe I should check that more often.
-
-*Taking notes:* I keep individual text files named after the title of the book (and sometimes authors as well). I usually include the ISBN so that I can easily look up a book later. The text files contain quotes, ideas, TODOs, and other notes. 
-
-If no one else is around and I feel like patiently dealing with speech recognition, I open Dragon Naturally Speaking and dictate the passages from the books. This helps me train Dragon's speech model as well, which might be handy someday. If other people are around, though, I'll just type in the segments from the book.
-
-I usually type in my paper notes so that they're more coherent (since I tend to write keywords instead of full thoughts). If I want to scan my index cards or notebook pages, I pop those into my Fujitsu Scansnap ix500 and scan them as JPG. I convert the JPGs to PNG and rename them with the date and title, and then I move them to a folder that gets automatically imported into Evernote. Evernote lets me search for text, and it also tries to find text even in scans of handwriting. It's not perfect, but it's decent, and I've learned to write more clearly because of that.
-
-*Looking things up:* Since most of my notes are text, I can use =grep= to search through them. 
-
-*Sharing what I know:* I sometimes include excerpts or ideas in my blog posts. When I do, I link to the blog post from my text notes as well, so I can see what I've digested further and shared. If I'm reading a book that I know I'll want to share with other people
-later (or if the authors have asked me nicely =) ), I sometimes
-visually summarize the book.
-
-*Following up on ideas:* I add TODOs to my Org Mode agenda. I can also schedule reminders for things. I'm a little hesitant to add my books directory to the =org-agenda-files= list that Org Mode checks for TODO items (I have hundreds of book notes now!), so I've defined a custom agenda command that looks at just the book directory instead. Alternatively, it's easy enough to =grep= the =TODO= keyword.
-
-*Planned improvements:* I'm curious about the idea of a /syntopicon/, which I picked up from Adler and van Doren's /How to Read a Book/. A syntopicon is a map of ideas across multiple books. With Org Mode's support for indexing and links, I should be able to make something like it. I'm also looking forward to writing more about what I do with what I'm learning from books. This helps me challenge myself to learn actively instead of just letting a book flow through my brain.
-
-Mmm, books!
-
-If you're curious, you can read about my past workflows: 
-- [[http://sachachua.com/blog/2014/05/draw-visual-summary-book/][2014: Visual book summaries]]: I still do this, but only for a few books
-- [[http://sachachua.com/blog/2009/02/book-workflow/][2009: Dogearing, scanning, OCR]]
-
-** DONE Thinking about word counts and chunks                      :blogging:
-   CLOSED: [2014-11-10 Mon 13:17] SCHEDULED: <2014-11-10 Mon>
-   :LOGBOOK:
-   CLOCK: [2014-11-10 Mon 12:49]--[2014-11-10 Mon 13:17] =>  0:28
-   :END:
-   :PROPERTIES:
-   :Effort:   1:00
-   :ID:       o2b:01387e79-4ef2-4291-9751-75a44c745995
-   :POSTID:   27603
-   :BLOG:     sacha
-   :END:
-
-I was talking to [[http://frankc.wordpress.com/][Frank Chen]] about blogging, and he mentioned that he's
-experimenting with word count goals. That made me realize that I don't
-pay much attention to word count when I write, and that I tend to
-write shorter posts. I think in terms of chunks of ideas. I write each
-post so that it covers one idea, either something I want to share or
-something I want to learn. Sometimes I cover a little more ground, if
-I can chunk the sub-ideas enough to hold them in my brain at the same
-time. [[http://sachachua.com/blog/2013/12/update-developing-thoughts-further/][Sketches]] help me a lot when it comes to developing thoughts
-further.
-
-I rarely write larger posts that bring lots of things together. I
-guess it's because I tend to write about:
-- things I've just learned: publishing small chunks helps me get my notes out faster
-- things I'm figuring out: nibbling away at questions helps me make sense of them
-- answers to specific questions: small chunks and clear titles makes
-  it easier for me to find things and share links later
-
-What are some examples of longer posts and resources I've worked on? 
-- There's [[http://sachachua.com/blog/series/read-lisp-tweak-emacs/][How to Read Lisp and Tweak Emacs]], which I published as a
-  four-part weekly series and also as a [[http://emacslife.com/how-to-read-emacs-lisp.html][single file]].
-- There's the [[http://sachachua.com/blog/series/a-no-excuses-guide-to-blogging/][No Excuses Guide to Blogging]], which I published as a
-  PDF/EPUB/MOBI. I linked the source blog posts into a series so that
-  people coming across the posts in the archives can still navigate between them.
-- I post [[http://sachachua.com/blog/category/presentation/][presentations]] like [[http://sachachua.com/blog/2012/06/the-shy-connector-thinking-about-the-difficulties-people-encounter/][The Shy Connector]] as slides and a full
-  blog post. That said, I usually try to keep my presentations to
-  about 10-15 minutes anyway, so the resulting posts are not enormous.
-- Interviews or videos with transcripts can get really long because I
-  talk quickly. For example, this [[http://sachachua.com/blog/2012/07/transcript-emacs-chat-john-wiegley/][Emacs Chat with John Wiegley]] is
-  pretty long. I've experimented with breaking transcripts up into
-  logical segments, but keeping the entire transcript together seems
-  to make more sense to me.
-
-What would it be like to experiment with longer posts that cover more
-ground? Based on the blogs I like reading, I think it might mean
-writing more thorough guides like the ones on [[http://www.masteringemacs.org/][Mastering Emacs]] - things
-that people would bookmark and refer to a few times. 
-
-Organized guides help beginners a lot because they don't get lost
-trying to figure out the next step. They can keep scrolling down. On
-the flip side, it might take a bit more work to make long guides
-friendlier for intermediate and advanced users: a table of contents,
-links to alternative paths or related content, closer and more
-coherent discussion...
-
-Hmm. I feel a little odd about drafting a long resource (takes time to
-write and takes time to read), and deep-linking into part of a blog
-post can be a little difficult.
-
-I think I like working with short chunks that I can link to or
-assemble into different pieces. Maybe I'll spend a little more time
-planning outlines and series of related posts so that I can link posts
-together and fill in the gaps. For now, I'll leave the
-ultimate-guide-writing to other people who are better at linear
-organization (or to future Sacha when she writes books).
-
-Onward to better writing and sharing!
-
 * Visual thinking: sketchnotes, mindmaps, models, etc.
 - [[http://sachachua.com/blog/2014/12/terms-design/][Where am I in terms of design?]]
+- [[http://sachachua.com/blog/2014/12/exploring-sketchnote-colour-styles/][Exploring sketchnote colour styles]]
+
 ** Visual notetaking
+*** Another year of drawing thoughts
+
+In 2013, I decided to focus on [[http://sachachua.com/blog/2013/12/year-drawing-own-content/][drawing my own content instead of
+sketchnoting other people's talks]]. I drew 379 sketches exploring my
+questions, and I wove those into my blog posts so that I could think
+in bigger chunks.
+
+In 2014, I continued this habit.
+
+
+
 *** OUTLINED Organization
 - [[http://sachachua.com/blog/2013/11/how-i-organize-and-publish-my-sketches/][How I organize and publish my sketches]]
 - Workflow (draw) - maybe a separate post?
@@ -3029,7 +2749,168 @@ situation too.
 This could work.
 
 ** 5-year experiment
+*** Choosing what to do: impact and motivation vs. understanding     :experiment:quantified:productivity:purpose:
+    :PROPERTIES:
+    :ID:       o2b:257d9351-1a1a-4330-a273-6ec3941f4de6
+    :POST_DATE: [2014-12-03 Wed 12:00]
+    :POSTID:   27661
+    :BLOG:     sacha
+    :END:
+
+Someone asked:
+
+#+begin_quote
+One issue I have is prioritization. I sometimes find myself spending a
+lot of time on low-impact activities. How do you tackle this in your
+life? What's the most important thing you're working on right now?
+#+end_quote
+
+*How much time do you actually have?*
+
+It's easy to feel that most of your time is taken up with trivial
+things. There's taking care of yourself and the household. There are
+endless tasks to check off to-do lists. There's paperwork and
+overhead.
+
+I track my time, so I /know/ I spend a lot of my time on the general
+running of things. November was weird, so let me analyze October 2014
+instead. A quick summary from my time-tracking gives me these numbers.
+Out of the 744 hours in October, I used:
+
+| Hours | Activity                            |
+|-------+-------------------------------------|
+| 255.0 | sleep                               |
+| 126.3 | *consulting*                        |
+|  91.9 | doing other business-related things |
+|  80.5 | chores and other unpaid work        |
+|  86.2 | taking care of myself               |
+|  38.3 | playing, relaxing                   |
+|  30.4 | family-related stuff                |
+|  12.6 | socializing                         |
+|  10.3 | *writing*                           |
+|   7.4 | *working on Emacs*                  |
+|   1.5 | gardening                           |
+|   1.0 | reading                             |
+|   0.5 | tracking                            |
+|   1.7 | woodworking                         |
+
+Assuming that my consulting, writing, and working on Emacs are the
+activities that have some impact on the wider world, that's 144 hours
+out of 744, or about 19% of all the time I have. This is roughly 4.5
+hours a day. (And that's a generous assumption - many of the things I
+write are personal reflections of uncertain value to other people.)
+
+Even with tons of control over my schedule, I also spend lots of
+time on low-impact activities.
+
+And this is okay. I'm fine with that. I don't need to turn into a
+value-creating machine entirely devoted to the pursuit of one clear
+goal. I don't think I even can. It works for other people, but not for
+me. I like the time I spend cooking and helping out around the house.
+I like the time I spend playing with interesting ideas. I like the
+pace I keep.
+
+So I'm going to start with the assumption that *this is the time that
+I can work with* instead of being frustrated with the other things
+that fill my life. This is different from the mindset that I find in
+many productivity and time management books, I think, where the rest
+of your life is often treated as something that gets in the way of
+your Real Work. (Are you kidding? The time that I spend snuggling with
+W- or the cats - that's Real Life right there, for me, and I'm often
+all too aware of how short life is.) This low-impact stuff is what
+grounds me and makes me human.
+
+*Preparing*
+
+And when I'm alert and I have the time to dig into something deeply?
+(Which I often do, since I keep my schedule relatively uncluttered by
+commitments.) Then I want to have stuff ready to work on and ideas to
+explore. That way, *I can work on whatever I feel like working on.*
+Why waste energy fighting yourself and forcing yourself to work on one
+important thing, when you can choose from [[http://sachachua.com/blog/2014/03/reflecting-goals-time/][a buffet of good options]]?
+(March 2014)
+
+This sounds like a recipe for procrastination, an easy way for
+near-term pleasurable tasks to crowd out important but tedious ones.
+
+*But I also ask myself:*
+- *Why do I feel like doing various things?* Is there an underlying
+  cause or unmet need that I can address? Am I avoiding something
+  because I don't understand it or myself well enough? Do I only think
+  that I want something, or do I really want it? I do a lot of this
+  thinking and planning throughout my life, so that when those awesome
+  hours come when everything's lined up and I'm ready to make
+  something, I can just go and do it.
+- *Can I tweak how I feel about things* by emphasizing positive
+  aspects or de-emphasizing negative ones? What can I enjoy about the
+  things that are good for me? What can I dislike about the things
+  that are bad for me?
+- *What can I do now to make things better later?* How can I take
+  advantage of those moments when I'm focused and everything comes
+  together? How can I make better use of normal moments? How can I
+  make better use of the gray times too, when I'm feeling bleah?
+- *How can I slowly accumulate value?* How can I scale up by making
+  things available?
+
+I don't really work with a grand vision or a sense of importance. I
+don't need to make big jumps. I'm delighted (and somewhat mystified)
+when other people tell me that they found my blog posts or resources
+useful. Even if I proceed at my current pace--for example,
+accumulating a blog post a day--in twenty years, I'll probably be
+somewhere interesting.
+
+What that usually works out to is that I use my time to learn
+something, writing and drawing along the way. I've been blogging for
+the past twelve years or so. It's incredible how those notes have
+helped me remember things, and how even the little things I learn can
+turn out to be surprisingly useful.
+
+I might never do anything Important Enough to show up in the history
+books or get a Wikipedia page. But hey, if I help people save a little
+time, tickle their brains, or help them learn stuff, maybe they will.
+=) 
+
+And I'm really curious about what, say, learning out loud for 50 years
+can tell us. I love reading about how people kept journals and
+commonplace books of the things they learn, but what we can do now is
+so different from those personal notes back then. Now we can open up
+our notes for other people to search or learn from or be inspired by.
+Now we have conversations that grow out of notes we've forgotten
+writing. So maybe that's the Important Thing that I'm working on, but
+I won't know what the results are like until decades have passed.
+
+Hmm. I think how I deal with prioritization is to:
+- *Embrace your limits.* Don't stress out about not being 100%
+  productive or dedicated. Accept that there will be times when you're
+  distracted or sick, and there will be times when you're focused and
+  you can do lots of good stuff. Accepting this still lets you tweak
+  your limits, but you can do that with a spirit of loving kindness
+  instead of frustration.
+- *Understand yourself and play with what you think about things.*
+  Instead of fighting motivation head-on, approach it sideways by
+  asking questions and choosing what to focus your awareness on.
+- *Prepare.* You can get a decent amount done normally, and sometimes
+  you can get a lot more done because you have a lot more energy or
+  concentration. Even when you don't feel on top of the game, you can
+  prepare so that you can make the most of the moments when you do
+  (and get some things done even when you don't). For a writer, that
+  might mean keeping lots of outlines and ideas around. For a
+  developer, that might mean reading documentation and sketching out
+  plans. There's so much you can do to lay the groundwork.
+- *Accumulate gradual progress.* Sometimes you only /feel/ like you're
+  not making any progress because you don't see how far you've come.
+  Your memory is fuzzy and will lie to you. Take notes. Better yet,
+  share those notes. Then you can see how your journey of a thousand
+  miles is made up of all those little steps you've been taking - and
+  you might even be able to help out or connect with other people
+  along the way.
+
+Hope that helps!
+
+*** Getting out of your own way when you learn
 - [[http://sachachua.com/blog/2014/12/learning-slack/][Learning slack]]
+- The Inner Game of Work sketchnote
+
 *** Learning early
 
 #+begin_quote
@@ -4766,7 +4647,227 @@ Nice to have a kitchen and the time to cook! =)
 - [[http://sachachua.com/blog/?p=27634&shareadraft=baba27634_54791f18b29e6][Emacs configuration and use-package]]
 - [[http://sachachua.com/blog/2014/11/emacs-coaching-unknowns-figuring-want-learn/][Emacs, coaching, and unknowns: Figuring out what I want to learn]]
 ** Helm
-- [[http://sachachua.com/blog/2014/12/emacs-m-y-helm-show-kill-ring/][helm-show-kill-ring]]
+*** helm-descbinds
+*** helm-all-mark-rings
+
+
+
+
+** DONE Thinking about how to make better use of Yasnippet in my Emacs workflow :emacs:
+   CLOSED: [2014-12-05 Fri 14:22]
+   :PROPERTIES:
+   :Effort:   2:00
+   :ID:       o2b:55aea10b-24af-4590-9958-652402bf511e
+   :POST_DATE: [2014-12-05 Fri 14:18]
+   :POSTID:   27681
+   :BLOG:     sacha
+   :END:
+   :LOGBOOK:
+   CLOCK: [2014-12-05 Fri 13:19]--[2014-12-05 Fri 14:22] =>  1:03
+   :END:
+
+One of the awesome things that Karl Voit demonstrated in this [[http://sachachua.com/blog/2014/12/emacs-chat-karl-voit-2/][Emacs
+Chat]] was how he used [[http://www.emacswiki.org/emacs/Yasnippet][YASnippet]] and Org Mode to quickly create
+projects with several related tasks, such as when organizing a group
+to attend an event. He selected the snippet and filled in different
+fields like the artist name and the event date, and Emacs generated
+all these sub-tasks and e-mail templates with the information
+already filled in.
+
+I've used YASnippet once or twice, but mostly I've been using
+=org-capture= and =org-capture-templates= instead. YASnippet looks
+like it might be more flexible because you can fill in fields in a
+non-linear order and you can re-evaluate Emacs Lisp expressions as
+you type.
+
+Lots of people do cool things with YASnippet. For example, it's
+popular for programming because it lets people quickly expand short
+sequences into longer syntax. Check out this [[http://emacsrocks.com/e06.html][Emacs Rocks episode on
+YASnippet]] to get a sense of what it can do. (Note: YASnippet has
+changed its naming convention slightly, so things like =yas/text=
+have been replaced with =yas-text=.) People have used it for [[http://blog.binchen.org/posts/how-to-use-yasnippets-to-produce-email-templates-in-emacs.html][e-mail
+templates]] and to fill in [[http://irreal.org/blog/?p=2211][metadata for blog posts]].
+
+I'd like to use YASnippet more. Where can I integrate it into my
+workflow? Probably wherever checklists and templates make sense.
+I've been thinking about *checklists and templates* as a way to
+improve how I do things.
+
+*Checklists* are good for making sure that you complete tasks more
+consistently, not missing any important steps. You can work faster
+when there's a guide, since you don't have to keep thinking of the
+next step each time. The simple act of checking things off can
+encourage you to put in more effort, since the list shows you your
+progress. It also makes it easier to remember to follow up.
+
+*Templates* help you improve the structure of your work. You can
+make sure you cover all the important parts. If you use similar
+structures for many things, then people get used to finding
+information in the same logical places. This doesn't mean that
+you're stuck with cookie-cutter formats. You can still adapt the
+format to your needs.
+
+I'm particularly interested in using checklists and templates to
+improve in three areas:
+- *Programming:* I'd like to write with less friction and use best practices like testing
+- *Helping the Emacs community:* Checklists can help me make sure I do all the steps to prepare for and make the most of Emacs Hangouts and Emacs Chats. They might also lower the intimidation factor so that I end up scheduling these more often.
+- *Writing:* I think checklists and templates will help me invest more time into developing thoughts, relationships, and structure.
+
+*** Programming
+
+As mentioned, YASnippet's popular for programming. You can take
+advantage of existing collections of snippets for different
+programming modes (ex: [[https://github.com/AndreaCrotti/yasnippet-snippets/tree/master][AndreaCrotti's collection]]), or you can define
+your own.
+
+I'd like to get better at developing single-page applications using
+AngularJS, Twitter Bootstrap / Zurb Foundation, and NodeJS.
+YASnippet might let me quickly put together short applications and
+test suites. If I get my workflow smooth enough, I might even be
+able to do an app-a-week (or app-a-day) sprint for deliberate
+practice. There are often lots of fiddly little syntax or keyword
+things that I look up while writing code. While practising typing
+those things in again and again will help me memorize them, there's
+also some value in automating that part with snippets so that I can
+focus on the core skills of designing and implementing small web
+applications.
+
+YASnippet might also be able to help me use Org Mode to keep track
+of ideas for features or small web applications throughout the
+implementation process. I wonder if I should implement this using
+lots of subtasks or using TODO states with logs. TODO states might
+be easier to filter or visualize with the =kanban= package for Org
+Mode. Maybe I'll try both approaches. In any case, checklists will
+help me remember to think about designs and tests before
+implementing the code, and maybe I can keep track of deployment
+notes, lessons learned, and follow-up tasks.
+
+*** Emacs Community
+
+I find checklists to be really helpful when setting up live
+videocasts. I'm usually too frazzled to think of all the steps I
+need to do at the last minute. [[http://sachachua.com/blog/2013/11/my-new-google-hangouts-on-air-workflow-plus-upcoming-nov-29-qa-on-learning/][Paper checklists]] are good because I
+can refer to them while keeping my screen ready to be recorded.
+Still, an Org Mode-based checklist (possibly with dynamic date
+fields and e-mail templates provided by YASnippet) might go a long
+way towards standardizing the before- and after-event process, and
+that might in turn reduce the friction enough for me to do more of
+them. Both Emacs Chats and Emacs Hangouts seem to be popular, so it
+would be good to get more of these on the go.
+
+The process would be something like:
+1. Reach out to the person who's going to be featured on the Emacs
+   Chat, or at least one other person who's willing to be there for
+   the Emacs Hangout (so that I don't end up talking to myself for
+   the first ten minutes, which is Awkward)
+2. Figure out what will be discussed (for Emacs Chats)
+3. Set up a time, considering timezones
+4. Set up the Google+ event page
+5. Update the Google Calendar
+6. Post a notice on Twitter and on my blog (I've been forgetting to do this step)
+7. On the day of the event
+   1. Do the last-minute push (I've been forgetting to do this as well)
+   2. Create the Google Hangout on Air
+   3. Set it up for Q&A
+   4. Invite the other person in for Emacs Chats, or post the URL for Emacs Hangouts
+   5. Host the video chat
+   6. Remind people where the recording can be found
+   7. Update the Google+ page with the link to the next thing
+8. Extract the MP3 from the video, change the properties, and upload it to archive.org
+9. Post a blog post with the embedded video, podcast audio, and quick notes
+10. Transcribe the video or pay for transcription
+11. Edit the transcript
+12. Update the post with the transcript
+13. Update the Google+ event page with the link to the transcript, post to social networks (I've been forgetting this)
+14. Update EmacsLife.com, too (yet another thing I've been forgetting)
+
+I think it would be totally awesome to get to the point where I can
+call an Emacs Lisp function that would Do The Right Thing at that
+point, like posting to Twitter or using something like =org-trello=
+to make a Trello card and assign it to the person who does my
+transcriptions.
+
+*** Writing
+
+I'm getting the hang of using outlines to write (and I should post a
+video about this soon), but it might be even cooler if I can get the
+hang of writing with more structure. For example, Michael Hyatt
+posted this [[http://michaelhyatt.com/how-to-use-evernote-as-a-blogger.html][blog post checklist]] that he had been using with
+Evernote. I like it because:
+- The template asks you to be explicit about the post's objective and subject.
+- It encourages you to add more illustrations, links, and stories.
+- It reminds you to take steps that you might otherwise skip, and you might spend several days revising the post.
+
+I might not use it for every post, but it's good to flesh out some
+ideas further, especially the ones where I think I'm onto something
+particularly interesting.
+
+It would be even cooler if I could take advantage of YASnippet's
+dynamic Emacs Lisp evaluation to remind me of relevant links from my
+blog post outline given the category. I remember playing around with
+the [[http://freshmeat.net/projects/remem][Remembrance Agent]], which monitored a few hundred words around your
+cursor and brought up files that had similar words. Matching on
+category isn't going to be anywhere as sophisticated, but it still
+might be a good way to refresh my memory. Even if I had a quick Emacs
+Lisp interactive function that read whatever category property I'd set
+(chosen from the =org-refile=-able targets) and displayed the section
+from [[http://pages.sachachua.com/sharing/blog.html][my blog post index]] in another window, I think that would be a
+pretty neat start.
+
+I tend to draft posts within my sharing outline (which I sporadically
+publish at http://pages.sachachua.com/sharing/). When I'm done, I
+delete the subtree, sometimes replacing it with a link to the post to
+help me follow up on it in the future. This means losing that
+metadata, though. It might be interesting to keep the metadata so that
+I can review the goals and backstory of a blog post. 
+
+YASnippet can also help me keep track of the TODOs related to a post
+as well. For example, I might want to come up with sketches, tweet
+links, or follow up on ideas. If I use a YASnippet to plan my blog
+post in the first place, then I can create a TODO (possibly with a
+link back to the blog post) that I could leave in place or refile to
+the appropriate location in my regular Org Mode files. 
+
+I don't think YASnippet dynamic fields persist after the file is saved
+and reloaded, though. How would that work if I need to change things?
+Maybe I can use =multiple-cursors= to mark all the matching text in
+the subtree, or do other clever things with it...
+
+*** Next steps
+
+Okay. It looks like setting up YASnippet for Emacs checklists would probably give me the quickest win. Programming is also pretty straightforward. Writing might be interesting too, if I can get the hang of working with that kind of structure. Let's see how that goes. Once I figure out what those snippets will be like, I'll post them on Github somewhere. =)
+
+Is YASnippet part of your workflow? Have any thoughts, suggestions, or neat stories?
+
+** TODO Emacs kaizen: ace-jump-zap lets you use C-u to zap to any character  :emacs:
+   :PROPERTIES:
+   :ID:       o2b:24197394-d5f4-4240-a8cc-c8ec56192a45
+   :POST_DATE: [2014-12-01 Mon 16:31]
+   :POSTID:   27660
+   :BLOG:     sacha
+   :END:
+
+I'm perpetually using =M-z= to =zap-to-char= and then typing the
+character back in, because I really should be using =zap-up-to-char=
+instead. But if I'm going to get the hang of fiddling with my muscle
+memory so that I do things the Right Way, I might as well use this
+opportunity to practise using =ace-jump-zap= instead. The
+=ace-jump-zap-up-to-char-dwim= and =ace-jump-zap-to-char-dwim=
+functions behave like their normal equivalents, but if you =C-u= them,
+you get =ace-jump= type behaviour allowing you to quickly zap to any
+character you see. And since I mentally think of =M-z= as not
+including the character, I may as well map it so that =M-z= behaves
+that way.
+
+Now I just have to remember that =C-u= does cool stuff...
+
+#+begin_src emacs-lisp
+(use-package ace-jump-zap
+  :ensure ace-jump-zap
+  :bind
+  (("M-z" . ace-jump-zap-up-to-char-dwim)
+   ("C-M-z" . ace-jump-zap-to-char-dwim)))
+#+end_src
 
 ** TODO Write about term and org babel
 https://gist.githubusercontent.com/sachac/11090358/raw/4ece9ccc2399ee9f8deb3f1c1294ab43bf6ba844/gistfile1.org
@@ -4961,6 +5062,8 @@ views, exports, etc.), but the ones above look like good things to
 focus on. So much to try and learn!
 
 * Wordpress
+- [[http://sachachua.com/blog/2015/01/thoughts-context-connecting-posts-blog-post-index/?shareadraft=baba27682_54861cba96af6][Thoughts in context: Connecting posts to my blog post index]]
+
 ** The X tools and Wordpress plugins I use to manage a daily blog
 
 - Why
@@ -4981,7 +5084,6 @@ Emacs and Org Mode
 Windows Live Writer
 
 Twitter
-
 
 ** The X tools and Wordpress plugins I use to manage a 6,000+ blog post archive
 ** The X tools and Wordpress plugins I use to manage an eclectic, wide-ranging blog
@@ -7044,6 +7146,7 @@ knives, pans, and other tools.
      :Effort:   1:00
      :END:
 ** Productivity and time
+- [[http://sachachua.com/blog/2015/01/relaxed-routines/][Relaxed routines]]
 *** DONE Fuzzy brain
 		 CLOSED: [2014-09-14 Sun 20:22]
 		:LOGBOOK:
