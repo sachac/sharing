@@ -87,7 +87,7 @@ Click on the headings to expand them.
   - Related
     - [[*Thinking with Emacs :book-idea:PROJECT:][Thinking with Emacs  :book-idea:PROJECT:]]
 
-- *Life-long Emacs: A Guide to Thinking Like an Emacs Geek*
+- *A Guide to Thinking Like an Emacs Geek*
   - Why
     - Invest time = compounding interest, long-term pay-off
     - As you become more comfortable with Emacs
@@ -133,8 +133,10 @@ Click on the headings to expand them.
           - guide-key
         - Mis-remembering
         - Back and forth
+          - The kill ring
           - Registers
           - Split windows
+          - Window management
         - Interruptions
           - org-capture
           - window configuration
@@ -2978,7 +2980,7 @@ I found both of them somewhat more relatable than Ralph Waldo Emerson
 in his essays, but I'm sure Emerson will yield additional insights on
 re-reading.
 
-Both Thoreau and Borsodi emphasiz°Ù;he freedom you get (or keep!) by
+Both Thoreau and Borsodi emphasized the freedom you get (or keep!) by
 minimizing your wants. Thoreau wrote, "... for my greatest skill has
 been to want but little." Borsodi points out the artificiality of many
 desires as products of a factory-oriented culture that must have
