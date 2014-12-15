@@ -142,7 +142,9 @@ Click on the headings to expand them.
     - Workflows, general ideas, way of thinking
       - Dealing with your limitations
         - Forgetting
+          - apropos, helm-apropos
           - smex, helm-M-x
+          - where-is, describe-mode, helm-descbindings
           - guide-key
         - Mis-remembering
         - Back and forth
@@ -220,6 +222,8 @@ Click on the headings to expand them.
       - Ease them into it
       - Learn together
       - Tips for presenting within Emacs
+- Thanks
+  - @gozes
 
 Thoughts? E-mail me at [[mailto:sacha@sachachua.com][sacha@sachachua.com]]
 
