@@ -38,8 +38,290 @@ Click on the headings to expand them.
 - http://sachachua.com/blog/2013/12/making-decisions-that-dont-matter-that-much-to-me/
 - http://sachachua.com/blog/2013/12/think-about-your-delta-increasing-the-difference-you-want-to-make/
 
+
+** Books to write: Embracing Emacs
+   :PROPERTIES:
+   :Effort:   0:30
+   :CLOCK_MODELINE_TOTAL: today
+   :END:
+   :LOGBOOK:
+   CLOCK: [2014-12-15 Mon 16:53]
+   CLOCK: [2014-12-15 Mon 16:26]--[2014-12-15 Mon 16:53] =>  0:27
+   CLOCK: [2014-12-15 Mon 16:21]--[2014-12-15 Mon 16:26] =>  0:05
+   CLOCK: [2014-12-15 Mon 16:21]--[2014-12-15 Mon 16:21] =>  0:00
+   CLOCK: [2014-12-15 Mon 16:20]--[2014-12-15 Mon 16:21] =>  0:01
+   :END:
+
+<<lifelongemacs>>
+
+- *An approach for learning intermediate Emacs:* After you've gotten
+  the hang of the basics, how can you keep learning more about using
+  and tweaking this text editor? This will probably take different
+  forms: small weekly tips for constant improvement, Emacs Lisp and
+  Org Mode courses, and so forth.
+  - *What is the change I want to make in myself?* After doing this, I
+    want to be an even better user of Emacs. I want to work more
+    efficiently and fluently, and I want to have more fun with it too.
+  - *Who might find it useful?* People who want to keep tweaking how
+    they use Emacs. Mostly developers, but probably also writers and
+    people interested in personal information management
+  - *What is the change I want to help others with?* I want people to
+    become confident about using Emacs for the long term. I want them
+    to be able to play around with different mindsets/ideas, seeing
+    the big picture instead of getting lost in lots of configuration
+    details. I want to help people /think/ like an experienced Emacs
+    user.
+  - To do this, it would be good to read:
+    - Archives of Emacs blogs (ex: the ones featured on
+      http://planet.emacsen.org)
+    - Manuals for Emacs, Emacs Lisp, and popular packages
+    - the (small) collection of existing Emacs books
+    - Related technical books for taking people beyond the beginner stage
+    - Books about technical writing and learning design
+    - Source code
+  - What this book would be:
+    - Different mental shifts/ideas, workflows; things people don't even think to search for
+  - What this book is not:
+    - How to write a package
+    - Overloaded on specifics that will be obsolete or that are hard to get right for multiple platforms
+  - Related
+    - [[*Thinking with Emacs :book-idea:PROJECT:][Thinking with Emacs  :book-idea:PROJECT:]]
+
+- *Life-long Emacs: A Guide to Thinking Like an Emacs Geek*
+  - Why
+    - Invest time = compounding interest, long-term pay-off
+    - As you become more comfortable with Emacs
+    - Community
+  - Skills to develop, things to try
+    - Meta
+      - Noticing an opportunity for improvement
+        - Limited (ex: forgetting, mis-remembering)
+        - Repetitive
+        - Complex (distinguish from repetitive)
+        - Rough
+        - Open for customization
+      - Finding inspiration; things you didn't know you didn't know
+        - planet.emacsen.org
+        - Google
+        - YouTube
+        - EmacsWiki; randomness
+      - Connecting with other Emacs geeks
+        - Mailing lists and newsgroups
+        - Twitter
+        - IRC
+      - Asking for help
+      - What to do when you're frustrated
+        - Try a smaller piece
+        - Bubble gum and string
+      - Managing the yak-shaving impulse
+        - Write down your tasks
+        - Use the 80-20 rule
+        - Set time limits
+    - Working with the package ecosystem
+      - Finding and configuring packages
+        - Finding blog posts and resources
+        - Looking at modes and interactive functions
+        - Customizing variables
+        - Reading source
+      - Sum > parts; combining packages
+      - Overriding packages
+      - Extending your own
+    - Workflows, general ideas, way of thinking
+      - Dealing with your limitations
+        - Forgetting
+          - smex, helm-M-x
+          - guide-key
+        - Mis-remembering
+        - Back and forth
+          - Registers
+          - Split windows
+        - Interruptions
+          - org-capture
+          - window configuration
+        - Distractions
+        - Messing up
+          - Undo history
+          - Backups
+          - Version control
+      - Keybindings
+        - Prefix key approach
+      - Automating repetitive actions
+        - Keyboard macros
+        - Multiple cursors
+        - Writing your own Emacs Lisp functions
+      - Jumping around quickly
+        - Why navigation makes sense
+        - Projects
+        - Finding information
+          - Swoop
+          - Grep, helm-do-grep
+          - Tags
+      - Minibuffer
+        - History
+        - Ido, Helm
+        - Mini-edit
+      - Narrowing
+      - Indirect buffers
+      - Working with multiple systems
+        - Sharing your config
+        - System-specific configuration
+      - For developers
+        - Flycheck
+        - Syntactic editing
+        - Refactoring
+        - Read-Evaluate-Print Loops
+        - Literate programming
+      - Emacs Lisp everywhere with M-: and C-x C-e
+      - Org Babel
+      - Working out loud
+      - Planning
+      - Writing, outlines
+      - Shell
+      - Browsing and other things you can do in Emacs
+    - Working with other people
+      - Sets of customization
+      - Screen-sharing approach
+      - Impatient-mode
+      - Shared screen or tmux session
+      - Vagrant?
+    - Writing Emacs Lisp
+      - Beginner resources
+      - Coming up with your own stuff
+        - How to find things that do something close to what you want
+        - Hooks
+        - Redefining functions
+        - Advice
+      - Thinking in terms of buffers
+        - vs string manipulation
+      - Do what I mean
+      - Macros
+    - Sharing your workflow and configuration
+      - Why
+      - Examples
+    - Helping other people learn Emacs
+      - Why this is worth it
+      - Spark their interest
+      - Help them get started
+      - Ease them into it
+      - Learn together
+      - Tips for presenting within Emacs
+
+Thoughts? E-mail me at [[mailto:sacha@sachachua.com][sacha@sachachua.com]]
+
+** Books to write: Building your personal knowledge management system
+
+- *A guide for creating your own personal knowledge management
+  system:* I doubt that a one-size-fits-all solution will work, at
+  least not with our current understanding. But I want to learn more
+  about different approaches, I want to make mine totally awesome, and
+  I want to help people build their own from the pieces that are
+  already out there.
+  - *What is the change I want to make in myself?* After doing this, I
+    want to have a wonderfully organized system that lets me easily
+    capture, review, make sense of, and share what I know. I also want
+    to have the vocabulary and concepts to be able to critically
+    examine this system, spot gaps or opportunities for improvement,
+    and make things better.
+  - *Who would find this useful?* Fellow information packrats,
+    writers, bloggers, self-directed learners
+  - To do this, it would be good to read about:
+    - Personal knowledge management and personal information management
+    - Guides to using various tools
+    - Information architecture
+    - Library science
+    - Writing and sense-making
+
+** Books to write: Self-directed learning and experimentation
+
+- *Tips for self-directed learning and experimentation:* How to
+  structure your time and learning, how to recognize and explore
+  interesting questions, how to take notes, how to make sense of
+  things, and so on. I want to learn more effectively, and I want to
+  help other people learn more effectively too. 
+  - *What is the change I want to make in myself?* After doing this, I
+    want to be able to structure courses of study for myself, take
+    great notes, build useful resources, and accumulate new knowledge.
+  - *Who would find this useful?* Self-directed learners who want
+    something more than online courses
+  - To do this, it would be good to read about:
+    - Quantified Self, experimentation
+    - Note-taking and sense-making
+    - Self-directed learning
+
+** Books to write: Working out loud  
+- *More notes on working out loud:* particularly addressing the
+  excuses and barriers that get in people's way. To do this, it would
+  be good to read about:
+  - *What is the change I want to make in myself?* After doing this, I
+    want to have a smooth workflow for learning and sharing. I want to
+    have a wide network of people who can build on the stuff I'm
+    learning about, and who get manageable updates that are scoped to
+    their interests.
+  - *Who would find this useful?* Individual practitioners interested
+    in building their skills and network; social business advocates;
+    bloggers who are also working on building personal insight and
+    shared knowledge
+  - To do this, it would be good to read about:
+    - Social business, social learning, working out loud, personal
+      learning networks, and personal knowledge management
+    - Collaboration, team communication
+    - Writing at work
+
+** Books to write: Visual thinking
+- *Visual thinking:* particularly in terms of using it to clarify your
+  thoughts, remember, and share. To do this, it would be good to read
+  about:
+  - *What is the change I want to make in myself?* After doing this, I
+    want to be more fluent in using visual tools to explore thoughts
+    and figure things out. I want to improve in terms of visual
+    organization, technique, clarity, explanation, integration into my
+    self-directed workflow, and so on.
+  - *Who would find this useful?* People who've already started
+    doodling (or who are picking up the hang of it) and who would like
+    to use it for more things
+  - To do this, it would be good to read about:
+    - Mind mapping and other forms of visual organization
+    - Sketchnoting
+    - Planning
+    - Blogging and other forms of personal publishing
+    - Journaling
+    - Information organization and sense-making
+
+** Books to write: Following the butterflies of your interest
+
+- *Something about how to follow the butterflies of your interest*,
+  because I rarely see this perspective in productivity books and
+  because it's something other people might find helpful.
+  - *What is the change I want to make in myself?* I want to get
+    better at going with the grain of my energy, doing what I want to
+    do (and doing the work that helps me want what is good to want).
+  - *Who would find this useful?* People with many interests -
+    scanners, multi-potentialites, Renaissance-people-to-be.
+  - To do this, it would be good to read about:
+    - Career and life planning, especially unconventional paths
+    - Productivity
+    - Writing, note-taking
+    - Psychology, cognitive limits, distraction
+
+
 * Learning, writing, sharing knowledge, and constant improvement
 ** Personal knowledge management
+*** Making sense
+- http://randsinrepose.com/archives/how-to-write-a-book/
+  - TextEdit, seeing the paper on the floor
+- http://www.alexstrick.com/a-different-place/2014/10/note-taking-jujitsu-or-how-i-make-sense-of-what-i-read
+  awolfson0
+  Devonthink
+  outline
+  Tinderbox, map
+- Also, Scrivener?
+  - http://www.organizingcreativity.com/2009/08/scrivener-a-perfect-program-for-dissertation-writing/; outline, drafts, compiling
+- digital reading list http://profoundreading.com/discoverability/
+  - context, helpfulness, intelligence, simplicity
+
+[[https://blogs.cul.columbia.edu/butler/2014/06/05/daniel-wessel-using-content-outlines-and-circus-ponies-notebooks-for-writing-articles-and-theses/][content outlines]], [[http://calnewport.com/blog/2007/11/05/monday-master-class-how-to-use-a-flat-outline-to-write-outstanding-papers-fast/][transforming outline]], [[http://christiantietze.de/posts/2014/05/how-i-use-outlines-to-write-any-text/][another example]]
+**** TODO Write about memex, personal knowledge management
+*** Note-taking
 *** Visualization
 https://twitter.com/awolfson0/status/540626036837208065
 **** Threads
@@ -55,6 +337,7 @@ https://twitter.com/awolfson0/status/540626036837208065
     - Find resources
     - Apply what you learn
     - Remember what you learn
+*** TODO Write about metaphors as a way of figuring out something new. Metaphors we live by
 *** OUTLINED How I learn: My learning and sharing workflow        :requested:
 # <<learning-workflow>>
 This outline can be found at http://sach.ac/outline#learning-workflow
@@ -132,8 +415,8 @@ This outline can be found at http://sach.ac/outline#learning-workflow
 
 Requested by @gozes https://twitter.com/sachac/status/380763070382866432
 
-**** TODO Working out loud vs asking for help
-     CLOSED: [2014-12-04 Thu 12:15] SCHEDULED: <2014-12-03 Wed>
+**** DONE Working out loud vs asking for help
+     CLOSED: [2014-12-09 Tue 13:28] SCHEDULED: <2014-12-03 Wed>
 
  http://sachachua.com/blog/2014/11/figuring-temporary-sleep-schedule-interacts-programming-writing-drawing/#comment-654298
  http://sachachua.com/blog/2013/11/thinking-about-how-to-get-better-at-asking-questions/
@@ -500,6 +783,302 @@ Summarization
 Some plans don't work out.
 
 Writing helps me make sense.
+*** DONE Figuring out what to read by figuring out what you want to become or make or do :learning:reading:plans:writing:
+    CLOSED: [2014-12-12 Fri 12:11]
+    :PROPERTIES:
+    :Effort:   1:00
+    :ID:       o2b:e4dec1b7-cb4d-483a-a969-57e6cd3c79df
+    :POST_DATE: [2014-12-12 Fri 12:07]
+    :POSTID:   27698
+    :BLOG:     sacha
+    :END:
+    :LOGBOOK:
+    CLOCK: [2014-12-12 Fri 10:56]--[2014-12-12 Fri 12:11] =>  1:15
+    :END:
+
+If you know what you want to do, you can figure out what you need to
+read to get there.
+
+This tip might be obvious to other people, but I'm not used to
+planning my reading so that the books are aligned with an overall
+goal. 
+
+I make lots of [[http://sach.ac/my-learning][learning plans]], with various degrees of following
+through. Those plans tend to go out the window when I browse through
+the monthly new release lists on the library website or come across
+mentions from bibliographies and blog posts.
+
+*Books are my equivalent of impulse purchases at the supermarket checkout*, the pull of slot machines, the intrigue of Kinder eggs. I
+think that's how I resist temptations like that. The library is where
+I let that impulse out to play.
+
+We've checked out more than 400 books from the library this year. I've
+skimmed through most of them, although I've taken notes from a much
+smaller collection.
+
+Since there's such a trove of free resources I can go through, *I find
+it difficult to spend on books*. The last time I bought a book was
+November 2013. I suspect this is silly. The cost of a book is almost
+always less than the cost of taking the author out to lunch for
+discussion and brain-picking (and that's pretty much Not Going to
+Happen anyway). It's certainly less than the cost of figuring things
+out myself.
+
+My reluctance often comes from an uncertainty about whether there'll
+be enough in the book, or whether it'll be the same concepts I've
+already read about, just given new clothes. *I have to remember that I
+can get more out of a book than what the author put into it.* A book
+isn't just a collection of insights. It's a list of questions to
+explore. It's a bibliography. It's a link in the conversation and a
+shorthand for concepts. It's an education on writing style and
+organization. It's sketchnoting practice and raw material for blog
+posts. It's fuel for connection.
+
+*Phrased that way, books are a bargain.* Even not particularly good
+ones. Hmm. Maybe I should take the "Connection" part of my budget -
+the part that I'm supposed to be forcing myself to use for taking
+people out to coffee or lunch, the part that I never end up using all
+that much anyway - and experiment with using it for books. 
+
+I'm more comfortable when I use my money deliberately, so I also want
+to *be deliberate about the books I buy*. All books are bought - some
+with money, but all with time. This requires a plan, and this requires
+follow-through.
+
+*There are holes in the way I learn from books*, the pipeline from
+acquisition to reading to notes to action to review. I want to [[http://sachachua.com/blog/2014/10/becoming-better-reader/][become
+a better reader]]. My inner cheapskate says: practise on free books. But
+money can be a useful form of commitment too.
+
+Anyway. A plan. It seems logical to decide on what I should
+proactively seek out and read by thinking about what I want to do. It
+also seems logical to *require proof of my learning* through writing
+blog posts and resources and maybe even books, the way students focus
+on final projects and consultants are measured by deliverables.
+
+Here are some ideas for things I want to create out of what I want to
+learn:
+
+- *An approach for learning intermediate Emacs:* After you've gotten
+  the hang of the basics, how can you keep learning more about using
+  and tweaking this text editor? This will probably take many forms:
+  small weekly tips for constant improvement, Emacs Lisp and Org Mode
+  courses, and so forth. 
+  - *What is the change I want to make in myself?* After doing this, I
+    want to be an even better user of Emacs. I want to work more
+    efficiently and fluently, and I want to have more fun with it too.
+  - *Who might find it useful?* People who want to keep tweaking how
+    they use Emacs. Mostly developers, but probably also writers and
+    people interested in personal information management
+  - To do this, it would be good to read:
+    - Archives of Emacs blogs (ex: the ones featured on
+      http://planet.emacsen.org)
+    - Manuals for Emacs, Emacs Lisp, and popular packages
+    - the (small) collection of existing Emacs books
+    - Related technical books for taking people beyond the beginner stage
+    - Books about technical writing and learning design
+    - Source code
+
+- *A guide for creating your own personal knowledge management
+  system:* I doubt that a one-size-fits-all solution will work, at
+  least not with our current understanding. But I want to learn more
+  about different approaches, I want to make mine totally awesome, and
+  I want to help people build their own from the pieces that are
+  already out there.
+  - *What is the change I want to make in myself?* After doing this, I
+    want to have a wonderfully organized system that lets me easily
+    capture, review, make sense of, and share what I know. I also want
+    to have the vocabulary and concepts to be able to critically
+    examine this system, spot gaps or opportunities for improvement,
+    and make things better.
+  - *Who would find this useful?* Fellow information packrats,
+    writers, bloggers, self-directed learners
+  - To do this, it would be good to read about:
+    - Personal knowledge management and personal information management
+    - Guides to using various tools
+    - Information architecture
+    - Library science
+    - Writing and sense-making
+
+- *Tips for self-directed learning and experimentation:* How to
+  structure your time and learning, how to recognize and explore
+  interesting questions, how to take notes, how to make sense of
+  things, and so on. I want to learn more effectively, and I want to
+  help other people learn more effectively too. 
+  - *What is the change I want to make in myself?* After doing this, I
+    want to be able to structure courses of study for myself, take
+    great notes, build useful resources, and accumulate new knowledge.
+  - *Who would find this useful?* Self-directed learners who want
+    something more than online courses
+  - To do this, it would be good to read about:
+    - Quantified Self, experimentation
+    - Note-taking and sense-making
+    - Self-directed learning
+  
+- *More notes on working out loud:* particularly addressing the
+  excuses and barriers that get in people's way. To do this, it would
+  be good to read about:
+  - *What is the change I want to make in myself?* After doing this, I
+    want to have a smooth workflow for learning and sharing. I want to
+    have a wide network of people who can build on the stuff I'm
+    learning about, and who get manageable updates that are scoped to
+    their interests.
+  - *Who would find this useful?* Individual practitioners interested
+    in building their skills and network; social business advocates;
+    bloggers who are also working on building personal insight and
+    shared knowledge
+  - To do this, it would be good to read about:
+    - Social business, social learning, working out loud, personal
+      learning networks, and personal knowledge management
+    - Collaboration, team communication
+    - Writing at work
+
+- *Visual thinking:* particularly in terms of using it to clarify your
+  thoughts, remember, and share. To do this, it would be good to read
+  about:
+  - *What is the change I want to make in myself?* After doing this, I
+    want to be more fluent in using visual tools to explore thoughts
+    and figure things out. I want to improve in terms of visual
+    organization, technique, clarity, explanation, integration into my
+    self-directed workflow, and so on.
+  - *Who would find this useful?* People who've already started
+    doodling (or who are picking up the hang of it) and who would like
+    to use it for more things
+  - To do this, it would be good to read about:
+    - Mind mapping and other forms of visual organization
+    - Sketchnoting
+    - Planning
+    - Blogging and other forms of personal publishing
+    - Journaling
+    - Information organization and sense-making
+
+- *Something about how to follow the butterflies of your interest*,
+  because I rarely see this perspective in productivity books and
+  because it's something other people might find helpful.
+  - *What is the change I want to make in myself?* I want to get
+    better at going with the grain of my energy, doing what I want to
+    do (and doing the work that helps me want what is good to want).
+  - *Who would find this useful?* People with many interests -
+    scanners, multi-potentialites, Renaissance-people-to-be.
+  - To do this, it would be good to read about:
+    - Career and life planning, especially unconventional paths
+    - Productivity
+    - Writing, note-taking
+    - Psychology, cognitive limits, distraction
+
+Hmm. I've done literature reviews before, collecting quotes and
+references and connecting things to each other. I can do that again.
+It doesn't mean giving up my impulse reads, my openness to serendipity
+and surprise. It simply means choosing something I want to learn more
+about and then taking it all in, with more awareness and less
+evaluation, so that I can get a sense of the whole. This will help me
+find the things that have already been written so that I don't have to
+write them again. This will help me collect different approaches and
+ideas so that I can springboard off them.
+
+I like books with references more than I like books without them.
+Books without references feel like they float unanchored in a
+conversation. I recognize ideas but feel weird about the lack of
+attribution. There are no links where I can explore a concept in
+depth. On the other hand, too many references and quotes make a book
+feel like a pastiche with little added, a collection of quotes glued
+together with bubblegum and string. A good balance makes a book feel
+like it builds on what has gone before while adding something new. I
+want to write books and resources like that, and if I'm going to do
+so, I need notes so that I can trace ideas back to where people can
+learn more about them, and so I can make sense of that conversation as
+a whole. Looking forward to this.
+
+What topics will you read about in 2015, and why? What are the changes
+you want to make in yourself, what are the resources you can build for
+others, and what books can you build on to get there?
+
+Possibly related:
+
+- [[http://sachachua.com/blog/2012/10/a-long-reflection-on-getting-more-out-of-each-hour/][A long reflection on getting more out of each hour]], on how taking
+  the right perspective can help me get multiple times the value of
+  each hour.
+- [[http://sachachua.com/blog/2014/10/becoming-better-reader/][Becoming a better reader]]
+
+*** Writing into the future
+
+
+
+Writing into the future
+
+Why
+Spread out posts for consistency
+Get feedback and revise
+Right-sized chunks
+Themes
+Answering email
+Ideas for revisions
+
+Downsides
+Out of date
+
+How
+WordPress.org
+Share A Draft
+Editorial Calendar
+Organize Series
+
+*** Expand my understanding through metaphors
+https://www.quora.com/How-do-you-become-a-fast-learner
+*** TODO Make a list of differences
+
+*** DONE Envy and other people's writing                            :writing:
+    CLOSED: [2014-12-12 Fri 10:35]
+    :PROPERTIES:
+    :Effort:   1:00
+    :ID:       o2b:77ec0f3c-0b36-4db7-95d4-c18ef42349be
+    :POST_DATE: [2014-12-12 Fri 10:22]
+    :POSTID:   27697
+    :BLOG:     sacha
+    :END:
+    :LOGBOOK:
+    CLOCK: [2014-12-12 Fri 09:54]--[2014-12-12 Fri 10:35] =>  0:41
+    :END:
+
+Have you felt envy as a writer?
+
+I often come across blog posts or books that I wish I'd written. They
+explain, clearly and in depth, ideas that I've been noodling about
+writing.
+
+I want to have written Aaron's [[http://profoundreading.com/re-reading/]["What's better than reading?
+Re-reading"]]. Jon Snader (Irreal)'s summaries of Emacs chats, like this
+one with [[http://irreal.org/blog/?p=3496][Karl Voit]]. Kate Stull's [[https://www.themuse.com/advice/the-most-important-thing-youre-not-doing-at-work-and-how-to-get-started][guide to taking notes at work]]. 
+
+And that's just from three days of blog posts.
+
+My inner critic goes, "What have I been doing with my life?" and "How
+do I get there from here?" After I remind it that I'm learning, I feel
+okay. A little. I don't feel like a complete waste.
+
+And I haven't been scooped. I haven't lost an opportunity to explore
+that thought for myself and create something possibly useful for
+people. One look at the library shelves or my blog reader, and I
+remember that there is room in the world for many people writing about
+the same things.
+
+When the frustration fades, only delight is left.
+
+I get to benefit from other people's perspectives, research,
+experiences, and styles. I get to write the next step, linking to
+what's already been written instead of explaining it myself. I get to
+learn what I like without the hard work of writing and revising it
+myself.
+
+Here's what I've learned from recognizing the self I want to be in
+other people's words:
+
+I like short paragraphs and short words. I like practical application.
+I like specifics and personal experiences. I like flows.
+
+There will always be a gap between what I can do and what I want to
+do, and that's a good thing.
+
 ** Packaging/sharing  :focus:
 *** Working out loud when your work is technical
 
@@ -602,6 +1181,7 @@ Writing helps me make sense.
            2. Outsourced editing feedback tends to be copyediting instead of logical flow
         4. Outlines
            1. [[https://blogs.cul.columbia.edu/butler/2014/06/05/daniel-wessel-using-content-outlines-and-circus-ponies-notebooks-for-writing-articles-and-theses/][content outlines]], [[http://calnewport.com/blog/2007/11/05/monday-master-class-how-to-use-a-flat-outline-to-write-outstanding-papers-fast/][transforming outline]], [[http://christiantietze.de/posts/2014/05/how-i-use-outlines-to-write-any-text/][another example]]
+
         5. Reverse outlines 
            - http://writing.wisc.edu/Handbook/ReverseOutlines.html
   5. Clarity and confidence - revision
@@ -657,9 +1237,94 @@ Writing for yourself is a powerful search mechanism: there's no better way to fi
 
 ** Psychology, etc.
 *** Confirmation bias
+** Constant improvement
+*** Weekly reviews
+http://liveyourlegend.net/how-i-plan-my-week-my-5-step-process-free-worksheet/ - schedule everything, think of people, analyze what didn't happen
+*** Annual reviews
+http://chrisguillebeau.com/how-to-conduct-your-own-annual-review/
+- goal spreadsheet
+
+** DONE Sketched Book: Start With Why: How Great Leaders Inspire Everyone to Take Action - Simon Sinek   :visual-book-notes:purpose:
+   CLOSED: [2014-12-14 Sun 12:46]
+   :PROPERTIES:
+   :Effort:   1:00
+   :ID:       o2b:13eba560-1138-4de6-b67a-0c288e11fcfe
+   :POST_DATE: [2014-12-14 Sun 12:46]
+   :POSTID:   27710
+   :BLOG:     sacha
+   :END:
+   :LOGBOOK:
+   CLOCK: [2014-12-14 Sun 12:36]--[2014-12-14 Sun 12:46] =>  0:10
+   :END:
+
+When you sell (and we're always selling), do you talk about what you
+do and how you do it? Or do you start with /why/ you do the things you
+do and why this matters? In /Start With Why/ (2009), Simon Sinek
+writes about how great companies have a clear purpose and identity
+that inspires employees and earns customer loyalty. Here's my sketch
+of the key points from the book.
+
+Click on the image to view or download a high-resolution version that
+you can print or reuse.
+
+What are my whys?
+
+- Visual thinking
+  - My selfish reason for visual thinking is because I want to be able
+    to learn, think, and remember more effectively, so that I can live
+    a better life.
+  - My altruistic reason for sharing visual thinking is because there
+    are lots of people who enjoy learning from drawings more than text
+    or audio or video. I want to share how I'm learning, but more than
+    that, I want to inspire people to take these techniques and use
+    them for their own. From the resources I share, people can see
+    that you don't need to draw particularly well in order to use
+    doodling as a way to explore the world or untangle your thoughts.
+- Emacs
+  - My selfish reason for Emacs is because I have fun tweaking my
+    editing environment and doing so helps me work better. It tickles
+    my brain. In addition, helping the Emacs community thrive
+    contributes to the longevity of Emacs, which means it will keep
+    growing, which means I probably won't have to switch to some other
+    tool in the future. (Planning-ahead Sacha plans ahead!)
+  - My altruistic reason for Emacs is because I think something
+    incredible happens when you take control of your tools, shaping
+    them to fit your needs, expanding your imagination along the way.
+    I want to help people become intermediate users and power users
+    because I'm curious about what they'll build for themselves and
+    what they can share with other people. Also, the Emacs community
+    has awesome people. =)
+- Experimenting
+  - My selfish reason for experimenting (lifestyle, semi-retirement,
+    business, ideas, etc.) is so that I can figure out what works well
+    for me.
+  - My altruistic reason for sharing my experiments is to encourage
+    other people to question their assumptions, look for ways to test
+    their hypotheses, and gradually shape a life that fits them well.
+    Come to think of it, it's similar to why I like helping people
+    personalize Emacs. If I can help people explore the possibilities
+    in their life, we might come across interesting ideas along the
+    way.
+
+What are your whys? Why do you do what you do, and why does that
+matter?
+
+[[http://www.amazon.com/gp/product/B002Q6XUE4/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B002Q6XUE4&linkCode=as2&tag=sacchugeegirt-20&linkId=TPAATNKYMK4WLBCR][Get "Start With Why" on Amazon]] (affiliate link) or from your favourite book source.
+
+Like this sketch? Check out http://sketchedbooks.com for more. Feel free to share – it’s under the Creative Commons Attribution License, like the rest of my blog.
+
+
 * Visual thinking: sketchnotes, mindmaps, models, etc.
 - [[http://sachachua.com/blog/2014/12/terms-design/][Where am I in terms of design?]]
 - [[http://sachachua.com/blog/2014/12/exploring-sketchnote-colour-styles/][Exploring sketchnote colour styles]]
+** TODO Write about skewed notes    
+   SCHEDULED: <2014-12-19 Fri>
+   :PROPERTIES:
+   :Effort:   1:00
+   :END:
+ I notice that you skew a little upwards, which is totally okay. I tend to do that too when I draw on a blank sheet. In case you want to tweak that, here are some tips. =) When I'm drawing digitally, I usually sketchnote on a dotted grid instead of plain paper (which I remove before posting, yay computers). The grid also helps me draw at a consistent size even when I zoom in to work on details. I'm not sure if your preferred drawing tool supports layers, but that might be an interesting technique to try. I use Autodesk Sketchbook Pro on my tablet PC (running Windows 8). If you want, you can find grid templates online or make your own (mine are here).
+
+If you're drawing on paper and then scanning it in, I picked up a few tips for that too. I tend to slant at a regular angle, so I just tilt the paper to compensate. <laugh> And then I periodically look at the edges of the paper and at the sketch as a whole to recalibrate where I am. So https://www.flickr.com/photos/sachac/15749892756/ is still slanty, but https://www.flickr.com/photos/sachac/15686250162/ is a bit more even.
 
 ** Visual notetaking
 *** Another year of drawing thoughts
@@ -2749,6 +3414,7 @@ situation too.
 This could work.
 
 ** 5-year experiment
+*** Imagining 
 *** Choosing what to do: impact and motivation vs. understanding     :experiment:quantified:productivity:purpose:
     :PROPERTIES:
     :ID:       o2b:257d9351-1a1a-4330-a273-6ec3941f4de6
@@ -4651,8 +5317,111 @@ Nice to have a kitchen and the time to cook! =)
 *** helm-all-mark-rings
 
 
+** DONE Org Mode publishing workflow for Sketched Books collection :emacs:org:publishing:
+   CLOSED: [2014-12-15 Mon 14:33]
+   :PROPERTIES:
+   :Effort:   1:00
+   :ID:       o2b:371162a8-1d23-4635-9318-d48364f588fc
+   :POST_DATE: [2014-12-15 Mon 14:11]
+   :POSTID:   27717
+   :BLOG:     sacha
+   :END:
+   :LOGBOOK:
+   CLOCK: [2014-12-15 Mon 14:04]--[2014-12-15 Mon 14:33] =>  0:29
+   :END:
 
+I want to publish things in chunks that are bigger and more logical
+than blog posts, so I've been experimenting with my ZIP/PDF/EPUB/MOBI
+workflow. 
 
+Org Mode, Calibre, and Vagrant are terrific tools. Org Mode lets me
+write easy-to-modify source that I can export to different formats,
+like HTML and LaTeX (with the Beamer package), which lets me use
+PdfLatex to convert to PDF. Calibre converts HTML to EPUB and MOBI.
+Since tools can be difficult to set up on Windows, I use Vagrant to
+set up a virtual machine running Linux and I share my working
+directory with it.
+
+=Multiple-cursors= was so useful when I was wrangling the directory
+listing into the right format for Org. I'm glad I learned how to use
+it!
+
+Here's a Makefile I put together that simplifies the process for me:
+
+[[https://github.com/sachac/sketched-books/blob/master/Makefile][View this file on Github]]
+#+begin_src 
+all: Sketched\ Books.zip index.html sketched-books.epub sketched-books.mobi ebook.pdf
+
+clean:
+	rm -f *.dvi *.log *.nav *.out *.tex *.snm *.toc
+
+distclean: clean
+	rm -f Sketched\ Books.zip index.html *.epub *.pdf *.mobi
+
+Sketched\ Books.zip: *.png index.html
+	(cd ..; zip Sketched\ Books/Sketched\ Books.zip Sketched\ Books/* -i *.css -i *.png -i *.html)
+
+index.html: index.org
+	emacs --batch -l build.el index.org -f org-html-export-to-html --kill
+	cp index.html index.tmp
+	sed -e "s/org-ul/org-ul small-block-grid-3/" -e 's/div id="content"/div id="content" class="columns"/' -e 's/class="status"/class="status columns"/' index.tmp > index.html
+	rm -f index.html~ index.tmp
+
+ebook.html: ebook.org
+	emacs --batch -l build.el ebook.org -f org-html-export-to-html --kill
+
+cover-base.png:
+	montage *Sketched*.png -geometry -30-30 -thumbnail x400 -tile 6x5 cover.png
+
+sketched-books.epub: ebook.html
+	ebook-convert ebook.html sketched-books.epub --cover cover.png --authors "Sacha Chua" --language "English"
+
+sketched-books.mobi: ebook.html
+	ebook-convert ebook.html sketched-books.mobi --cover cover.png --authors "Sacha Chua" --language "English"
+
+ebook.tex: ebook.org
+	emacs --batch -l build.el ebook.org -f org-beamer-export-to-latex --kill
+
+ebook.pdf: ebook.tex
+	pdflatex ebook.tex
+	cp ebook.pdf sketched-books.pdf
+	rm ebook.pdf
+#+end_src
+
+And here's a very simple build.el:
+
+#+begin_src emacs-lisp
+(require 'package)
+(package-initialize)
+(require 'ox-beamer)
+(setq org-html-validation-link nil)
+(setq org-export-with-section-numbers nil)
+(setq backup-directory-alist '(("." . nil)))
+#+end_src
+
+This assumes I've already set up the environment by installing the latest Org from MELPA.
+
+You can check out the [[https://github.com/sachac/sketched-books/blob/master/index.org][index.org]] and [[https://github.com/sachac/sketched-books/blob/master/ebook.org][ebook.org]] I use, too.
+
+I'm not quite sure about the MOBI output yet. I have to test it on a
+Kindle, or in the app on my tablet. Most of the things display fine on
+my computer, though. Hooray!
+
+Neat, huh? I want to get into the habit of making and also making it
+easy for me to update these things. You can check out the results at
+http://sketchedbooks.com/collection . 
+
+Someday I might even figure out how to use the Gumroad API to publish
+updated resources automatically. Wouldn't that be neat? In the
+meantime, I'll just have to replace them myself. 
+
+I like giving people the ability to choose which files to download. If
+I get annoyed with replacing multiple files, though, I might change
+this to one large ZIP that has the images, PDF, EPUB, and MOBI.
+
+[[http://github.com/sachac/sketched-books][View the source on Github]]
+
+** cycle-spacing
 ** DONE Thinking about how to make better use of Yasnippet in my Emacs workflow :emacs:
    CLOSED: [2014-12-05 Fri 14:22]
    :PROPERTIES:
@@ -4901,7 +5670,7 @@ Here's one tip for learning
 7. Learn how to use tags and search. http://orgmode.org/org.html#Tags
 8. Customize your Org agenda even further (org-agenda-custom-commands).
 
-** [#B] Thinking with Emacs  :book-idea:PROJECT:
+** Thinking with Emacs  :book-idea:PROJECT:
 *** The basics
 *** Writing
 *** Sharing
@@ -5470,6 +6239,104 @@ https://code.google.com/p/maui-indexer/wiki/Installation ?
 
 ** Dragon NaturallySpeaking and NatLink
 * Planning, deciding, tracking, productivity, time management, delegation
+** TODO Write about blogging and marketing and answering potential customers' questions
+
+- outline and delegate this myself
+- Situation: Tech person. Introvert, even. Would rather code.
+- But there's this funny thing called business
+- Blogging = Marketing = Selling without talking to people as much
+- E-mail templates and text expanders
+- Recycle your e-mail
+- Take notes from your conversations
+- Plan ahead
+- Saving time
+  - Keep expectations low
+  - Virtual assistants
+
+** DONE Intentionally interrupting momentum and limiting flow :productivity:time:
+   CLOSED: [2014-12-14 Sun 16:03]
+   :PROPERTIES:
+   :Effort:   1:00
+   :ID:       o2b:0cd0eba5-e57d-4761-9453-6eeff742d511
+   :POST_DATE: [2014-12-14 Sun 16:01]
+   :POSTID:   27715
+   :BLOG:     sacha
+   :END:
+   :LOGBOOK:
+   CLOCK: [2014-12-14 Sun 15:24]--[2014-12-14 Sun 16:03] =>  0:39
+   :END:
+
+You know how when you get going on something, you want to keep going?
+It's a great feeling. You're in the flow, you're in the zone. Time
+passes unnoticed. You're getting stuff done.
+
+I don't trust that feeling. At least not all the way.
+
+Here's what got me thinking about this: I had just finished
+sketchnoting a book. It was fun. I felt accomplished. I wanted to do
+another sketchnote. In fact, I had already returned the previous book,
+picked another book from the shelf, and settled in for more drawing.
+
+Then I stopped and asked myself, *Is this really what I should be
+doing next?* I was basking in the glow of people's appreciation on
+Twitter and I already had all my tools set up for doing the next book,
+so it made sense to do another sketchnote. But was that really the
+best use of that moment?
+
+*More of the same, or something else?*
+
+I still stay up too late programming sometimes. I still spend hours
+reading. I still write my way past lunch, snapping out of the trance,
+suddenly starving, late in the afternoon. But I'm getting better at
+paying attention when part of me pipes up with weird questions.
+
+I dug deeper and found these sub-questions that help me evaluate
+whether to continue or whether to switch, and what to do next:
+
+- *Am I at the point of diminishing returns or temporary saturation?*
+  It's like the way that if you're eating your favourite food, there's
+  a point after which you don't enjoy it as much. Sometimes giving it
+  a bit of a rest lets you appreciate it more. 
+
+- *What could I be neglecting if I focus on this*, both in terms of
+  things I need to do and things I want to do? Am I better off
+  spending time with W-, taking care of things around the house, or
+  learning about things that don't currently give me the same thrill?
+
+- *Is there value in letting this simmer and blend?* I can crank out a
+  lot of similar things quickly. Or I can give myself time to learn
+  from people's feedback and my reflections on process, so that I
+  improve more with each step. Sometimes different things mixed
+  together result in interesting flavours and textures, like the
+  difference between a purée and a stew.
+
+- *It's easy to do more, but what would enable me to do /better/?* How
+  can I step back and improve the infrastructure for future work?
+  Infrastructure is not exciting, but it's good to do. It helps to
+  think about specific ways to make something better. What could
+  better mean?
+  - Faster?
+  - Deeper?
+  - Broader?
+  - More consistent?
+  - More focused?
+  - More aligned?
+  - More engaging?
+  - With better chunking or flow?
+
+Sure, sometimes I'll lose myself coding or writing or drawing. But
+sometimes it's good to interrupt my momentum and ask: What's important
+to do, even if it's not currently as shiny or as fun as what I'm
+doing?
+
+Do you do this too? What have you learned? What questions do you ask
+yourself to help you decide what to do next?
+
+Related posts:
+- [[http://sachachua.com/blog/2014/10/hell-yeah-approaches/][On "Hell, yeah! or No" and other approaches]] (Oct 2014) - on why I don't spend all my time on things I love to do
+- [[http://sachachua.com/blog/2010/11/limiting-flow-lifeworkwork-lifebalancegeek/][Limiting flow]] (2010) - on the dangers of flow and how I'm limiting it
+- [[http://sachachua.com/blog/2008/05/getting-through-the-plateau-of-mediocrity-picking-up-the-idioms/][Getting through the plateau of mediocrity]] (2008) - on getting through the blah parts of learning
+
 ** Delegation 																												:focus:
 *** A No-Excuses Guide to Delegation                                   :book:
 **** DONE Outline
@@ -7147,6 +8014,7 @@ knives, pans, and other tools.
      :END:
 ** Productivity and time
 - [[http://sachachua.com/blog/2015/01/relaxed-routines/][Relaxed routines]]
+
 *** DONE Fuzzy brain
 		 CLOSED: [2014-09-14 Sun 20:22]
 		:LOGBOOK:
@@ -7157,6 +8025,61 @@ knives, pans, and other tools.
 		:END:
 
 My brain has been fuzzier than normal these days. I've been sleeping about the same amount of time, although I suppose that there have been more interruptions lately (early morning wake-ups, neighbourhood construction). But it is apparently A Thing, so I just have to work around it.
+
+*** DONE Morning, afternoon, evening, commute: thinking about what to do when :productivity:time:
+    CLOSED: [2014-12-12 Fri 00:15]
+    :PROPERTIES:
+    :Effort:   1:00
+    :ID:       o2b:5a4bb022-7b10-4b38-8b61-71e200ed8528
+    :POST_DATE: [2014-12-11 Thu 23:15]
+    :POSTID:   27690
+    :BLOG:     sacha
+    :END:
+    :LOGBOOK:
+    CLOCK: [2014-12-11 Thu 22:06]--[2014-12-12 Fri 00:15] =>  2:09
+    :END:
+
+My days have regular rhythms, as yours probably do. In the
+morning, I'm usually fresh and energetic. The afternoons are sometimes
+a little slower, but they're often solidly productive. In the
+evenings, my mind is a bit tired, but it's a good time to catch up on
+chores.
+
+I'm slowly learning about the quirks of my rhythms and choices. I've
+been thinking about what's good to do when so that I can find better
+ways to use my time. 
+
+- If I commute off-peak, I can sit down and write or play games. It's
+  easy to time this in the mornings. I often plan to avoid the evening
+  rush, but I get stuck in it anyway. This is because I get distracted
+  by cool things to work on or learn. Maybe I should set an alarm.
+
+- If I sit on the couch, one of the cats will usually settle onto my
+  lap. This makes typing on a laptop inconvenient. But I enjoy
+  spending time with the cats, so I don't mind giving up a little
+  productivity. It's relaxing to focus on the cat instead of
+  multitasking, and sometimes ideas float into my head. When I want to
+  work on something, my phone can be more convenient than my laptop.
+
+- If I do a coding sprint close to midnight--say, from 9:30 PM to 11:30
+  PM--I have a harder time falling asleep, even if I'm no longer
+  thinking about code. If I spend the same time writing, even on my
+  computer, I'm fine. 
+
+Geeking out with W- is a good way to spend evenings. Brush up tech
+skills, spend time together, make the house a little smarter.
+
+I hadn't realized how similar cat-couch-time is to commuting time. I
+should be sure to keep my phone handy. Differences: drawing on my
+tablet PC is something that makes decent use of cat-couch-time that I
+wouldn't do while commuting, and I can listen to podcasts while
+commuting but I'd rather listen to purring when with the cats.
+
+Hmm. This gives me a way to practise using my time better during each
+phase of my day. I might print this and keep it handy, or bookmark it
+and refer to it often.
+
+What would your chart look like?
 
 *** Dealing with the doldrums   :life:
 		:PROPERTIES:
@@ -7961,6 +8884,11 @@ Hope that helps!
 
 # c:/sacha/screenshots/2014-11-10 15_37_06-CSS-Tricks.png http://sachachua.com/blog/wp-content/uploads/2014/11/wpid-2014-11-10-15_37_06-CSS-Tricks.png
 * Business and career
+
+** Earning value
+
+A man who knows he's making money for other people ought to get some of the profits he brings in. Don't make any difference if it's baseball or a bank or a vaudeville show. It's business, I tell you. There ain't no sentiment to it. Forget that stuff.
+- Babe Ruth http://en.wikiquote.org/wiki/Babe_Ruth; On his demand for $52,000 a year in his 1922 contract, as quoted in The Rivals : The Boston Red Sox Vs. the New York Yankees; An Inside History (2004) by Dan Shaughnessy, p. 40
 ** What makes you happy? Priorities and planning your life
 Other titles:
 - Fit for You: How a corporate career tool is an excellent way to improve your life
@@ -9529,6 +10457,8 @@ student--they seek to eliminate the feeling instead.
 - Seth Godin, The Icarus Deception
 
 * Connecting
+** TODO Write about keeping in touch with other people's lives
+Eric 
 ** The house where friends gather
 	 :LOGBOOK:
 	 CLOCK: [2014-08-06 Wed 16:37]--[2014-08-06 Wed 16:49] =>  0:12
@@ -11616,3 +12546,10 @@ kieran.healy.usesthis.com
 - What would be your dream setup?
 ** SOMEDAY Blog about external brain
 https://twitter.com/vkurup/status/442896935746539521
+** IRC
+Instant messaging and Internet Relay Chat feel natural for me,
+possibly even more natural than conversation. I feel more fluent when
+I write. In podcasts and real-life conversations, I often interrupt
+myself, stutter, or use complex sentence patterns. When I write, I
+feel like I'm thinking more clearly and saying things more clearly.
+
