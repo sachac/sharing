@@ -5,7 +5,7 @@
 
 #+TITLE: Sharing Outline
 This is a rough outline of things I'd like to write about, screencast,
-draw, or share. index.org is written in Org Mode for Emacs, and it's [[http://www.emacswiki.org/emacs/TopMode]] 
+draw, or share. index.org is written in Org Mode for Emacs, and it's 
 the file that generates index.html. Issues and pull requests welcome
 (index.org preferred, but I can understand HTML patches too)!
 https://github.com/sachac/sharing , http://sachac.github.io/sharing/
@@ -39,7 +39,7 @@ Click on the headings to expand them.
 - http://sachachua.com/blog/2013/12/think-about-your-delta-increasing-the-difference-you-want-to-make/
 
 
-** Books to write: Embracing Emacs
+** Books to write: Thinking like an Emacs Geek
    :PROPERTIES:
    :Effort:   0:30
    :CLOCK_MODELINE_TOTAL: today
@@ -52,7 +52,7 @@ Click on the headings to expand them.
    CLOCK: [2014-12-15 Mon 16:20]--[2014-12-15 Mon 16:21] =>  0:01
    :END:
 
-<<lifelongemacs>>
+<<thinkinglikeanemacsgeek>>
 
 - *An approach for learning intermediate Emacs:* After you've gotten
   the hang of the basics, how can you keep learning more about using
@@ -86,6 +86,10 @@ Click on the headings to expand them.
     - Overloaded on specifics that will be obsolete or that are hard to get right for multiple platforms
   - Related
     - [[*Thinking with Emacs :book-idea:PROJECT:][Thinking with Emacs  :book-idea:PROJECT:]]
+  - Possible titles
+    - Emacs Mind
+    - Thinking Like an Emacs Geek
+    - ...
 
 - *A Guide to Thinking Like an Emacs Geek*
   - Why
@@ -100,6 +104,15 @@ Click on the headings to expand them.
         - Complex (distinguish from repetitive)
         - Rough
         - Open for customization
+      - Learning slowly
+        - Trying out new stuff
+        - Keeping things manageable
+          - Pick one thing
+          - Sticky notes or index cards
+        - Continuous improvement
+        - Revisiting things you've learned
+        - Keeping up with changes
+        - Things you use infrequently
       - Finding inspiration; things you didn't know you didn't know
         - planet.emacsen.org
         - Google
