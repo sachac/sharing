@@ -38,14 +38,14 @@ Click on the headings to expand them.
 - http://sachachua.com/blog/2013/12/making-decisions-that-dont-matter-that-much-to-me/
 - http://sachachua.com/blog/2013/12/think-about-your-delta-increasing-the-difference-you-want-to-make/
 
-
-** Books to write: Thinking like an Emacs Geek
+* Books to write
+** Think like an Emacs Geek
    :PROPERTIES:
    :Effort:   0:30
    :CLOCK_MODELINE_TOTAL: today
    :END:
    :LOGBOOK:
-   CLOCK: [2014-12-15 Mon 16:53]
+   CLOCK: [2014-12-15 Mon 16:53]--[2014-12-15 Mon 17:32] =>  0:39
    CLOCK: [2014-12-15 Mon 16:26]--[2014-12-15 Mon 16:53] =>  0:27
    CLOCK: [2014-12-15 Mon 16:21]--[2014-12-15 Mon 16:26] =>  0:05
    CLOCK: [2014-12-15 Mon 16:21]--[2014-12-15 Mon 16:21] =>  0:00
@@ -91,143 +91,299 @@ Click on the headings to expand them.
     - Thinking Like an Emacs Geek
     - ...
 
-- *A Guide to Thinking Like an Emacs Geek*
+- *Think Like Emacs*
   - Why
+    - What's the difference between a beginner Emacs user and an experienced one?
+      - Beginner struggling with new concepts, frustrated with differences
+      - Experienced Emacs users have a sense of where things are and how things fit together
+    - In addition to learning new keyboard shortcuts and terms, you also need to make mental shifts
     - Invest time = compounding interest, long-term pay-off
     - As you become more comfortable with Emacs
+    - You pick up new ways of thinking, aha!
+    - Ideas for workflow as well
     - Community
-  - Skills to develop, things to try
-    - Meta
-      - Noticing an opportunity for improvement
-        - Limited (ex: forgetting, mis-remembering)
-        - Repetitive
-        - Complex (distinguish from repetitive)
-        - Rough
-        - Open for customization
-      - Learning slowly
-        - Trying out new stuff
-        - Keeping things manageable
-          - Pick one thing
-          - Sticky notes or index cards
-        - Continuous improvement
-        - Revisiting things you've learned
-        - Keeping up with changes
-        - Things you use infrequently
-      - Finding inspiration; things you didn't know you didn't know
-        - planet.emacsen.org
-        - Google
-        - YouTube
-        - EmacsWiki; randomness
-      - Connecting with other Emacs geeks
-        - Mailing lists and newsgroups
-        - Twitter
-        - IRC
-      - Asking for help
-      - What to do when you're frustrated
-        - Try a smaller piece
-        - Bubble gum and string
-      - Managing the yak-shaving impulse
-        - Write down your tasks
-        - Use the 80-20 rule
-        - Set time limits
-    - Working with the package ecosystem
-      - Finding and configuring packages
-        - Finding blog posts and resources
-        - Looking at modes and interactive functions
-        - Customizing variables
-        - Reading source
-      - Sum > parts; combining packages
-      - Overriding packages
-      - Extending your own
-    - Workflows, general ideas, way of thinking
-      - Dealing with your limitations
-        - Forgetting
-          - apropos, helm-apropos
-          - smex, helm-M-x
-          - where-is, describe-mode, helm-descbindings
-          - guide-key
-        - Mis-remembering
-        - Back and forth
-          - The kill ring
-          - Registers
-          - Split windows
-          - Window management
-        - Interruptions
-          - org-capture
-          - window configuration
-        - Distractions
-        - Messing up
-          - Undo history
-          - Backups
-          - Version control
-      - Keybindings
-        - Prefix key approach
-      - Automating repetitive actions
-        - Keyboard macros
-        - Multiple cursors
-        - Writing your own Emacs Lisp functions
-      - Jumping around quickly
-        - Why navigation makes sense
-        - Projects
-        - Finding information
-          - Swoop
-          - Grep, helm-do-grep
-          - Tags
-      - Minibuffer
-        - History
-        - Ido, Helm
-        - Mini-edit
-      - Narrowing
-      - Indirect buffers
-      - Working with multiple systems
-        - Sharing your config
-        - System-specific configuration
-      - For developers
-        - Flycheck
-        - Syntactic editing
-        - Refactoring
-        - Read-Evaluate-Print Loops
-        - Literate programming
-      - Emacs Lisp everywhere with M-: and C-x C-e
-      - Org Babel
-      - Working out loud
-      - Planning
-      - Writing, outlines
-      - Shell
-      - Browsing and other things you can do in Emacs
-    - Working with other people
-      - Sets of customization
-      - Screen-sharing approach
-      - Impatient-mode
-      - Shared screen or tmux session
-      - Vagrant?
-    - Writing Emacs Lisp
-      - Beginner resources
-      - Coming up with your own stuff
-        - How to find things that do something close to what you want
-        - Hooks
-        - Redefining functions
-        - Advice
-      - Thinking in terms of buffers
-        - vs string manipulation
-      - Do what I mean
-      - Macros
-    - Sharing your workflow and configuration
-      - Why
+  - Getting over the first barrier
+    - Short-term learning challenge, long-term use
+      - Other people are more interested in moving forward, I think
+    - Keeping Emacs open, Emacsclient
+    - Keyboard shortcuts; CUA, evil-mode, the Emacs Way
+    - Terminology, glossary
+      - Things that often trip people up
+        - Buffer, window, frame
+        - Yank, kill, kill ring
+      - How to make sense of terms
+    - Defaults and customization
+    - Finding information
+    - Self-documenting
+  - Learning how to learn
+    - Noticing an opportunity for improvement
+      - Limited (ex: forgetting, mis-remembering)
+      - Repetitive
+      - Complex (distinguish from repetitive)
+      - Rough
+      - Open for customization
+    - Learning slowly
+      - Trying out new stuff
+      - Keeping things manageable
+        - Pick one thing
+        - Sticky notes or index cards
+      - Continuous improvement
+      - Revisiting things you've learned
+        - Digging deeper into packages and functionality
+        - Spaced repetition, flashcard.el, org-drill
+      - Keeping up with changes
+      - Things you use infrequently
+    - Asking for help
+      - Mailing lists / newsgroups, StackOverflow, IRC
       - Examples
-    - Helping other people learn Emacs
-      - Why this is worth it
-      - Spark their interest
-      - Help them get started
-      - Ease them into it
-      - Learn together
-      - Tips for presenting within Emacs
+      - What to do if it doesn't work
+    - What to do when you're frustrated
+      - Try a smaller piece
+      - Bubble gum and string
+    - Managing the yak-shaving impulse
+      - What is yak-shaving
+      - Write down your tasks
+      - Use the 80-20 rule
+      - Set time limits
+    - Finding inspiration; things you didn't know you didn't know
+      - planet.emacsen.org
+      - Google
+      - YouTube
+      - EmacsWiki; randomness
+      - Twitter
+    - Connecting with other Emacs geeks
+      - Mailing lists and newsgroups
+      - Twitter
+      - IRC
+      - Planet Emacsen, sharing
+  - Working with the package ecosystem
+    - Finding and configuring packages
+      - list-packages
+      - new packages
+      - description or source code
+      - Finding blog posts and resources
+      - Looking at modes and interactive functions
+      - Customizing variables
+      - Reading source
+    - Sum > parts; combining packages
+    - Overriding packages
+    - Extending your own
+  - Dealing with your limitations
+    - Forgetting
+      - apropos, helm-apropos
+      - smex, helm-M-x
+      - where-is, describe-mode, helm-descbindings
+      - guide-key
+    - Mis-remembering
+    - Messing up
+      - Undo history, undo tree
+      - Backups
+      - Version control
+    - Back and forth
+      - The kill ring, browse-kill-ring, helm
+      - Registers
+      - Split windows
+      - Window management
+    - Interruptions
+      - org-capture
+      - window configuration
+    - Distractions
+      - dark room
+  - Workflows, general ideas, way of thinking
+    - Keybindings
+      - Your own keys
+      - Overriding
+      - Prefix key approach
+      - Avoiding ctrl-shift-etc.; keychords, command mode, prefix
+      - Modes
+      - Common keybindings, navigation
+      - Extra modifiers: Hyper, Super
+    - Automating repetitive actions
+      - Keyboard macros
+        - How
+        - Recording a macro
+        - Running a macro
+        - Running a macro several times
+        - Be careful
+        - Registers
+        - Counters
+        - Saving macros
+      - Multiple cursors
+        - dwim
+        - lines
+        - killing and yanking text
+        - phi-search
+      - Writing your own Emacs Lisp functions
+    - Jumping around quickly
+      - Why navigation makes sense
+      - Projects
+      - Finding information
+        - Swoop
+        - Grep, helm-do-grep
+        - Tags
+    - Minibuffer
+      - History
+      - Ido, Helm
+      - Mini-edit
+    - Narrowing
+      - When is it useful?
+      - Focus
+      - Different modes
+      - Limiting the effect of something
+      - recursive narrow
+    - Indirect buffers
+      - When is it useful?
+        - Different major modes
+        - Looking at different parts of the same buffer
+    - Working with multiple systems
+      - Sharing your config
+      - System-specific configuration
+      - Versions
+      - Reminding yourself where you are
+        - Background colour
+    - Overviews and outlines
+      - imenu
+      - folding
+      - Org
+      - org-struct
+    - For developers
+      - Flycheck
+      - Syntactic editing
+      - Refactoring
+      - Read-Evaluate-Print Loops
+      - Literate programming
+    - Emacs Lisp everywhere with M-: and C-x C-e
+    - Working out loud, Org Babel
+    - Planning
+      - Org
+      - Projects
+      - Agenda
+      - Tags
+    - Other things you can do in Emacs
+      - Why
+      - Shell
+      - IRC
+      - Emacs 24.4: eww
+      - Twitter
+      - Mail, news
+    - Source diving
+      - Why?
+        - Find out how things work
+        - Modify things, even with just a little knowledge of Emacs Lisp
+        - Find out about other cool things you can do
+      - describe-key, describe-function, find-function
+        - If you don't know the name of the function, but you know
+          the keyboard shortcut or the menu item you use to call it,
+          you can use =M-x describe-key= to display its name and
+          description.
+        - If you know the name of the function, you can use =M-x describe-function=.
+        - Sample output
+        - If you already know the name of the function and you want
+          to jump to its source code, you can use =M-x
+          find-function=.
+        - Should have the sources installed
+          - How to install sources if you don't have them yet
+
+      - edebug
+    - Initialization
+      - eval-after-load instead of requiring everything
+      - use-package, req-package
+    - Font-locking
+  - Working with other people
+    - Sets of customization
+    - Screen-sharing approach
+    - Impatient-mode
+    - Shared screen or tmux session
+    - Vagrant?
+  - Writing Emacs Lisp
+    - Beginner resources
+    - Coming up with your own stuff
+      - How to find things that do something close to what you want
+      - Hooks
+      - Redefining functions
+      - Advice
+    - Thinking in terms of buffers
+      - vs string manipulation
+    - Do what I mean
+    - Macros
+  - Sharing your workflow and configuration
+    - Why
+    - Examples
+  - Helping other people learn Emacs
+    - Why this is worth it
+    - Spark their interest
+    - Help them get started
+    - Ease them into it
+    - Learn together
+    - Tips for presenting within Emacs
 - Thanks
   - @gozes
 
 Thoughts? E-mail me at [[mailto:sacha@sachachua.com][sacha@sachachua.com]]
 
-** Books to write: Building your personal knowledge management system
+** 52 Weeks to an Awesomer Emacs
+
+- Overview
+  - 5-30 minute tips
+  - Slow pace so that you can practice and focus on one thing the whole week
+- Topics
+  1. Learning strategies 
+  2. describe, apropos, where-is
+  3. Helm, helm-M-x; Ido, smex
+  4. Better defaults
+  5. Use search to jump around
+  6. Ace-jump
+  7. Helm-swoop
+  8. miniedit
+  9. cycle-spacing
+  10. forward-sexp, backward-sexp, kill-sexp
+  11. Browse kill ring, Helm
+  12. windmove
+  13. Configuration structure
+  14. Folding
+  15. Prefix argument
+  16. Multiple cursors
+  17. Undo tree
+  18. Guide-key
+  19. keychord
+  20. text-scale-increase, text-scale-decrease
+  21. registers
+  22. recursive-narrow
+  23. visual-line-mode?
+  24. Edebug
+  25. Dynamic abbreviations
+  26. autocomplete
+  27. Rainbow delimiters?
+  28. Popping the mark
+  29. Limiting commands with region, narrowing
+  30. Transpose characters
+  31. Checkparens
+  32. Zap to char, zap up to char
+  33. REPLs
+  34. Writable Dired
+  35. Writable Grep, helm-swoop
+  36. Eshell, term, ansi-term
+  37. Twit
+  38. Eww
+  39. Diminish
+  40. Super basic Org
+  41. Mode line cookies
+  42. Calendar
+  43. Idle timer
+  44. Info
+  45. Packages
+  46. Navigation
+  47. Smartparens or paredit
+  48. Imenu
+  49. Evil-mode
+  50. Multiple systems
+  51. Git, magit
+  52. Continuous learning about Emacs
+      - Planet Emacsen
+      - Twitter
+      - Gmane
+
+** Building your personal knowledge management system
 
 - *A guide for creating your own personal knowledge management
   system:* I doubt that a one-size-fits-all solution will work, at
@@ -250,7 +406,7 @@ Thoughts? E-mail me at [[mailto:sacha@sachachua.com][sacha@sachachua.com]]
     - Library science
     - Writing and sense-making
 
-** Books to write: Self-directed learning and experimentation
+** Self-directed learning and experimentation
 
 - *Tips for self-directed learning and experimentation:* How to
   structure your time and learning, how to recognize and explore
@@ -267,7 +423,7 @@ Thoughts? E-mail me at [[mailto:sacha@sachachua.com][sacha@sachachua.com]]
     - Note-taking and sense-making
     - Self-directed learning
 
-** Books to write: Working out loud  
+** Working out loud  
 - *More notes on working out loud:* particularly addressing the
   excuses and barriers that get in people's way. To do this, it would
   be good to read about:
@@ -286,7 +442,7 @@ Thoughts? E-mail me at [[mailto:sacha@sachachua.com][sacha@sachachua.com]]
     - Collaboration, team communication
     - Writing at work
 
-** Books to write: Visual thinking
+** Visual thinking
 - *Visual thinking:* particularly in terms of using it to clarify your
   thoughts, remember, and share. To do this, it would be good to read
   about:
@@ -306,7 +462,7 @@ Thoughts? E-mail me at [[mailto:sacha@sachachua.com][sacha@sachachua.com]]
     - Journaling
     - Information organization and sense-making
 
-** Books to write: Following the butterflies of your interest
+** Following the butterflies of your interest
 
 - *Something about how to follow the butterflies of your interest*,
   because I rarely see this perspective in productivity books and
@@ -802,6 +958,166 @@ Summarization
 Some plans don't work out.
 
 Writing helps me make sense.
+*** Writing: Open loops, closed loops, and working with forgetfulness   :writing:
+    :PROPERTIES:
+    :Effort:   2:00
+    :ID:       o2b:a54af258-9b41-455d-bacb-a4e7dfca7e3b
+    :POST_DATE: [2014-12-25 Thu 21:48]
+    :POSTID:   27732
+    :BLOG:     sacha
+    :END:
+    :LOGBOOK:
+    CLOCK: [2014-12-25 Thu 19:31]--[2014-12-25 Thu 21:55] =>  2:24
+    :END:
+
+*I think I've written about something before, but I can't find it.* I
+have thirteen tabs open with Google search results from my blog.
+I've tried countless keywords and synonyms. I've skimmed through
+posts I only half-remember writing. (Was that blog post really that
+short? I thought I wrote more details.) I still haven't found the
+post I want.
+
+I wonder: *Did I really publish it?* Or did I just outline or sketch
+it? Am I confusing it with something similar that I wrote, or
+someone else's post that I admired?
+
+*Ah, well, time to write it from scratch.* It's a little like writing
+code. Sometimes it would take so long to find an appropriate open
+source module that you're better off just writing the code yourself.
+Sometimes it would take so long to find an existing post that it's
+better to just write it from scratch.
+
+I was looking for that particular post because of a conversation with
+Flavian de Lima where I mentioned the benefits of blogging while
+you're learning something. He resonated with the idea of sharing your
+notes along the way so that other people can learn from them, even if
+you've moved on to different topics.
+
+Despite having a clear memory of writing about this topic, when I went
+to the post that I /thought/ was related to it ([[http://sachachua.com/blog/2014/01/spiral-learning/][spiral learning]]), it
+didn't mention blogging at all. [[http://sachachua.com/blog/2014/01/share-learn/]["Share while you learn"]] didn't quite
+address it, either. After trying lots of searches, I gave up and
+started writing a new post. After all, *[[http://www.cnn.com/2013/05/18/health/lifeswork-loftus-memory-malleability/index.html][memories are fallible]]*; you
+could have full confidence in an imagined event.
+
+The reason this came up was because Flavian described how he often
+took advantage of *open loops* when working on writing. He would stop
+with an incomplete thought, put the draft away, and let his
+subconscious continue working on it. Sometimes it would be days or
+weeks before he got back to working on the article. He mentioned how
+other authors might take years to work on novels, dusting off their
+manuscripts and revising scenes here and there.
+
+*Keeping loops open by stopping mid-sentence or mid-task* is a useful
+technique often recommended for writing or programming. Research
+describes this as the [[http://www.psychwiki.com/wiki/Zeigarnik_Effect][Zeigarnik effect]]: an interrupted task stays in
+your memory and motivates you to complete it.
+
+But after reading David Allen's /Getting Things Done/, I had become
+a convert of *closed loops*: getting tasks, ideas, notes out of your
+head and into a trusted system so that you don't have to waste
+energy trying to remember them. I noticed that if I kept too many
+loops open, my mind felt buzzy and distracted. To work around this,
+I got very good at writing things down.
+
+I even took it one step further. Publishing my notes on my blog helped
+me get rid of the guilt and frustration I used to feel whenever I
+found myself wanting to move on to a different project. Because my
+notes were freely available for anyone who was trying to figure out
+the same thing, I could go ahead and follow the butterflies of my
+interest to a different topic. My notes could also help me pick things
+up again if I wanted to. 
+
+I didn't stop mid-sentence or mid-thought, but *I published in the
+middle of learning* instead of waiting until I finished. Even my
+review posts often included next steps and open questions. So I got a
+little satisfaction from posting each small chunk, but I still left
+dangling threads for me to follow up on. I closed the loops enough so
+that the topics didn't demand my attention.
+
+*Writing helped me clear my mind of strong open loops--but it worked a
+little too well*. I tried to close things off quickly, so that I could
+revisit them when I wanted to. The trick was remembering that they
+were there. Sometimes I forget the dangling threads for a year or
+more. I never followed up on others. Even with my regular review
+processes, I often forgot what I had written, as in the search that
+prompted this post.
+
+Writing and memory have an ancient trade-off. Even Socrates had
+something to say about it in Plato's /The Phaedrus/:
+
+#+begin_quote
+...for this discovery of yours will create forgetfulness in the
+learners’ souls, because they will not use their memories; they will
+trust to the external written characters and not remember of
+themselves.
+#+end_quote
+as quoted in [[http://blogs.scientificamerican.com/literally-psyched/2012/04/30/on-writing-memory-and-forgetting-socrates-and-hemingway-take-on-zeigarnik/][On writing, memory, and forgetting: Socrates and Hemingway take on Zeigarnik]]
+
+In 2011, [[http://en.wikipedia.org/wiki/Google_effect][Sparrow, Liu,
+and Wegner]] showed that people remember less if they think a computer
+will keep their notes for them, and they tend to remember how to get
+to the information rather than the information itself. Having written
+the words, published the posts, and indexed the titles, I've forgotten
+the words; and now I can't find my way back.
+
+Hence my immediate challenge: *sometimes I forget how to get to the information I've stored*, like a squirrel stashing nuts.
+(More research: [[http://www.sciencedaily.com/releases/1998/11/981126102802.htm][tree squirrels can't find 74% of the nuts they
+bury]]. So I'm doing slightly better than a squirrel, I think.)
+
+Google helps if I can remember a few words from the post, but since
+it tends to search for exact words, I have to get those words right.
+Hah, maybe I need to use search engine optimization (SEO) techniques
+like writing with different keywords -- not for marketing, but for
+my own memory. It reminds me of [[http://www.theatlantic.com/technology/archive/2011/01/twitters-best-joke-an-seo-copywriter-walks-into-a-bar/69419/][this SEO joke]]:
+
+#+begin_quote
+How many SEO copywriters does it take to change a lightbulb, light bulb, light, bulb, lamp, bulbs, flowers, flour...?
+#+end_quote
+
+My [[http://sachachua.com/index][blog index]] is helpful, but it isn't enough. I need to write more descriptive titles. Perhaps I should summarize the key point as well. [[http://sachachua.com/blog/2013/11/mapping-what-im-learning/][Maps]] can help, as can other [[http://sachachua.com/blog/2015/01/deliberately-making-sense/?shareadraft=baba27724_549b4095bcbe4][deliberate ways of connecting ideas]].
+
+*Let me take a step back and look at my goals here.* Linking to posts
+helps me save time explaining ideas, build on previous
+understanding, and make it easy for people to dig into more detail
+if they want. But I can also accomplish these goals by *linking to other people's explanations*. With so many people writing on the Web,
+chances are that I'll find someone who has written about the topic
+using the words I'm looking for. I can also *write a new post from scratch*, which has the advantages of being tailored to a specific
+question and which possibly integrates the forgotten thoughts even
+without explicit links.
+
+It's an acceptable trade-off, I think. *I'll continue writing, even
+with the increased risk of forgetting.* If I have to write from
+scratch even when I think I've probably written about the same topic
+before, I can accept that as practice in writing and thinking. 
+
+Other writers have better memories. Flavian told me how he can
+remember articles he wrote in the 1990s, and I've heard similar
+accounts from others. Me, I've been re-reading this year's blog posts
+in preparation for my annual review, and I've come across ones that
+pleasantly surprised me. Posts two or three years back are even
+fuzzier in my memory. I can try to strengthen my memory through
+exercises and processes. The rest of the time, I can work with the
+brain that I have. In fact, I'm inclined to build more memory
+scaffolds around myself,
+[[http://sachachua.com/blog/2013/02/moving-my-memory-outside-my-brain/][moving
+more of my memory outside my mind]].
+
+#+begin_quote
+[I do not] carry such information in my mind since it is readily available in books. ...The value of a college education is not the learning of many facts but the training of the mind to think.
+#+end_quote
+- [[http://en.wikiquote.org/wiki/Albert_Einstein][Albert Einstein]], as Wikiquotes cites from /Einstein His Life and Universe/ (2007)
+
+And really, how much difference would perfect memory make? I might add
+more links, include more citations, cover more new ground. I can still
+learn and share without it.
+
+Forgetful squirrels have their uses. Forgotten acorns grow into oaks
+for others to enjoy. From time to time, I hear from people who've come
+across old posts through search engines, or I come across old posts in
+a review. Loops re-open, dangling threads are taken up again, and we
+continue.
+
 *** DONE Figuring out what to read by figuring out what you want to become or make or do :learning:reading:plans:writing:
     CLOSED: [2014-12-12 Fri 12:11]
     :PROPERTIES:
@@ -1144,6 +1460,7 @@ do, and that's a good thing.
      2. Too big: massive, hard to remember, intimidating to act on
      3. Just right: clear action and useful discussion
   4. Logical flow, permutations   <- worth a blog post focusing on just this?
+		 - [[http://sachachua.com/blog/2015/01/breaking-skill-outlining/][Breaking down the skill of outlining]]
      1. Why
         1. Not just about linking verbs - tried looking for resources on improving logical flow.
            1. Looks promising: /Structure & Flow: How to Focus, Organize and Unify All Types of Magazine Articles to Hold Your Reader from the Lead to the End/ (David A. Fryxell, 1996)
@@ -1254,6 +1571,8 @@ Writing for yourself is a powerful search mechanism: there's no better way to fi
 #+end_quote
 - William Zinsser, /On Writing Well/
 
+
+
 ** Psychology, etc.
 *** Confirmation bias
 ** Constant improvement
@@ -1336,15 +1655,6 @@ Like this sketch? Check out http://sketchedbooks.com for more. Feel free to shar
 * Visual thinking: sketchnotes, mindmaps, models, etc.
 - [[http://sachachua.com/blog/2014/12/terms-design/][Where am I in terms of design?]]
 - [[http://sachachua.com/blog/2014/12/exploring-sketchnote-colour-styles/][Exploring sketchnote colour styles]]
-** TODO Write about skewed notes    
-   SCHEDULED: <2014-12-19 Fri>
-   :PROPERTIES:
-   :Effort:   1:00
-   :END:
- I notice that you skew a little upwards, which is totally okay. I tend to do that too when I draw on a blank sheet. In case you want to tweak that, here are some tips. =) When I'm drawing digitally, I usually sketchnote on a dotted grid instead of plain paper (which I remove before posting, yay computers). The grid also helps me draw at a consistent size even when I zoom in to work on details. I'm not sure if your preferred drawing tool supports layers, but that might be an interesting technique to try. I use Autodesk Sketchbook Pro on my tablet PC (running Windows 8). If you want, you can find grid templates online or make your own (mine are here).
-
-If you're drawing on paper and then scanning it in, I picked up a few tips for that too. I tend to slant at a regular angle, so I just tilt the paper to compensate. <laugh> And then I periodically look at the edges of the paper and at the sketch as a whole to recalibrate where I am. So https://www.flickr.com/photos/sachac/15749892756/ is still slanty, but https://www.flickr.com/photos/sachac/15686250162/ is a bit more even.
-
 ** Visual notetaking
 *** Another year of drawing thoughts
 
@@ -6057,186 +6367,6 @@ haml-mode
 toggle hash syntax
  Robe and Rubocop - rdg
 ** Making my own URL shortening Wordpress plugin  :wordpress:code:
-** Using Emacs to figure out where I need to improve in order to type faster :emacs:kaizen:geek:
-   :PROPERTIES:
-   :ID:       o2b:28f3488d-11f7-4a48-a848-ec1c7963a66a
-   :POST_DATE: [2013-09-04 Wed 14:35]
-   :POSTID:   26050
-   :BLOG:     sacha
-   :END:
-
-I've been thinking about [[http://sachachua.com/blog/2013/08/thinking-about-how-to-type-faster/][how to type faster than 110wpm]], and digging
-into the specific factors that I could improve. In particular, I
-wanted to get a sense of:
-
-- my theoretical top speed
-- whether alternates or rolls are better for me
-- how quickly I can twitch, measured by single-key repeats or two-key alternations
-
-By using totally artificial typing tests (ex: type "thththth...") instead of word-based ones, I can explore the relationships between character combinations and speed without worrying about hitting SPC, sounding out words, correcting errors, and so on. Since I can do the tests in short sprints, I can rest enough in between to minimize my risk of RSI.
-
-#+begin_html
-<h3>Using Emacs to test my typing speed<h3>
-#+end_html
-
-I haven't come across an online typing test that gives the kind of
-stats I want, or even a per-character or digram breakdown. I thought
-about writing a Javascript-based typing timer, but I figured it would
-be less work to cajole Emacs into measuring what I wanted.
-
-Here's the code:
-
-#+begin_src emacs-lisp
-(defun sacha/timer-go ()
-  "Quick keyboard timer."
-  (interactive)
-  (insert "GO\n")
-  (run-with-timer 3 nil (lambda () (insert "\n")))  ; for warmup
-  (run-with-timer 15 nil (lambda () ; 12 seconds + the 3-second warmup
-                           (let ((col (- (point) (line-beginning-position))))
-                             (insert (format " | %d | \n" col)))
-                           )))
-(local-set-key (kbd "<f7>") 'sacha/timer-go)
-#+end_src
-
-This prints "GO" to show you that it's running. You have three seconds to warm up, so you don't have to worry about wasting any milliseconds after =M-x sacha/timer-go= (or =F7=, the keyboard shortcut I bound mine to). After the warmup, Emacs adds a newline and the "race" is on. There's a 12 second period of actual typing, and then Emacs adds the number of characters you typed. When you see that, you can stop.
-
-Twelve seconds is a useful number for estimating typing speed because the conversion from characters per minute (CPM) to words per minute (WPM) usually uses a factor of 5: CPM / 5 = WPM. So the number of characters you can type in =60 seconds / 5= is probably the number of "words" you could type in a minute. Testing your speed on trivial patterns (ex: 
-ththththththththth)
-
-Note: L and R refer to left and right hand. I've also numbered the fingers with 1 being the thumb and 5 being the pinky. The patterns I used are based on a Dvorak keyboard, but that doesn't matter as much. Just figure out what the equivalent patterns are on your preferred keyboard layout.
-
-Limitations: I didn't do any special calculations to deal with errors (there were many doubling or transposition errors multi-character sequences), so the actual CPM will be lower. Also, repeated character sequences are definitely not normal and have quirks of their own. It's interesting to establish the range and see the kinds of errors that show up when I go faster than I'm comfortable with, though. 
-
-#+begin_html
-<h3>Pure speed<h3>
-#+end_html
-
-| Key description  | Pattern          | Estimated WPM based on CPM/5 |
-|------------------+------------------+------------------------------|
-| keyboard mashing | -none- (mashing) |                          379 |
-| keyboard mashing | -none- (mashing) |                          379 |
-| keyboard mashing | -none- (mashing) |                          354 |
-| R side mashing   | -none- (mashing) |                          245 |
-| L side mashing   | -none- (mashing) |                          217 |
-
-If you don't care what you're typing, it's easy to type quickly. This is just about how fast my hands go if I don't have to think about which finger to activate. This mostly ended up as alternating left- and right-hand rolls (ex: aoeusntoahuesnto). Because I didn't have to precisely alternate, two-handed mashing resulted in more characters than one-handed mashing. Interestingly, my right hand is slightly faster than my left.
-
-#+begin_html
-<h3>Alternates versus rolls<h3>
-#+end_html
-
-4-key combinations
-
-| Key description   | Pattern  | Estimated WPM based on CPM/5 |
-|-------------------+----------+------------------------------|
-| R-side 4-key roll | snthsnth |                          232 |
-| L-side 4-key roll | aoeuaoue |                          201 |
-| L 3 & 2, R 3 & 2  | eutheuth |                          164 |
-
-3-key combinations
-
-| Key description   | Pattern  | Estimated WPM based on CPM/5 |
-|-------------------+----------+------------------------------|
-| R 3 & 2, L 3      | thethe   |                          187 |
-| L 5, R 4 & 2      | andand   |                          184 |
-| R 3 & 2, L 3      | thethe   |                          182 |
-| roll R 3          | nthnth   |                          176 |
-| R 3 & 2, L 3      | thethe   |                          170 |
-| roll L 3          | oeuoue   |                          166 |
-| roll L 3          | oeuoeu   |                          164 |
-| R 3 & 2, L 3      | thethe   |                          159 |
-| roll R 3          | nthnth   |                          152 |
-| R 3, L 4 & 3      | toetoe   |                          140 |
-
-I expected rolls to be faster than alternates, but it turns out that alternating works out fine too ("the" and "and" on a Dvorak keyboard). Same-hand rolls had fewer errors than alternates, though - timing can be tricky when doing high-speed repeats. That can be partially handled by autocorrecting "teh" to "the" and similar transpositions. I use an AutoHotkey-based autocorrect script, but it screws up the typing tests I like, so I can't take advantage of it then. A roll-optimized keyboard layout might be more effective.
-
-3- and 4-character rolls like the ones I tested aren't that common in actual typing, but it might be possible to find keyboard layouts that are better-optimized for the languages I use. I've read that Arensito, Capewell, and Colemak focus more on rolls and alternating rolls, so they might be worth a look.
-
-#+begin_html
-<h3>Two-character pairs<h3>
-#+end_html
-
-| Key description | Pattern | Estimated WPM based on CPM/5 |
-|-----------------+---------+------------------------------|
-| alt L and R 1   | uhuh    |                          139 |
-| L 5, R 5        | asas    |                          137 |
-| R 2 & 3         | chch    |                          135 |
-| R 2 & 3         | thth    |                          134 |
-| L 2, R 3        | tutu    |                          130 |
-| R 3, L 4        | toto    |                          129 |
-| L 2, R 2        | uhuh    |                          128 |
-| R 1 & 5         | xsxs    |                          126 |
-| L 2 & 3         | eueu    |                          124 |
-| R 2 and 5       | shsh    |                          115 |
-
-Two-character patterns are slower than three-character patterns, probably indicating that there's a small delay as I think about repeating things. Alternates and same-hand two-character pairs seem to work okay. Even for same-hand two-character pairs, I get the occasional doubling or transposition error.
-
-#+begin_html
-<h3>Single-finger twitching<h3>
-#+end_html
-
-| Key description | Pattern | Estimated WPM based on CPM/5 |
-|-----------------+---------+------------------------------|
-| R 2             | hhhh    |                           79 |
-| R 3             | tttt    |                           76 |
-| R 1             | mmmm    |                           75 |
-| R 4             | nnnn    |                           74 |
-| L 2             | uuuu    |                           73 |
-| R 5             | ssss    |                           71 |
-| L 3             | eeee    |                           71 |
-| L 4             | oooo    |                           65 |
-| L 1             | kkkk    |                           64 |
-| L 5             | aaaa    |                           61 |
-
-Single-finger keypresses (no automatic repeats) are slow. Good thing I don't have to do them that often. If this represents the speed at which I can send an impulse to my finger and have it do something, this might be a limiting factor for my typing speed, which is compensated for by alternates and rolls. 
-
-#+begin_html
-<h3>Three characters with repositioning<h3>
-#+end_html 
-
-| Key description | Pattern | Estimated WPM based on CPM/5 |
-|-----------------+---------+------------------------------|
-| R 3, L 2, L 2   | cupcup  |                           67 |
-| R 3, L 5, R 3   | catcat  |                           66 |
-| R 2, L 4, R 2   | dogdog  |                           64 |
-
-Moving my fingers takes time too. Also, did you know that there are typing equivalents of tongue-twisters? I can't type "ranranranran..." a long time without it turning into rna and other permutations. Maybe my brain gets hiccups.
-
-#+begin_html
-<h3>Interrupted combinations</h3>
-#+end_html
-
-| Key description   | Pattern  | Estimated WPM based on CPM/5 |
-|-------------------+----------+------------------------------|
-| R 4, L 4, R 3     | notnot   |                           63 |
-| L 4, R 4, L 3     | oneone   |                           57 |
-| L 5, R 4, L 3     | areare   |                           55 |
-
-Alternating hands is actually pretty tough if you have to care about
-timing. Oddly, this is slower than repositioning. Maybe it's because
-the repositioning helps me remember where I am in the word when I'm
-repeating it, so natural typing will be a different case.
-
-#+begin_html
-<h3>Wrap-up<h3>
-#+end_html
-
-Chunking seems to make a big difference for me. 4-character combinations tend to beat 3-character combinations and those tend to beat 2-character combinations, unless there's some timing involved. Common combinations (the, and) are easier to type. If I can get better at chunking words into syllables, that might help. The most common digraphs are
-TH, HE, AN, IN, ER, ON, RE, ED, ND, HA, AT, EN, ES, OF, NT, EA, TI, TO, IO, LE, IS, OU, AR, AS, DE, RT, and VE ([[http://scottbryce.com/cryptograms/stats.htm][source]]), so that might be good to look at next.
-
-Twitching or moving individual fingers are slow operations, so being able to "look ahead" and move my fingers to the right spots while I'm typing the first few characters helps. Muscle memory also helps minimize errors.
-
-Also, maybe finger dexterity and agility exercises?
-
-I'm probably in the region of Diminishing Returns here. I could spend hours inching up my typing speed... or I could spend that time doing other things. Now that I've identified specific areas to look into, though, I might be able to set up exercises to take advantage of interstitial time. For example, while I'm reading a book, I could do finger dexterity exercises (pausing, of course, if I feel any hint of strain - I'd like to avoid RSI if I can).
-
-On another note, testing my theoretical speed in this way reminded me a little of how we used to play Decathlon on the computer as kids. (Was it [[http://www.mobygames.com/game/microsoft-decathlon/screenshots][Microsoft Decathlon]]? The screenshots look familiar...) Somehow our keyboard survived the rampage back then. =)
-
-#+begin_html
-<div class="highlight-box">Have you analyzed your typing? What did you learn?</div>
-#+end_html
-
 ** RMagick and data-based photo mosaics
 ** Key phrase extraction 
 http://pypi.python.org/pypi/topia.termextract/ ?
@@ -6271,91 +6401,6 @@ https://code.google.com/p/maui-indexer/wiki/Installation ?
 - Saving time
   - Keep expectations low
   - Virtual assistants
-
-** DONE Intentionally interrupting momentum and limiting flow :productivity:time:
-   CLOSED: [2014-12-14 Sun 16:03]
-   :PROPERTIES:
-   :Effort:   1:00
-   :ID:       o2b:0cd0eba5-e57d-4761-9453-6eeff742d511
-   :POST_DATE: [2014-12-14 Sun 16:01]
-   :POSTID:   27715
-   :BLOG:     sacha
-   :END:
-   :LOGBOOK:
-   CLOCK: [2014-12-14 Sun 15:24]--[2014-12-14 Sun 16:03] =>  0:39
-   :END:
-
-You know how when you get going on something, you want to keep going?
-It's a great feeling. You're in the flow, you're in the zone. Time
-passes unnoticed. You're getting stuff done.
-
-I don't trust that feeling. At least not all the way.
-
-Here's what got me thinking about this: I had just finished
-sketchnoting a book. It was fun. I felt accomplished. I wanted to do
-another sketchnote. In fact, I had already returned the previous book,
-picked another book from the shelf, and settled in for more drawing.
-
-Then I stopped and asked myself, *Is this really what I should be
-doing next?* I was basking in the glow of people's appreciation on
-Twitter and I already had all my tools set up for doing the next book,
-so it made sense to do another sketchnote. But was that really the
-best use of that moment?
-
-*More of the same, or something else?*
-
-I still stay up too late programming sometimes. I still spend hours
-reading. I still write my way past lunch, snapping out of the trance,
-suddenly starving, late in the afternoon. But I'm getting better at
-paying attention when part of me pipes up with weird questions.
-
-I dug deeper and found these sub-questions that help me evaluate
-whether to continue or whether to switch, and what to do next:
-
-- *Am I at the point of diminishing returns or temporary saturation?*
-  It's like the way that if you're eating your favourite food, there's
-  a point after which you don't enjoy it as much. Sometimes giving it
-  a bit of a rest lets you appreciate it more. 
-
-- *What could I be neglecting if I focus on this*, both in terms of
-  things I need to do and things I want to do? Am I better off
-  spending time with W-, taking care of things around the house, or
-  learning about things that don't currently give me the same thrill?
-
-- *Is there value in letting this simmer and blend?* I can crank out a
-  lot of similar things quickly. Or I can give myself time to learn
-  from people's feedback and my reflections on process, so that I
-  improve more with each step. Sometimes different things mixed
-  together result in interesting flavours and textures, like the
-  difference between a purée and a stew.
-
-- *It's easy to do more, but what would enable me to do /better/?* How
-  can I step back and improve the infrastructure for future work?
-  Infrastructure is not exciting, but it's good to do. It helps to
-  think about specific ways to make something better. What could
-  better mean?
-  - Faster?
-  - Deeper?
-  - Broader?
-  - More consistent?
-  - More focused?
-  - More aligned?
-  - More engaging?
-  - With better chunking or flow?
-
-Sure, sometimes I'll lose myself coding or writing or drawing. But
-sometimes it's good to interrupt my momentum and ask: What's important
-to do, even if it's not currently as shiny or as fun as what I'm
-doing?
-
-Do you do this too? What have you learned? What questions do you ask
-yourself to help you decide what to do next?
-
-Related posts:
-- [[http://sachachua.com/blog/2014/10/hell-yeah-approaches/][On "Hell, yeah! or No" and other approaches]] (Oct 2014) - on why I don't spend all my time on things I love to do
-- [[http://sachachua.com/blog/2010/11/limiting-flow-lifeworkwork-lifebalancegeek/][Limiting flow]] (2010) - on the dangers of flow and how I'm limiting it
-- [[http://sachachua.com/blog/2008/05/getting-through-the-plateau-of-mediocrity-picking-up-the-idioms/][Getting through the plateau of mediocrity]] (2008) - on getting through the blah parts of learning
-
 ** Delegation 																												:focus:
 *** A No-Excuses Guide to Delegation                                   :book:
 **** DONE Outline
