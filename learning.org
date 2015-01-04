@@ -13,7 +13,7 @@ Help me figure things out! E-mail me with your thoughts and ideas.
 
 - Emacs
 	- What are the best resources out there? How can we logically arrange them so that people can find the appropriate resources for their level?
-	- [X] How can we make it easier and less intimidating for people to customize Emacs through Emacs Lisp?
+	- How can we make it easier and less intimidating for people to customize Emacs through Emacs Lisp?
     - I'm working on https://github.com/sachac/emacs-notes/blob/gh-pages/how-to-read-emacs-lisp.org
 	- How can we inspire people to learn more?
 		- I'm recording Emacs Chats (to help people get to know Emacs), screencasts, and show-and-tells
@@ -34,9 +34,115 @@ Help me figure things out! E-mail me with your thoughts and ideas.
 - Delegation: What kinds of tasks can I ask others to do? How can I help people develop their skills?
 - How can I get better at learning from other people?
 - What do other people need or want that is easy for me to provide?
-- Life
-  - How can I develop Aristotelian friendships?
-* Current curiosities - Jan 29, 2014   :learning:
+
+* Current curiosities - Nov 12, 2014   :learning:
+** Web design and development
+   :PROPERTIES:
+   :QUANTIFIED: Coding
+   :END:
+
+*** TODO Learn how to combine Jasmine and Angular
+*** DONE Go through a QUnit tutorial
+    CLOSED: [2014-11-12 Wed 15:44]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2014-11-12 Wed 15:44]
+    CLOCK: [2014-11-12 Wed 15:00]--[2014-11-12 Wed 15:44] =>  0:44
+    :END:
+    :PROPERTIES:
+    :Effort:   1:00
+    :END:
+Completed http://www.smashingmagazine.com/2012/06/27/introduction-to-javascript-unit-testing/
+*** DONE Go through a Jasmine tutorial
+    CLOSED: [2014-11-12 Wed 16:25]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2014-11-12 Wed 16:25]
+    CLOCK: [2014-11-12 Wed 15:44]--[2014-11-12 Wed 16:25] =>  0:41
+    :END:
+    :PROPERTIES:
+    :Effort:   1:00
+    :END:
+Converted the QUnit tutorial test code to Jasmine. Also added jasmine-jquery for easy fixtures.
+
+#+begin_src js2
+describe("PrettyDate.format", function() {
+    function checkDate(name, then, expected) {
+        it(name, function() {
+            expect(prettyDate.format('2008/01/28 22:25:00Z', then)).toEqual(expected);
+        });
+    }
+    checkDate("should display recent times", '2008/01/28 22:24:30Z', 'just now');
+    checkDate("should display times within a minute", '2008/01/28 22:23:30Z', '1 minute ago');
+    checkDate("should display times within an hour", '2008/01/28 21:23:30Z', '1 hour ago');
+    checkDate("should display times within a day", '2008/01/27 22:23:30Z', 'Yesterday');
+    checkDate("should display times within two days", '2008/01/26 22:23:30Z', '2 days ago');
+});
+describe("PrettyDate.update", function() {
+    function domtest(name, now, first, second) {
+       it(name, function() {
+           loadFixtures('test_fixture.html');
+           var links = document.getElementById('qunit-fixture').getElementsByTagName('a');
+           expect(links[0].innerHTML).toEqual('January 28th, 2008');
+           expect(links[2].innerHTML).toEqual('January 27th, 2008');
+           prettyDate.update(now);
+           expect(links[0].innerHTML).toEqual(first);
+           expect(links[2].innerHTML).toEqual(second);
+       });
+    }
+     
+     domtest("prettyDate.update", '2008-01-28T22:25:00Z', '2 hours ago', 'Yesterday');
+     domtest("prettyDate.update, one day later", '2008-01-29T22:25:00Z', 'Yesterday', '2 days ago');
+
+});
+#+end_src
+*** DONE Write about beginner steps for testing
+    CLOSED: [2014-11-12 Wed 16:40]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2014-11-12 Wed 16:40]
+    CLOCK: [2014-11-12 Wed 16:26]--[2014-11-12 Wed 16:40] =>  0:14
+    :END:
+    :PROPERTIES:
+    :Effort:   1:00
+    :END:
+** Japanese
+   :PROPERTIES:
+   :QUANTIFIED: Japanese
+   :END:
+See [[file:~/personal/organizer.org::*Learn%20Japanese][Learn Japanese]]
+*** STARTED Find an easy way to look up Japanese when typing into Emacs
+    :LOGBOOK:
+    CLOCK: [2014-11-12 Wed 17:01]--[2014-11-15 Sat 09:30] => 64:29
+    :END:
+    :PROPERTIES:
+    :Effort:   1:00
+    :END:
+*** DONE Find an e-book for learning Japanese and put it on my laptop & tablet
+    CLOSED: [2014-11-12 Wed 12:31]
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-11-12 Wed 12:31]
+    :END:
+*** DONE Find a Japanese plain past tense practice tool
+    CLOSED: [2014-11-12 Wed 14:34]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2014-11-12 Wed 14:34]
+    CLOCK: [2014-11-12 Wed 13:57]--[2014-11-12 Wed 14:34] =>  0:37
+    :END:
+    :PROPERTIES:
+    :Effort:   0:30
+    :QUANTIFIED: Japanese
+    :END:
+** Reporting
+*** DONE Find a Tableau e-book and put it on my laptop/tablet
+    CLOSED: [2014-11-12 Wed 13:57]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2014-11-12 Wed 13:57]
+    CLOCK: [2014-11-12 Wed 12:31]--[2014-11-12 Wed 13:28] =>  0:57
+    :END:
+    :PROPERTIES:
+    :Effort:   0:30
+    :QUANTIFIED: Learn
+    :END:
+http://www.tableausoftware.com/community/support/documentation-old
+* Jan 29, 2014                                                     :learning:
 ** Working well without deadlines
 *** DONE A-B-A test: Without, with, without deadlines
     CLOSED: [2014-03-02 Sun 14:05] SCHEDULED: [2014-03-01 Sat]--[2014-06-01 Sun]
@@ -89,9 +195,31 @@ Help me figure things out! E-mail me with your thoughts and ideas.
 - Improvement of the Mind (Isaac Watts)
 
 ** Turning ideas and assumptions into experiments
-*** TODO Tracking: Update the number of tasks							:lowenergy:routine:
-		 SCHEDULED: <2014-04-24 Thu .+1d>
+*** TODO [#C] Tracking: Update the number of tasks        :lowenergy:routine:
+    SCHEDULED: <2015-01-09 Fri .+1m>
+    :PROPERTIES:
+    :LAST_REPEAT: [2014-12-09 Tue 14:15]
+    :END:
 			 :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-12-09 Tue 14:15]
+       - State "DONE"       from "TODO"       [2014-11-05 Wed 18:27]
+       - State "DONE"       from "TODO"       [2014-11-04 Tue 22:57]
+       - State "DONE"       from "TODO"       [2014-11-03 Mon 22:15]
+       - State "DONE"       from "TODO"       [2014-11-02 Sun 22:37]
+			 - State "DONE"       from "TODO"       [2014-09-14 Sun 20:18]
+			 - State "DONE"       from "TODO"       [2014-08-17 Sun 22:57]
+			 - State "DONE"       from "TODO"       [2014-08-15 Fri 11:57]
+			 - State "DONE"       from "TODO"       [2014-07-27 Sun 22:33]
+			 - State "DONE"       from "TODO"       [2014-06-05 Thu 21:59]
+			 - State "DONE"       from "TODO"       [2014-05-21 Wed 22:13]
+			 - State "DONE"       from "STARTED"    [2014-05-07 Wed 22:39]
+			 CLOCK: [2014-05-07 Wed 22:37]--[2014-05-07 Wed 22:39] =>  0:02
+			 - State "DONE"       from "TODO"       [2014-05-07 Wed 22:37]
+			 - State "DONE"       from "TODO"       [2014-05-04 Sun 21:25]
+			 - State "DONE"       from "STARTED"    [2014-05-01 Thu 22:21]
+			 CLOCK: [2014-05-01 Thu 22:12]--[2014-05-01 Thu 22:21] =>  0:09
+			 - State "DONE"       from "TODO"       [2014-04-30 Wed 23:42]
+			 - State "DONE"       from "TODO"       [2014-04-28 Mon 21:56]
 			 - State "DONE"       from "TODO"       [2014-04-23 Wed 23:59]
 			 - State "DONE"       from "TODO"       [2014-04-21 Mon 23:22]
 			 - State "DONE"       from "TODO"       [2014-04-21 Mon 23:22]
@@ -104,59 +232,22 @@ Help me figure things out! E-mail me with your thoughts and ideas.
 			 :PROPERTIES:
 			 :CREATED:  [2014-04-16 Wed 22:17]
 			 :Effort:   0:10
-			 :LAST_REPEAT: [2014-04-23 Wed 23:59]
+       :LAST_REPEAT: [2014-11-05 Wed 18:27]
+			 :QUANTIFIED: Tracking
 			 :END:
 
 <2014-04-16>--<2014-05-16 Fri>
 
 What do I eventually want? I want to be able to see how quickly I'm accumulating new tasks and checking off DONE tasks. It would be interesting to look at the proportion, too, but that can come later. So first, I want a table that looks like this:
 
-#+NAME: burndown
-|       Date | DONE | STARTED | TODO | WAITING | DELEGATED | CANCELLED | SOMEDAY | Total | % done | + done | + total | + t - d - c | Note                       |
-|------------+------+---------+------+---------+-----------+-----------+---------+-------+--------+--------+---------+-------------+----------------------------|
-| 2014-04-16 | 1104 |       1 |  403 |       3 |         1 |       104 |      35 |  1651 |    67% |        |         |             |                            |
-| 2014-04-17 | 1257 |       0 |  114 |       4 |         1 |       171 |     107 |  1654 |    76% |    153 |       3 |        -217 | Lots of trimming           |
-| 2014-04-18 | 1292 |       0 |   74 |       4 |         5 |       183 |     100 |  1658 |    78% |     35 |       4 |         -43 | A little bit more trimming |
-| 2014-04-20 | 1305 |       0 |   80 |       4 |         5 |       183 |     100 |  1677 |    78% |     13 |      19 |           6 |                            |
-| 2014-04-21 | 1311 |       1 |   78 |       4 |         4 |       184 |      99 |  1681 |    78% |      6 |       4 |          -3 |                            |
-| 2014-04-22 | 1313 |       2 |   75 |       4 |         4 |       184 |      99 |  1681 |    78% |      2 |       0 |          -2 |                            |
-| 2014-04-23 | 1361 |       3 |   75 |       4 |         5 |       186 |      99 |  1733 |    79% |     48 |      52 |           2 | Added sharing/index.org    |
-| 2014-04-23 | 1369 |       4 |   66 |       4 |         5 |       186 |     101 |  1735 |    79% |      8 |       2 |          -6 |                            |
-#+TBLFM: @3$11..@>$11=$2-@-1$2::@3$12..@>$12=$9-@-1$9::@3$13..@>$13=$12-$11-($7-@-1$7)
-
-#+begin_src R :var data=burndown :results graphics :file output.png
-library(ggplot2)
-dates <- strptime(as.character(data$Date), "%Y-%m-%d")
-tasks_done <- as.numeric(data$DONE)
-tasks_uncancelled <- as.numeric(data$Total) - as.numeric(data$CANCELLED)
-df <- data.frame(dates, tasks_done, tasks_uncancelled)
-ggplot(data=df, aes(x=dates, y=tasks_done)) + geom_line() + geom_point()
-# + geom_line(aes(y=tasks_uncancelled)) + geom_point(aes(y=tasks_uncancelled))
-#+end_src
-
-#+RESULTS:
-[[file:output.png]]
-
-
-#+begin_src R :var data=burndown :results graphics :file output.png
-    library(ggplot2)
-    a <- rnorm(100)                                                                                                                            
-    b <- 2*a + rnorm(100)                                                                                                                      
-    d <-data.frame(a,b)                                                                                                                       
-    ggplot(d,aes(a,b)) + geom_point()       
-#+end_src
-
-#+RESULTS:
-[[file:output.png]]
-
 Hmm, maybe I'll go ahead and calculate that first.
 
-#+begin_src emacs-lisp
+#+begin_src emacs-lisp :results raw append
   (defun sacha/org-count-tasks-by-status ()
     (interactive)
     (let ((counts (make-hash-table :test 'equal))
           (today (format-time-string "%Y-%m-%d" (current-time)))
-          values)
+          values output)
       (org-map-entries
        (lambda ()
          (let* ((status (elt (org-heading-components) 2)))
@@ -167,27 +258,164 @@ Hmm, maybe I'll go ahead and calculate that first.
       (setq values (mapcar (lambda (x)
                              (or (gethash x counts) 0))
                            '("DONE" "STARTED" "TODO" "WAITING" "DELEGATED" "CANCELLED" "SOMEDAY")))
-      (insert "| " today " | "
-              (mapconcat 'number-to-string values " | ")
-              " | "
-              (number-to-string (apply '+ values))
-              " | "
-              (number-to-string
-               (round (/ (* 100.0 (car values)) (apply '+ values))))
-              "% |\n")))
+      (setq output
+            (concat "| " today " | "
+                    (mapconcat 'number-to-string values " | ")
+                    " | "
+                    (number-to-string (apply '+ values))
+                    " | "
+                    (number-to-string
+                     (round (/ (* 100.0 (car values)) (apply '+ values))))
+                    "% |"))
+      (if (called-interactively-p 'any)
+          (insert output)
+        output)))
+  (sacha/org-count-tasks-by-status)
+#+end_src
+
+#+NAME: burndown
+#+RESULTS:
+|       Date | DONE | START. | TODO | WAIT. | DELEG. | CANC. | SOMEDAY | Total | % done | + done | +canc. | + total | + t - d - c | Note                       |
+|------------+------+--------+------+-------+--------+-------+---------+-------+--------+--------+--------+---------+-------------+----------------------------|
+| 2014-04-16 | 1104 |      1 |  403 |     3 |      1 |   104 |      35 |  1651 |    67% |        |        |         |             |                            |
+| 2014-04-17 | 1257 |      0 |  114 |     4 |      1 |   171 |     107 |  1654 |    76% |    153 |     67 |       3 |        -217 | Lots of trimming           |
+| 2014-04-18 | 1292 |      0 |   74 |     4 |      5 |   183 |     100 |  1658 |    78% |     35 |     12 |       4 |         -43 | A little bit more trimming |
+| 2014-04-20 | 1305 |      0 |   80 |     4 |      5 |   183 |     100 |  1677 |    78% |     13 |      0 |      19 |           6 |                            |
+| 2014-04-21 | 1311 |      1 |   78 |     4 |      4 |   184 |      99 |  1681 |    78% |      6 |      1 |       4 |          -3 |                            |
+| 2014-04-22 | 1313 |      2 |   75 |     4 |      4 |   184 |      99 |  1681 |    78% |      2 |      0 |       0 |          -2 |                            |
+| 2014-04-23 | 1369 |      4 |   66 |     4 |      5 |   186 |     101 |  1735 |    79% |     56 |      2 |      54 |          -4 | Added sharing/index.org    |
+| 2014-04-24 | 1371 |      3 |   69 |     4 |      5 |   186 |     101 |  1739 |    79% |      2 |      0 |       4 |           2 |                            |
+| 2014-04-25 | 1379 |      3 |   60 |     3 |      5 |   189 |     103 |  1742 |    79% |      8 |      3 |       3 |          -8 |                            |
+| 2014-04-26 | 1384 |      3 |   65 |     3 |      5 |   192 |     103 |  1755 |    79% |      5 |      3 |      13 |           5 |                            |
+| 2014-04-27 | 1389 |      2 |   66 |     3 |      5 |   192 |     103 |  1760 |    79% |      5 |      0 |       5 |           0 |                            |
+| 2014-04-28 | 1396 |      3 |   67 |     3 |      5 |   192 |     103 |  1769 |    79% |      7 |      0 |       9 |           2 |                            |
+| 2014-04-29 | 1396 |      3 |   67 |     3 |      5 |   192 |     103 |  1769 |    79% |      0 |      0 |       0 |           0 |                            |
+| 2014-04-30 | 1404 |      4 |   70 |     4 |      5 |   192 |     103 |  1782 |    79% |      8 |      0 |      13 |           5 |                            |
+| 2014-05-01 | 1413 |      4 |   80 |     3 |      4 |   193 |     103 |  1800 |    79% |      9 |      1 |      18 |           8 |                            |
+| 2014-05-02 | 1419 |      3 |   80 |     4 |      6 |   193 |     103 |  1808 |    78% |      6 |      0 |       8 |           2 |                            |
+| 2014-05-03 | 1429 |      4 |  106 |     4 |      6 |   192 |     114 |  1855 |    77% |     10 |     -1 |      47 |          38 | Added evil plans           |
+| 2014-05-04 | 1434 |      3 |  105 |     4 |      6 |   192 |     114 |  1858 |    77% |      5 |      0 |       3 |          -2 |                            |
+| 2014-05-05 | 1442 |      5 |  103 |     3 |      7 |   192 |     115 |  1867 |    77% |      8 |      0 |       9 |           1 |                            |
+| 2014-05-07 | 1452 |      5 |  110 |     3 |      7 |   192 |     115 |  1884 |    77% |     10 |      0 |      17 |           7 |                            |
+| 2014-05-08 | 1455 |      5 |  108 |     3 |      7 |   192 |     115 |  1885 |    77% |      3 |      0 |       1 |          -2 |                            |
+| 2014-05-09 | 1465 |      7 |  106 |     4 |      7 |   192 |     115 |  1896 |    77% |     10 |      0 |      11 |           1 |                            |
+| 2014-05-11 | 1472 |     10 |  109 |     3 |      6 |   216 |      94 |  1910 |    77% |      7 |     24 |      14 |         -17 |                            |
+| 2014-05-13 | 1482 |      6 |  112 |     3 |      5 |   217 |      94 |  1919 |    77% |     10 |      1 |       9 |          -2 |                            |
+| 2014-05-14 | 1484 |      6 |  112 |     3 |      5 |   217 |      94 |  1921 |    77% |      2 |      0 |       2 |           0 |                            |
+| 2014-05-16 | 1485 |      8 |  113 |     3 |      5 |   218 |      94 |  1926 |    77% |      1 |      1 |       5 |           3 |                            |
+| 2014-05-17 | 1492 |      4 |  113 |     3 |      5 |   219 |      93 |  1929 |    77% |      7 |      1 |       3 |          -5 |                            |
+| 2014-05-19 | 1497 |      5 |  115 |     3 |      5 |   219 |      93 |  1937 |    77% |      5 |      0 |       8 |           3 |                            |
+| 2014-05-21 | 1501 |      5 |  112 |     4 |      5 |   220 |      93 |  1940 |    77% |      4 |      1 |       3 |          -2 |                            |
+| 2014-05-22 | 1515 |      0 |   97 |     3 |      6 |   225 |      96 |  1942 |    78% |     14 |      5 |       2 |         -17 |                            |
+| 2014-05-25 | 1523 |      0 |   93 |     4 |      6 |   227 |      98 |  1951 |    78% |      8 |      2 |       9 |          -1 |                            |
+| 2014-05-26 | 1523 |      1 |   94 |     4 |      6 |   227 |      98 |  1953 |    78% |      0 |      0 |       2 |           2 |                            |
+| 2014-05-29 | 1526 |      5 |   93 |     4 |      6 |   227 |      98 |  1959 |    78% |      3 |      0 |       6 |           3 |                            |
+| 2014-05-31 | 1529 |      4 |   94 |     4 |      6 |   227 |      98 |  1962 |    78% |      3 |      0 |       3 |           0 |                            |
+| 2014-06-01 | 1529 |      4 |  100 |     4 |      6 |   228 |      98 |  1969 |    78% |      0 |      1 |       7 |           6 |                            |
+| 2014-06-03 | 1537 |      5 |   95 |     3 |      5 |   228 |      98 |  1971 |    78% |      8 |      0 |       2 |          -6 |                            |
+| 2014-06-05 | 1543 |      2 |   94 |     3 |      5 |   229 |      98 |  1974 |    78% |      6 |      1 |       3 |          -4 |                            |
+| 2014-06-06 | 1553 |      3 |   84 |     3 |      7 |   234 |      99 |  1983 |    78% |     10 |      5 |       9 |          -6 |                            |
+| 2014-06-12 | 1560 |      4 |   85 |     3 |      7 |   237 |      98 |  1994 |    78% |      7 |      3 |      11 |           1 |                            |
+| 2014-06-13 | 1563 |      5 |   85 |     3 |      8 |   237 |      98 |  1999 |    78% |      3 |      0 |       5 |           2 |                            |
+| 2014-06-17 | 1585 |      3 |   89 |     2 |      7 |   241 |      98 |  2025 |    78% |     22 |      4 |      26 |           0 | Added cooking.org          |
+| 2014-06-25 | 1590 |      4 |   86 |     2 |      7 |   242 |      98 |  2029 |    78% |      5 |      1 |       4 |          -2 |                            |
+| 2014-07-06 | 1601 |      5 |   84 |     2 |      7 |   242 |      98 |  2039 |    79% |     11 |      0 |      10 |          -1 |                            |
+| 2014-07-09 | 1603 |      4 |   86 |     2 |      7 |   242 |      98 |  2042 |    79% |      2 |      0 |       3 |           1 |                            |
+| 2014-07-27 | 1611 |      5 |   82 |     1 |      7 |   246 |     102 |  2054 |    78% |      8 |      4 |      12 |           0 |                            |
+| 2014-08-09 | 1630 |      5 |   87 |     1 |      7 |   247 |     101 |  2078 |    78% |     19 |      1 |      24 |           4 |                            |
+| 2014-08-16 | 1639 |      5 |   58 |     1 |      7 |   261 |     109 |  2080 |    79% |      9 |     14 |       2 |         -21 |                            |
+| 2014-08-17 | 1641 |      4 |   66 |     1 |      7 |   261 |     110 |  2090 |    79% |      2 |      0 |      10 |           8 |                            |
+| 2014-08-24 | 1652 |      4 |   67 |     1 |      7 |   262 |     110 |  2103 |    79% |     11 |      1 |      13 |           1 |                            |
+| 2014-09-05 | 1669 |      4 |   68 |     1 |      7 |   264 |     109 |  2122 |    79% |     17 |      2 |      19 |           0 |                            |
+| 2014-09-14 | 1695 |      3 |   61 |     1 |      7 |   277 |      99 |  2143 |    79% |     26 |     13 |      21 |         -18 |                            |
+| 2014-10-01 | 1731 |      3 |   61 |     0 |      4 |   292 |      79 |  2170 |    80% |     36 |     15 |      27 |         -24 |                            |
+| 2014-11-05 | 1760 |      2 |   92 |     1 |      4 |   289 |      75 |  2223 |    79% |     29 |     -3 |      53 |          27 |                            |
+| 2014-12-09 | 1827 |      6 |  117 |     0 |      4 |   288 |      65 |  2307 |    79% |     67 |     -1 |      84 |          18 |                            |
+| 2015-01-04 |  390 |      8 |  189 |     2 |      4 |    94 |      63 |   750 |    52% |  -1437 |   -194 |   -1557 |          74 |                            |
+#+TBLFM: @3$11..@>$11=$2-@-1$2::@3$13..@>$13=$9-@-1$9::@3$14..@>$14=$13-$11-($7-@-1$7)::@3$12..@>$12=$7-@-1$7
+
+#+begin_src R :var data=burndown :results graphics :file tasks.png :exports both
+library(ggplot2)
+dates <- strptime(as.character(data$Date), "%Y-%m-%d")
+tasks_done <- as.numeric(data$DONE)
+tasks_uncancelled <- as.numeric(data$Total) - as.numeric(data$CANC.)
+df <- data.frame(dates, tasks_done, tasks_uncancelled)
+plot = ggplot(data=df, aes(x=dates, y=tasks_done)) + geom_line(color="#009900") + geom_point() + geom_line(aes(y=tasks_uncancelled), color="blue") + geom_point(aes(y=tasks_uncancelled))
+print(plot)
 #+end_src
 
 #+RESULTS:
-: sacha/org-count-tasks-by-status
-*** DONE [#C] Track cat data 																	:@home:routine:
-		SCHEDULED: <2014-04-24 Thu .+1d/3d>
+[[file:tasks.png]]
 
-<2014-03-23>--<2014-04-23>
+
+#+begin_src R :var data=burndown :results graphics :file r-graph-2.png  :exports both
+library(ggplot2)
+dates <- strptime(as.character(data$Date), "%Y-%m-%d")
+tasks_remaining <- as.numeric(data$Total) - as.numeric(data$CANC.) - as.numeric(data$DONE)
+df <- data.frame(dates, tasks_remaining)
+plot = ggplot(data=df, aes(x=dates, y=tasks_remaining, ymin=0)) + geom_line(color="#009900") + geom_point()
+print(plot)
+#+end_src
+
+#+RESULTS:
+[[file:r-graph-2.png]]
+
+
+*** DONE [#C] Track cat data 																	:@home:routine:
+
+<2014-03-23>--<2014-05-23 Fri>
 
 [[https://docs.google.com/a/sachachua.com/spreadsheet/ccc?key=0AsLpkeSVIjRYdE40bU13V3I5YV9XMlA3bW5XaVB4Tmc&usp=drive_web#gid=0][Spreadsheet]]
 http://192.168.1.11/webcam
 
+#+begin_src emacs-lisp
+(progn
+ (browse-url "https://docs.google.com/a/sachachua.com/spreadsheet/ccc?key=0AsLpkeSVIjRYdE40bU13V3I5YV9XMlA3bW5XaVB4Tmc&usp=drive_web#gid=0")
+(browse-url-firefox "http://192.168.1.11/webcam"))
+#+end_src
+
+#+RESULTS:
+
     :LOGBOOK:
+		CLOCK: [2014-07-27 Sun 22:25]--[2014-07-27 Sun 22:28] =>  0:03
+		- State "DONE"       from "STARTED"    [2014-06-25 Wed 23:30]
+		CLOCK: [2014-06-25 Wed 19:43]--[2014-06-25 Wed 23:30] =>  3:47
+		- State "DONE"       from "STARTED"    [2014-06-13 Fri 12:23]
+		CLOCK: [2014-06-13 Fri 12:23]--[2014-06-13 Fri 12:23] =>  0:00
+		CLOCK: [2014-06-01 Sun 18:58]--[2014-06-01 Sun 20:32] =>  1:34
+		- State "DONE"       from ""           [2014-05-21 Wed 22:12]
+		CLOCK: [2014-05-21 Wed 21:24]--[2014-05-21 Wed 22:12] =>  0:48
+		- State "DONE"       from "STARTED"    [2014-05-17 Sat 22:58] \\
+			15 data points
+		CLOCK: [2014-05-17 Sat 22:46]--[2014-05-17 Sat 22:58] =>  0:12
+		- State "DONE"       from "STARTED"    [2014-05-16 Fri 21:43] \\
+			65 data points (/ 41 65.0) 0.6307692307692308 per data point
+		CLOCK: [2014-05-16 Fri 21:02]--[2014-05-16 Fri 21:43] =>  0:41
+		- State "DONE"       from "STARTED"    [2014-05-14 Wed 20:02] \\
+			47 data points (VLC plugin issues)
+		CLOCK: [2014-05-14 Wed 19:39]--[2014-05-14 Wed 20:02] =>  0:23
+		- State "DONE"       from "STARTED"    [2014-05-09 Fri 19:57] \\
+			36 data points
+		CLOCK: [2014-05-09 Fri 19:46]--[2014-05-09 Fri 19:57] =>  0:11
+		- State "DONE"       from "STARTED"    [2014-05-07 Wed 22:35] \\
+			19 data points
+		CLOCK: [2014-05-07 Wed 22:31]--[2014-05-07 Wed 22:35] =>  0:04
+		- State "DONE"       from "STARTED"    [2014-05-06 Tue 23:04]
+		CLOCK: [2014-05-06 Tue 22:19]--[2014-05-06 Tue 23:04] =>  0:45
+		- State "DONE"       from "STARTED"    [2014-05-05 Mon 18:17]
+		CLOCK: [2014-05-05 Mon 18:00]--[2014-05-05 Mon 18:17] =>  0:17
+		- State "DONE"       from "STARTED"    [2014-05-04 Sun 21:24]
+		CLOCK: [2014-05-04 Sun 20:06]--[2014-05-04 Sun 21:24] =>  1:18
+		- State "DONE"       from "STARTED"    [2014-05-01 Thu 23:05] \\
+			Zapped the pi
+		CLOCK: [2014-05-01 Thu 22:21]--[2014-05-01 Thu 22:29] =>  0:08
+		- State "DONE"       from "STARTED"    [2014-04-30 Wed 20:24] \\
+			Hmm, these experimental conditions are not working...
+		CLOCK: [2014-04-30 Wed 20:00]--[2014-04-30 Wed 20:24] =>  0:24
+		- State "DONE"       from "STARTED"    [2014-04-28 Mon 21:48]
+		CLOCK: [2014-04-28 Mon 21:27]--[2014-04-28 Mon 21:48] =>  0:21
+		- State "DONE"       from "STARTED"    [2014-04-27 Sun 18:37]
+		CLOCK: [2014-04-27 Sun 16:37]--[2014-04-27 Sun 18:37] =>  2:00
 		- State "DONE"       from "STARTED"    [2014-04-23 Wed 23:53] \\
 			Leia's X is remarkably stable at 6%.
 		CLOCK: [2014-04-23 Wed 23:24]--[2014-04-23 Wed 23:53] =>  0:29
@@ -224,7 +452,9 @@ http://192.168.1.11/webcam
     :QUANTIFIED: Track
     :Effort:   0:30
     :LOGGING: lognoterepeat
-		:LAST_REPEAT: [2014-04-23 Wed 23:53]
+		:LAST_REPEAT: [2014-06-25 Wed 23:30]
+		:Attachments: 2014-04-27%2017_16_53-Microsoft%20Excel%20-%20Litterbox%20Data.xlsx.png
+		:ID:       8cbad18f-d84a-4351-b3f1-933ce5666f8e
     :END:
 
 
@@ -287,8 +517,10 @@ http://192.168.1.11/webcam
 		 :Effort:   0:30
 		 :END:
 Nothing! Really? Weird...
-*** TODO Document three processes each week
+*** CANCELLED Document three processes each week
+		 CLOSED: [2014-06-06 Fri 20:32]
     :LOGBOOK:
+		- State "CANCELLED"  from "TODO"       [2014-06-06 Fri 20:32]
     - State "DONE"       from "TODO"       [2014-03-15 Sat 18:51]
     - State "DONE"       from "TODO"       [2014-03-12 Wed 14:30]
     - State "DONE"       from "TODO"       [2014-03-11 Tue 15:10]
@@ -324,8 +556,12 @@ http://www.chrisducker.com/101-tasks-to-outsource-to-virtual-staff/
     :LOGBOOK:
     - State "DONE"       from "TODO"       [2014-02-05 Wed 20:27]
     :END:
-*** TODO Sign up for a class series (8 weeks?)
-    SCHEDULED: <2014-06-05 Thu>--<2014-07-08 Tue>
+*** CANCELLED Sign up for a class series (8 weeks?)
+		CLOSED: [2014-06-05 Thu 21:57] 
+		 :LOGBOOK:
+		 - State "CANCELLED"  from "TODO"       [2014-06-05 Thu 21:57] \\
+			 Meh.
+		 :END:
 ** Cooking
 *** DONE Try two spice combinations
     CLOSED: [2014-03-17 Mon 16:07]
@@ -362,7 +598,11 @@ Conclusion: GOOD.
 
 *** SOMEDAY Learning from people
 - Triggered experiment: When i have an idea or I could use some help, then I should ask my social networks, and maybe others will get involved
-*** SOMEDAY Finding and filling gaps
+*** CANCELLED Finding and filling gaps
+		 CLOSED: [2014-09-14 Sun 20:20]
+		 :LOGBOOK:
+		 - State "CANCELLED"  from "SOMEDAY"    [2014-09-14 Sun 20:20]
+		 :END:
 *** To share
 - Visual thinking
 - Note-taking
@@ -433,7 +673,11 @@ Evaluated over three days:  <2014-01-03 Fri>--<2014-01-05 Sun>
 		 :LOGBOOK:
 		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:45]
 		 :END:
-*** SOMEDAY Figures, hands, faces :low-energy:
+*** DONE Figures, hands, faces :low-energy:
+		 CLOSED: [2014-09-14 Sun 20:20]
+		 :LOGBOOK:
+		 - State "DONE"       from "SOMEDAY"    [2014-09-14 Sun 20:20]
+		 :END:
 *** SOMEDAY Depth :low-energy:
 *** DONE Visual vocabulary :low-energy:
 		 CLOSED: [2014-04-18 Fri 10:31]
@@ -461,7 +705,11 @@ Evaluated over three days:  <2014-01-03 Fri>--<2014-01-05 Sun>
 		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:46]
 		 :END:
 Biking is fun. At home - strength exercises while playing?
-*** SOMEDAY House
+*** DONE House
+		 CLOSED: [2014-09-14 Sun 20:21]
+		 :LOGBOOK:
+		 - State "DONE"       from "SOMEDAY"    [2014-09-14 Sun 20:21]
+		 :END:
 **** DONE If we let Leia out in the basement on non-litterbox-accident days, then the number of accidents will be less than three times a month :quarter:
      CLOSED: [2014-01-26 Sun 22:24]
      :LOGBOOK:
@@ -503,8 +751,16 @@ Yeaaaah... right.
 - 2013-01-06: Boots
 **** If I invest in amending the soil and I stop trying to balance the cost (treat it like a hobby instead of as grocery-replacement), then I'll enjoy growing basil, tomatoes, and bitter melon
 [[file:~/personal/organizer.org::*Garden][Garden]]
-*** SOMEDAY Minimalism, quality
-*** SOMEDAY More recipes
+*** DONE Minimalism, quality
+		 CLOSED: [2014-09-14 Sun 20:21]
+		 :LOGBOOK:
+		 - State "DONE"       from "SOMEDAY"    [2014-09-14 Sun 20:21]
+		 :END:
+*** DONE More recipes
+		 CLOSED: [2014-09-14 Sun 20:21]
+		 :LOGBOOK:
+		 - State "DONE"       from "SOMEDAY"    [2014-09-14 Sun 20:21]
+		 :END:
 *** Stoicism
 **** DONE Track negative feelings
 		 CLOSED: [2014-04-17 Thu 22:55]
@@ -548,7 +804,11 @@ http://sachachua.com/blog/2014/01/simplifying-with-stoicism-examining-negative-f
 		 :LOGBOOK:
 		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:56]
 		 :END:
-*** SOMEDAY Delegation
+*** DONE Delegation
+		 CLOSED: [2014-09-14 Sun 20:21]
+		 :LOGBOOK:
+		 - State "DONE"       from "SOMEDAY"    [2014-09-14 Sun 20:21]
+		 :END:
 **** DONE If I identify a large list of tasks to outsource AND I set aside time to train and document, then I will benefit from having the tasks regularly taken care of, and this will be more reassuring than stressful
 		 CLOSED: [2014-04-17 Thu 22:57]
 		 :LOGBOOK:
@@ -569,8 +829,16 @@ Duplicate of [[*Work%20up%20to%20delegating%2030%20hours%20of%20work%20a%20week]
 		 :LOGBOOK:
 		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:57]
 		 :END:
-*** SOMEDAY Asking for help
-*** SOMEDAY Games
+*** DONE Asking for help
+		 CLOSED: [2014-09-14 Sun 20:21]
+		 :LOGBOOK:
+		 - State "DONE"       from "SOMEDAY"    [2014-09-14 Sun 20:21]
+		 :END:
+*** DONE Games
+		 CLOSED: [2014-09-14 Sun 20:21]
+		 :LOGBOOK:
+		 - State "DONE"       from "SOMEDAY"    [2014-09-14 Sun 20:21]
+		 :END:
 *** SOMEDAY Social updates (personal stories, etc.)
 *** SOMEDAY Conferences
 *** DONE Hacklab
@@ -765,7 +1033,11 @@ What do I want to learn about and write about this year?
 		 :Effort:   2:00
 		 :QUANTIFIED: 0:30
 		 :END:
-**** TODO Adding tests to Quantified Awesome
+**** DONE Adding tests to Quantified Awesome
+		 CLOSED: [2014-09-14 Sun 20:20]
+		 :LOGBOOK:
+		 - State "DONE"       from "SOMEDAY"    [2014-09-14 Sun 20:20]
+		 :END:
 		 :PROPERTIES:
 		 :Effort:   4:00
 		 :END:
@@ -780,6 +1052,12 @@ What do I want to learn about and write about this year?
 **** DONE Planning how to learn: Whiteboard animations
 **** DONE Getting the hang of drawing sketchnotes
 *** Reading
+**** Metaphor and Emotion   :opportunity-fund:
+  http://www.amazon.com/Metaphor-Emotion-Language-Interaction-ebook/dp/B000SEUPH6/ref=sr_1_1_bnp_1_kin?ie=UTF8&qid=1372988059&sr=8-1&keywords=metaphor+and+emotion
+  $7.95 rent for a month
+  $17.60 Kindle
+  $36.87 Paperback
+**** TODO Request books from the library focusing on one of the topics
 **** DONE Planning my business reading list
 **** DONE Reviewing my book notes
 *** Delegation
@@ -1003,7 +1281,11 @@ What do I want to learn about and write about this year?
 		 :QUANTIFIED: Quantified
 		 :END:
 
-**** TODO Building a price book
+**** CANCELLED Building a price book
+		 CLOSED: [2014-09-14 Sun 20:18]
+		 :LOGBOOK:
+		 - State "CANCELLED"  from "TODO"       [2014-09-14 Sun 20:18]
+		 :END:
 		 :PROPERTIES:
 		 :Effort:   2:00
 		 :END:

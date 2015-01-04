@@ -7122,6 +7122,11 @@ Nice to have a kitchen and the time to cook! =)
 	:END:
 - [[http://sachachua.com/blog/?p=27634&shareadraft=baba27634_54791f18b29e6][Emacs configuration and use-package]]
 - [[http://sachachua.com/blog/2014/11/emacs-coaching-unknowns-figuring-want-learn/][Emacs, coaching, and unknowns: Figuring out what I want to learn]]
+** TODO Write about why Emacs
+https://mail.google.com/mail/u/0/#inbox/14ab044f1116b232
+** Emacs micro-habits
+*** TODO Emacs microhabit 1/52: Automate repetitive text. (Skeleton, Keyboard macros, Yasnippet, Emacs Lisp...)
+
 ** Helm
 *** helm-descbinds
 *** helm-all-mark-rings
