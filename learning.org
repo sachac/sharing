@@ -1,5 +1,4 @@
 #+TITLE: Things I'm learning
-
 #+OPTIONS: toc:t
 
 Want to help me with anything on this list? Please feel free to contact me at
@@ -35,7 +34,66 @@ Help me figure things out! E-mail me with your thoughts and ideas.
 - How can I get better at learning from other people?
 - What do other people need or want that is easy for me to provide?
 
-* Current curiosities - Nov 12, 2014   :learning:
+* Inbox of sketches to classify or write about
+
+- Improvement
+  - [[https://www.flickr.com/photos/sachac/16180955366/][2015.01.03 Making better use of basement -- index card]] 
+  - [[https://www.flickr.com/photos/sachac/16021004537/][2015.01.03 Making better use of kitchen -- index card]] 
+  - [[https://www.flickr.com/photos/sachac/15584410944/][2015.01.03 Making better use of phone -- index card]] 
+- Tools
+  - [[https://www.flickr.com/photos/sachac/16077216390/][2015.01.11 Making better use of Evernote -- index card #evernote]] 
+  - [[https://www.flickr.com/photos/sachac/16180954036/][2015.01.03 Social bookmarking -- index card]] 
+  - [[https://www.flickr.com/photos/sachac/16204941031/][2015.01.03 Social -- index card]] 
+- Mastery
+  - [[https://www.flickr.com/photos/sachac/15586970163/][2015.01.05 A reflection on diminishing returns versus compounding growth -- index card]] 
+  - [[https://www.flickr.com/photos/sachac/16206810525/][2015.01.05 Different ideas about mastery -- index card]] 
+  - [[https://www.flickr.com/photos/sachac/16213992552/][2015.01.06 Competence and mastery -- index card]] 
+- Mapping
+  - [[https://www.flickr.com/photos/sachac/16214788255/][2015.01.06 Figuring out information flow -- index card]] 
+  - [[https://www.flickr.com/photos/sachac/16204940111/][2015.01.05 Figuring out the technical details of this idea or visual archive I want -- index card]] 
+  - [[https://www.flickr.com/photos/sachac/15600678564/][2015.01.07 Mapping the connections in my blog -- index card]] 
+- [[https://www.flickr.com/photos/sachac/16019467930/][2015.01.05 How can I get better at summary posts -- index card]] 
+- [[https://www.flickr.com/photos/sachac/15575728213/][2015.01.03 Sketched Book - So Good They Can't Ignore You - Why Skills Trump Passion in the Quest for Work You Love - Cal Newport]] 
+- Emacs
+  - [[https://www.flickr.com/photos/sachac/16206810125/][2015.01.03 Why Emacs -- index card]] 
+  - [[https://www.flickr.com/photos/sachac/16051018660/][2015.01.08 Imagining Emacs hangouts - index card]] 
+- Experiment
+  - [[https://www.flickr.com/photos/sachac/15615984464/][2015.01.08 Imagining coaching or guiding others -- index card]] 
+- Learning
+  - [[https://www.flickr.com/photos/sachac/16180954156/][2015.01.04 Rhythm for learning -- index card]] 
+  - [[https://www.flickr.com/photos/sachac/16052554957/][2015.01.08 Learning as an event -- index card]] 
+  - [[https://www.flickr.com/photos/sachac/16052554877/][2015.01.09 Cross-pollination of ideas -- index card]] 
+  - [[https://www.flickr.com/photos/sachac/16077216200/][2015.01.12 How I stopped looking for answers -- index card #reading]] 
+  - [[https://www.flickr.com/photos/sachac/16077215930/][2015.01.12 What am I learning about -- index card #plans]] 
+- Life
+  - [[https://www.flickr.com/photos/sachac/16050882698/][2015.01.08 Team-building activities -- index card]] 
+  - [[https://www.flickr.com/photos/sachac/16078466699/][2015.01.11 Neko sleeping -- index card #cat]] 
+- Writing
+  - [[https://www.flickr.com/photos/sachac/16238668066/][2015.01.10 The idea of the Minimum Viable Post -- index card #writing #blogging]] 
+  - [[https://www.flickr.com/photos/sachac/16238667906/][2015.01.10 Writing into the future -- index card #writing #blogging]] 
+  - [[https://www.flickr.com/photos/sachac/15642166754/][2015.01.11 Learning from what I like about books -- index card #writing]] 
+  - [[https://www.flickr.com/photos/sachac/16264586045/][2015.01.11 What makes a good other-focused post -- index card #writing]] 
+  - [[https://www.flickr.com/photos/sachac/15644688843/][2015.01.12 Reverse outlining -- index card #writing #organization #outlining]] 
+  - [[https://www.flickr.com/photos/sachac/16078466449/][2015.01.12 Undirected questions versus directed questions -- index card #writing]] 
+  - [[https://www.flickr.com/photos/sachac/16263753972/][2015.01.12 Weekly reviews -- index card #writing]] 
+- Quantified
+  - [[https://www.flickr.com/photos/sachac/16263754392/][2015.01.10 What questions do I want to explore with data -- index card #quantified]] 
+  - [[https://www.flickr.com/photos/sachac/16263754472/][2015.01.10 What is the goal of my tracking -- index card #quantified]] 
+- Cooking
+  - [[https://www.flickr.com/photos/sachac/16238668276/][2015.01.10 Favourite meals -- index card #cooking]] 
+  - [[https://www.flickr.com/photos/sachac/16077055858/][2015.01.11 Snacks we can make -- index card #cooking]] 
+
+- [[https://www.flickr.com/photos/sachac/16266462305/][2015.01.12 Emacs microhabit - window management -- index card #emacs]] 
+
+
+- [[https://www.flickr.com/photos/sachac/16078466449/][2015.01.12 Undirected questions versus directed questions -- index card #writing]] 
+- [[https://www.flickr.com/photos/sachac/16263753972/][2015.01.12 Weekly reviews -- index card #writing]] 
+- [[https://www.flickr.com/photos/sachac/16077215930/][2015.01.12 What am I learning about -- index card #plans]] 
+
+* Topics I'm learning more about
+
+
+* Previous curiosities - Nov 12, 2014                              :learning:
 ** Web design and development
    :PROPERTIES:
    :QUANTIFIED: Coding

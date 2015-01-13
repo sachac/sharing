@@ -1973,28 +1973,31 @@ See also: [[remote-presentations-that-rock][Remote Presentations That Rock]]
 - [X] [[http://sachachua.com/blog/2010/12/quantified-self-toronto-second-meetup/][Quantified Self Toronto: Second Meetup]]
 - [X] [[http://sachachua.com/blog/2012/03/quantified-self-toronto-9-2/][Organizing resources for Quantified Self Toronto]]
 - [X] [[http://sachachua.com/blog/2012/01/quantified-self-toronto-9/][Quantified Self Toronto #9]] (Jan 2012)
-** Quantified Self: Tracking other things [22/22]
-- [X] [[http://sachachua.com/blog/2014/04/quantified-self-analyzing-32-months-clothing-data/][Quantified Self: Analyzing 32 months of clothing data]] (Apr 2014)
-- [X] [[http://sachachua.com/blog/2014/04/raspberry-pi-litterbox-cam-quantified-cats/][Raspberry Pi LitterBox Cam and quantified cats]] (Apr 2014)
-- [X] [[http://sachachua.com/blog/2013/08/quantified-awesome-analyzing-my-non-fiction-reading-and-why-i-dont-mind-paying-taxes/][Quantified Awesome: Analyzing my non-fiction reading, and why I don't mind paying taxes]]
-- [X] [[http://sachachua.com/blog/2013/03/quantified-awesome-feedback/][Quantified Awesome feedback]]
-- [X] [[http://sachachua.com/blog/2013/01/quantified-awesome-taking-inventory-of-stuff-in-closets-and-drawers/][Quantified Awesome: Taking inventory of stuff in closets and drawers]] (Jan 2013)
-- [X] [[http://sachachua.com/blog/2012/09/answering-questions-about-the-quantified-self/][Answering questions about the Quantified Self]]
-- [X] [[http://sachachua.com/blog/2012/09/thinking-about-a-quantified-self-directory/][Thinking about a Quantified Self directory]]
-- [X] [[http://sachachua.com/blog/2012/07/quantified-awesome-tracking-clothes-groceries-and-other-everyday-things/][Quantified Awesome: Tracking clothes, groceries, and other everyday things]]
-- [X] [[http://sachachua.com/blog/2012/06/quantified-awesome-analyzing-my-cellphone-data/][Quantified Awesome: Analyzing my cellphone data]]
+** Quantified Self - Tracking other things [11/11]
 - [X] [[http://sachachua.com/blog/2012/05/getting-started-with-quantified-self/][Getting Started with Quantified Self]]
-- [X] [[http://sachachua.com/blog/2011/10/tracking-and-organizing-my-clothes-substituting-mathematics-for-fashion-sense/][Tracking and organizing my clothes: substituting mathematics for fashion sense]]
-- [X] [[http://sachachua.com/blog/2011/11/quantified-awesome-how-much-music-do-you-have/][Quantified Awesome: How much music do you have?]]
-- [X] [[http://sachachua.com/blog/2011/11/quantified-awesome-a-place-for-everything-and-everything-in-its-place/][Quantified Awesome: A place for everything, and everything in its place]]
-- [X] [[http://sachachua.com/blog/2011/04/learning-from-my-mood-data/][Learning from my mood data]]
-- [X] [[http://sachachua.com/blog/2011/11/quantified-awesome-development-driven-behaviour/][Quantified Awesome: Development-driven behaviour and integrated tests for life]]
+- Clothing
+  - [X] [[http://sachachua.com/blog/2014/04/quantified-self-analyzing-32-months-clothing-data/][Quantified Self: Analyzing 32 months of clothing data]] (Apr 2014)
+  - [X] [[http://sachachua.com/blog/2011/10/tracking-and-organizing-my-clothes-substituting-mathematics-for-fashion-sense/][Tracking and organizing my clothes: substituting mathematics for fashion sense]]
+  - [X] [[http://sachachua.com/blog/2012/07/quantified-awesome-tracking-clothes-groceries-and-other-everyday-things/][Quantified Awesome: Tracking clothes, groceries, and other everyday things]]
+- Stuff
+  - [X] [[http://sachachua.com/blog/2013/01/quantified-awesome-taking-inventory-of-stuff-in-closets-and-drawers/][Quantified Awesome: Taking inventory of stuff in closets and drawers]] (Jan 2013)
+  - [X] [[http://sachachua.com/blog/2011/11/quantified-awesome-a-place-for-everything-and-everything-in-its-place/][Quantified Awesome: A place for everything, and everything in its place]]
+- Other
+  - [X] [[http://sachachua.com/blog/2013/08/quantified-awesome-analyzing-my-non-fiction-reading-and-why-i-dont-mind-paying-taxes/][Quantified Awesome: Analyzing my non-fiction reading, and why I don't mind paying taxes]]
+  - [X] [[http://sachachua.com/blog/2014/04/raspberry-pi-litterbox-cam-quantified-cats/][Raspberry Pi LitterBox Cam and quantified cats]] (Apr 2014)
+  - [X] [[http://sachachua.com/blog/2012/06/quantified-awesome-analyzing-my-cellphone-data/][Quantified Awesome: Analyzing my cellphone data]]
+  - [X] [[http://sachachua.com/blog/2011/04/learning-from-my-mood-data/][Learning from my mood data]]
+  - [X] [[http://sachachua.com/blog/2011/11/things-im-learning-from-tracking/][Things I'm learning from tracking]]
+  - [X] [[http://sachachua.com/blog/2012/01/quantified-awesome-squishing-my-excuses/][Quantified Awesome: Squishing my excuses]] (Jan 2012)
 - [X] [[http://sachachua.com/blog/2011/11/quantified-awesome-why-i-track/][Quantified Awesome: Why I track]]
+- [X] [[http://sachachua.com/blog/2012/09/answering-questions-about-the-quantified-self/][Answering questions about the Quantified Self]]
+- [X] [[http://sachachua.com/blog/2013/03/quantified-awesome-feedback/][Quantified Awesome feedback]]
+- [X] [[http://sachachua.com/blog/2012/09/thinking-about-a-quantified-self-directory/][Thinking about a Quantified Self directory]]
+- [X] [[http://sachachua.com/blog/2011/11/quantified-awesome-how-much-music-do-you-have/][Quantified Awesome: How much music do you have?]]
+- [X] [[http://sachachua.com/blog/2011/11/quantified-awesome-development-driven-behaviour/][Quantified Awesome: Development-driven behaviour and integrated tests for life]]
 - [X] [[http://sachachua.com/blog/2011/11/quantified-awesome-116-web-resources-for-quantified-self/][Quantified Awesome: 116 web resources for Quantified Self]]
-- [X] [[http://sachachua.com/blog/2011/11/things-im-learning-from-tracking/][Things I'm learning from tracking]]
 - [X] [[http://sachachua.com/blog/2011/12/quantified-awesome-thinking-about-what-i-want-to-build-next/][Quantified Awesome: Thinking about what I want to build next]] (Dec 2011)
 - [X] [[http://sachachua.com/blog/2010/10/placeholder-the-examined-life-technology-and-experimentation/][Placeholder: The Examined Life: Technology and Experimentation]]
-- [X] [[http://sachachua.com/blog/2012/01/quantified-awesome-squishing-my-excuses/][Quantified Awesome: Squishing my excuses]] (Jan 2012)
 - [X] [[http://sachachua.com/blog/2012/01/thinking-about-quantified-awesome-meetups-and-democamp/][Thinking about Quantified Awesome, meetups, and DemoCamp]] (Jan 2012)
 ** Rails [6/6]
 - [X] [[http://sachachua.com/blog/2011/04/setting-up-ruby-on-rails-on-a-redhat-enterprise-linux-rackspace-cloud-server/][Setting up Ruby on Rails on a Redhat Enterprise Linux Rackspace Cloud Server]]
