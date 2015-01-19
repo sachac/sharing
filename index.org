@@ -867,92 +867,6 @@ Thoughts? E-mail me at [[mailto:sacha@sachachua.com][sacha@sachachua.com]]
     - Psychology, cognitive limits, distraction
 
 * Learning, writing, sharing knowledge, and constant improvement
-** DONE Read business books more effectively through application, visualization, or reviews :learning:reading:
-   CLOSED: [2015-01-09 Fri 13:41]
-   :PROPERTIES:
-   :Effort:   1:00
-   :ID:       o2b:2a6786ac-4007-49a7-b21d-50d4dfce59c6
-   :POST_DATE: [2015-01-09 Fri 12:44]
-   :POSTID:   27792
-   :BLOG:     sacha
-   :END:
-   :LOGBOOK:
-   CLOCK: [2015-01-09 Fri 12:22]--[2015-01-09 Fri 13:41] =>  1:19
-   :END:
-
-This Quora question on [[http://www.quora.com/What-is-the-most-effective-way-to-read-a-book-and-what-can-one-do-after-reading]["What is the most effective way to read a book
-and what can one do after reading?"]] got me thinking about how I read
-business books and what I do to make the most of them.
-
-[[https://www.flickr.com/photos/sachac/16052555007/][2015.01.08 How to use what you read -- index card]] 
-
-*Application:* The best way to get value from a book is to apply it to
-your life. Reading [[http://sachachua.com/blog/2012/02/visual-book-notes-the-lean-startup-by-eric-ries/][The Lean Startup]] is one thing. Using its
-Build-Measure-Learn loop to run a business experiment is another.
-Reading [[http://www.thesimpledollar.com/your-money-or-your-life-final-reflections/][Your Money or Your Life]] is one thing. Calculating your true
-hourly wage and using that to evaluate your expenses is another. Do
-the work. 
-
-As you apply an idea, you'll probably want to refer back to the
-details in the book, so it's good to keep the book itself handy. Write
-notes about your questions, ideas, TODOs, experiences, and follow-up
-questions.
-
-*Visualization:* Not ready to do the work yet? Slow down and think
-about it. Imagine the specific situations where you would be able to
-apply the ideas from the book, and how you would do so. What do you
-need to learn or do in order to get there? See if you can get closer
-to being able to act on what you've learned.
-
-Spend some time thinking about how the ideas in the book *connect* to
-other books you've read or ideas you've explored. What do they agree
-with or disagree with? Where do they go into more detail, and where do
-they summarize? What new areas do they open up?
-
-Think about specific *people* who might be able to use the ideas in
-the book. Get in touch with them and recommend the book, explaining
-why they might find it useful. Imagine what kind of conversation the
-book might be relevant to so that you'll find it easier to recognize
-the situation when it arises. (This is a tip I picked up from Tim
-Sanders' /Love is the Killer App/, which I often recommend when people
-want to know more about how reading helps with networking.)
-
-*Review*: Can't act on the book yet, and can't think of specific
-people or ideas to relate it to? Take notes so that you can review
-them later, and maybe you'll be able to think of connections then.
-
-I don't like writing in books. Here's why:
-- Most of my books come from the library, and I'd never write in
-  those. This lets me get through /lots/ of books without the friction
-  of committing money and space to them.
-- Highlighting is an easy way to make yourself /think/ that you're
-  going to remember something. Also, it's hard to decide what's
-  important the first time through, so you might end up highlighting
-  too much. When everything's important, nothing is.
-- There's rarely enough room in the margins for notes, and you can't
-  review those notes quickly.
-
-[[https://www.flickr.com/photos/sachac/16051018450/][2015.01.09 Take notes while you read books -- index card]] 
-
-I prefer to write my notes on an index card or a piece of paper. If
-I'm near my computer, I might draw my notes on a tablet or type quotes
-into a text file. Keeping my notes separate from the book lets me
-review my notes quickly without thumbing through the book. I want to
-be able to refer to my notes while reading other books or while
-writing my reflections. Index cards, pages, and print-outs are easy to
-physically rearrange, and text files can be searched. Even if I read
-an e-book, I take my own notes and I copy highlights into my text
-files.
-
-The best way to remember to review a book is to schedule an action to
-apply an idea from it. The second-best way is to connect it to other
-ideas or other people. If you don't have either of those hooks, you
-can review on a regular basis - say, after a month, six months, and a
-year, or by using a spaced repetition system. You might even pull a
-book out at random and review your notes for inspiration. When you do,
-see if you can think of new actions or connections, and you'll get
-even more out of it.
-
 ** TODO Write about open loops                                     :@writing:
 
 http://sachachua.com/blog/2014/01/spiral-learning/
@@ -1012,6 +926,150 @@ https://twitter.com/awolfson0/status/540626036837208065
 - You don't always need to answer a question completely. Sometimes you just need to resolve a little uncertainty.
 
 - risk http://lifehacker.com/distinguish-between-uncertainty-and-risk-to-minimize-de-1677485186
+
+*** snippet: own questions
+This push towards originality reminds me of how I've been drifting away from technical workshops, business conferences, and self-help books. When people teach other people in large, quick group settings or in traditionally-published books, it makes to go for a broad base. The more people you can help, the more affordable help is. Introductory material is easy to plan for, because you assume people are starting from scratch. Maybe they have no experience, or maybe they're tired of their old systems and are willing to start anew. If the market is sufficiently large, you might be able to plan for a slightly different profile: say, a Node JS tutorial for Ruby developers, or an Emacs tutorial for people shifting from SublimeText. For the most part, though, it's difficult to advantage of the skills students might be able to transfer from related fields. That's okay. The introductory stage is simply that. You just want to build competence.
+When you get to the intermediate or advanced stages, though, instruction is harder, and learning is harder as well. No one hands you a curriculum to follow. You have your own goals and preferences, and you need to adapt or stitch together what you learn from other people. You need to come up with your own questions. 
+*** DONE Future pull and the power of imagination                  :planning:
+    CLOSED: [2015-01-16 Fri 10:32]
+    :PROPERTIES:
+    :Effort:   1:00
+    :ID:       o2b:667e55fd-c0bc-4382-a7af-b120769b65a8
+    :POST_DATE: [2015-01-16 Fri 10:22]
+    :POSTID:   27833
+    :BLOG:     sacha
+    :END:
+    :LOGBOOK:
+    CLOCK: [2015-01-16 Fri 09:45]--[2015-01-16 Fri 10:32] =>  0:47
+    :END:
+
+I know you're supposed to live in the present, but I get a lot of
+value from thinking about futures and what I can learn from the
+possibilities. Imagining different futures helps me see what I can do,
+choose to do some things instead of others, and keep track of how I'm
+doing along the way.
+
+In the problem-solving model that Tim Hurson shares in /Think Better/
+(2008), you come up with potential Target Futures and prioritize a few
+based on three factors:
+- *Influence:* Is it something you have influence over?
+- *Importance:* Is it important enough to you that you'll put in the work to get there?
+- *Imagination:* Can you solve it with an off-the-shelf solution, or do you have to come up with something new?
+
+A good future pulls you toward it. You want it, and so you act.
+
+I periodically think about what the target futures for my interests
+look and feel like. Last year, I wrote about how [[http://sachachua.com/blog/2014/03/good-enough-good-awesome-thinking-want-get/][I don't need to get
+to "awesome" in everything]]. Sometimes it still helps to think about
+what that "awesome" might look like, though. I realized that I don't
+have to use the same definition of "awesome" that other people use.
+Figuring out what "awesome" means to me can help me identify the
+differences between my current state and my future state, and that
+shows me what I can do or what I can learn to get there. I want to
+pick differences that are mostly under my control, that are important
+enough to call me to action, and that may even create something new in
+the world.
+
+**** Coding
+
+[[https://www.flickr.com/photos/sachac/16107253529/][2015-01-15 Imagining coding amazingly -- index card #wildsuccess #coding]]
+
+I figured out a little more about what tickles my programming brain.
+I'm not the kind of person who builds massively popular projects with
+elegant architecture. Someday I might do a good job at [[http://sachachua.com/blog/2014/11/figuring-path-awesomeness/][building
+bridges for other people so that they can do even better]]. What makes
+me really happy right now, though, is writing small, idiosyncratic
+pieces of code that are tailored to my particular needs (or that make
+things a little better for people I feel good about). On the surface,
+this doesn't have widespread impact. but I guess it also creates a
+future-pull -- showing other people that this sort of play and
+customization is possible. So, if I follow that vein, amazingness
+looks like:
+- Seeing clear, simple ways to address challenges or take advantage of opportunities
+- Pulling the pieces together (APIs, etc.)
+- Making reasonable interfaces
+- Writing decent code
+- Being proficient with tools
+- Getting good at that delivery and feedback cycle, whether it's for other people or for myself
+
+I'm getting a lot more practice in working with the APIs for services
+I frequently use. I've scripted quite a few small tools that interact
+with Flickr, and I'm looking forward to more experiments with Org Mode
+and Evernote. I'm also working on learning more about the tools I can
+use: debuggers, frameworks, even coding conventions.
+
+**** Working out loud
+
+[[https://www.flickr.com/photos/sachac/16107531847/][2015-01-15 Imagining working out loud amazingly -- #wildsuccess #sharing #writing]]
+
+What about working out loud? What would that look like if I could do it really, really well?
+
+I'd keep detailed notes - probably in Org Mode, since that lets me mix
+everything together: snippets, links, research, TODOs, etc. My notes
+would help me get back on track after interruptions or delays.
+Whenever I finish a small chunk, I publish a post, since that's easier
+to work with than waiting until I've finished everything. I'll know if it's working if I:
+- don't get as frustrated with dead ends, because I can just backtrack up the trail
+- can look up my reasons for things I've forgotten
+- can help other people find out about things they can do, take
+  advantage of example code, or probe my understanding
+- get the occasional suggestion from people on how to improve what I
+  do
+
+I'm focusing on getting more of my thinking out the door. One of the
+things I'm currently figuring out is how to balance logical order and
+chronological order when writing up what I've learned. On one hand, I
+want to save people time by pointing them straight to stuff that
+worked. On the other hand, it can be useful to see the thinking
+process. I'm experimenting with using signposts (like the "later in this post" part of [[http://sachachua.com/blog/?p=27830&shareadraft=baba27830_54b92ac511e86][one of my write-ups]]). I'm also experimenting with harvesting tips and putting them into occasional other-directed posts.
+
+**** Writing
+
+[[https://www.flickr.com/photos/sachac/16105853788/][2015-01-15 Imagining writing amazingly -- index card #writing #wildsuccess]]
+
+I don't need to get to Pulitzer-prize-winning awesomeness. I want to
+get better at figuring things out and sharing them. I think this
+involves being able to:
+- wrestle with vagueness and beat it into specificity
+- share practical tips
+- extract ideas from research, other people's thoughts, and my own
+  experiences so that I can help people save time
+- and back up everything reliably!
+
+If I can get better at *seeing* things, that's a really useful bonus.
+Since the easiest way of doing that seems to be sheer accumulation of
+experience, I'm focusing instead on other things that I can get better
+at first. Research is one of those skills I want to build up again, as
+there can be lot of value in a good literature review. 
+
+[[https://www.flickr.com/photos/sachac/16106023660/][2015-01-14 Setting constraints for my writing chunks -- index card #writing #constraints]]
+
+I'm also working on building up and linking to different chunks so
+that people can read at the level of detail they want. By setting
+constraints on chunk size and getting better at managing an archive of
+linkable things, I hope to be able to organize thoughts more flexibly.
+
+**** Packaging
+
+[[https://www.flickr.com/photos/sachac/16293386925/][2015-01-15 Imagining packaging amazingly -- index card #packaging #wildsuccess]]
+
+I imagine that as I get a sense of questions (other people's and my
+own) and good sequences to answer those questions in, I'll get better
+at putting together guides that lead people through those sequences.
+This helps because sometimes it takes a lot of knowledge to figure out
+what the next good question is or how to formulate it. For me, that's
+what packaging is about: making sense of things, and then sharing that
+in a way that helps other people make sense of things too.
+
+I'm still far from getting really good at this, but as I build up
+chunks and figure out what order to put them in, I'll get better.
+
+**** Your turn
+
+When it comes to the things that you're learning, what are different
+ways "awesome" could look and feel like? Are those futures powerful
+enough to pull you toward them? What do you need to do to get a little
+closer to those futures?
 
 *** TODO Write about metaphors as a way of figuring out something new. Metaphors we live by
 *** OUTLINED How I learn: My learning and sharing workflow        :requested:
@@ -1110,6 +1168,7 @@ Requested by @gozes https://twitter.com/sachac/status/380763070382866432
  - Next actions
    - Work out loud more
    - Share next actions/questions
+
 
 *** Learning more effectively
     :LOGBOOK:
@@ -1439,6 +1498,208 @@ http://www.forbes.com/sites/stevenkotler/2013/07/03/learning-to-learn-faster-par
    - Went through the first six lessons of Learn Colemak (I still need to learn the bottom row)
    - Tried out keybr's random words level 1 - dismal 14wpm
    - 23wpm on lesson 1 for Type Faster - a slightly more encouraging 23wpm
+
+*** DONE Breaking down what people mean                            :learning:
+    CLOSED: [2015-01-14 Wed 11:39]
+    :PROPERTIES:
+    :Effort:   1:00
+    :ID:       o2b:a49be60a-843a-4f0f-a0a7-b61aed4a67b7
+    :POST_DATE: [2015-01-14 Wed 11:29]
+    :POSTID:   27822
+    :BLOG:     sacha
+    :END:
+    :LOGBOOK:
+    CLOCK: [2015-01-14 Wed 11:00]--[2015-01-14 Wed 11:39] =>  0:39
+    :END:
+
+ I'm fascinated by the challenge of understanding what people *mean*. I
+ realized this while looking at it from two different directions:
+ - When someone give an excuse like "It takes too much time," what's the excuse behind the excuse, and how can we address that?
+ - When someone gives a compliment like "Thank you for sharing an inspiring post," what kind of inspiring was it, and how can I get better at that?
+
+ Let me start with the example of inspiration, because it's something I want to translate into concrete feedback and action. I thought about the different responses I have to things that inspire me.
+
+ [[https://www.flickr.com/photos/sachac/16279222905/][2015-01-14 Understanding different types of inspiration -- index card #inspiration #breakdown]]
+
+ - *Idea:* Inspiration might mean coming across something I didn't even
+   know I wanted. Now that I know it's possible, I can work toward it.
+   (This happens a lot with Emacs, which is why I like reading [[http://planet.emacsen.org][Planet Emacsen]])
+ - *Clarity:* Seeing other people who have reached my goals (or who've
+   travelled further down the path) helps me understand those goals
+   better. What do I really want? What are some ways I can get there? I
+   can see that more clearly thanks to other people who have
+   illuminated the path. (Talking to executives helped me realize I don't want to be one.)
+ - *Alternatives:* Inspiration can help me see different ways of doing
+   something. For example, I looked at ways other people [[http://sachachua.com/blog/2014/12/exploring-sketchnote-colour-styles/][coloured their
+   sketchnotes]] and picked several techniques to try.
+ - *Beginning:* Inspiration can show me that something is less
+   intimidating than I thought it was. It can help me figure out a good
+   place to start and give me the courage to do it. Programming
+   tutorials help me get through the initial challenges of a new
+   framework.
+ - *Action:* Inspiration can move me to act on something. I already
+   know it's a good idea and I've been meaning to do it, but sometimes
+   I need that extra push. Comments with questions and suggestions help
+   me a lot.
+ - *Perseverance:* Sometimes I can feel lost or discouraged.
+   Remembering that other people have dealt with bigger challenges
+   helps me address my anxiety, focus on my goals or my progress, and
+   keep going. Anecdotes are easy to find.
+ - *Hero worship:* I often come across stuff that looks so awesome, I
+   don't think I could ever do anything like it. This is the type of
+   "inspiration" we tend to get bombarded with. This is the least
+   useful kind of inspiration, I think. It takes a little work to
+   transform it into the kind of inspiration I can use: I need to
+   reflect on what part of it resonates with and how I can incorporate
+   a little of that into my life.
+
+ In what ways do I want to inspire others? How can I get better at that?
+
+ - I like inspiring with *ideas*, playing with what's possible. I can get better at that by sharing more of these little tweaks.
+ - I think out loud in order to help people with *clarity*. I sketch out the reasons and consequences of my choices so that other people can learn without necessarily having to make all those choices themselves.
+ - I explore and summarize *alternatives* so that people can use that to figure out
+ what might fit them. I can get better at that by researching what
+ other people have done, generating a few new ideas (possibly by
+ combining other ideas), and testing things out so that I can share my
+ experiences.
+ - I break things down to help people with *beginning*. This is why I like addressing the "Yeah, but..."s, the excuses, the things that get in people's way. This is also why I like sharing ideas, because that can help pull people forward.
+ - I'd love to get better at moving people to *action*. I haven't given this as much thought yet, but I think it's the most important.
+ - I don't have much to share in terms of *perseverance* - I've been very lucky and privileged.
+ - I definitely don't want to be in the region of *hero worship*. It creates too much distance and can shut down action.
+
+ Breaking a general statement down into more specific statements helps
+ me learn a lot. I ask myself: "hat would I or someone *say* that
+ captures a different aspect of this?" and I write that down. When I
+ split off different aspects, I can understand those aspects better,
+ and I can understand the whole thing better too.
+
+ This technique is good to use for excuses, too. 
+
+ [[https://www.flickr.com/photos/sachac/16093097739/][2015-01-14 Breaking down excuses -- index card #excuses #breakdown]]
+
+ I'm getting better at catching myself when I give an excuse, drilling
+ down with "Why?" and splitting it out into different excuses. (I
+ guess, thanks to my parents' patience, my inner toddler never stopped
+ asking questions.) Then I can check if those excuses match what's
+ getting in my way, or if they don't resonate with me.
+
+ A technique I often use is to imagine *other people* giving those
+ excuses, since sometimes my mind is perfectly willing to ascribe
+ weakness to others even when it gets defensive about itself. ;)
+
+ I like sharing these excuses because that might help other people get
+ over theirs. It's often easier to *recognize* one of your excuses
+ instead of trying to articulate it yourself. "That's it! That's what's
+ getting in my way!" you might say. Or even if you don't find something
+ that completely fits, you might find something *close*, and then you
+ can ask yourself: "What's missing here?"
+
+ For example, what does it mean when someone says something "takes too
+ much time"? What's really getting in their way? Here are some ideas I
+ came up with:
+
+ [[https://www.flickr.com/photos/sachac/16277442981/][2015-01-14 What does it mean when something takes too much time -- index card #excuses #breakdown]]
+
+ "Too much time" is too vague to address. On the other hand, if you
+ think something takes too much time because you're trying to do
+ something complicated, you might be able to ask yourself: "What do I
+ really need? Can I get away with doing something simpler?" and then
+ reduce the task to something small enough for you to get started with.
+
+ Break things down. Find the statement behind the statement or the
+ excuse behind the excuse, and you'll have more to work with. Instead
+ of getting frustrated because you can't come up with one specific
+ answer, come up with lots of them, and then see if you recognize
+ yourself in any of them. Almost there, but not quite? Come up with
+ more answers, maybe combining aspects of the ones you already have.
+ This will not only help you understand yourself, but also understand
+ others--and help others understand themselves and you.
+
+*** DONE Read business books more effectively through application, visualization, or reviews :learning:reading:
+    CLOSED: [2015-01-09 Fri 13:41]
+    :PROPERTIES:
+    :Effort:   1:00
+    :ID:       o2b:2a6786ac-4007-49a7-b21d-50d4dfce59c6
+    :POST_DATE: [2015-01-09 Fri 12:44]
+    :POSTID:   27792
+    :BLOG:     sacha
+    :END:
+    :LOGBOOK:
+    CLOCK: [2015-01-09 Fri 12:22]--[2015-01-09 Fri 13:41] =>  1:19
+    :END:
+
+ This Quora question on [[http://www.quora.com/What-is-the-most-effective-way-to-read-a-book-and-what-can-one-do-after-reading]["What is the most effective way to read a book
+ and what can one do after reading?"]] got me thinking about how I read
+ business books and what I do to make the most of them.
+
+ [[https://www.flickr.com/photos/sachac/16052555007/][2015.01.08 How to use what you read -- index card]] 
+
+ *Application:* The best way to get value from a book is to apply it to
+ your life. Reading [[http://sachachua.com/blog/2012/02/visual-book-notes-the-lean-startup-by-eric-ries/][The Lean Startup]] is one thing. Using its
+ Build-Measure-Learn loop to run a business experiment is another.
+ Reading [[http://www.thesimpledollar.com/your-money-or-your-life-final-reflections/][Your Money or Your Life]] is one thing. Calculating your true
+ hourly wage and using that to evaluate your expenses is another. Do
+ the work. 
+
+ As you apply an idea, you'll probably want to refer back to the
+ details in the book, so it's good to keep the book itself handy. Write
+ notes about your questions, ideas, TODOs, experiences, and follow-up
+ questions.
+
+ *Visualization:* Not ready to do the work yet? Slow down and think
+ about it. Imagine the specific situations where you would be able to
+ apply the ideas from the book, and how you would do so. What do you
+ need to learn or do in order to get there? See if you can get closer
+ to being able to act on what you've learned.
+
+ Spend some time thinking about how the ideas in the book *connect* to
+ other books you've read or ideas you've explored. What do they agree
+ with or disagree with? Where do they go into more detail, and where do
+ they summarize? What new areas do they open up?
+
+ Think about specific *people* who might be able to use the ideas in
+ the book. Get in touch with them and recommend the book, explaining
+ why they might find it useful. Imagine what kind of conversation the
+ book might be relevant to so that you'll find it easier to recognize
+ the situation when it arises. (This is a tip I picked up from Tim
+ Sanders' /Love is the Killer App/, which I often recommend when people
+ want to know more about how reading helps with networking.)
+
+ *Review*: Can't act on the book yet, and can't think of specific
+ people or ideas to relate it to? Take notes so that you can review
+ them later, and maybe you'll be able to think of connections then.
+
+ I don't like writing in books. Here's why:
+ - Most of my books come from the library, and I'd never write in
+   those. This lets me get through /lots/ of books without the friction
+   of committing money and space to them.
+ - Highlighting is an easy way to make yourself /think/ that you're
+   going to remember something. Also, it's hard to decide what's
+   important the first time through, so you might end up highlighting
+   too much. When everything's important, nothing is.
+ - There's rarely enough room in the margins for notes, and you can't
+   review those notes quickly.
+
+ [[https://www.flickr.com/photos/sachac/16051018450/][2015.01.09 Take notes while you read books -- index card]] 
+
+ I prefer to write my notes on an index card or a piece of paper. If
+ I'm near my computer, I might draw my notes on a tablet or type quotes
+ into a text file. Keeping my notes separate from the book lets me
+ review my notes quickly without thumbing through the book. I want to
+ be able to refer to my notes while reading other books or while
+ writing my reflections. Index cards, pages, and print-outs are easy to
+ physically rearrange, and text files can be searched. Even if I read
+ an e-book, I take my own notes and I copy highlights into my text
+ files.
+
+ The best way to remember to review a book is to schedule an action to
+ apply an idea from it. The second-best way is to connect it to other
+ ideas or other people. If you don't have either of those hooks, you
+ can review on a regular basis - say, after a month, six months, and a
+ year, or by using a spaced repetition system. You might even pull a
+ book out at random and review your notes for inspiration. When you do,
+ see if you can think of new actions or connections, and you'll get
+ even more out of it.
 
 ** Writing
 - [[http://sachachua.com/blog/2015/01/predictable-advice-productivity/][Predictable advice about productivity]]
@@ -3836,7 +4097,116 @@ Like this sketch? Check out http://sketchedbooks.com for more. Feel free to shar
 * Visual thinking: sketchnotes, mindmaps, models, etc.
 - [[http://sachachua.com/blog/2014/12/terms-design/][Where am I in terms of design?]]
 - [[http://sachachua.com/blog/2014/12/exploring-sketchnote-colour-styles/][Exploring sketchnote colour styles]]
+** DONE Drawing thoughts on index cards                    :drawing:blogging:
+   CLOSED: [2015-01-16 Fri 11:18]
+   :PROPERTIES:
+   :Effort:   1:00
+   :ID:       o2b:3a2f3684-1d89-4119-afc8-351b5b08edc9
+   :POST_DATE: [2015-01-16 Fri 11:12]
+   :POSTID:   27839
+   :BLOG:     sacha
+   :END:
+   :LOGBOOK:
+   CLOCK: [2015-01-16 Fri 10:33]--[2015-01-16 Fri 11:18] =>  0:45
+   :END:
 
+I'm drafting this blog post on January 16, even though I'll publish it much later. I can't wait until I get through my backlog of posts I want to publish. I want to think about how I can make the most of this new index card habit, and whether I should reconsider that [[http://sachachua.com/blog/2011/02/decision-review-limiting-my-blog-to-one-post-a-day/][voluntary bottleneck of publishing one post a day]].
+
+For the past two weeks, I've drawn at least five index cards each day.
+Each card explores a single thought. I like the way this lets me
+[[http://sachachua.com/blog/?p=27754&shareadraft=baba27754_54aad8179388e][briefly capture what I'm curious about]]. I've included many of them in
+blog posts, grouping several thoughts into a larger chunk that's
+easier to link to.
+
+Still, at the present rate, my monthly review for January will link to
+well over 150 sketches. Perhaps I'll change the monthly review section
+to list only the sketches that haven't made it into blog posts yet.
+I've been keeping a digital equivalent of the roughly-sorted piles of
+index cards on my desk. It helps me see growing clusters of ideas and
+choose ones I want to develop with additional sketches or summarize
+into blog posts.
+
+[[https://www.flickr.com/photos/sachac/15673515563/][2015-01-14 Projecting my writing trajectory -- index card #writing]]
+
+Also, at the present rate of writing 1-3 blog posts a day (except for
+Thursdays, when I focus on consulting, and the weekends, when I focus
+on household life), I will keep accumulating scheduled posts. At some
+point, this will become unwieldy. It doesn't make sense to schedule
+posts a year in advance. Even a backlog of three months seems too
+disconnected.
+
+I can spend less time writing, but I've firmly wired it into the way I
+learn, so that's hard. Alternatively, I could spend _more_ time
+writing, developing thoughts over more time and packing denser
+experiences into a post. This approach might work.
+
+[[https://www.flickr.com/photos/sachac/16293386465/][2015-01-14 Projecting my trajectory -- index card #writing #sharing #pipeline]]
+
+I can also get ideas out in other ways. My blog is the main archive I
+trust, but I can give myself permission to share one-off sketches on
+Twitter. For example, this sketch about [[https://twitter.com/sachac/status/555415373713903616][keeping your drink safe from
+cats]]: it's not quite a blog post and I don't think I'll develop the
+thought further, but it might be okay to share it on its own.
+
+So, if I write blog posts for the thoughts that are already developed
+and tweets for the one-offs that won't be developed further, that
+leaves the ideas that are waiting to be developed. They wait because
+I'm still figuring things out, or because they aren't quite connected
+to other thoughts, or because my attention has moved on to other
+things. In Toyota Production System terms, they are /muda/ - waste
+because of waiting or possible over-production.
+
+I want to do better. What are some ways I can improve at this?
+
+[[https://www.flickr.com/photos/sachac/16291599121/][2015-01-16 Reflecting on reflecting with index cards -- index card #thinking #drawing]]
+[[https://www.flickr.com/photos/sachac/15651715144/][2015.01.13 How can I do morning index cards more effectively -- index card #drawing]] 
+
+*One way to reduce waste is to reduce quantity.* Is five a good number
+for index cards, or should I reduce it to three? I think five works
+well for me. It forces me to dig deeper into a topic or to capture
+some of the other thoughts I have floating around.
+
+*Another way to reduce the waste in this process is to be more focused.*
+If I think about and articulating 2-3 key questions for the week, that
+might guide most of my index cards. But then interesting ideas come up
+during the week, and I draw lots of cards for those as well. I turn
+many of my index cards into blog posts on the same day, so within each
+day, there's focus. If I try to use any "extra" index cards to build
+on a previously-drawn thought, that helps me connect.
+
+*A third way is to reduce my attachment and let things go.* Perhaps I
+might decide that after I make a monthly index of unblogged cards,
+I'll clear that index and archive the physical cards. That way, each
+month starts fresh, but I still have the ability to go back and look
+for those roughly-categorized cards in case I have an idea that's
+strongly connected to that. I don't have to worry about visualizing
+this archive, tracking my statistics, using all the dangling threads,
+or getting to 100% use.
+
+So that can help me deal with index cards, but what about blog posts?
+The benefits of limiting my blog to one post a day are:
+- I occasionally add to or revise a scheduled post, especially with feedback from sharing drafts
+- I can schedule different kinds of posts for a week, turning my sprint-type learning into a variety that helps readers
+- People don't get as overwhelmed (although daily posts are already more frequent than most other blogs do, and I'm pleasantly boggled that this is the most frequent option chosen by people subscribing to the mailing list)
+
+The downsides are:
+- If I write something useful, whoever searches for it while it's in hidden draft mode won't come across it, but I guess that's almost the same as if I hadn't written it at all
+- It delays the feedback cycle
+- Sometimes posts get out of date
+
+One option is to go back to publishing on Sundays. Maybe another
+thinking-out-loud/reflection post, since that's the one that has the
+most surplus.
+
+Another option is to post two times a day. I'm a little less keen on
+that, although it might be doable if I can keep my main archive but
+split off specific, lower-traffic, topic-focused views that people can
+subscribe to.
+
+A third option is to write longer posts. I find my [[https://www.flickr.com/photos/sachac/16106023660][constraints on chunk size]] to be helpful, so maybe not.
+
+Hmm. Maybe I'll publish on Sundays and then revisit this when I find
+myself scheduling three months out... =)
 
 ** Get better at web design by analyzing contrasts and improving your vocabulary  :tip:
 
@@ -6457,6 +6827,164 @@ Wild success might look like:
 
 I could use your help with this. =) Shall we figure it out together?
 
+*** Filling in the occupational blanks   :experiment:
+    :PROPERTIES:
+    :Effort:   1:00
+    :ID:       o2b:46325888-d966-4dcd-9c22-19d7570920d9
+    :POST_DATE: [2015-01-14 Wed 10:45]
+    :POSTID:   27820
+    :BLOG:     sacha
+    :END:
+    :LOGBOOK:
+    CLOCK: [2015-01-14 Wed 09:49]--[2015-01-14 Wed 11:00] =>  1:11
+    :END:
+
+Following up on an interview, a journalist asked:
+
+#+begin_quote
+If I were to say that you freelance as [blank] consultant, what would be the word that fills that blank? 
+#+end_quote
+
+[[https://www.flickr.com/photos/sachac/16091691968/][2015-01-14 Filling in the occupational blanks -- index card #experiment #occupation]]
+
+Tricky question. "Freelance" is definitely the wrong word for it,
+since I doubt I'll be taking on any more clients and the word obscures
+my current fascination with a self-directed life. It might make sense
+to use the word "independent" if we really need to contrast this with
+stable employment.
+
+Technically, I spend a fraction of my time consulting, and I can
+define the kind of consulting that I do in a compact phrase. But based
+on my [[http://quantifiedawesome.com/time/review?utf8=%E2%9C%93&start=2014-01-01&end=2015-01-01&parent_id=&category_tree=full&display_type=percentage&zoom_level=&commit=Filter][2014 numbers]], that's only 12% of my time. This is much less than
+the 37% of the time I spend sleeping, or even the 18% of the time I
+spend on discretionary projects or the 15% of the time I spend taking
+care of myself (not including the 7% of the time I spend on chores,
+errands, and other things).
+
+Since no one gets introduced as a sleeper even though that's what we
+mostly do with our lives, maybe my discretionary projects will yield a
+neat occupational description for people who /need/ to have that
+introductory phrase. 
+
+- Am I a writer (3%)? ("Author" is a smidge more self-directed and
+  respectable, maybe, but I still don't feel like I've written Real
+  Books since all my resources are compilations of blog posts). A
+  blogger? This is a category so large, it could mean anything.
+- A sketchnoter (3%)? Alternatively: a sketchnote artist or a doodler,
+  depending on whether I'm making it sound more respectable or more
+  approachable. But the popular understanding of sketchnotes (if there
+  is one) is that of recording other people's thoughts, and I'm
+  focusing on exploring my own questions.
+- An Emacs geek (2%)? Too obscure; it doesn't provide useful
+  information for most people. Maybe an open source developer, which
+  also includes the 1% of the time I spend coding -- but I do more
+  writing *about* software than writing actual software or
+  contributing to projects. An open source advocate? But I don't push
+  it on people or try to change people's minds. 
+
+In the rare meetups I go to, I usually mention a bunch of my interests
+(drawing, writing, coding, experimenting), and people pick whatever
+they're curious about. But most times, I try to preempt the "What do
+*you* do?" question with something more interesting for me, like what
+people are learning about or interested in. It's so much easier when
+someone recognizes me from my blog, because then we can jump straight
+to the interests we have in common.
+
+From time to time, I come across people who persistently ask, "But
+what do you *do*? What's your day job?" I confess it's a bit fun to
+tweak the box they want to put me in. One approach I've heard other
+people use is to playfully acknowledge the difficulty of
+categorization. "On Mondays, I ___. On Tuesdays, I ___. On Wednesdays,
+I___. ..." Others gleefully embrace descriptions like "I'm
+unemployed."
+
+But I'm missing the purpose of that introductory phrase or that short
+bio here. It's not about shaking up the other person's worldview. At
+its best, that occupational association helps the listener or reader
+quickly grasp an idea of the other person's life and where the other
+person is coming from. An accountant probably has a different way of
+looking at things than a primary school teacher does. One's occupation
+provides the other person with the ability to contextualize what one
+says ("Oh, of course she thinks of things as systems and processes;
+she works with code all day."). During small talk, it gives people
+easy things to talk about while they're waiting for a more interesting
+topic of conversation to appear: "What kinds of things do you write?"
+
+Let's say, then, that my goals for this phrase would be:
+- to help people understand my context quickly, and how that might differ from their perspective
+- to make the other person more comfortable by:
+  - being able to associate me with a stereotype that adds
+    information, possibly fleshing out this mental profile with
+    differences later on
+  - in conversation, letting them easily think of questions to ask,
+    addressing the [[http://slatestarcodex.com/2015/01/11/the-phatic-and-the-anti-inductive/][phatic nature]] of small talk (we're not actually
+    *talking*, we're making polite noises)
+- to branch off into more interesting conversations, avoiding the
+  dead-end that often comes up after the ritualistic exchange of "What
+  do you do?"
+
+Of these goals, I like the third (interesting conversations) the most.
+
+Here are a few of my options:
+
+- I can accept convention and pick one aspect of what I do, especially
+  if I tailor it to their interests. For example, at a business event,
+  I might introduce myself as a social business consultant who helps
+  really large companies improve internal collaboration through
+  analytics and custom development for enterprise social network
+  platforms (well, isn't *that* a mouthful). At visual thinking
+  events, I might introduce myself as a sketchnoter focusing on
+  exploring my own ideas.
+- I can waffle by introducing several aspects, still within the
+  vocabulary of regular occupations: a consultant and a writer, for
+  example.
+- I can say, "It's complicated!" and explain my 5-year experiment,
+  self-directed living, and learning/coding/writing/drawing/sharing.
+
+Anyway, circling back to this writer and his likely use of some kind
+of occupation as a way to introduce and contextualize me:
+
+- It might be interesting to play with *no* occupational
+  categorization. Some context may be provided by age (31) - it's
+  common enough in newspapers and books. The editor might send it back
+  with a question, "Yes, but what does she do?", but there it is.
+- It might also be interesting to play with my difficulty of
+  categorization. "Sacha Chua, who couldn't come up with a single
+  phrase to describe her occupation, ..."
+- Or, since it's no skin off my back if this is not fully
+  representative, I could just let him write whatever he wants to
+  write. Freelance consultant. Blogger. Sketchnoter. Amateur
+  experimenter. Independent developer. "Consultant" is a very small
+  part of my identity, actually, so developer or blogger might be
+  interesting. A possible missed opportunity here is that the wrong
+  frame might result in people not being able to identify with and
+  learn from stuff ("Of course she can deal with this, she's a coder";
+  "Bah, another blogger, is that all she does?"; "Why should I listen
+  to her? Freelance is just a fancy word for unemployed."). But it'll
+  do under time pressure. =)
+
+I'm writing this on January 14 and posting this in the future (because
+I limit posts to one a day), so the article will likely be out by now.
+If I remember, I'll update this with what he actually used. =) But I
+needed to think about it out loud, and I'm sure the situation will
+come up again in the future. Perhaps by then I'll have a more compact
+way to describe myself.
+
+Since other people have figured this out before, I can learn from
+them. (And possibly from you!) After all, I'm nowhere near as
+interesting as Benjamin Franklin or Leonardo da Vinci, and somehow
+*they* managed to settle down into a sequence of nouns. Here's the one
+from Wikipedia's entry for Leonardo da Vinci:
+
+#+begin_quote
+Leonardo di ser Piero da Vinci (15 April 1452 – 2 May 1519) was an
+Italian painter, sculptor, architect, musician, mathematician,
+engineer, inventor, anatomist, geologist, cartographer, botanist, and
+writer.
+#+end_quote
+
+People can pick whatever aspect they want. I am multi-faceted and
+growing. =)
 
 *** DONE Learning to work on my own things                       :experiment:
     CLOSED: [2015-01-05 Mon 15:18]
@@ -8488,10 +9016,290 @@ Nice to have a kitchen and the time to cook! =)
 	:END:
 - [[http://sachachua.com/blog/?p=27634&shareadraft=baba27634_54791f18b29e6][Emacs configuration and use-package]]
 - [[http://sachachua.com/blog/2014/11/emacs-coaching-unknowns-figuring-want-learn/][Emacs, coaching, and unknowns: Figuring out what I want to learn]]
+
+** STARTED Meta-post: Thinking through advice on emptying one's cup
+   :PROPERTIES:
+   :Effort:   1:00
+   :END:
+   :LOGBOOK:
+   CLOCK: [2015-01-19 Mon 11:06]
+   :END:
+
+I've been thinking about my blog post on [[http://sachachua.com/blog/?p=27826&shareadraft=baba27826_54b6a58e2a4d7]["Getting started with Emacs? Empty your cup]].
+There's something that doesn't quite sit right.
+
+#+begin_html
+<a href="http://sachachua.com/blog/wp-content/uploads/2015/02/2015-01-16-Tempering-advice-to-Emacs-beginners-index-card-emacs-beginner-teaching.png"><img class="alignnone size-medium wp-image-27851" src="http://sachachua.com/blog/wp-content/uploads/2015/02/2015-01-16-Tempering-advice-to-Emacs-beginners-index-card-emacs-beginner-teaching-640x379.png" alt="2015-01-16 Tempering advice to Emacs beginners -- index card #emacs #beginner #teaching" width="640" height="379" /></a><br />
+<a href="https://www.flickr.com.ph/photos/65214961@N00/15687845954">2015-01-16 Tempering advice to Emacs beginners – index card #emacs #beginner #teaching</a>
+#+end_html
+
+
+
+
+[[https://www.flickr.com/photos/sachac/16315623271/][2015-01-18 Digging into my thoughts about emptying one's cup -- #emacs #writing]]
+
+
+  - [[https://www.flickr.com/photos/sachac/16131548697/][2015-01-18 Journey to Emacs - stages -- index card #emacs]]
+  - [[https://www.flickr.com/photos/sachac/16131221399/][2015-01-18 Journey to Emacs - Beginnings -- index card #emacs #beginner]]
+
+** DONE Improving my evil plans for Emacs                     :emacs:sharing:
+   CLOSED: [2015-01-19 Mon 09:52]
+   :PROPERTIES:
+   :Effort:   1:00
+   :ID:       o2b:4452b059-7920-41a4-8cdf-e247c978b730
+   :POST_DATE: [2015-01-19 Mon 09:45]
+   :POSTID:   27852
+   :BLOG:     sacha
+   :END:
+   :LOGBOOK:
+   CLOCK: [2015-01-19 Mon 08:51]--[2015-01-19 Mon 09:52] =>  1:01
+   :END:
+
+Mwahahaha. My [[http://sachachua.com/evil-plans][evil plans]] are yielding results, or at least that's the
+impression I get because I'm learning so much from people who tell me
+that [[http://oremacs.com/2015/01/14/repeatable-commands/#comment-1798523516][they found my blog helpful years ago]]. Even more recent
+experiments bear fruit: punchagan checked out Memacs because of my
+Emacs Chat with Karl Voit, and ended up writing a [[http://punchagan.muse-amuse.in/posts/how-i-learnt-to-use-emacs-profiler.html][blog post about
+using the Emacs profiler]].
+
+[[https://www.flickr.com.ph/photos/65214961@N00/15690386063][2015-01-17 My Evil Plans for Emacs are yielding results -- index card #emacs #sharing]]
+
+This makes me curious: *What am I doing right, and how can I do it even
+better?*
+
+Looking at my [[http://sachachua.com/blog/category/emacs][Emacs posts]], it seems I mostly write about figuring
+things out (and occasionally about cool things I've come across).
+People like the enthusiasm, and they sometimes pick up cool ideas too.
+The Emacs Hangouts and Emacs Chats are my way of working around my
+limitations; I don't particularly like travel and I'm not up to
+organizing in-person meetups, but virtual meetups let me reach out to
+more people (and we can record the conversations more easily, too).
+
+What are my goals?
+
+- I want to get better at using Emacs, because it's useful and it tickles my brain
+- I want to help more people become intermediate and advanced users of
+  Emacs, because then I get to learn from them (and also Emacs thrives
+  as a community). I can do this by:
+  - Showing people the benefits and possibilities of customization
+  - Working out loud, showing my thought processes and the tools/libraries I use
+  - Helping people develop a good mindset and handy skills
+  - Sharing little tips and neat functions
+
+How can I get even better at helping the Emacs community?
+
+[[https://www.flickr.com.ph/photos/65214961@N00/14022300544][2014-04-26 Helping the Emacs community #emacs]]
+
+I really like the way [[http://oremacs.com/][(or emacs]] has daily Emacs snippets and [[http://rubikitch.com/][Rubikitch]]
+describes Emacs packages in Japanese. I think I'll slowly ramp up from
+once-a-weekish Emacs posts to maybe twice or three times a week. I
+have more posts already scheduled, but I just spread them out so that
+my non-geek readers don't get overwhelmed.
+
+*** Guides
+
+Because I'm interested in things that tend to be idiosyncratic
+(workflows, customizations, etc.), I have a hard time making clear
+recommendations or putting tips into logical order. That's probably
+why I do a lot more "thinking out loud"-type posts instead. I can
+experiment with identifying who might find a tip useful, extract the
+tips from my thinking-out-loud explorations, and gradually build up
+sets of related tips that way.
+
+[[https://www.flickr.com/photos/sachac/16284323306][2015-01-16 Hmm - not guides but explorations -- index card #sharing #packaging]]
+
+I did actually manage to put together one guide ([[http://emacslife.com/how-to-read-emacs-lisp.html][How to Read Lisp and
+Tweak Emacs]]) and half of another [[http://emacslife.com/baby-steps-org.html][A Baby Steps Guide to Managing Your
+Tasks With Org]]. The sketches for [[http://sachachua.com/begin-emacs][How to Learn Emacs]] and [[http://sachachua.com/blog/2014/01/tips-learning-org-mode-emacs/][Tips for
+Learning Org Mode]] are high-level guides, too.
+
+*** Microhabits
+
+I've been going back to the basics, working on developing even better
+Emacs microhabits. I've focused on two so far: abbreviating text and
+switching windows.I think there's plenty of space to improve even in
+terms of taking advantage of what's already out there (with minimal
+configuration along the lines of setting variables and keyboard
+shortcuts). And then there are even bigger opportunities to improve
+through customization and Emacs Lisp.
+
+*** Helping people directly
+
+I've mentioned [[http://sachachua.com/blog/2014/06/emacs-coaching/][coaching]] a few times. [[http://sachachua.com/blog/2014/11/emacs-coaching-unknowns-figuring-want-learn/][Bastien Guerry and a few other
+folks]] offer coaching as a service. Me, I'm not particularly familiar
+with the kinds of issues people run into or are curious about (ex: Mac
+OS X, programming mode setup). I'm mostly curious about workflow, and
+I'm happy to talk to people about that. It could be a good
+source of ideas for blog posts.
+
+[[https://www.flickr.com.ph/photos/65214961@N00/15615984464][2015-01-08 Imagining coaching or guiding others -- index card]]
+
+When I ran my Google Helpouts experiments, I turned many of those tips
+into blog posts. I think that would be even more effective if people
+wrote up those tips themselves (it'll reinforce their learning /and/
+it will bring them into the community), so I've been playing with the
+idea of strongly encouraging or even requiring write-ups.
+
+[[https://www.flickr.com.ph/photos/65214961@N00/16105854308][2015-01-15 What if I required people to pay it forward -- #workingoutloud #sharing #teaching]]
+
+Unrealistic, but one can dream. Or one can focus on helping people who
+are already sharing their questions and ideas in blog posts or
+discussion forums, so that's another approach. There's no shortage of
+questions, that's for sure.
+
+*** Hangouts
+
+I like Emacs Hangouts more than one-on-one coaching. Hangouts are
+public and recorded automatically, so people can learn from them even
+if no one has posted notes. It's shaping up to be a wonderful
+peer-coaching sort of thing, which is good because I don't have to be
+so worried about not being able to help at all. I wonder what this
+would be like with a bit of a mastermind group structure; maybe we
+each pick a microhabit or idea to work on for the month (or for two
+weeks), we help each other out, and then we report back at the next
+one. That way, there's casual conversation and discovery, but there's
+also purpose and motivation.
+
+[[https://www.flickr.com.ph/photos/65214961@N00/16051018660][2015-01-08 Imagining Emacs hangouts - index card]]
+
+[[https://www.flickr.com.ph/photos/65214961@N00/16310257205][2015-01-16 Emacs community -- index card #emacs]]
+
+*** Connecting with more parts of the Emacs community
+
+Evil-mode users are a growing part of the Emacs community. Maybe I
+should try it out to get a better sense of what the experience is like
+for people who are coming into Emacs via evil-mode. Besides,
+composability might be an interesting mental tool to add to my
+toolkit.
+
+[[https://www.flickr.com/photos/65214961@N00/16315623381][2015-01-18 Thinking about evil-mode and Emacs -- index card #emacs]]
+
+*** Wrapping up
+
+Maybe I can get better at helping the Emacs community by:
+
+- Focusing on those micro-habits and sharing what I learn (good for
+  helping intermediate users develop a better appreciation of Emacs)
+- Playing with more workflow improvements and sharing them
+- Writing about how to tinker with popular packages like Org
+- Reaching out through blog comments and Emacs Hangouts to help people
+  learn (in a publicly recorded way)
+- Bringing out what people know through Emacs Hangouts and Emacs Chats
+  (especially if people know cool things but haven't gotten around to
+  writing about them)
+
+Helping me get better at helping the Emacs community (my selfish
+reason: so that I learn more from people) can also support *your* evil
+plans (your selfish reason: so that you can learn more from me and
+from other people). Any suggestions? Tell me what I'm doing right and
+should do more of / better at, or tell me about somewhat adjacent
+things that are easy to do - low-hanging fruit! =)
+
 ** TODO Write about why Emacs
 https://mail.google.com/mail/u/0/#inbox/14ab044f1116b232
+
 ** Emacs micro-habits
 *** TODO Emacs microhabit 1/52: Automate repetitive text. (Skeleton, Keyboard macros, Yasnippet, Emacs Lisp...)
+
+*** DONE Emacs microhabit: Switching windows with windmove, ace-window, and ace-jump :emacs:tip:
+    CLOSED: [2015-01-19 Mon 11:06]
+    :PROPERTIES:
+    :ID:       o2b:9042637f-3dbf-4433-9d72-d44a0b2af278
+    :POST_DATE: [2015-01-19 Mon 10:46]
+    :POSTID:   27863
+    :BLOG:     sacha
+    :END:
+
+When I work with a large monitor, I often divide my Emacs frame (what
+most people call a window) into two or more windows (divisions within
+a frame). I like this more than dealing with multiple Emacs frames,
+even if I could spread those frames across multiple monitors. I find
+it easier to manage the windows using keyboard shortcuts than to
+manage the tiling and display of frames.
+
+One of the Emacs micro-habits I'm working on is getting better at
+switching between windows. When there are only two windows, =C-x o=
+(=other-window=) works just fine. However, when there are three or
+more, it can take a few repetitions of =C-x o= to get to where I want.
+I could get around that by binding =other-window= to =M-o= instead,
+replacing the default keymap for that. Or I could try to get the hang
+of other ways to move around.
+
+Here's an 8-minute video showing =windmove=, =ace-window=, and =ace-jump=:
+
+#+begin_html
+<iframe width="640" height="360" src="//www.youtube.com/embed/nKCKuRuvAOw?list=UUlT2UAbC6j7TqOWurVhkuHQ" frameborder="0" allowfullscreen></iframe>
+#+end_html
+https://www.youtube.com/watch?v=nKCKuRuvAOw&list=UUlT2UAbC6j7TqOWurVhkuHQ
+
+Here's the relevant code snippet for Windmove - I changed this to use =define-key= instead of =bind-key=.
+
+#+begin_src emacs-lisp
+  (defvar sacha/windmove-map (make-sparse-keymap))
+  (define-key sacha/windmove-map "h" 'windmove-left)
+  (define-key sacha/windmove-map "t" 'windmove-up)
+  (define-key sacha/windmove-map "n" 'windmove-down)
+  (define-key sacha/windmove-map "s" 'windmove-right)
+  (define-key sacha/windmove-map "[left]" 'windmove-left)
+  (define-key sacha/windmove-map "[up]" 'windmove-up)
+  (define-key sacha/windmove-map "[down]" 'windmove-down)
+  (define-key sacha/windmove-map "[right]" 'windmove-right)
+  (key-chord-define-global "yy"     sacha/windmove-map)
+#+end_src
+
+Here's the cheat sheet I made for myself:
+
+[[https://www.flickr.com.ph/photos/65214961@N00/16266462305][2015-01-12 Emacs microhabit - window management -- index card #emacs]]
+
+And here's a simpler reference that you can personalize for your own:
+
+[[https://www.flickr.com.ph/photos/65214961@N00/16131548757][2015-01-18 Emacs microhabit - Switching windows -- index card #emacs #microhabit]]
+
+Naturally, after recording the video, I thought of a better way to
+manage my windows, taking advantage of the =def-repeat-command= that
+abo-abo posted on [[http://oremacs.com/2015/01/14/repeatable-commands/][(or emacs]]. I modified the function to accept =nil=
+as the first value if you don't want the keymap to run a command by
+default, and to use =kbd= for the keybinding definitions.
+
+#+begin_src emacs-lisp
+  (defun sacha/def-rep-command (alist)
+    "Return a lambda that calls the first function of ALIST.
+It sets the transient map to all functions of ALIST,
+allowing you to repeat those functions as needed."
+    (lexical-let ((keymap (make-sparse-keymap))
+                  (func (cdar alist)))
+      (mapc (lambda (x)
+              (when x
+                (define-key keymap (kbd (car x)) (cdr x))))
+            alist)
+      (lambda (arg)
+        (interactive "p")
+        (when func
+          (funcall func arg))
+        (set-transient-map keymap t))))
+#+end_src
+
+Here's my new binding for =yy=. It lets me bounce on =y= to use
+=other-window= as normal, use the arrow keys to move between windows
+thanks to =windmove=, and use =ace-window= as well: =h= is the regular
+ace-window, =s= swaps, and =d= deletes.
+
+#+begin_src emacs-lisp
+      (key-chord-define-global "yy"   
+            (sacha/def-rep-command
+             '(nil
+               ("<left>" . windmove-left)
+               ("<right>" . windmove-right)
+               ("<down>" . windmove-down)
+               ("<up>" . windmove-up)
+               ("y" . other-window)
+               ("h" . ace-window)
+               ("s" . (lambda () (interactive) (ace-window 4)))
+               ("d" . (lambda () (interactive) (ace-window 16)))
+               )))
+#+end_src
+
+Neat, eh?
 
 ** Helm
 *** helm-descbinds
@@ -8790,7 +9598,139 @@ Okay. It looks like setting up YASnippet for Emacs checklists would probably giv
 
 Is YASnippet part of your workflow? Have any thoughts, suggestions, or neat stories?
 
-** TODO Emacs kaizen: ace-jump-zap lets you use C-u to zap to any character  :emacs:
+** DONE Getting started with Emacs? Empty your cup           :emacs:beginner:
+   CLOSED: [2015-01-14 Wed 16:14]
+   :PROPERTIES:
+   :Effort:   1:00
+   :ID:       o2b:e3bb77da-040d-4ce7-81b5-2ee5a443ac5c
+   :POST_DATE: [2015-01-14 Wed 12:19]
+   :POSTID:   27826
+   :BLOG:     sacha
+   :END:
+   :LOGBOOK:
+   CLOCK: [2015-01-14 Wed 11:44]--[2015-01-14 Wed 12:14] =>  0:30
+   :END:
+
+I often hear from people who are interested in learning Emacs but who
+are frustrated by the learning curve. They're struggling to find
+equivalents for things they used to do in their previous editor, or
+they've copied various bits of code from other people's config and now
+other things don't work.
+
+If you're learning a new programming language or framework at the same
+time, you might find it easier to learn with either your old editor or
+with whatever tool most developers (especially ones near you) use for
+that language. Avdi Grimm has a good post on this: [[http://devblog.avdi.org/2012/10/16/lets-stop-telling-programming-newbies-to-learn-vim-or-emacs/][Let's stop telling
+programming newbies to learn Vim (or Emacs)]].
+
+Learning Emacs is not a good fit for everyone. In the beginning, you
+can expect it to be unfamiliar--almost alien. You will have the
+continuous challenge of balancing out-of-date information and
+bleeding-edge changes. You will be faced with too many choices without
+reasonable defaults. You will have to content yourself with knowing
+only a tiny fraction of what your editor can do.
+
+[[https://www.flickr.com/photos/sachac/16092582960/][2015-01-12 When is Emacs a good fit -- index card #emacs #beginner]]
+
+But maybe something in it appeals to you, and you want to learn Emacs
+anyway. Maybe you want to learn it for work. Maybe you want to learn
+it because you've heard good things about Org Mode, ESS, or other
+tools. Maybe you're just curious about all the fuss.
+
+Here's something I've realized. To learn Emacs well, you need to empty
+your cup. This is the story as told on the [[http://c2.com/cgi/wiki?EmptyYourCup][C2 wiki]]:
+
+#+begin_quote
+A master was trying to explain something to a student. Now this
+student was not a brand new student, but a senior student who had
+learned many things. He had knowledge and experience aplenty to draw
+upon. But each time the master tried to explain something new to the
+student, the student kept trying to hold it up against his own notions
+of the way the world is and how it ought be, and he was unable to see
+the lessons in what the master was trying to teach him.
+
+Finally, the master poured a full serving of tea into his own cup, and
+into the cup of the student. Then he told the student he wanted to
+give to him some of the tea from his own cup. He began pouring tea
+from his cup into the student's cup, but the student's cup was already
+full, and all the tea from the master's cup spilled out over the cup
+onto the surface below.
+
+The student said, "Master, you can't pour anything into my cup until I
+empty it to make room for what you are trying to give me.", and the
+master replied "Yes I know." "And I can't give you any new thoughts or
+ideas or perspectives on life's lessons until you clear out some
+thoughts that are already teeming in your mind to make room for what I
+have to teach you." Then the master paused for a brief moment, meeting
+the student's eyes with his own knowing look and calmly but sternly
+said: " If you truly seek understanding, then first, empty your cup!"
+
+The student pondered for a moment with a look of absolute
+bewilderment. Then a look of enlightenment came over him, followed by
+a smile, and a look of receptiveness. The master started to explain
+again, and this time the student saw what the master was trying to
+say.
+#+end_quote
+
+[[https://www.flickr.com.ph/photos/65214961@N00/16087275640][2015-01-13 Emacs and the beginner's mind -- index card #emacs #beginner]]
+
+Emacs beginners often grumble about the strange keyboard shortcuts and
+terminology. "Why can't I use Ctrl-X to cut? Why is it called 'killing
+text'? What's all this about buffers?"
+
+Some of those differences seem easy to fix with code you can get on
+the Net. For example, =cua-mode= gives you the standard =Ctrl-X,
+Ctrl-C, Ctrl-V= shortcuts for cutting, copying, and pasting. If you're
+coming from Vi, =evil-mode= will give you a familiar interface.
+
+But if you do that -- if you give in to your initial discomfort -- you
+will find yourself fighting more and more of Emacs as you go along,
+without the skills to properly integrate your changes. 
+
+It's better, I think, to approach Emacs as a beginner. Pretend this is
+your first editor. Go through the tutorial. Start with the basics. Try
+doing things the Emacs way.
+
+This includes letting go of, say, the habit of opening up your editor
+each time you want to edit a file, and then closing it right after.
+The Emacs way is to keep the same editor open. Use =emacsclient= if
+you really need to "start" new editors from the command line.
+
+- [[https://www.flickr.com.ph/photos/65214961@N00/16088541079][2015-01-13 Other Emacs mindset tips -- index card #emacs #beginner]]
+
+In the beginning, you might feel agonizingly slow. So you may need to
+do this in your discretionary time instead of when everyone is
+counting on you to deliver a time-sensitive project. It's okay to open
+up Vim so that you can get something done, while you keep learning
+Emacs in the background.
+
+As you become familiar with the system, you begin to learn how to work
+within it. Slowly configure things, like your indentation style. You
+might changing the package list to include MELPA Stable so that you
+can install a package or two beyond the initial list included in
+Emacs. Get used to the changes before you introduce more. 
+
+Look around for inspiration: [[http://planet.emacsen.org][Planet Emacsen]] is a constant stream of
+ideas. Ask questions in communities like [[http://emacs.stackexchange.com/][Emacs StackExchange]] and the
+#emacs channel on irc.freenode.net, or the relevant mailing lists or
+newsgroups.
+
+Eventually, you might find yourself understanding the configuration
+snippets that other people have posted. [[http://emacslife.com/how-to-read-emacs-lisp.html][Reading Emacs Lisp]] is the
+first step to being able to *modify* Emacs Lisp, and from there you
+can learn how to *write* Emacs Lisp. But you don't have to start
+knowing that right away; many people use Emacs for years before moving
+to that point, and many people use it without customizing it.
+
+But if you start learning Emacs by getting frustrated with it and
+trying to force it to be what you want, you might never get to the
+point where you can enjoy it and work with it. Be a beginner. Give
+yourself time and space to learn, even if you feel you're learning
+slowly. Then, as you improve your understanding and skills, you'll
+learn how to coax Emacs to fit you even better. 
+
+** DONE Emacs kaizen: ace-jump-zap lets you use C-u to zap to any character :emacs:
+   CLOSED: [2015-01-14 Wed 16:14]
    :PROPERTIES:
    :ID:       o2b:24197394-d5f4-4240-a8cc-c8ec56192a45
    :POST_DATE: [2014-12-01 Mon 16:31]
@@ -11650,6 +12590,262 @@ you too!
 
 
 * Other tech notes
+** Windows: Pipe output to your clipboard, or how I've been using Node, Emacs, and Org Mode for awesomeness
+   :PROPERTIES:
+   :Effort:   1:00
+   :ID:       o2b:d31db87f-0f8a-4fcb-b092-ff28a7cbab28
+   :POST_DATE: [2015-01-14 Wed 17:25]
+   :POSTID:   27830
+   :BLOG:     sacha
+   :END:
+
+It's not easy [[https://www.flickr.com/photos/sachac/16266462305][being on Windows]] instead of one of the more scriptable
+operating systems out there, but I stay on it because I like the
+drawing programs. Cygwin and Vagrant fill enough gaps to keep me
+mostly sane. (Although maybe I should work up the courage to [[http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html][dual-boot Windows 8.1 and a Linux distribution]], and then get my [[http://virantha.com/2014/03/17/one-touch-scanning-with-fujitsu-scansnap-in-linux/][ScanSnap working]].)
+
+Anyway, I'm making do. Thanks to [[http://nodejs.org/][Node]] and the abundance of libraries
+available through NPM, Javascript is shaping up to be a surprisingly
+useful scripting language. 
+
+After I used the Flickr API library for Javascript to [[http://sachachua.com/blog/2015/02/de-dupe-link-using-flickr-api-neaten-archive-link-sketches-blog-posts/][cross-reference
+my Flickr archive with my blog posts]], I looked around for other things
+I could do with it. [[http://webecoz.com/][photoSync]] occasionally didn't upload new pictures
+I added to its folders (or at least, not as quickly as I wanted). I
+wanted to replace photoSync with my own script that would:
+- upload the picture only if it doesn't already exist,
+- add tags based on the filename,
+- add the photo to my Sketchbook photoset,
+- move the photo to the "To blog" folder, and
+- make it easy for me to refer to the Flickr image in my blog post or index.
+
+The [[https://github.com/chbrown/flickr-with-uploads][flickr-with-uploads]] library made it easy to upload images and
+retrieve information, although the format was slightly different from
+the Flickr API library I used previously. (In retrospect, I should've
+checked the [[https://www.npmjs.com/package/flickrapi][Flickr API]] documentation first - there's an example upload
+request right on the main page. Oh well! Maybe I'll change it if I
+feel like rewriting it.)
+
+I searched my existing photos to see if a photo with that title
+already existed. If it did, I displayed an Org-style list item with a
+link. If it didn't exist, I uploaded it, set the tags, added the item
+to the photo set, and moved it to the folder. Then I displayed an
+Org-style link, but using a plus character instead of a minus
+character. (Both + and - can be used for lists in Org.)
+
+While using =console.log(...)= to display these links in the terminal
+allowed me to mark and copy the link, I wanted to go one step further.
+Could I send the links directly to Emacs? I looked into getting
+=org-protocol= to work, but I was having problems figuring this out.
+(I solved those problems; details later in this post.)
+
+What were some other ways I could get the information into Emacs aside from copying and pasting from the terminal window? Maybe I could put text directly into the clipboard. The [[https://www.npmjs.com/package/clipboard][node-clipboard]] package didn't build for me and I couldn't get [[https://github.com/xavi-/node-copy-paste][node-copy-paste]] to work either,about the node-copy-paste README told me about the existence of the =clip= command-line utility, which worked for me.
+
+On Windows, =clip= allows you to pipe the output of commands into your
+clipboard. (There are similar programs for Linux or Mac OS X.) In
+Node, you can start a child process and communicate with it through
+pipes. 
+
+I got a little lost trying to figure out how to turn a string into a
+streamable object that I could set as the new standard input for the
+=clip= process I was going to spawn, but the solution turned out to be
+much simpler than that. Just =write(...)= to the appropriate stream,
+and call =end()= when you're done.
+
+Here's the relevant bit of code that takes my =result= array and puts it into my clipboard:
+
+#+begin_quote
+    var child = cp.spawn('clip');
+    child.stdin.write(result.join("\n"));
+    child.stdin.end();
+#+end_quote
+
+Of course, to get to that point, I had to revise my script. Instead of
+letting all the callbacks finish whenever they wanted, I needed to be
+able to run some code after everything was done. I was a little
+familiar with the =async= library, so I used that.
+
+[[https://gist.github.com/sachac/01b21572cccb0a558aa3][See this on Github]]
+#+begin_src js2
+/**
+ * Upload the file to my Flickr sketchbook and then moves it to
+ * Dropbox/Inbox/To blog. Save the Org Mode links in the clipboard. -
+ * means the photo already existed, + means it was uploaded.
+ */
+
+var async = require('async');
+var cp = require('child_process');
+var fs = require('fs');
+var glob = require('glob');
+var path = require('path');
+var flickr = require('flickr-with-uploads');
+var secret = require("./secret");
+var SKETCHBOOK_PHOTOSET_ID = '72157641017632565';
+var BLOG_INBOX_DIRECTORY = 'c:\\sacha\\dropbox\\inbox\\to blog\\';
+var api = flickr(secret.flickrOptions.api_key,
+                 secret.flickrOptions.secret,
+                 secret.flickrOptions.access_token,
+                 secret.flickrOptions.access_token_secret);
+var result = [];
+
+function getTags(filename) {
+  var tags = [];
+  var match;
+  var re = new RegExp('#([^ ]+)', 'g');
+  while ((match = re.exec(filename)) !== null) {
+    tags.push(match[1]);
+  }
+  return tags.join(' ');
+}
+// assert(getTags("foo #bar #baz qux") == "bar baz");
+
+function checkIfPhotoExists(filename, doesNotExist, existsFunction, done) {
+  var base = path.basename(filename).replace(/.png$/, '');
+  api({method: 'flickr.photos.search',
+       user_id: secret.flickrOptions.user_id,
+       text: base},
+      function(err, response) {
+        var found = undefined;
+        if (response && response.photos[0].photo) {
+          for (var i = 0; i < response.photos[0].photo.length; i++) {
+            if (response.photos[i].photo && response.photos[0].photo[i]['$'].title == base) {
+              found = i; break;
+            }            
+          }
+        }
+        if (found !== undefined) {
+          existsFunction(response.photos[0].photo[found], done);
+        } else {
+          doesNotExist(filename, done);
+        }
+      });
+}
+
+function formatExistingPhotoAsOrg(photo, done) {
+  var title = photo['$'].title;
+  var url = 'https://www.flickr.com.ph/photos/'
+        + photo['$'].owner
+        + '/' + photo['$'].id;
+  result.push('- [[' + url + '][' + title + ']]');
+  done();
+}
+
+function formatAsOrg(response) {
+  var title = response.photo[0].title[0];
+  var url = response.photo[0].urls[0].url[0]['_'];
+  result.push('+ [[' + url + '][' + title + ']]');
+}
+
+function uploadImage(filename, done) {
+  api({
+    method: 'upload',
+    title: path.basename(filename.replace(/.png$/, '')),
+    is_public: 1,
+    hidden: 1,
+    safety_level: 1,
+    photo: fs.createReadStream(filename),
+    tags: getTags(filename.replace(/.png$/, ''))
+  }, function(err, response) {
+    if (err) {
+      console.log('Could not upload photo: ', err);
+      done();
+    } else {
+      var newPhoto = response.photoid[0];
+      async.parallel(
+        [
+          function(done) {
+            api({method: 'flickr.photos.getInfo',
+                 photo_id: newPhoto}, function(err, response) {
+                   if (response) { formatAsOrg(response); }
+                   done();
+                 });
+          },
+          function(done) {
+            api({method: 'flickr.photosets.addPhoto',
+                 photoset_id: SKETCHBOOK_PHOTOSET_ID,
+                 photo_id: newPhoto}, function(err, response) {
+                   if (!err) {
+                     moveFileToBlogInbox(filename, done);
+                   } else {
+                     console.log('Could not add ' + filename + ' to Sketchbook');
+                     done();
+                   }
+                 });
+          }],
+        function() {
+          done();
+        });
+    }
+  });
+}
+
+function moveFileToBlogInbox(filename, done) {
+  fs.rename(filename, BLOG_INBOX_DIRECTORY + path.basename(filename),
+            function(err) {
+              if (err) { console.log(err); }
+              done();
+            });
+}
+
+var arguments = process.argv.slice(2);
+async.each(arguments, function(item, done) {
+  if (item.match('\\*')) {
+    glob.glob(item, function(err, files) {
+      if (!files) return;
+      async.each(files, function(file, done) {
+        checkIfPhotoExists(file, uploadImage, formatExistingPhotoAsOrg, done);
+      }, function() {
+        done();
+      });
+    });
+  } else {
+    checkIfPhotoExists(item, uploadImage, formatExistingPhotoAsOrg, done);
+  }
+}, function(err) {
+  console.log(result.join("\n"));
+  var child = cp.spawn('clip');
+  child.stdin.write(result.join("\n"));
+  child.stdin.end();
+});
+#+end_src
+
+Wheeee! Hooray for automation. I made a Windows batch script like so:
+
+up.bat
+#+begin_src 
+node g:\code\node\flickr-upload.js %*
+#+end_src
+
+and away I went. Not only did I have a handy way to process images from the command line, I could also mark the files in Emacs Dired with =m=, then type =!= to execute my =up= command on the selected images. Mwahaha!
+
+Anyway, I thought I'd write it up in case other people were curious
+about using Node to code little utilities, filling the clipboard in
+Windows, or getting data back into Emacs (sometimes the clipboard is
+enough).
+
+Back to =org-protocol=, since I was curious about it. With =(require 'org-protocol) (server-start)=, =emacsclient
+org-protocol://store-link:/foo/bar= worked when I entered it at the
+command prompt. I was having a hard time getting it to work under
+Node, but eventually I figured out that:
+- I needed to pass =-n= as one of the arguments to =emacsclient= so
+  that it would return right away.
+- The =:= after =store-link= is important! I was passing
+  =org-protocol://store-link/foo/bar= and wondering why it opened up a
+  file called =bar=. =org-protocol://store-link:/foo/bar= was what I
+  needed.
+
+I only just figured out that last bit while writing this post.
+Here's a small demonstration program:
+
+#+begin_src js2
+var cp = require('child_process');
+var child = cp.execFile('emacsclient', ['-n', 'org-protocol://store-link:/foo/bar']);
+#+end_src
+
+Yay!
+
+[[https://www.flickr.com/photos/sachac/15652591654/][2015-01-13 Using Node as a scripting tool -- index card #javascript #nodejs #coding #scripting]]
+
 ** Web development
 *** First steps towards Javascript testing   :geek:javascript:
     :PROPERTIES:
