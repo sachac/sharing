@@ -66,21 +66,26 @@ See also: [[starting_business][Starting my own business]]
   - [X] [[http://sachachua.com/blog/2012/01/setting-things-in-motion/][Setting things in motion]] (Jan 2012)
   - [X] [[http://sachachua.com/blog/2012/01/getting-ready-for-my-next-experiment/][Getting ready for my next experiment!]] (Jan 2012)
 
-** Android [14/14]
-- [X] [[http://sachachua.com/blog/2013/02/developing-a-sense-of-time-with-tasker-alerts-on-my-android-phone/][Developing a sense of time with Tasker alerts on my Android phone]]
+** Android [4/4]
+- [X] [[http://sachachua.com/blog/2014/10/sleep-android/][Sleep as Android]] (Oct 2014)
 - [X] [[http://sachachua.com/blog/2012/08/learning-how-to-tweak-my-android-devices-to-fit-me/][Learning how to tweak my Android devices to fit me]]
 - [X] [[http://sachachua.com/blog/2012/08/more-gadget-changes/][More gadget changes]]
 - [X] [[http://sachachua.com/blog/2012/08/learning-more-about-android-development/][Learning more about Android development]]
-- [X] [[http://sachachua.com/blog/2012/08/how-to-build-mobileorgng-for-android/][How to build MobileOrgNG for Android]]
-- [X] [[http://sachachua.com/blog/2012/08/building-mobileorg-android/][Building MobileOrg for Android]]
-- [X] [[http://sachachua.com/blog/2012/07/tablet-adventures-using-my-tf700-as-a-second-monitor-with-airdisplay/][Tablet adventures: Using my TF700 as a second monitor with AirDisplay]]
-- [X] [[http://sachachua.com/blog/2012/07/waiting-for-technology/][Waiting for technology]]
-- [X] [[http://sachachua.com/blog/2012/07/slowly-figuring-out-how-to-use-my-tablet/][Slowly figuring out how to use my tablet]]
-- [X] [[http://sachachua.com/blog/2010/11/i-just-got-an-android-phone/][I just got an Android phone]]
-- [X] [[http://sachachua.com/blog/2010/12/android-life-so-far/][Android life so far]]
-- [X] [[http://sachachua.com/blog/2010/12/android-tasker-setting-time-limits-for-angry-birds-and-other-timesucks/][Android Tasker: Setting time limits for Angry Birds and other timesucks]]
-- [X] [[http://sachachua.com/blog/2010/11/learning-android-development-by-hacking-mobileorg/][Learning Android development by hacking MobileOrg]]
-- [X] [[http://sachachua.com/blog/2010/12/more-mobileorg-hacking-on-the-android/][More MobileOrg hacking on the Android]]
+- Tasker
+  - [X] [[http://sachachua.com/blog/2010/12/android-tasker-setting-time-limits-for-angry-birds-and-other-timesucks/][Android Tasker: Setting time limits for Angry Birds and other timesucks]]
+  - [X] [[http://sachachua.com/blog/2013/02/developing-a-sense-of-time-with-tasker-alerts-on-my-android-phone/][Developing a sense of time with Tasker alerts on my Android phone]]
+- Emacs and MobileOrg
+  - [X] [[http://sachachua.com/blog/2012/08/how-to-build-mobileorgng-for-android/][How to build MobileOrgNG for Android]]
+  - [X] [[http://sachachua.com/blog/2012/08/building-mobileorg-android/][Building MobileOrg for Android]]
+  - [X] [[http://sachachua.com/blog/2010/11/learning-android-development-by-hacking-mobileorg/][Learning Android development by hacking MobileOrg]]
+  - [X] [[http://sachachua.com/blog/2010/12/more-mobileorg-hacking-on-the-android/][More MobileOrg hacking on the Android]]
+- Tablet
+  - [X] [[http://sachachua.com/blog/2012/07/tablet-adventures-using-my-tf700-as-a-second-monitor-with-airdisplay/][Tablet adventures: Using my TF700 as a second monitor with AirDisplay]]
+  - [X] [[http://sachachua.com/blog/2012/07/slowly-figuring-out-how-to-use-my-tablet/][Slowly figuring out how to use my tablet]]
+  - [X] [[http://sachachua.com/blog/2012/07/waiting-for-technology/][Waiting for technology]]
+- Phone
+  - [X] [[http://sachachua.com/blog/2010/11/i-just-got-an-android-phone/][I just got an Android phone]]
+  - [X] [[http://sachachua.com/blog/2010/12/android-life-so-far/][Android life so far]]
 ** Arduino  [4/4]
 - [X] [[http://sachachua.com/blog/2011/08/code-and-circuit-for-a-six-function-arduino-based-usb-footswitch/][Code and circuit for a six-function Arduino-based USB footswitch]]
 - [X] [[http://sachachua.com/blog/2011/09/notes-on-transcription-with-and-without-a-foot-pedal/][Notes on transcription with and without a foot pedal]]
@@ -101,34 +106,37 @@ See also: [[starting_business][Starting my own business]]
 - [X] [[http://sachachua.com/blog/2009/09/riding-on-my-bicycle/][Riding on my bicycle]]
 - [X] [[http://sachachua.com/blog/2011/06/its-bike-month-in-toronto/][It's Bike Month in Toronto!]] (June 2011)
 - [X] [[http://sachachua.com/blog/2011/06/bike-ride-in-the-rain/][Bike ride in the rain]] (June 2011)
-** Blogging [17/17]
+** Blogging [0/0]
 	 :PROPERTIES:
 	 :CUSTOM_ID: blogging
 	 :END:
 <<blogging>>
 
-Key resource:
-- [X] [[http://sachachua.com/blog/2014/02/excuses-guide-blogging-pdf-epub-mobi-free-also-notes-publishing/][A No Excuses Guide to Blogging (PDF, EPUB, MOBI - free!); also, notes on publishing]] (Feb 2014)
+Key resource: [[http://sachachua.com/blog/2014/02/excuses-guide-blogging-pdf-epub-mobi-free-also-notes-publishing/][A No Excuses Guide to Blogging (PDF, EPUB, MOBI - free!); also, notes on publishing]] (Feb 2014)
 
 See also: [[writing][Writing]] \\
 See also: [[no-excuses-blogging][Blogging, A No-Excuses Guide to]]
 
-- [X] [[http://sachachua.com/blog/2014/12/start-titles-verb-make-stronger-reflections-titles-filler-phrases-life-gerund/][Start your titles with a verb to make them stronger; or reflections on titles, filler phrases, and my life as a gerund]] (Dec 2014) Self-directed and other-directed posts in terms of titles (vague gerunds versus clear, concrete verbs); thinking about better titles and post structures
-- [X] [[http://sachachua.com/blog/2014/12/making-personal-blogs-useful-people/][Making personal blogs useful for other people too]] (Dec 2014) Looking for a middle ground between dry advice and personal journals, using the metaphor of travel guides and photo albums. A travelogue might be a good metaphor.
-- [X] [[http://sachachua.com/blog/2014/10/questionnaires-people/][Questionnaires from people]] (Oct 2014)
-- [X] [[http://sachachua.com/blog/2013/12/daily-blogging-and-different-interests/][Daily blogging and different interests]] (Dec 2013)
-- [X] [[http://sachachua.com/blog/2013/10/growing-this-blog/][Growing this blog]] (Oct 2013)
-- [X] [[http://sachachua.com/blog/2013/08/learning-how-to-work-with-stock-photos/][Learning how to work with stock photos: Can you help me?]]
-- [X] [[http://sachachua.com/blog/2013/07/choosing-openness-and-scale/][Choosing openness and scale]]
-- [X] [[http://sachachua.com/blog/2013/07/mural-ly-and-evernote-redesigning-my-landing-page/][Mural.ly and Evernote: Redesigning my landing page]]
-- [X] [[http://sachachua.com/blog/2013/05/on-blogging-and-platforms-and-experimenting-with-google-hangout/][On blogging and platforms, and experimenting with Google Hangout]] (May 2013)
-- [X] [[http://sachachua.com/blog/2013/05/thinking-about-what-i-want-to-do-and-where-i-want-to-go-with-this-blog/][Thinking about what I want to do and where I want to go with this blog]] (May 2013)
-- [X] [[http://sachachua.com/blog/2012/05/added-new-gallery-views-so-that-you-can-review-sketchnotes-easily/][Added new gallery views so that you can review sketchnotes easily]]
-- [X] [[http://sachachua.com/blog/2009/01/blogging-helps/][Blogging helps]]
-- [X] [[http://sachachua.com/blog/2009/12/the-value-of-a-bottleneck/][One post a day, or the value of a bottleneck]]
-- [X] [[http://sachachua.com/blog/2008/01/blogging-works-in-mysterious-ways/][Blogging works in mysterious ways]]
-- [X] [[http://sachachua.com/blog/2008/01/10-tips-for-new-bloggers/][10 tips for new bloggers]]
-- [X] [[http://sachachua.com/blog/2008/04/addicted-to-blogging/][Addicted to blogging?]]
+- Tips
+  - [X] [[http://sachachua.com/blog/2014/12/start-titles-verb-make-stronger-reflections-titles-filler-phrases-life-gerund/][Start your titles with a verb to make them stronger; or reflections on titles, filler phrases, and my life as a gerund]] (Dec 2014) Self-directed and other-directed posts in terms of titles (vague gerunds versus clear, concrete verbs); thinking about better titles and post structures
+  - [X] [[http://sachachua.com/blog/2014/12/making-personal-blogs-useful-people/][Making personal blogs useful for other people too]] (Dec 2014) Looking for a middle ground between dry advice and personal journals, using the metaphor of travel guides and photo albums. A travelogue might be a good metaphor.
+  - [X] [[http://sachachua.com/blog/2008/01/10-tips-for-new-bloggers/][10 tips for new bloggers]]
+- Planning and decisions
+  - [X] [[http://sachachua.com/blog/2013/07/choosing-openness-and-scale/][Choosing openness and scale]]
+  - [X] [[http://sachachua.com/blog/2013/05/thinking-about-what-i-want-to-do-and-where-i-want-to-go-with-this-blog/][Thinking about what I want to do and where I want to go with this blog]] (May 2013)
+  - [X] [[http://sachachua.com/blog/2009/12/the-value-of-a-bottleneck/][One post a day, or the value of a bottleneck]]
+  - [X] [[http://sachachua.com/blog/2014/10/questionnaires-people/][Questionnaires from people]] (Oct 2014)
+  - [X] [[http://sachachua.com/blog/2013/12/daily-blogging-and-different-interests/][Daily blogging and different interests]] (Dec 2013)
+  - [X] [[http://sachachua.com/blog/2013/10/growing-this-blog/][Growing this blog]] (Oct 2013)
+- Design
+  - [X] [[http://sachachua.com/blog/2013/07/mural-ly-and-evernote-redesigning-my-landing-page/][Mural.ly and Evernote: Redesigning my landing page]]
+  - [X] [[http://sachachua.com/blog/2012/05/added-new-gallery-views-so-that-you-can-review-sketchnotes-easily/][Added new gallery views so that you can review sketchnotes easily]]
+  - [X] [[http://sachachua.com/blog/2013/08/learning-how-to-work-with-stock-photos/][Learning how to work with stock photos: Can you help me?]]
+- Experiences
+  - [X] [[http://sachachua.com/blog/2013/05/on-blogging-and-platforms-and-experimenting-with-google-hangout/][On blogging and platforms, and experimenting with Google Hangout]] (May 2013)
+  - [X] [[http://sachachua.com/blog/2009/01/blogging-helps/][Blogging helps]]
+  - [X] [[http://sachachua.com/blog/2008/01/blogging-works-in-mysterious-ways/][Blogging works in mysterious ways]]
+  - [X] [[http://sachachua.com/blog/2008/04/addicted-to-blogging/][Addicted to blogging?]]
 
 ** Blogging, A No-Excuses Guide to   :trail:book:
 	 :PROPERTIES:
@@ -284,16 +292,24 @@ See http://sach.ac/no-excuses-blogging
 - [X] [[http://sachachua.com/blog/2010/01/book-rules-for-revolutionaries/][Book: Rules for Revolutionaries]] (Jan 2010)
 - [X] [[http://sachachua.com/blog/2008/05/book-success-built-to-last/][Book: Success Built to Last]]
 - [X] [[http://sachachua.com/blog/2011/01/work-business-outside-%e2%80%93-book-effortless-entrepreneur/][Work on the business from the outside, not in it - Book: Effortless entrepreneur]]
-** Business paperwork [9/9]
-- [X] [[http://sachachua.com/blog/2014/10/brock-health-setting-health-plan/][Brock Health and setting up my own health plan]] (Oct 2014)
-- [X] [[http://sachachua.com/blog/2013/07/business-experience-report-setting-up-payroll-and-benefits/][Business experience report: Setting up payroll and benefits]]
-- [X] [[http://sachachua.com/blog/2013/02/business-experience-report-passing-my-first-annual-resolutions/][Business experience report: Passing my first annual resolutions]]
-- [X] [[http://sachachua.com/blog/2013/01/business-experience-report-amending-my-t2-corporate-tax-return/][Business experience report: Amending my T2 corporate tax return]] (Jan 2013)
-- [X] [[http://sachachua.com/blog/2013/01/experiment-notes-accounting-sales-and-marketingall-the-other-parts-of-a-business/][Experiment notes: Accounting, sales, and marketing-all the other parts of a business]] (Jan 2013)
-- [X] [[http://sachachua.com/blog/2012/12/business-update-tax-update/][Business update: Tax update]]
-- [X] [[http://sachachua.com/blog/2012/11/business-experience-report-filing-taxes/][Business experience report: Filing taxes!]]
-- [X] [[http://sachachua.com/blog/2012/10/business-adventures-accounting/][Business adventures: Accounting]]
-- [X] [[http://sachachua.com/blog/2012/10/celebrating-my-fiscal-year-end-planning-how-to-improve/][Celebrating my fiscal year end; planning how to improve]]
+** Business paperwork [3/3]
+- [X] Services
+  - [X] [[http://sachachua.com/blog/2012/02/experience-report-opening-the-rbc-small-business-eaccount-2/][Experience report: Opening the RBC Small Business eAccount]]
+  - [X] [[http://sachachua.com/blog/2012/02/experience-report-renting-a-business-mailbox/][Experience report: Renting a business mailbox]]
+  - [X] [[http://sachachua.com/blog/2014/10/brock-health-setting-health-plan/][Brock Health and setting up my own health plan]] (Oct 2014)
+- [X] Taxes
+  - [X] [[http://sachachua.com/blog/2012/02/experience-report-a-brief-chat-with-an-accountant/][Experience report: A brief chat with an accountant]]
+  - [X] [[http://sachachua.com/blog/2012/02/experience-report-applying-for-a-harmonized-sales-tax-account/][Experience report: Applying for a Harmonized Sales Tax account]]
+  - [X] [[http://sachachua.com/blog/2013/07/business-experience-report-setting-up-payroll-and-benefits/][Business experience report: Setting up payroll and benefits]]
+  - [X] [[http://sachachua.com/blog/2013/01/business-experience-report-amending-my-t2-corporate-tax-return/][Business experience report: Amending my T2 corporate tax return]] (Jan 2013)
+  - [X] [[http://sachachua.com/blog/2013/01/experiment-notes-accounting-sales-and-marketingall-the-other-parts-of-a-business/][Experiment notes: Accounting, sales, and marketing-all the other parts of a business]] (Jan 2013)
+  - [X] [[http://sachachua.com/blog/2012/12/business-update-tax-update/][Business update: Tax update]]
+  - [X] [[http://sachachua.com/blog/2012/11/business-experience-report-filing-taxes/][Business experience report: Filing taxes!]]
+  - [X] [[http://sachachua.com/blog/2012/10/business-adventures-accounting/][Business adventures: Accounting]]
+  - [X] [[http://sachachua.com/blog/2012/10/celebrating-my-fiscal-year-end-planning-how-to-improve/][Celebrating my fiscal year end; planning how to improve]]
+- [X] Other paperwork
+  - [X] [[http://sachachua.com/blog/2012/02/experience-report-incorporating-a-federal-numbered-corporation-in-canada/][Experience report: Incorporating a federal numbered corporation in Canada]]
+  - [X] [[http://sachachua.com/blog/2013/02/business-experience-report-passing-my-first-annual-resolutions/][Business experience report: Passing my first annual resolutions]]
 ** Calendars [7/7]
 - [X] [[http://sachachua.com/blog/2009/02/planning-meetings-get-togethers-and-interviews-with-agreeadate/][Planning meetings, get-togethers, and interviews with AgreeADate]]
 - [X] [[http://sachachua.com/blog/2009/03/okay-even-more-impressed-by-timebridge/][Okay, even more impressed by Timebridge]]
@@ -302,30 +318,33 @@ See http://sach.ac/no-excuses-blogging
 - [X] [[http://sachachua.com/blog/2009/03/still-looking-for-an-awesome-calendar-management-system/][Still looking for an awesome calendar management system]]
 - [X] [[http://sachachua.com/blog/2009/03/more-thoughts-on-calendar-management/][More thoughts on calendar management]]
 - [X] [[http://sachachua.com/blog/2009/01/dealing-with-weaknesses-calendars/][Dealing with weaknesses: calendars]]
-** Career [23/23]
-- [X] [[http://sachachua.com/blog/2010/03/not-just-a-word/][Not just a word]]
-- [X] [[http://sachachua.com/blog/2012/04/thinking-about-what-i-want-to-build/][Why I'm temporarily unhireable]]
-- [X] [[http://sachachua.com/blog/2012/04/learning-how-to-say-no/][Learning how to say no]]
-- [X] [[http://sachachua.com/blog/2011/05/the-flow-of-opportunities-in-a-large-company/][The flow of opportunities in a large company]]
+** Career [10/10]
+- Experiment
+  - [X] [[http://sachachua.com/blog/2012/04/thinking-about-what-i-want-to-build/][Why I'm temporarily unhireable]]
+  - [X] [[http://sachachua.com/blog/2012/04/learning-how-to-say-no/][Learning how to say no]]
+- Confidence and perception
+  - [X] [[http://sachachua.com/blog/2010/03/not-just-a-word/][Not just a word]]
+  - [X] [[http://sachachua.com/blog/2010/04/the-problem-with-personal-branding/][The problem with personal branding]]
+  - [X] [[http://sachachua.com/blog/2010/06/risks-personal-brands-and-findability/][Risks, personal brands, and findability]]
+- Big companies
+  - [X] [[http://sachachua.com/blog/2011/05/the-flow-of-opportunities-in-a-large-company/][The flow of opportunities in a large company]]
+  - [X] [[http://sachachua.com/blog/2010/03/thinking-about-what-i-want-to-do-with-ibm/][Thinking about what I want to do with IBM]]
+  - [X] [[http://sachachua.com/blog/2010/05/getting-the-hang-of-big-companies/][Getting the hang of big companies]]
+  - [X] [[http://sachachua.com/blog/2010/07/career-growth-in-a-large-company/][Career growth in a large company]]
+  - [X] [[http://sachachua.com/blog/2010/07/tools-big-companies-and-collaboration/][Tools, big companies, and collaboration]]
+  - [X] [[http://sachachua.com/blog/2010/07/finding-opportunities-in-a-big-company/][Finding opportunities in a big company]]
+  - [X] [[http://sachachua.com/blog/2009/06/social-recruiting-summit-awesomest-job-search-ever/][Social Recruiting Summit: Awesomest Job Search Ever]]
+    - [X] [[http://sachachua.com/blog/2009/06/notes-from-the-social-recruiting-summit/][Notes from the Social Recruiting Summit]]
+- [X] [[http://sachachua.com/blog/2007/12/when-youre-new-to-the-job-and-everyone-knows-more-than-you-do/][When you're new to the job and everyone knows more than you do]]
 - [X] [[http://sachachua.com/blog/2011/06/context-switching-and-a-four-project-day/][Context-switching and a four-project day]] (June 2011)
-- [X] [[http://sachachua.com/blog/2010/02/moving-from-testing-to-development/][Moving from testing to development]]
+- [X] [[http://sachachua.com/blog/2011/04/developing-reputation-project-work/][On developing a reputation for project work]]
 - [X] [[http://sachachua.com/blog/2010/02/the-sweet-spot-at-work/][The sweet spot at work]]
-- [X] [[http://sachachua.com/blog/2010/03/thinking-about-what-i-want-to-do-with-ibm/][Thinking about what I want to do with IBM]]
 - [X] [[http://sachachua.com/blog/2010/04/technical-leadership/][Technical leadership]]
-- [X] [[http://sachachua.com/blog/2010/04/the-problem-with-personal-branding/][The problem with personal branding]]
 - [X] [[http://sachachua.com/blog/2010/05/braindump-what-i-learned-from-our-virtual-leadership-conversation/][Braindump: What I learned from our virtual leadership conversation]]
-- [X] [[http://sachachua.com/blog/2010/05/getting-the-hang-of-big-companies/][Getting the hang of big companies]]
-- [X] [[http://sachachua.com/blog/2010/06/risks-personal-brands-and-findability/][Risks, personal brands, and findability]]
-- [X] [[http://sachachua.com/blog/2010/07/tools-big-companies-and-collaboration/][Tools, big companies, and collaboration]]
-- [X] [[http://sachachua.com/blog/2010/07/career-growth-in-a-large-company/][Career growth in a large company]]
-- [X] [[http://sachachua.com/blog/2010/07/finding-opportunities-in-a-big-company/][Finding opportunities in a big company]]
 - [X] [[http://sachachua.com/blog/2010/09/how-to-be-dispensable-and-why-you-should-document-and-automate-yourself-out-of-a-job/][How to be dispensable, and why you should document and automate yourself out of a job]] (Sept 2010)
 - [X] [[http://sachachua.com/blog/2009/01/ideas-for-making-my-work-more-effective-and-efficient-creating-value-and-rocking-my-work/][Ideas for making my work more effective and efficient, creating value, and rocking my work]]
-- [X] [[http://sachachua.com/blog/2009/06/social-recruiting-summit-awesomest-job-search-ever/][Social Recruiting Summit: Awesomest Job Search Ever]]
-- [X] [[http://sachachua.com/blog/2009/06/notes-from-the-social-recruiting-summit/][Notes from the Social Recruiting Summit]]
 - [X] [[http://sachachua.com/blog/2009/06/log-your-accomplishments/][Log your accomplishments]]
-- [X] [[http://sachachua.com/blog/2011/04/developing-reputation-project-work/][On developing a reputation for project work]]
-- [X] [[http://sachachua.com/blog/2007/12/when-youre-new-to-the-job-and-everyone-knows-more-than-you-do/][When you're new to the job and everyone knows more than you do]]
+- [X] [[http://sachachua.com/blog/2010/02/moving-from-testing-to-development/][Moving from testing to development]]
 ** Cats [22/22]
 - [X] [[http://sachachua.com/blog/2014/04/lion-cut/][Lion cut]] (Apr 2014)
 - [X] [[http://sachachua.com/blog/2013/07/slice-of-life-meowrnings/][Slice of life: Meowrnings]]
@@ -333,7 +352,7 @@ See http://sach.ac/no-excuses-blogging
 - [X] [[http://sachachua.com/blog/2007/12/random-cat-moment/][Random cat moment]]
 - [X] [[http://sachachua.com/blog/2011/04/cat-life/][Three cat life]]
 - [X] [[http://sachachua.com/blog/2011/04/mr-fluffers-stray-stray/][Mr Fluffers: Stray or not stray?]]
-- [X] [[http://sachachua.com/blog/2010/01/cats-in-high-places/][Cats in high places (Jan 2010)]] (Jan 2010)
+- [X] [[http://sachachua.com/blog/2010/01/cats-in-high-places/][Cats in high places (Jan 2010)]]
 - [X] [[http://sachachua.com/blog/2011/07/cats-in-high-places-2/][Cats in high places (July 2011)]]
 - [X] [[http://sachachua.com/blog/2009/01/diminishing-returns-on-cat-affection/][Diminishing returns on cat affection]]
 - [X] [[http://sachachua.com/blog/2009/01/relationship-between-affection-expressed-by-cat-and-person/][Relationship between affection expressed by cat and person]]
@@ -361,9 +380,6 @@ See http://sach.ac/no-excuses-blogging
 - [X] [[http://sachachua.com/blog/2012/01/tip-use-visibility-to-motivate-new-habits/][Tip: Use visibility to motivate new habits]] (Jan 2012)
 ** Communication skills [18/18]
 - [X] [[http://sachachua.com/blog/2014/09/categorical-imperatives-versus-genetic-algorithms/][Categorical imperatives versus genetic algorithms]] (Sept 2014)
-- [X] [[http://sachachua.com/blog/2012/04/visual-book-review-thank-you-for-arguing-what-aristotle-lincoln-and-homer-simpson-can-teach-us-about-the-art-of-persuasion/][Visual book review: Thank You for Arguing: What Aristotle, Lincoln, and Homer Simpson Can Teach Us about the Art of Persuasion]]
-- [X] [[http://sachachua.com/blog/2012/03/visual-book-notes-getting-to-yes-negotiating-agreement-without-giving-in/][Visual book review: Getting to Yes: Negotiating Agreement Without Giving In]]
-- [X] [[http://sachachua.com/blog/2012/03/visual-book-review-critical-inquiry-the-process-of-argument/][Visual book review: Critical Inquiry: The Process of Argument]]
 - [X] [[http://sachachua.com/blog/2011/08/rhetoric-and-advocacy-the-value-of-a-differen-approach/][Rhetoric and advocacy: the value of a different approach]]
 - [X] [[http://sachachua.com/blog/2010/09/rhetoric/][Rhetoric]] (Sept 2010)
 - [X] [[http://sachachua.com/blog/2009/02/kaizen-meetings-2/][Kaizen: unsqueaking]]
@@ -374,12 +390,8 @@ See http://sach.ac/no-excuses-blogging
 - [X] [[http://sachachua.com/blog/2010/02/learning-more-about-interviewing/][Learning more about interviewing]]
 - [X] [[http://sachachua.com/blog/2010/03/learning-from-interviews/][Learning from interviews]]
 - [X] [[http://sachachua.com/blog/2010/06/notes-about-business-communication/][Notes about business communication]]
-- [X] [[http://sachachua.com/blog/2010/09/book-getting-to-yes/][Book: Getting to Yes]] (Sept 2010)
-- [X] [[http://sachachua.com/blog/2010/09/thank-you-for-arguing/][Book: Thank You for Arguing]] (Sept 2010)
 - [X] [[http://sachachua.com/blog/2010/09/book-how-to-win-every-argument-the-use-and-abuse-of-logic/][Book: How to Win Every Argument: The Use and Abuse of Logic]] (Sept 2010)
-- [X] [[http://sachachua.com/blog/2010/10/book-critical-inquiry-the-process-of-argument/][Book: Critical inquiry: the process of argument]]
 ** Connecting [29/29]
-- [X] [[http://sachachua.com/blog/2014/09/thinking-make-new-hacklab/][Thinking about how to make the most of the new Hacklab]] (Sept 2014)
 - [X] [[http://sachachua.com/blog/2014/07/what-are-people-looking-for-talk-challenges/][What are people looking for when they talk about their challenges?]] (July 2014)
 - [X] [[http://sachachua.com/blog/2014/02/how-i-stopped-worrying-about-keeping-in-touch/][From networking with people to networking around ideas: How I stopped worrying about keeping in touch]] (Feb 2014)
 - [X] [[http://sachachua.com/blog/2013/12/on-introversion-and-friendships/][On introversion and friendships]] (Dec 2013)
@@ -399,7 +411,6 @@ See http://sach.ac/no-excuses-blogging
 - [X] [[http://sachachua.com/blog/2009/09/pick-my-brain/][Pick my brain]]
 - [X] [[http://sachachua.com/blog/2009/11/wild-success-and-social-networks/][Wild success and social networks]]
 - [X] [[http://sachachua.com/blog/2009/12/gifts/][Gifts]]
-- [X] [[http://sachachua.com/blog/2008/01/caag-yaaa-daawaamee/][Caag yaaa daawaamee]]
 - [X] [[http://sachachua.com/blog/2008/03/vision-value-voice-connection/][Vision + Value + Voice = Connection]]
 - [X] [[http://sachachua.com/blog/2008/09/the-road-to-me-20-how-i-was-the-chosen-one-%c2%ab-personal-branding-blog-dan-schawbel/][The Road to Me 2.0: How I Was the Chosen One « Personal Branding Blog - Dan Schawbel]]
 - [X] [[http://sachachua.com/blog/2008/11/notes-from-conversations-conscious-competence/][Notes from conversations: Conscious competence]]
@@ -407,7 +418,6 @@ See http://sach.ac/no-excuses-blogging
 - [X] [[http://sachachua.com/blog/2008/12/twitter-whuffie-and-amazing-connections/][Twitter, Whuffie, and Amazing Connections]]
 - [X] [[http://sachachua.com/blog/2008/12/not-personal-enough/][Not personal enough]]
 - [X] [[http://sachachua.com/blog/2010/10/book-fast-track-networking-turning-conversations-into-contacts/][Book: Fast Track Networking: Turning Conversations into Contacts]]
-- [X] [[http://sachachua.com/blog/2012/03/visual-book-notes-the-start-up-of-you-reid-hoffman-ben-casnocha/][Visual book notes: The Start-up of You (Reid Hoffman, Ben Casnocha)]]
 ** Connecting at conferences and events [14/14]
 - [X] [[http://sachachua.com/blog/2013/11/simplifying-event-commitments-tips-people-looking-event-sketchnotes/][Simplifying my event commitments; tips for people looking for event sketchnotes]] (Nov 2013)
 - [X] [[http://sachachua.com/blog/2011/01/pre-conference-networking-tips-for-the-instructional-technology-strategies-conference/][Pre-conference networking tips for the Instructional Technology Strategies Conference]]
@@ -423,9 +433,11 @@ See http://sach.ac/no-excuses-blogging
 - [X] [[http://sachachua.com/blog/2009/01/braindump-of-conference-networking-tips/][Braindump of conference networking tips]]
 - [X] [[http://sachachua.com/blog/2009/10/thinking-about-conferences/][Thinking about conferences]]
 - [X] [[http://sachachua.com/blog/2008/04/tle2008-networking-a-workshop-in-getting-the-most-from-the-tle-jim-de-piante-part-1-of-2/][TLE2008: Networking: A Workshop in Getting the Most from the TLE, Jim De Piante, part 1 of 2]]
-** Connecting in person [16/16]
+** Connecting in person [18/18]
 - [X] [[http://sachachua.com/blog/2014/07/house-culture/][House culture]] (July 2014)
+- [X] [[http://sachachua.com/blog/2008/01/caag-yaaa-daawaamee/][Caag yaaa daawaamee]]
 - [X] [[http://sachachua.com/blog/2014/05/mental-hacks-slower-speech/][Mental hacks for slower speech]] (May 2014)
+- [X] [[http://sachachua.com/blog/2014/09/thinking-make-new-hacklab/][Thinking about how to make the most of the new Hacklab]] (Sept 2014)
 - [X] [[http://sachachua.com/blog/2014/05/small-talk-tweaks/][Small talk tweaks]] (May 2014)
 - [X] [[http://sachachua.com/blog/2014/03/static-friction-socializing/][Static friction and socializing]] (March 2014)
 - [X] [[http://sachachua.com/blog/2012/11/figuring-out-how-to-get-better-at-following-up-with-people-in-person/][Figuring out how to get better at following up with people in person]]
@@ -956,7 +968,7 @@ See also: [[testing][Testing]]
 - [X] [[http://sachachua.com/blog/2008/08/drupal-shell-quickly-evaluating-php-statements-in-a-drupal-context/][Drupal shell: quickly evaluating PHP statements in a Drupal context]]
 ** Drupal, Javascript and [1/1]
 - [X] [[http://sachachua.com/blog/2011/08/drupal-and-jquery-1-5-fixing-the-json-encoding-of-ampersands/][Drupal and JQuery 1.5: Fixing the JSON encoding of ampersands]]
-** Editing [3/3]
+** Editing [4/4]
 - [X] [[http://sachachua.com/blog/2008/08/editors-for-blogging/][Editors for blogging]]
 - [X] [[http://sachachua.com/blog/2008/01/editing/][Editing]]
 - [X] [[http://sachachua.com/blog/2009/11/thinking-about-how-i-can-make-the-most-of-editing-the-world-is-an-amazing-candy-store-of-talent/][Thinking about how I can make the most of editing; The world is an amazing candy-store of talent]]
@@ -1086,6 +1098,7 @@ Other:
 - [X] [[http://sachachua.com/blog/2008/04/faster-mail-with-emacs/][Faster mail with Emacs]]
 - [X] [[http://sachachua.com/blog/2008/08/emacs-and-gnus-zomg-new-chapter-out-the-door/][Emacs and Gnus: zomg, new chapter out the door!]]
 ** Emacs Org Mode
+- [X] [[http://sachachua.com/blog/2014/01/tips-learning-org-mode-emacs/][Some tips for learning Org Mode for Emacs]] (Jan 2014)
 - Workflow
   - [X] [[http://sachachua.com/blog/2014/12/org-mode-publishing-workflow-sketched-books-collection/][Org Mode publishing workflow for Sketched Books collection]] (Dec 2014) 
   - [X] [[http://sachachua.com/blog/2007/12/a-day-in-a-life-with-org/][A day in a life with Org]]
@@ -1119,10 +1132,9 @@ Other:
   - [X] [[http://sachachua.com/blog/2010/07/using-org2blog-to-publish-org-mode-subtrees/][Using org2blog to publish Org-mode subtrees]]
   - [X] [[http://sachachua.com/blog/2013/04/how-to-present-using-org-mode-in-emacs/][How to present using Org-mode in Emacs]] (Apr 2013)
   - [X] [[http://sachachua.com/blog/2007/12/publishing-my-org-agenda-to-my-blog/][Publishing my Org agenda to my blog]]
-- [X] [[http://sachachua.com/blog/2014/01/tips-learning-org-mode-emacs/][Some tips for learning Org Mode for Emacs]] (Jan 2014)
+- [X] [[http://sachachua.com/blog/2013/02/rediscovering-emacs-features-or-what-to-do-after-you-get-carried-away-installing-packages/][Rediscovering Emacs features, or what to do after you get carried away installing packages]] - org drill
 - [X] [[http://sachachua.com/blog/2014/06/summarizing-last-meeting-dates-org-contacts/][Summarizing the last meeting dates in Org Contacts]] (June 2014)
 - [X] [[http://sachachua.com/blog/2014/05/update-org-7-comes-emacs-org-8-configuration-better-exports/][How to update the Org 7 that comes with Emacs to Org 8 (more configuration! better exports!)]] (May 2014)
-- [X] [[http://sachachua.com/blog/2013/02/rediscovering-emacs-features-or-what-to-do-after-you-get-carried-away-installing-packages/][Rediscovering Emacs features, or what to do after you get carried away installing packages]] - org drill
 - [X] [[http://sachachua.com/blog/2012/12/emacs-strike-through-headlines-for-done-tasks-in-org/][Emacs: Strike through headlines for DONE tasks in Org]]
 - [X] [[http://sachachua.com/blog/2011/03/quick-notes-from-emacs-org-mode-talk-at-gtalug/][Quick notes from Emacs Org-mode talk at GTALUG]]
 - [X] [[http://sachachua.com/blog/2010/05/org-toodledo/][Org-toodledo]]
@@ -1925,9 +1937,10 @@ See also: [[remote-presentations-that-rock][Remote Presentations That Rock]]
 - [X] [[http://sachachua.com/blog/2008/01/speech-recognition-a-month-of-fun/][Speech recognition - a month of fun]]
 - [X] [[http://sachachua.com/blog/2008/08/lifehacking-switching-to-a-rolling-laptop-bag/][Lifehacking: Switching to a rolling laptop bag]]
 - [X] [[http://sachachua.com/blog/2009/12/book-the-hamster-revolution-for-meetings/][Book: The Hamster Revolution for Meetings]]
-** Quantified Self - blogging [3/3]
+** Quantified Self - blogging [4/4]
 - [X] [[http://sachachua.com/blog/2012/12/blog-analysis-for-2012-133000-words-so-far/][Blog analysis for 2012: ~133,000 words so far]]
 - [X] [[http://sachachua.com/blog/2012/05/quantified-awesome-blogging-wpm-and-the-speed-of-reflection/][Quantified Awesome: Blogging, WPM, and the speed of reflection]]
+- [X] [[http://sachachua.com/blog/2007/12/writing-writing-writing/][Writing, writing, writing]] - pace (10wpm), brain as bottleneck, outlining, writing
 - [X] [[http://sachachua.com/blog/2011/12/blog-analysis-2011-173363-words-far-also-rails-console-work-wordpress/][Blog analysis for 2011: 173,363 words so far; also, using the Rails console to work with WordPress]] (Dec 2011)
 ** Quantified Self - groceries/food [7/7]
 - [X] [[http://sachachua.com/blog/2013/04/quantified-self-a-year-of-grocery-data/][Quantified Self: a year of grocery data]] (Apr 2013)
@@ -1943,6 +1956,7 @@ See also: [[remote-presentations-that-rock][Remote Presentations That Rock]]
 - [X] [[http://sachachua.com/blog/2014/04/rethinking-time-categories-blurring-business-discretionary-activities/][Rethinking my time categories: the blurring of business and discretionary activities]] (Apr 2014)
 - [X] [[http://sachachua.com/blog/2014/01/planning-a-time-tracking-workshop-for-quantified-self-toronto/][Planning a time-tracking workshop for Quantified Self Toronto]] (Jan 2014)
 - [X] [[http://sachachua.com/blog/2013/07/quantified-time-comparing-notes/][Quantified Time: Comparing notes]]
+- [X] [[http://sachachua.com/blog/2013/05/quantifying-my-habit-of-writing-and-things-ive-learned-along-the-way/][Quantifying my habit of writing, and things I've learned along the way]] (May 2013)
 - [X] [[http://sachachua.com/blog/2013/07/quantified-awesome-adding-calendar-heatmaps-to-categories/][Quantified Awesome: Adding calendar heatmaps to categories]]
 - [X] [[http://sachachua.com/blog/2013/07/not-about-not-wasting-time/][Not about not wasting time]]
 - [X] [[http://sachachua.com/blog/2013/06/quantified-awesome-analyzing-time-datathe-questions-i-ask-and-how-i-answer-them/][Quantified Awesome: Analyzing time data--the questions I ask and how I answer them]] (June 2013)
@@ -2107,6 +2121,7 @@ See also [[blogging][Blogging]], [[writing][Writing]]
 - [X] [[http://sachachua.com/blog/2014/01/caring-for-things-without-caring-about-things/][Caring for things without caring about things]] (Jan 2014)
 - [X] [[http://sachachua.com/blog/2014/01/thinking-about-routines-after-an-extended-trip/][Thinking about routines after an extended trip]] (Jan 2014)
 ** Sketched Books [27/27]
+<<sketched-books>>
 - [X] [[http://sachachua.com/blog/2014/12/sketched-book-just-fucking-ship-amy-hoy-alex-hillman/][Sketched Book: Just F*cking Ship - Amy Hoy, Alex Hillman]] (Dec 2014) 
 - [X] [[http://sachachua.com/blog/2014/12/sketched-book-stoic-art-living/][Sketched Book: The Stoic Art of Living: Inner Resilience and Outer Results - Tom Morris]] (Dec 2014) 
 - [X] [[http://sachachua.com/blog/2014/12/sketched-book-inner-game-work-w-timothy-gallwey/][Sketched Book: The Inner Game of Work - W. Timothy Gallwey]] (Dec 2014) 
@@ -2127,8 +2142,11 @@ See also [[blogging][Blogging]], [[writing][Writing]]
 - [X] [[http://sachachua.com/blog/2012/12/visual-book-notes-best-practices-are-stupidstephen-m-shapiro/][Visual book notes: Best Practices Are Stupid: 40 ways to Out-Innovate the Competition-Stephen M. Shapiro]]
 - [X] [[http://sachachua.com/blog/2012/09/visual-book-review-help-your-kids-get-better-grades/][Visual book review: Help Your Kids Get Better Grades]]
 - [X] [[http://sachachua.com/blog/2012/04/visual-book-review-thank-you-for-arguing-what-aristotle-lincoln-and-homer-simpson-can-teach-us-about-the-art-of-persuasion/][Visual book review: Thank You for Arguing: What Aristotle, Lincoln, and Homer Simpson Can Teach Us about the Art of Persuasion]]
+  - [X] [[http://sachachua.com/blog/2010/09/thank-you-for-arguing/][Book: Thank You for Arguing]] (Sept 2010)
 - [X] [[http://sachachua.com/blog/2012/03/visual-book-notes-getting-to-yes-negotiating-agreement-without-giving-in/][Visual book review: Getting to Yes: Negotiating Agreement Without Giving In]]
+  - [X] [[http://sachachua.com/blog/2010/09/book-getting-to-yes/][Book: Getting to Yes]] (Sept 2010)
 - [X] [[http://sachachua.com/blog/2012/03/visual-book-review-critical-inquiry-the-process-of-argument/][Visual book review: Critical Inquiry: The Process of Argument]]
+  - [X] [[http://sachachua.com/blog/2010/10/book-critical-inquiry-the-process-of-argument/][Book: Critical inquiry: the process of argument]]
 - [X] [[http://sachachua.com/blog/2012/03/visual-book-notes-the-start-up-of-you-reid-hoffman-ben-casnocha/][Visual book notes: The Start-up of You (Reid Hoffman, Ben Casnocha)]]
 - [X] [[http://sachachua.com/blog/2012/03/visual-book-review-enough/][Visual book review: Enough, by Patrick Rhone]]
 - [X] [[http://sachachua.com/blog/2012/02/visual-book-notes-the-lean-startup-by-eric-ries/][Visual book notes: The Lean Startup by Eric Ries]]
@@ -2151,7 +2169,8 @@ See also [[blogging][Blogging]], [[writing][Writing]]
 10. [X] [[http://sachachua.com/blog/2013/09/sketchnote-lessons-stick-figures/][Sketchnote Lessons: Stick figures]]
 11. [X] [[http://sachachua.com/blog/2013/10/sketchnote-lesson-metaphors/][Sketchnote Lesson: Metaphors]] (Oct 2013)
 12. [X] [[http://sachachua.com/blog/2013/10/sketchnote-lessons-how-do-you-want-to-grow-as-a-sketchnoter/][Sketchnote Lessons: How do you want to grow as a sketchnoter?]] (Oct 2013)
-** Sketchnotes - Business [21/21]
+** Sketchnotes - Business [22/22]
+- [X] [X] [[http://sachachua.com/blog/2012/02/sketchnotes-small-business-network-meetup-with-kristina-chau-at-the-toronto-reference-library/][Sketchnotes: Small business network meetup with Kristina Chau at the Toronto Reference Library]]
 - [X] [[http://sachachua.com/blog/2013/09/sketchnote-managing-oneself-peter-drucker/][Sketchnote: Managing Oneself (Peter Drucker)]]
 - [X] [[http://sachachua.com/blog/2013/09/sketchnotes-conversations-about-social-business-jennifer-okimoto-ibm/][Sketchnotes: Conversations About Social Business (Jennifer Okimoto, IBM)]]
 - [X] [[http://sachachua.com/blog/2013/09/reboot/][Sketchnote: Reboot Your Business, Reboot Your Life: Your Future Depends On It - Mitch Joel (Third Tuesday Toronto)]]
@@ -2249,8 +2268,6 @@ See also [[blogging][Blogging]], [[writing][Writing]]
 - [X] [[http://sachachua.com/blog/2010/04/on-getting-started-with-collaboration/][On getting started with collaboration]]
 - [X] [[http://sachachua.com/blog/2010/04/smarter-leaders-braindump/][Smarter leaders braindump (long, visual)]]
 - [X] [[http://sachachua.com/blog/2010/07/sooner-or-later-expertise-and-the-new/][Sooner or later? Expertise and the new]]
-- [X] [[http://sachachua.com/blog/2010/02/wiki-information-architecture-thoughts/][Wiki information architecture thoughts]]
-- [X] [[http://sachachua.com/blog/2010/02/wiki-organization-challenge-thinking-out-loud/][Wiki organization challenge - thinking out loud]]
 - [X] [[http://sachachua.com/blog/2010/09/welcome-listeners-of-the-taking-notes-podcast/][Welcome listeners of the Taking Notes podcast!]] (Sept 2010)
 - [X] [[http://sachachua.com/blog/2010/09/getting-past-generation-based-conversations/][Getting past generation-based conversations]] (Sept 2010)
 - [X] [[http://sachachua.com/blog/2009/01/unfinished-business-design-and-new-media-in-the-obama-campaign/][Unfinished Business: Design and New Media in the Obama campaign]]
@@ -2286,30 +2303,31 @@ See also [[blogging][Blogging]], [[writing][Writing]]
 - [X] [[http://sachachua.com/blog/2008/09/slidecast-new-media-new-generation/][Slidecast: New Media, New Generation]]
 - [X] [[http://sachachua.com/blog/2010/01/microblogging-talk/][Microblogging talk]] (Jan 2010)
 - [X] [[http://sachachua.com/blog/2010/02/lessons-learned-from-microblogging-talk/][Lessons learned from microblogging talk]]
+** Social software - wikis [2/2]
+- [X] [[http://sachachua.com/blog/2010/02/wiki-information-architecture-thoughts/][Wiki information architecture thoughts]]
+- [X] [[http://sachachua.com/blog/2010/02/wiki-organization-challenge-thinking-out-loud/][Wiki organization challenge - thinking out loud]]
+
 ** Social software tools [2/2]
 - [X] [[http://sachachua.com/blog/2010/01/dogear-and-delicious-cross-posting-your-enterprise-bookmarks-xpost/][Dogear and Delicious: Cross-posting your enterprise bookmarks (xpost)]] (Jan 2010)
 - [X] [[http://sachachua.com/blog/2009/12/lotus-connections-communities-topicsreplies-feeds-to-opml/][Lotus Connections Communities topics+replies feeds to OPML]]
 ** Software [1/1]
 - [X] [[http://sachachua.com/blog/2012/03/tool-tuesday-trying-out-mindmanager-2012-almost-but-not-quite-the-right-fit-for-me/][Trying out MindManager 2012 - Almost but not quite the right fit for me]]
-** Starting my own business [15/15]
+** Starting my own business [5/5]
 	 :PROPERTIES:
 	 :CUSTOM_ID: starting_business
 	 :END:
 <<starting_business>>
 
-- [X] [[http://sachachua.com/blog/2012/02/experience-report-incorporating-a-federal-numbered-corporation-in-canada/][Experience report: Incorporating a federal numbered corporation in Canada]]
-- [X] [[http://sachachua.com/blog/2012/02/experience-report-renting-a-business-mailbox/][Experience report: Renting a business mailbox]]
-- [X] [[http://sachachua.com/blog/2012/02/experience-report-opening-the-rbc-small-business-eaccount-2/][Experience report: Opening the RBC Small Business eAccount]]
-- [X] [[http://sachachua.com/blog/2012/02/experience-report-a-brief-chat-with-an-accountant/][Experience report: A brief chat with an accountant]]
-- [X] [[http://sachachua.com/blog/2012/02/experience-report-applying-for-a-harmonized-sales-tax-account/][Experience report: Applying for a Harmonized Sales Tax account]]
 - [X] [[http://sachachua.com/blog/2012/02/experience-report-so-much-for-having-a-virtual-bookstore/][Experience report: So much for having a virtual bookstore]]
 - [X] [[http://sachachua.com/blog/2012/03/adjusting/][Adjusting]]
 - [X] [[http://sachachua.com/blog/2012/02/its-okay-to-not-know/][It's okay to not know]]
 - [X] [[http://sachachua.com/blog/2012/02/people-centered-entrepreneurship/][People-centered entrepreneurship]]
-- [X] [[http://sachachua.com/blog/2012/02/this-is-what-five-years-looks-like/][This is what five years looks like]]
-- [X] [[http://sachachua.com/blog/2012/02/sketchnotes-small-business-network-meetup-with-kristina-chau-at-the-toronto-reference-library/][Sketchnotes: Small business network meetup with Kristina Chau at the Toronto Reference Library]]
 - [X] [[http://sachachua.com/blog/2012/02/bridging-from-intrapreneurship/][Bridging from intrapreneurship]]
-- [X] [[http://sachachua.com/blog/2012/02/thinking-about-how-to-experiment-with-business-and-what-i-might-want-to-do/][Thinking about how to experiment with business and what I might want to do]]
+- Planning
+  - [X] [[http://sachachua.com/blog/2012/02/this-is-what-five-years-looks-like/][This is what five years looks like]]
+  - [X] [[http://sachachua.com/blog/2012/02/thinking-about-how-to-experiment-with-business-and-what-i-might-want-to-do/][Thinking about how to experiment with business and what I might want to do]]
+- Paperwork
+
 ** System administration [8/8]
 - [X] [[http://sachachua.com/blog/2013/10/next-steps-for-system-administration/][Next steps for system administration]] (Oct 2013)
 - [X] [[http://sachachua.com/blog/2013/09/dealing-sigsegv-php5-fpm-nginx/][Dealing with SIGSEGV in php5-fpm and Nginx]]
@@ -2319,41 +2337,42 @@ See also [[blogging][Blogging]], [[writing][Writing]]
 - [X] [[http://sachachua.com/blog/2011/12/geek-tidbits-postfix-configuration-for-development-and-testing/][Geek tidbits: Postfix configuration for development and testing]] (Dec 2011)
 - [X] [[http://sachachua.com/blog/2010/06/using-supervisord-for-nginxfastcgiphp/][Using supervisord for Nginx+FastCGI+PHP]]
 - [X] [[http://sachachua.com/blog/2008/02/rough-guide-to-getting-an-existing-windows-xp-partition-to-boot-as-a-vmware-guest-under-linux/][Rough guide to getting an existing Windows XP partition to boot as a VMWare guest under Linux]]
-** Teaching [30/30]
-- [X] [[http://sachachua.com/blog/2014/02/what-youre-really-there-to-learn-in-computer-science/][What you're really there to learn in computer science]] (Feb 2014)
+** Teaching [7/7]
+- Frame of mind
+  - [X] [[http://sachachua.com/blog/2008/05/teaching-passion/][Teaching passion]]
+  - [X] [[http://sachachua.com/blog/2014/02/what-youre-really-there-to-learn-in-computer-science/][What you're really there to learn in computer science]] (Feb 2014)
+  - [X] [[http://sachachua.com/blog/2009/08/teaching-energy/][Teaching energy]]
+  - [X] [[http://sachachua.com/blog/2008/01/teachable-moments/][Teaching the attitude]]
+  - [X] [[http://sachachua.com/blog/2011/03/math-and-energy/][Math and energy]]
+- [X] [[http://sachachua.com/blog/2008/05/its-not-just-for-you-it-helps-other-people-remember-the-steps-too/][It's not just for you - it helps other people remember the steps, too!]]
+  - [X] [[http://sachachua.com/blog/2010/06/say-the-steps-out-loud/][Say the steps out loud]]
 - [X] [[http://sachachua.com/blog/2013/04/building-bridges-to-geekiness/][Building bridges to geekiness]] (Apr 2013)
-- [X] [[http://sachachua.com/blog/2011/03/math-and-energy/][Math and energy]]
-- [X] [[http://sachachua.com/blog/2011/03/filling-in-the-learning-gaps/][Filling in the learning gaps]]
-- [X] [[http://sachachua.com/blog/2011/03/the-three-argumenteers/][The three argumenteers]]
-- [X] [[http://sachachua.com/blog/2011/03/helping-kids-learn-about-automation/][Helping kids learn about automation]]
-- [X] [[http://sachachua.com/blog/2011/04/helping-kids-learn-algebra/][Helping kids learn algebra]]
+- [X] [[http://sachachua.com/blog/2010/07/a-philosophy-of-sharing-and-a-truth-about-teaching/][A philosophy of sharing and a truth about teaching]]
+- [X] [[http://sachachua.com/blog/2008/09/if-you-can-teach-if-you-cant-teach-do/][If you can, teach; If you can't teach, do]]
+- [X] [[http://sachachua.com/blog/2008/07/what-teachers-make/][What teachers make]]
+- [X] [[http://sachachua.com/blog/2009/12/what-can-i-help-you-learn-looking-for-mentees/][What can I help you learn? Looking for mentees]]
+** Teaching kids and study groups [17/17]
+- [X] [[http://sachachua.com/blog/2011/06/meaning-and-acknowledgement/][Meaning and acknowledgement]] (June 2011)
 - [X] [[http://sachachua.com/blog/2011/04/why-we-use-more-than-math-textbooks-and-general-purpose-resources/][Why we use more than math textbooks and general-purpose resources]]
 - [X] [[http://sachachua.com/blog/2011/04/math-study-group-positive-negative-numbers/][Math study group: Positive and negative numbers]]
 - [X] [[http://sachachua.com/blog/2011/04/study-group-update-negative-numbers-exponents-awesomeness/][Study group update: negative numbers, exponents, and awesomeness]]
 - [X] [[http://sachachua.com/blog/2011/04/enemy-enemy-friend-mnemonics-negative-integers/][The enemy of your enemy is your friend: mnemonics and negative integers]]
 - [X] [[http://sachachua.com/blog/2011/04/study-group-flashcards-leitner-method/][Study group: Flashcards and the Leitner method]]
 - [X] [[http://sachachua.com/blog/2011/05/kids-learning-tangible/][On kids and the learning of tangible things]]
-- [X] [[http://sachachua.com/blog/2011/06/portal-2-and-teachable-moments-in-argument/][Portal 2 and teachable moments in argument]] (June 2011)
-- [X] [[http://sachachua.com/blog/2011/06/meaning-and-acknowledgement/][Meaning and acknowledgement]] (June 2011)
-- [X] [[http://sachachua.com/blog/2011/09/learning-new-tricks-about-learning-maps-and-history/][Learning new tricks about learning: maps and history]]
+- [X] [[http://sachachua.com/blog/2011/03/helping-kids-learn-about-automation/][Helping kids learn about automation]]
 - [X] [[http://sachachua.com/blog/2011/09/back-to-school-back-to-study-groups/][Back to school, back to study groups]]
-- [X] [[http://sachachua.com/blog/2011/11/thoughts-from-helping-with-homework/][Thoughts from helping with homework]]
 - [X] [[http://sachachua.com/blog/2010/01/every-teachable-moment/][Every teachable moment]] (Jan 2010)
-- [X] [[http://sachachua.com/blog/2010/06/say-the-steps-out-loud/][Say the steps out loud]]
-- [X] [[http://sachachua.com/blog/2010/07/a-philosophy-of-sharing-and-a-truth-about-teaching/][A philosophy of sharing and a truth about teaching]]
-- [X] [[http://sachachua.com/blog/2009/08/teaching-energy/][Teaching energy]]
-- [X] [[http://sachachua.com/blog/2009/12/what-can-i-help-you-learn-looking-for-mentees/][What can I help you learn? Looking for mentees]]
-- [X] [[http://sachachua.com/blog/2008/01/teachable-moments/][Teaching the attitude]]
-- [X] [[http://sachachua.com/blog/2008/05/its-not-just-for-you-it-helps-other-people-remember-the-steps-too/][It's not just for you - it helps other people remember the steps, too!]]
-- [X] [[http://sachachua.com/blog/2008/05/teaching-passion/][Teaching passion]]
-- [X] [[http://sachachua.com/blog/2008/07/what-teachers-make/][What teachers make]]
-- [X] [[http://sachachua.com/blog/2008/09/if-you-can-teach-if-you-cant-teach-do/][If you can, teach; If you can't teach, do]]
+- [X] [[http://sachachua.com/blog/2011/11/thoughts-from-helping-with-homework/][Thoughts from helping with homework]]
+- [X] [[http://sachachua.com/blog/2011/04/helping-kids-learn-algebra/][Helping kids learn algebra]]
 - [X] [[http://sachachua.com/blog/2012/02/helping-kids-build-vocabularies-spell-offs-bedtime-stories/][Helping kids build their vocabularies: spell-offs and bedtime stories]]
+- [X] [[http://sachachua.com/blog/2011/06/portal-2-and-teachable-moments-in-argument/][Portal 2 and teachable moments in argument]] (June 2011)
 - [X] [[http://sachachua.com/blog/2012/02/notes-from-the-ontario-science-centre-field-trip/][Notes from the Ontario Science Centre field trip]]
+- [X] [[http://sachachua.com/blog/2011/09/learning-new-tricks-about-learning-maps-and-history/][Learning new tricks about learning: maps and history]]
+- [X] [[http://sachachua.com/blog/2011/03/filling-in-the-learning-gaps/][Filling in the learning gaps]]
+- [X] [[http://sachachua.com/blog/2011/03/the-three-argumenteers/][The three argumenteers]]
 ** Technology [46/46]
 - [X] [[http://sachachua.com/blog/2014/10/tablet-thoughts/][Tablet thoughts]] (Oct 2014)
 - [X] [[http://sachachua.com/blog/2014/10/microsoft-excel-converting-summary-table-crosstab-back-data-rows/][Microsoft Excel: Converting a summary table / crosstab back into data rows]] (Oct 2014)
-- [X] [[http://sachachua.com/blog/2014/10/sleep-android/][Sleep as Android]] (Oct 2014)
 - [X] [[http://sachachua.com/blog/2014/10/upgrading-rails-3-rails-4-thank-goodness-emacs-rspec/][Upgrading from Rails 3 to Rails 4; thank goodness for Emacs and rspec]] (Oct 2014)
 - [X] [[http://sachachua.com/blog/2014/09/path-learning-angularjs/][My path for learning AngularJS]] (Sept 2014)
 - [X] [[http://sachachua.com/blog/2014/07/dont-worry-tools-beginning-avoiding-premature-optimization/][Don’t worry about your tools in the beginning: Avoiding premature optimization]] (July 2014)
@@ -2509,7 +2528,8 @@ See also [[blogging][Blogging]], [[writing][Writing]]
 - [X]
   [[http://sachachua.com/blog/2008/09/subversion-restore-deleted-files/][Subversion:
   Restore deleted files]]
-** Visual book reviews - see "Sketchnotes - Books"
+** Visual book reviews 
+See [[Sketched%20Books][sketched-books]]
 ** Visual metaphors (alphabetical) [6/6]
 - [X] [[http://sachachua.com/blog/2012/04/visual-metaphors-argument/][Argument]]
 - [X] [[http://sachachua.com/blog/2012/03/visual-metaphors-balance/][Balance]]
@@ -2590,7 +2610,7 @@ See also: [[Winter]]
 - [X] [[http://sachachua.com/blog/2011/07/dealing-with-web-development-and-stress/][Dealing with web development and stress]]
 - [X] [[http://sachachua.com/blog/2011/09/getting-better-at-working-at-the-office/][Getting better at working at the office]]
 - [X] [[http://sachachua.com/blog/2010/06/book-making-peace-with-your-office-life/][Book: Making Peace with Your Office Life]]
-** Writing [34/34]
+** Writing [29/29]
 	 :PROPERTIES:
 	 :CUSTOM_ID: writing
 - [X] [[http://sachachua.com/blog/2010/02/winter-2/][Winter]]
@@ -2605,12 +2625,10 @@ See also: [[Writing, process of]]
 - [X] [[http://sachachua.com/blog/2014/07/books-applying-advice-life/][Learning from things I like: Books about applying advice to your life]] (July 2014)
 - [X] [[http://sachachua.com/blog/2014/05/writing-2/][Writing for myself]] (May 2014)
 - [X] [[http://sachachua.com/blog/2013/10/i-dont-write-about-everything/][I don’t write about everything; How do you manage your private notes?]] (Oct 2013)
-- [X] [[http://sachachua.com/blog/2013/05/quantifying-my-habit-of-writing-and-things-ive-learned-along-the-way/][Quantifying my habit of writing, and things I've learned along the way]] (May 2013)
 - [X] [[http://sachachua.com/blog/2013/04/things-im-learning-about-sharing-other-peoples-knowledge-or-why-you-should-show-me-what-youve-been-meaning-to-teach-others/][Things I'm learning about sharing other people's knowledge, or why you should show me what you've been meaning to teach others]] (Apr 2013)
 - [X] [[http://sachachua.com/blog/2013/12/pens-are-not-the-limiting-factor-for-writing/][Pens are not the limiting factor for writing]] (Dec 2013)
 - [X] [[http://sachachua.com/blog/2007/12/more-writing-is-possible/][More writing is possible]]
 - [X] [[http://sachachua.com/blog/2007/12/writing-progress/][Writing progress]]
-- [X] [[http://sachachua.com/blog/2007/12/writing-writing-writing/][Writing, writing, writing]]
 - [X] [[http://sachachua.com/blog/2007/12/tips-for-conference-bloggers/][Tips for conference bloggers]]
 - [X] [[http://sachachua.com/blog/2010/02/writing-for-love-and-fun/][Writing for love and fun]]
 - [X] [[http://sachachua.com/blog/2010/07/thoughts-on-writing-and-starting-again/][Thoughts on writing and starting again]] - on following through and getting over perfectionism

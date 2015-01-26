@@ -34,62 +34,6 @@ Help me figure things out! E-mail me with your thoughts and ideas.
 - How can I get better at learning from other people?
 - What do other people need or want that is easy for me to provide?
 
-* Inbox of sketches to classify or write about
-
-- Improvement
-  - [[https://www.flickr.com/photos/sachac/16180955366/][2015.01.03 Making better use of basement -- index card]] 
-  - [[https://www.flickr.com/photos/sachac/16021004537/][2015.01.03 Making better use of kitchen -- index card]] 
-  - [[https://www.flickr.com/photos/sachac/15584410944/][2015.01.03 Making better use of phone -- index card]] 
-- Tools
-  - [[https://www.flickr.com/photos/sachac/16077216390/][2015.01.11 Making better use of Evernote -- index card #evernote]] 
-  - [[https://www.flickr.com/photos/sachac/16180954036/][2015.01.03 Social bookmarking -- index card]] 
-  - [[https://www.flickr.com/photos/sachac/16204941031/][2015.01.03 Social -- index card]] 
-- Mastery
-  - [[https://www.flickr.com/photos/sachac/15586970163/][2015.01.05 A reflection on diminishing returns versus compounding growth -- index card]] 
-  - [[https://www.flickr.com/photos/sachac/16206810525/][2015.01.05 Different ideas about mastery -- index card]] 
-  - [[https://www.flickr.com/photos/sachac/16213992552/][2015.01.06 Competence and mastery -- index card]] 
-- Mapping
-  - [[https://www.flickr.com/photos/sachac/16214788255/][2015.01.06 Figuring out information flow -- index card]] 
-  - [[https://www.flickr.com/photos/sachac/16204940111/][2015.01.05 Figuring out the technical details of this idea or visual archive I want -- index card]] 
-  - [[https://www.flickr.com/photos/sachac/15600678564/][2015.01.07 Mapping the connections in my blog -- index card]] 
-- [[https://www.flickr.com/photos/sachac/16019467930/][2015.01.05 How can I get better at summary posts -- index card]] 
-- [[https://www.flickr.com/photos/sachac/15575728213/][2015.01.03 Sketched Book - So Good They Can't Ignore You - Why Skills Trump Passion in the Quest for Work You Love - Cal Newport]] 
-- Emacs
-  - [[https://www.flickr.com/photos/sachac/16206810125/][2015.01.03 Why Emacs -- index card]] 
-  - [[https://www.flickr.com/photos/sachac/16051018660/][2015.01.08 Imagining Emacs hangouts - index card]] 
-- Experiment
-  - [[https://www.flickr.com/photos/sachac/15615984464/][2015.01.08 Imagining coaching or guiding others -- index card]] 
-- Learning
-  - [[https://www.flickr.com/photos/sachac/16180954156/][2015.01.04 Rhythm for learning -- index card]] 
-  - [[https://www.flickr.com/photos/sachac/16052554957/][2015.01.08 Learning as an event -- index card]] 
-  - [[https://www.flickr.com/photos/sachac/16052554877/][2015.01.09 Cross-pollination of ideas -- index card]] 
-  - [[https://www.flickr.com/photos/sachac/16077216200/][2015.01.12 How I stopped looking for answers -- index card #reading]] 
-  - [[https://www.flickr.com/photos/sachac/16077215930/][2015.01.12 What am I learning about -- index card #plans]] 
-- Life
-  - [[https://www.flickr.com/photos/sachac/16050882698/][2015.01.08 Team-building activities -- index card]] 
-  - [[https://www.flickr.com/photos/sachac/16078466699/][2015.01.11 Neko sleeping -- index card #cat]] 
-- Writing
-  - [[https://www.flickr.com/photos/sachac/16238668066/][2015.01.10 The idea of the Minimum Viable Post -- index card #writing #blogging]] 
-  - [[https://www.flickr.com/photos/sachac/16238667906/][2015.01.10 Writing into the future -- index card #writing #blogging]] 
-  - [[https://www.flickr.com/photos/sachac/15642166754/][2015.01.11 Learning from what I like about books -- index card #writing]] 
-  - [[https://www.flickr.com/photos/sachac/16264586045/][2015.01.11 What makes a good other-focused post -- index card #writing]] 
-  - [[https://www.flickr.com/photos/sachac/15644688843/][2015.01.12 Reverse outlining -- index card #writing #organization #outlining]] 
-  - [[https://www.flickr.com/photos/sachac/16078466449/][2015.01.12 Undirected questions versus directed questions -- index card #writing]] 
-  - [[https://www.flickr.com/photos/sachac/16263753972/][2015.01.12 Weekly reviews -- index card #writing]] 
-- Quantified
-  - [[https://www.flickr.com/photos/sachac/16263754392/][2015.01.10 What questions do I want to explore with data -- index card #quantified]] 
-  - [[https://www.flickr.com/photos/sachac/16263754472/][2015.01.10 What is the goal of my tracking -- index card #quantified]] 
-- Cooking
-  - [[https://www.flickr.com/photos/sachac/16238668276/][2015.01.10 Favourite meals -- index card #cooking]] 
-  - [[https://www.flickr.com/photos/sachac/16077055858/][2015.01.11 Snacks we can make -- index card #cooking]] 
-
-- [[https://www.flickr.com/photos/sachac/16266462305/][2015.01.12 Emacs microhabit - window management -- index card #emacs]] 
-
-
-- [[https://www.flickr.com/photos/sachac/16078466449/][2015.01.12 Undirected questions versus directed questions -- index card #writing]] 
-- [[https://www.flickr.com/photos/sachac/16263753972/][2015.01.12 Weekly reviews -- index card #writing]] 
-- [[https://www.flickr.com/photos/sachac/16077215930/][2015.01.12 What am I learning about -- index card #plans]] 
-
 * Topics I'm learning more about
 
 
@@ -146,7 +90,7 @@ describe("PrettyDate.update", function() {
            expect(links[2].innerHTML).toEqual(second);
        });
     }
-     
+
      domtest("prettyDate.update", '2008-01-28T22:25:00Z', '2 hours ago', 'Yesterday');
      domtest("prettyDate.update, one day later", '2008-01-29T22:25:00Z', 'Yesterday', '2 days ago');
 
@@ -248,17 +192,18 @@ http://www.tableausoftware.com/community/support/documentation-old
 - Michael Faraday http://www.academia.edu/442248/Faradays_Notebooks_the_Active_Organization_of_Creative_Science
   - Diaries, idea books, loose slips, retrieval sheets, work sheets; paste-ups, indexes; amanuensis; common-place book
 - Locke - real-time index
-- Benjamin Franklin 
+- Benjamin Franklin
 
 - Improvement of the Mind (Isaac Watts)
 
 ** Turning ideas and assumptions into experiments
 *** TODO [#C] Tracking: Update the number of tasks        :lowenergy:routine:
-    SCHEDULED: <2015-01-09 Fri .+1m>
+    SCHEDULED: <2015-02-16 Mon .+1m>
     :PROPERTIES:
-    :LAST_REPEAT: [2014-12-09 Tue 14:15]
+    :LAST_REPEAT: [2015-01-16 Fri 17:08]
     :END:
 			 :LOGBOOK:
+       - State "DONE"       from "TODO"       [2015-01-16 Fri 17:08]
        - State "DONE"       from "TODO"       [2014-12-09 Tue 14:15]
        - State "DONE"       from "TODO"       [2014-11-05 Wed 18:27]
        - State "DONE"       from "TODO"       [2014-11-04 Tue 22:57]
@@ -333,63 +278,64 @@ Hmm, maybe I'll go ahead and calculate that first.
 
 #+NAME: burndown
 #+RESULTS:
-|       Date | DONE | START. | TODO | WAIT. | DELEG. | CANC. | SOMEDAY | Total | % done | + done | +canc. | + total | + t - d - c | Note                       |
-|------------+------+--------+------+-------+--------+-------+---------+-------+--------+--------+--------+---------+-------------+----------------------------|
-| 2014-04-16 | 1104 |      1 |  403 |     3 |      1 |   104 |      35 |  1651 |    67% |        |        |         |             |                            |
-| 2014-04-17 | 1257 |      0 |  114 |     4 |      1 |   171 |     107 |  1654 |    76% |    153 |     67 |       3 |        -217 | Lots of trimming           |
-| 2014-04-18 | 1292 |      0 |   74 |     4 |      5 |   183 |     100 |  1658 |    78% |     35 |     12 |       4 |         -43 | A little bit more trimming |
-| 2014-04-20 | 1305 |      0 |   80 |     4 |      5 |   183 |     100 |  1677 |    78% |     13 |      0 |      19 |           6 |                            |
-| 2014-04-21 | 1311 |      1 |   78 |     4 |      4 |   184 |      99 |  1681 |    78% |      6 |      1 |       4 |          -3 |                            |
-| 2014-04-22 | 1313 |      2 |   75 |     4 |      4 |   184 |      99 |  1681 |    78% |      2 |      0 |       0 |          -2 |                            |
-| 2014-04-23 | 1369 |      4 |   66 |     4 |      5 |   186 |     101 |  1735 |    79% |     56 |      2 |      54 |          -4 | Added sharing/index.org    |
-| 2014-04-24 | 1371 |      3 |   69 |     4 |      5 |   186 |     101 |  1739 |    79% |      2 |      0 |       4 |           2 |                            |
-| 2014-04-25 | 1379 |      3 |   60 |     3 |      5 |   189 |     103 |  1742 |    79% |      8 |      3 |       3 |          -8 |                            |
-| 2014-04-26 | 1384 |      3 |   65 |     3 |      5 |   192 |     103 |  1755 |    79% |      5 |      3 |      13 |           5 |                            |
-| 2014-04-27 | 1389 |      2 |   66 |     3 |      5 |   192 |     103 |  1760 |    79% |      5 |      0 |       5 |           0 |                            |
-| 2014-04-28 | 1396 |      3 |   67 |     3 |      5 |   192 |     103 |  1769 |    79% |      7 |      0 |       9 |           2 |                            |
-| 2014-04-29 | 1396 |      3 |   67 |     3 |      5 |   192 |     103 |  1769 |    79% |      0 |      0 |       0 |           0 |                            |
-| 2014-04-30 | 1404 |      4 |   70 |     4 |      5 |   192 |     103 |  1782 |    79% |      8 |      0 |      13 |           5 |                            |
-| 2014-05-01 | 1413 |      4 |   80 |     3 |      4 |   193 |     103 |  1800 |    79% |      9 |      1 |      18 |           8 |                            |
-| 2014-05-02 | 1419 |      3 |   80 |     4 |      6 |   193 |     103 |  1808 |    78% |      6 |      0 |       8 |           2 |                            |
-| 2014-05-03 | 1429 |      4 |  106 |     4 |      6 |   192 |     114 |  1855 |    77% |     10 |     -1 |      47 |          38 | Added evil plans           |
-| 2014-05-04 | 1434 |      3 |  105 |     4 |      6 |   192 |     114 |  1858 |    77% |      5 |      0 |       3 |          -2 |                            |
-| 2014-05-05 | 1442 |      5 |  103 |     3 |      7 |   192 |     115 |  1867 |    77% |      8 |      0 |       9 |           1 |                            |
-| 2014-05-07 | 1452 |      5 |  110 |     3 |      7 |   192 |     115 |  1884 |    77% |     10 |      0 |      17 |           7 |                            |
-| 2014-05-08 | 1455 |      5 |  108 |     3 |      7 |   192 |     115 |  1885 |    77% |      3 |      0 |       1 |          -2 |                            |
-| 2014-05-09 | 1465 |      7 |  106 |     4 |      7 |   192 |     115 |  1896 |    77% |     10 |      0 |      11 |           1 |                            |
-| 2014-05-11 | 1472 |     10 |  109 |     3 |      6 |   216 |      94 |  1910 |    77% |      7 |     24 |      14 |         -17 |                            |
-| 2014-05-13 | 1482 |      6 |  112 |     3 |      5 |   217 |      94 |  1919 |    77% |     10 |      1 |       9 |          -2 |                            |
-| 2014-05-14 | 1484 |      6 |  112 |     3 |      5 |   217 |      94 |  1921 |    77% |      2 |      0 |       2 |           0 |                            |
-| 2014-05-16 | 1485 |      8 |  113 |     3 |      5 |   218 |      94 |  1926 |    77% |      1 |      1 |       5 |           3 |                            |
-| 2014-05-17 | 1492 |      4 |  113 |     3 |      5 |   219 |      93 |  1929 |    77% |      7 |      1 |       3 |          -5 |                            |
-| 2014-05-19 | 1497 |      5 |  115 |     3 |      5 |   219 |      93 |  1937 |    77% |      5 |      0 |       8 |           3 |                            |
-| 2014-05-21 | 1501 |      5 |  112 |     4 |      5 |   220 |      93 |  1940 |    77% |      4 |      1 |       3 |          -2 |                            |
-| 2014-05-22 | 1515 |      0 |   97 |     3 |      6 |   225 |      96 |  1942 |    78% |     14 |      5 |       2 |         -17 |                            |
-| 2014-05-25 | 1523 |      0 |   93 |     4 |      6 |   227 |      98 |  1951 |    78% |      8 |      2 |       9 |          -1 |                            |
-| 2014-05-26 | 1523 |      1 |   94 |     4 |      6 |   227 |      98 |  1953 |    78% |      0 |      0 |       2 |           2 |                            |
-| 2014-05-29 | 1526 |      5 |   93 |     4 |      6 |   227 |      98 |  1959 |    78% |      3 |      0 |       6 |           3 |                            |
-| 2014-05-31 | 1529 |      4 |   94 |     4 |      6 |   227 |      98 |  1962 |    78% |      3 |      0 |       3 |           0 |                            |
-| 2014-06-01 | 1529 |      4 |  100 |     4 |      6 |   228 |      98 |  1969 |    78% |      0 |      1 |       7 |           6 |                            |
-| 2014-06-03 | 1537 |      5 |   95 |     3 |      5 |   228 |      98 |  1971 |    78% |      8 |      0 |       2 |          -6 |                            |
-| 2014-06-05 | 1543 |      2 |   94 |     3 |      5 |   229 |      98 |  1974 |    78% |      6 |      1 |       3 |          -4 |                            |
-| 2014-06-06 | 1553 |      3 |   84 |     3 |      7 |   234 |      99 |  1983 |    78% |     10 |      5 |       9 |          -6 |                            |
-| 2014-06-12 | 1560 |      4 |   85 |     3 |      7 |   237 |      98 |  1994 |    78% |      7 |      3 |      11 |           1 |                            |
-| 2014-06-13 | 1563 |      5 |   85 |     3 |      8 |   237 |      98 |  1999 |    78% |      3 |      0 |       5 |           2 |                            |
-| 2014-06-17 | 1585 |      3 |   89 |     2 |      7 |   241 |      98 |  2025 |    78% |     22 |      4 |      26 |           0 | Added cooking.org          |
-| 2014-06-25 | 1590 |      4 |   86 |     2 |      7 |   242 |      98 |  2029 |    78% |      5 |      1 |       4 |          -2 |                            |
-| 2014-07-06 | 1601 |      5 |   84 |     2 |      7 |   242 |      98 |  2039 |    79% |     11 |      0 |      10 |          -1 |                            |
-| 2014-07-09 | 1603 |      4 |   86 |     2 |      7 |   242 |      98 |  2042 |    79% |      2 |      0 |       3 |           1 |                            |
-| 2014-07-27 | 1611 |      5 |   82 |     1 |      7 |   246 |     102 |  2054 |    78% |      8 |      4 |      12 |           0 |                            |
-| 2014-08-09 | 1630 |      5 |   87 |     1 |      7 |   247 |     101 |  2078 |    78% |     19 |      1 |      24 |           4 |                            |
-| 2014-08-16 | 1639 |      5 |   58 |     1 |      7 |   261 |     109 |  2080 |    79% |      9 |     14 |       2 |         -21 |                            |
-| 2014-08-17 | 1641 |      4 |   66 |     1 |      7 |   261 |     110 |  2090 |    79% |      2 |      0 |      10 |           8 |                            |
-| 2014-08-24 | 1652 |      4 |   67 |     1 |      7 |   262 |     110 |  2103 |    79% |     11 |      1 |      13 |           1 |                            |
-| 2014-09-05 | 1669 |      4 |   68 |     1 |      7 |   264 |     109 |  2122 |    79% |     17 |      2 |      19 |           0 |                            |
-| 2014-09-14 | 1695 |      3 |   61 |     1 |      7 |   277 |      99 |  2143 |    79% |     26 |     13 |      21 |         -18 |                            |
-| 2014-10-01 | 1731 |      3 |   61 |     0 |      4 |   292 |      79 |  2170 |    80% |     36 |     15 |      27 |         -24 |                            |
-| 2014-11-05 | 1760 |      2 |   92 |     1 |      4 |   289 |      75 |  2223 |    79% |     29 |     -3 |      53 |          27 |                            |
-| 2014-12-09 | 1827 |      6 |  117 |     0 |      4 |   288 |      65 |  2307 |    79% |     67 |     -1 |      84 |          18 |                            |
-| 2015-01-04 |  390 |      8 |  189 |     2 |      4 |    94 |      63 |   750 |    52% |  -1437 |   -194 |   -1557 |          74 |                            |
+|       Date | DONE | START. | TODO | WAIT. | DELEG. | CANC. | SOMEDAY | Total | % done | + done | +canc. | + total | + t - d - c |
+|------------+------+--------+------+-------+--------+-------+---------+-------+--------+--------+--------+---------+-------------|
+| 2014-04-16 | 1104 |      1 |  403 |     3 |      1 |   104 |      35 |  1651 |    67% |        |        |         |             |
+| 2014-04-17 | 1257 |      0 |  114 |     4 |      1 |   171 |     107 |  1654 |    76% |    153 |     67 |       3 |        -217 |
+| 2014-04-18 | 1292 |      0 |   74 |     4 |      5 |   183 |     100 |  1658 |    78% |     35 |     12 |       4 |         -43 |
+| 2014-04-20 | 1305 |      0 |   80 |     4 |      5 |   183 |     100 |  1677 |    78% |     13 |      0 |      19 |           6 |
+| 2014-04-21 | 1311 |      1 |   78 |     4 |      4 |   184 |      99 |  1681 |    78% |      6 |      1 |       4 |          -3 |
+| 2014-04-22 | 1313 |      2 |   75 |     4 |      4 |   184 |      99 |  1681 |    78% |      2 |      0 |       0 |          -2 |
+| 2014-04-23 | 1369 |      4 |   66 |     4 |      5 |   186 |     101 |  1735 |    79% |     56 |      2 |      54 |          -4 |
+| 2014-04-24 | 1371 |      3 |   69 |     4 |      5 |   186 |     101 |  1739 |    79% |      2 |      0 |       4 |           2 |
+| 2014-04-25 | 1379 |      3 |   60 |     3 |      5 |   189 |     103 |  1742 |    79% |      8 |      3 |       3 |          -8 |
+| 2014-04-26 | 1384 |      3 |   65 |     3 |      5 |   192 |     103 |  1755 |    79% |      5 |      3 |      13 |           5 |
+| 2014-04-27 | 1389 |      2 |   66 |     3 |      5 |   192 |     103 |  1760 |    79% |      5 |      0 |       5 |           0 |
+| 2014-04-28 | 1396 |      3 |   67 |     3 |      5 |   192 |     103 |  1769 |    79% |      7 |      0 |       9 |           2 |
+| 2014-04-29 | 1396 |      3 |   67 |     3 |      5 |   192 |     103 |  1769 |    79% |      0 |      0 |       0 |           0 |
+| 2014-04-30 | 1404 |      4 |   70 |     4 |      5 |   192 |     103 |  1782 |    79% |      8 |      0 |      13 |           5 |
+| 2014-05-01 | 1413 |      4 |   80 |     3 |      4 |   193 |     103 |  1800 |    79% |      9 |      1 |      18 |           8 |
+| 2014-05-02 | 1419 |      3 |   80 |     4 |      6 |   193 |     103 |  1808 |    78% |      6 |      0 |       8 |           2 |
+| 2014-05-03 | 1429 |      4 |  106 |     4 |      6 |   192 |     114 |  1855 |    77% |     10 |     -1 |      47 |          38 |
+| 2014-05-04 | 1434 |      3 |  105 |     4 |      6 |   192 |     114 |  1858 |    77% |      5 |      0 |       3 |          -2 |
+| 2014-05-05 | 1442 |      5 |  103 |     3 |      7 |   192 |     115 |  1867 |    77% |      8 |      0 |       9 |           1 |
+| 2014-05-07 | 1452 |      5 |  110 |     3 |      7 |   192 |     115 |  1884 |    77% |     10 |      0 |      17 |           7 |
+| 2014-05-08 | 1455 |      5 |  108 |     3 |      7 |   192 |     115 |  1885 |    77% |      3 |      0 |       1 |          -2 |
+| 2014-05-09 | 1465 |      7 |  106 |     4 |      7 |   192 |     115 |  1896 |    77% |     10 |      0 |      11 |           1 |
+| 2014-05-11 | 1472 |     10 |  109 |     3 |      6 |   216 |      94 |  1910 |    77% |      7 |     24 |      14 |         -17 |
+| 2014-05-13 | 1482 |      6 |  112 |     3 |      5 |   217 |      94 |  1919 |    77% |     10 |      1 |       9 |          -2 |
+| 2014-05-14 | 1484 |      6 |  112 |     3 |      5 |   217 |      94 |  1921 |    77% |      2 |      0 |       2 |           0 |
+| 2014-05-16 | 1485 |      8 |  113 |     3 |      5 |   218 |      94 |  1926 |    77% |      1 |      1 |       5 |           3 |
+| 2014-05-17 | 1492 |      4 |  113 |     3 |      5 |   219 |      93 |  1929 |    77% |      7 |      1 |       3 |          -5 |
+| 2014-05-19 | 1497 |      5 |  115 |     3 |      5 |   219 |      93 |  1937 |    77% |      5 |      0 |       8 |           3 |
+| 2014-05-21 | 1501 |      5 |  112 |     4 |      5 |   220 |      93 |  1940 |    77% |      4 |      1 |       3 |          -2 |
+| 2014-05-22 | 1515 |      0 |   97 |     3 |      6 |   225 |      96 |  1942 |    78% |     14 |      5 |       2 |         -17 |
+| 2014-05-25 | 1523 |      0 |   93 |     4 |      6 |   227 |      98 |  1951 |    78% |      8 |      2 |       9 |          -1 |
+| 2014-05-26 | 1523 |      1 |   94 |     4 |      6 |   227 |      98 |  1953 |    78% |      0 |      0 |       2 |           2 |
+| 2014-05-29 | 1526 |      5 |   93 |     4 |      6 |   227 |      98 |  1959 |    78% |      3 |      0 |       6 |           3 |
+| 2014-05-31 | 1529 |      4 |   94 |     4 |      6 |   227 |      98 |  1962 |    78% |      3 |      0 |       3 |           0 |
+| 2014-06-01 | 1529 |      4 |  100 |     4 |      6 |   228 |      98 |  1969 |    78% |      0 |      1 |       7 |           6 |
+| 2014-06-03 | 1537 |      5 |   95 |     3 |      5 |   228 |      98 |  1971 |    78% |      8 |      0 |       2 |          -6 |
+| 2014-06-05 | 1543 |      2 |   94 |     3 |      5 |   229 |      98 |  1974 |    78% |      6 |      1 |       3 |          -4 |
+| 2014-06-06 | 1553 |      3 |   84 |     3 |      7 |   234 |      99 |  1983 |    78% |     10 |      5 |       9 |          -6 |
+| 2014-06-12 | 1560 |      4 |   85 |     3 |      7 |   237 |      98 |  1994 |    78% |      7 |      3 |      11 |           1 |
+| 2014-06-13 | 1563 |      5 |   85 |     3 |      8 |   237 |      98 |  1999 |    78% |      3 |      0 |       5 |           2 |
+| 2014-06-17 | 1585 |      3 |   89 |     2 |      7 |   241 |      98 |  2025 |    78% |     22 |      4 |      26 |           0 |
+| 2014-06-25 | 1590 |      4 |   86 |     2 |      7 |   242 |      98 |  2029 |    78% |      5 |      1 |       4 |          -2 |
+| 2014-07-06 | 1601 |      5 |   84 |     2 |      7 |   242 |      98 |  2039 |    79% |     11 |      0 |      10 |          -1 |
+| 2014-07-09 | 1603 |      4 |   86 |     2 |      7 |   242 |      98 |  2042 |    79% |      2 |      0 |       3 |           1 |
+| 2014-07-27 | 1611 |      5 |   82 |     1 |      7 |   246 |     102 |  2054 |    78% |      8 |      4 |      12 |           0 |
+| 2014-08-09 | 1630 |      5 |   87 |     1 |      7 |   247 |     101 |  2078 |    78% |     19 |      1 |      24 |           4 |
+| 2014-08-16 | 1639 |      5 |   58 |     1 |      7 |   261 |     109 |  2080 |    79% |      9 |     14 |       2 |         -21 |
+| 2014-08-17 | 1641 |      4 |   66 |     1 |      7 |   261 |     110 |  2090 |    79% |      2 |      0 |      10 |           8 |
+| 2014-08-24 | 1652 |      4 |   67 |     1 |      7 |   262 |     110 |  2103 |    79% |     11 |      1 |      13 |           1 |
+| 2014-09-05 | 1669 |      4 |   68 |     1 |      7 |   264 |     109 |  2122 |    79% |     17 |      2 |      19 |           0 |
+| 2014-09-14 | 1695 |      3 |   61 |     1 |      7 |   277 |      99 |  2143 |    79% |     26 |     13 |      21 |         -18 |
+| 2014-10-01 | 1731 |      3 |   61 |     0 |      4 |   292 |      79 |  2170 |    80% |     36 |     15 |      27 |         -24 |
+| 2014-11-05 | 1760 |      2 |   92 |     1 |      4 |   289 |      75 |  2223 |    79% |     29 |     -3 |      53 |          27 |
+| 2014-12-09 | 1827 |      6 |  117 |     0 |      4 |   288 |      65 |  2307 |    79% |     67 |     -1 |      84 |          18 |
+| 2015-01-04 |  390 |      8 |  189 |     2 |      4 |    94 |      63 |   750 |    52% |  -1437 |   -194 |   -1557 |          74 |
+| 2015-01-16 |  444 |      9 |  197 |     3 |      4 |    97 |      63 |   817 |    54% |     54 |      3 |      67 |          10 |
 #+TBLFM: @3$11..@>$11=$2-@-1$2::@3$13..@>$13=$9-@-1$9::@3$14..@>$14=$13-$11-($7-@-1$7)::@3$12..@>$12=$7-@-1$7
 
 #+begin_src R :var data=burndown :results graphics :file tasks.png :exports both
@@ -600,7 +546,7 @@ Nothing! Really? Weird...
     :END:
     :PROPERTIES:
     :LAST_REPEAT: [2014-03-15 Sat 18:51]
-    
+
 		:Effort:   2:00
     :END:
 http://www.chrisducker.com/101-tasks-to-outsource-to-virtual-staff/
@@ -615,7 +561,7 @@ http://www.chrisducker.com/101-tasks-to-outsource-to-virtual-staff/
     - State "DONE"       from "TODO"       [2014-02-05 Wed 20:27]
     :END:
 *** CANCELLED Sign up for a class series (8 weeks?)
-		CLOSED: [2014-06-05 Thu 21:57] 
+		CLOSED: [2014-06-05 Thu 21:57]
 		 :LOGBOOK:
 		 - State "CANCELLED"  from "TODO"       [2014-06-05 Thu 21:57] \\
 			 Meh.
@@ -711,13 +657,13 @@ Conclusion: GOOD.
 - If false: Blue is hard to see at a glance, and switching and colouring are less fun.
      SCHEDULED: <2014-01-05 Sun>--<2014-01-11 Sat>
 
-**** DONE If I draw with red and black, then my sketchnotes will be more visually structured while still keeping post-processing simple 
+**** DONE If I draw with red and black, then my sketchnotes will be more visually structured while still keeping post-processing simple
      CLOSED: [2014-01-05 Sun 21:29] DEADLINE: <2014-01-05 Fri>
      :LOGBOOK:
      - State "DONE"       from "TODO"       [2014-01-05 Sun 21:29]
      :END:
 - Previous: All black or all blue; sometimes computer-coloured
-- If false: Thumbnails are still difficult to distinguish; feeling vs all-black sketches; feeling vs blue-and-black sketches like 
+- If false: Thumbnails are still difficult to distinguish; feeling vs all-black sketches; feeling vs blue-and-black sketches like
 
 | Blue | [[http://www.flickr.com/photos/sachac/10994747174/][Flickr]] | [[http://sachachua.com/blog/2013/12/making-paper-notes/][Blog]] |
 | Red  | [[http://www.flickr.com/photos/sachac/11733224444/][Flickr]] | [[http://sachachua.com/blog/2014/01/spiral-learning/][Blog]] |
@@ -1193,7 +1139,7 @@ What do I want to learn about and write about this year?
   (let ((count 0)
         (files
          (directory-files directory nil pattern)))
-    (format "%d items - %d%%\n%s" 
+    (format "%d items - %d%%\n%s"
             (length files)
             (/ (* 100.0 (length files)) target)
             (mapconcat
@@ -1520,7 +1466,7 @@ Built this into dashboard, yay!
 
 **** [X] Visualization
 ***** [X] Time
-- Goal: Overall view of how I spent my time in a month or in a year, so that I can shift my time patterns 
+- Goal: Overall view of how I spent my time in a month or in a year, so that I can shift my time patterns
 - Estimate: 16 hours
 ***** [X] Goals
       CLOSED: [2012-01-13 Fri 11:08]
@@ -1533,7 +1479,7 @@ Built this into dashboard, yay!
 ***** [X] Use - tried it with groceries
 - Goal: Identify things worth spending money or time on based on past use and satisfaction
 - Estimate: 16 hours
-**** [/] Behavioural change    
+**** [/] Behavioural change
 - Goal: Get better and better at life by structuring each month as an experiment
 - Estimate: 48 hours
 **** [/] Applying automated testing to life
@@ -1696,7 +1642,7 @@ learning plan! =) Will continue to refine this as I go along.
 
 Nudged by [[https://twitter.com/#!/catehstn/status/146994766075265024][@catehstn]]'s recommendation of my blog to [[https://twitter.com/#!/Tending2Entropy/status/146985789941755904][@Tending2Entropy]] as
 an example of goal planning in personal life, I updated my learning
-plan with [[http://sachachua.com/blog/learn-2012/][the things I'm planning to learn next year]]. 
+plan with [[http://sachachua.com/blog/learn-2012/][the things I'm planning to learn next year]].
 
 It was easy to come up with a quick outline. There are so many
 interesting things I want to learn. The tough part, however, was
@@ -1753,14 +1699,14 @@ What do I want to learn? There's a lot more than this, but it's a good starting 
   - Helping clients succeed and be happy
     - Why this matters: Our clients work on amazing things, and IBM has many talents and resoures. If IBM and I can support clients in making the kind of difference they want to make, we can all make the world better.
     - Ideal: I help clients envision the possible, troubleshoot problems, navigate IBM's capabilities, and work with IBM on making things happen.
-    - Strengths I can build on 
+    - Strengths I can build on
       - I'm great at connecting people, tools, and resources across the organization. This is something many clients and many IBMers have a hard time with. If I build on this strength, I can help more people learn how to do this well.
       - I'm also good at understanding the big picture and communicating it to other people. I can empathize with clients' objectives and communicate that big picture with people in IBM.
-    - How I can grow 
+    - How I can grow
       - Find role models and mentors who exemplify this for clients or industries
       - Move from development or consulting into a client account supporting role
       - Map out my network and strategies for connecting
-    - Notes 
+    - Notes
       - I want to work cross-brand instead of focusing on a particular brand
       - I would like to either focus on a specific client or a specific industry
       - I particularly like the public sector because of how they collaborate, but I'm happy to explore other industries as well
@@ -1768,7 +1714,7 @@ What do I want to learn? There's a lot more than this, but it's a good starting 
     - Why this matters: Being able to connect people with other people, tools, and resources not only saves a lot of time and effort, but it also starts all these great collaborations. People get inspired when they find out about other people working on similar things, and together, they build something better than they could make on their own.
     - Ideal: Not only am I a go-to person when people need to find other people or things, but I've pushed my knowledge into the network and helped build communities so that other people can find people, tools, and resources without relying on connectors like me.
     - Strengths I can build on: I can remember what or who to look for when the need arises. I love keeping track of a diverse network of people, and lots of people tell me about interesting things that are going on. I can forward requests to the right community or to connectors who have wide networks as well. I take notes and help publicize other people's work, helping them become even more findable. Even though I've only been working at IBM for two years, people often ask me for help in finding people or resources. Imagine what this will be like when I've got more experience!
-    - How I can grow 
+    - How I can grow
       - Organize my feeds so that I can keep track of more information
       - Document and share more of my network knowledge
       - Help people learn how to do what I do
@@ -1777,7 +1723,7 @@ What do I want to learn? There's a lot more than this, but it's a good starting 
     - Why this matters: I believe in what we're doing at IBM and our ability to really help transform the way the world works. Our vision around Smarter Cities (and a smarter planet, in general) can touch many, many people's lives.
     - Ideal: I help organizations and jurisdictions around the world learn more about Smarter Cities and a smarter planet. I can refer them to relevant examples and success stories. I help people envision the future, develop roadmaps, and implement initiatives.
     - Strengths I can build on: Although I don't have a deep knowledge of this area yet, I do have many mentors and colleagues who are working on this, and I can learn from them and from the knowledgebases they're building. I'm also passionate about what we're all working towards.
-    - How I can grow 
+    - How I can grow
       - Review all the Smarter Cities material that's out there
       - Shadow or participate in engagements
       - Bring together and summarize external examples
@@ -1786,7 +1732,7 @@ What do I want to learn? There's a lot more than this, but it's a good starting 
     - Why this matters: It's amazing how much sharing can save people time, inspire people, and start great conversations. People really value the notes that I've shared through blog posts and presentations. I want to get even better at documenting, sharing, and organizing what I know, so that other people can build even better things on that foundation.
     - Ideal: Every day, I share as much as I can of what I've learned. In addition to chronological updates, people can explore what I'm sharing through an organized map that makes it easy to see the big picture. I am clear, concise, and coherent. I package knowledge in different forms to fit different needs: blog posts, wikis, presentations, videos, books. I inspire other people to share, too, and I help them learn how to do so effectively.
     - Strengths I can build on: Blogging has helped me learn how to write freely and quickly. I'm comfortable with giving energetic and engaging presentations, and I'm also good at preparing stand-alone presentations and videos. I'm comfortable building wikis. I'm good at searching my archives to find things I've already written. I love learning from people, books, and other sources. I make time to share what I know, and I have plenty of success stories that reinforce the value of that investment.
-    - How I can grow 
+    - How I can grow
       - Map what I know and map what I want to learn, then organize my notes accordingly.
       - Read and learn from blogs and books by other people who are focused on sharing.
       - Edit and organize excerpts from my archive into a more coherent form, such as an e-book.
@@ -1796,7 +1742,7 @@ What do I want to learn? There's a lot more than this, but it's a good starting 
     - Why this matters: If we can figure out how to bring people together for more effective discussions both online and in real-life, we can tap the power in the diverse perspectives in a group.
     - Ideal: I can confidently and effectively set up, facilitate, and summarize different kinds of discussions: creating a vision, brainstorming and developing ideas, and deciding on priorities and actions.
     - Strengths I can build on: I can respond very positively to ideas and help think of further improvements. I'm good at organizing and facilitating virtual discussions involving hundreds of people. I type and read very quickly, so I can capture what people are sharing or quickly summarize a long virtual discussion. My background helps me bring perspectives that many people are interested in (Gen Y, social networks, etc.).
-    - How I can grow 
+    - How I can grow
       - Learn from other consultants
       - Facilitate small workshop sessions
       - Explore other facilitation techniques
@@ -1804,7 +1750,7 @@ What do I want to learn? There's a lot more than this, but it's a good starting 
     - Why this matters: People can work much better when they're happier and when they can see their role in the big picture. Great management and great leadership make such a big difference in people's working lives.
     - Ideal: I inspire people though my energy and passion, and I help them discover or rediscover their own energy and passion, understand the big picture, and communicate that to other people. I help formal leaders learn how to use social networks to connect and inspire. I help informal leaders learn how to grow and share. Together, we figure out how organizations can be even better.
     - Strengths I can build on: I have a lot of energy, and I really love what we do and why we do it. I'm good at expressing that through blogs, presentations, and other media. I'm good at seeing the bright side of life. I'm good at figuring out my connection to the big picture, and at showing other people why their work matters. I'm consistently happy (can't help it; life is awesome!).
-    - How I can grow 
+    - How I can grow
       - Explore leadership ideas with Rawn Shah, John Handy-Bosma, Sarah Siegel, and other IBMers thinking a lot about this topic
       - Continue to share my passion, energy, and happiness
       - Help explain the big picture or the bright side, particularly during challenging times
@@ -1815,14 +1761,14 @@ What do I want to learn? There's a lot more than this, but it's a good starting 
     - Why this matters: Happiness has lots of other good things in it. I care about happiness not because I want to be happy–I already am!–but because I want to stay happy, deepen my understanding of happiness, and share that understanding with other people.
     - Ideal: I figure out what works for me and what doesn't, and the difference between making myself miserable and growing by stepping outside my comfort zone. I share what I've learned and my processes for learning with other people. I help lots of other people grow happier.
     - Strengths I can build on: I'm very very happy. I have an awesome life. I'm an optimist (almost automatic now!). I enjoy reflection. I like sharing what I'm learning with other people.
-    - How I can grow 
+    - How I can grow
       - Take on new challenges, like marriage and parenting, to figure out more about happiness with a richer and more complex life.
       - Share more appreciation and reflection.
   - Practicing relentless improvement
     - Why this matters: Getting better and better at life means saving time, enjoying more benefits, deepening my appreciation of life, learning things I can share with other people, and having fun.
     - Ideal: I deliberately invest time in experimenting and reflecting on how I live, and I share notes about what I learn along the way.
     - Strengths I can build on: I'm good at thinking of experiments, particularly small steps I can take to try an idea out. I'm good at sharing what I'm learning through my blog. I'm good at setting aside money and time to make things happen.
-    - How I can grow 
+    - How I can grow
       - Map out the ideas I'm working on and what I've learned so far.
       - Connect with other lifehackers.
       - Write and share more.
