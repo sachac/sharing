@@ -51,7 +51,11 @@ Click on the headings to expand them.
   - [[https://www.flickr.com/photos/sachac/15670976464/][2015-01-15 Planning a bibliography Org file -- index card #emacs #org #reading]]
   - [[https://www.flickr.com/photos/sachac/16131548697/][2015-01-18 Journey to Emacs - stages -- index card #emacs]]
   - [[https://www.flickr.com/photos/sachac/16131221399/][2015-01-18 Journey to Emacs - Beginnings -- index card #emacs #beginner]]
+  - [[https://www.flickr.com/photos/sachac/15769033413/][2015-01-26 Emacs microhabit - multiple selection in Helm -- index card #emacs #helm]]
+  - [[https://www.flickr.com/photos/sachac/16387298471/][2015-01-26 What would make my Emacs experience better -- index card #kaizen #emacs]]
 - Writing
+  - [[https://www.flickr.com/photos/sachac/16203142407/][2015-01-28 I tend to think in circles around a topic -- index card #self-directed-learning #learning #questions]]
+  - [[https://www.flickr.com/photos/sachac/16201638410/][2015-01-28 What areas of knowledge do I want to organize -- index card #writing #pkm]]
   - [[https://www.flickr.com/photos/sachac/15642166754/][2015.01.11 Learning from what I like about books -- index card #writing]]
   - [[https://www.flickr.com/photos/sachac/16264586045/][2015.01.11 What makes a good other-focused post -- index card #writing]]
   - [[https://www.flickr.com/photos/sachac/16078466449/][2015.01.12 Undirected questions versus directed questions -- index card #writing]]
@@ -76,7 +80,10 @@ Click on the headings to expand them.
 - Experiment
   - [[https://www.flickr.com/photos/sachac/15615984464/][2015.01.08 Imagining coaching or guiding others -- index card]]
   - [[https://www.flickr.com.ph/photos/65214961@N00/16088833847][2015-01-07 What am I happy to pay for in money or time -- index card]]
+  - [[https://www.flickr.com/photos/sachac/16363065946/][2015-01-26 Contemplating businesses -- index card #experiment #business]]
+  - [[https://www.flickr.com/photos/sachac/16202820549/][2015-01-27 Financial goals -- index card #finance]]
 - Life
+  - [[https://www.flickr.com/photos/sachac/16389045585/][2015-01-27 Resetting my mental state -- index card #emotions]]
   - [[https://www.flickr.com/photos/sachac/16050882698/][2015.01.08 Team-building activities -- index card]]
   - [[https://www.flickr.com/photos/sachac/16107254809/][2015-01-16 Thinking about why I don't meditate -- index card #reason #meditation]]
   - [[https://www.flickr.com/photos/sachac/16124099849/][2015-01-17 Weekend routines -- index card #life #routines]]
@@ -96,17 +103,11 @@ Click on the headings to expand them.
   - [[https://www.flickr.com/photos/sachac/16105853108/][2015-01-15 Helping people be more selective about email questions -- index card #teaching #email]]
   - [[https://www.flickr.com/photos/sachac/16105854308/][2015-01-15 What if I required people to pay it forward -- #workingoutloud #sharing #teaching]]
   - [[https://www.flickr.com/photos/sachac/16291598701/][2015-01-16 How can I improve my experience of e-mail -- index card #email #kaizen]]
-- Raw book notes
-  - [[https://www.flickr.com/photos/sachac/16291598451/][2015-01-15 Writing on Both Sides of Your Brain - Henriette Anne Klauser -- index card #book #raw]]
-  - [[https://www.flickr.com/photos/sachac/16107254319/][2015-01-15 Think Better - Tim Hurson -- index card #book #raw #thinking #creativity]]
-  - [[https://www.flickr.com/photos/sachac/16293386655/][2015-01-15 How to Read and Why - Harold Bloom -- index card #book #raw #reading]]
-  - [[https://www.flickr.com.ph/photos/65214961@N00/16122713078][2015-01-14 On Desire - Why We Want What We Want - William Irvine -- index cards #book]]
-  - [[https://www.flickr.com/photos/sachac/16129856048/][2015-01-18 The Sense of Style -- index card #book #writing]]
-  - [[https://www.flickr.com/photos/sachac/15733381764/][2015-01-22 Book - Leading the Life You Want - Friedman 2014 -- index card #book]]
-  - [[https://www.flickr.com/photos/sachac/16168452310/][2015-01-23 Book - Leaving a Trace - Alexandra Johnson -- index card #writing #book]]
 - Drawing
   - [[https://www.flickr.com.ph/photos/65214961@N00/16310257885][2015-01-17 Playing with the index card format -- index card #drawing]]
+  - [[https://www.flickr.com/photos/sachac/15769034673/][2015-01-28 Colour update -- index card #drawing #colour #color]]
 - Planning 
+  - [[https://www.flickr.com/photos/sachac/15766590114/][2015-01-27 Thinking about a goal graph -- index card #visualization #planning #goals]]
   - [[https://www.flickr.com/photos/sachac/16168208338/][2015-01-22 Buffet of other goals -- index card #goals]]
   - [[https://www.flickr.com/photos/sachac/16354937812/][2015-01-22 Imagining a good quest or skill discussion -- index card #goals #conversation]]
   - [[https://www.flickr.com/photos/sachac/16354067491/][2015-01-22 Goals and skills -- index card #goals]]
@@ -121,7 +122,24 @@ Click on the headings to expand them.
 - Decisions
   - [[https://www.flickr.com/photos/sachac/15733382614/][2015-01-23 Passport - mail or pickup -- index card #decision]]
   - [[https://www.flickr.com/photos/sachac/16355806205/][2015-01-23 Tech upgrade triggers -- index card #decision]]
+- Connecting
+  - [[https://www.flickr.com/photos/sachac/16201408508/][2015-01-27 What makes these conversations different -- index card #connecting]]
 
+- Raw book notes
+  - [[https://www.flickr.com/photos/sachac/16291598451/][2015-01-15 Writing on Both Sides of Your Brain - Henriette Anne Klauser -- index card #book #raw]]
+  - [[https://www.flickr.com/photos/sachac/16107254319/][2015-01-15 Think Better - Tim Hurson -- index card #book #raw #thinking #creativity]]
+  - [[https://www.flickr.com/photos/sachac/16293386655/][2015-01-15 How to Read and Why - Harold Bloom -- index card #book #raw #reading]]
+  - [[https://www.flickr.com.ph/photos/65214961@N00/16122713078][2015-01-14 On Desire - Why We Want What We Want - William Irvine -- index cards #book]]
+  - [[https://www.flickr.com/photos/sachac/16129856048/][2015-01-18 The Sense of Style -- index card #book #writing]]
+  - [[https://www.flickr.com/photos/sachac/15733381764/][2015-01-22 Book - Leading the Life You Want - Friedman 2014 -- index card #book]]
+  - [[https://www.flickr.com/photos/sachac/16168452310/][2015-01-23 Book - Leaving a Trace - Alexandra Johnson -- index card #writing #book]]
+  - [[https://www.flickr.com/photos/sachac/16203140617/][2015-01-26 Book - How to Think Like Leonardo da Vinci -- index card #raw #book]]
+- Cooking
+  - [[https://www.flickr.com/photos/sachac/16201636800/][2015-01-26 Shepherd's pie -- index card #cooking]]
+  - [[https://www.flickr.com/photos/sachac/16203142047/][2015-01-28 Cheesy vegan alfredo -- index card #cooking]]
+  - [[https://www.flickr.com/photos/sachac/16201638250/][2015-01-28 Winter vegetables to explore -- index card #cooking]]
+- Hacklab
+  - [[https://www.flickr.com/photos/sachac/16201408358/][2015-01-27 Field's metal -- index card #hacklab]]
 
 * Micro-habits
 ** Automate Text
