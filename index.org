@@ -40,103 +40,92 @@ Click on the headings to expand them.
 
 * [#C] Inbox of sketches to classify or write about
 
-- Cooking
-  - [[https://www.flickr.com/photos/sachac/16201636800/][2015-01-26 Shepherd's pie -- index card #cooking]]
-  - [[https://www.flickr.com/photos/sachac/16203142047/][2015-01-28 Cheesy vegan alfredo -- index card #cooking]]
-  - [[https://www.flickr.com/photos/sachac/16201638250/][2015-01-28 Winter vegetables to explore -- index card #cooking]]
-- Decisions
-  - [[https://www.flickr.com/photos/sachac/15733382614/][2015-01-23 Passport - mail or pickup -- index card #decision]]
-  - [[https://www.flickr.com/photos/sachac/16355806205/][2015-01-23 Tech upgrade triggers -- index card #decision]]
-- Emacs
-  - [[https://www.flickr.com/photos/65214961@N00/15782631573][2015-01-30 How can I get better at being clever on demand -- index card #emacs]]
-  - [[https://www.flickr.com/photos/sachac/15800587003/][2015-02-01 Accelerating the Emacs community -- index card #accelerating #emacs]]
-  - [[https://www.flickr.com/photos/sachac/16206810125/][2015.01.03 Why Emacs -- index card]]
-  - [[https://www.flickr.com/photos/sachac/15670976464/][2015-01-15 Planning a bibliography Org file -- index card #emacs #org #reading]]
-  - [[https://www.flickr.com/photos/sachac/16131548697/][2015-01-18 Journey to Emacs - stages -- index card #emacs]]
-  - [[https://www.flickr.com/photos/sachac/16131221399/][2015-01-18 Journey to Emacs - Beginnings -- index card #emacs #beginner]]
-  - [[https://www.flickr.com/photos/sachac/15769033413/][2015-01-26 Emacs microhabit - multiple selection in Helm -- index card #emacs #helm]]
-  - [[https://www.flickr.com/photos/sachac/16387298471/][2015-01-26 What would make my Emacs experience better -- index card #kaizen #emacs]]
-- Experiment
-  - [[https://www.flickr.com/photos/sachac/15615984464/][2015.01.08 Imagining coaching or guiding others -- index card]]
-  - [[https://www.flickr.com/photos/sachac/16363065946/][2015-01-26 Contemplating businesses -- index card #experiment #business]]
-- Improvement
-  - [[https://www.flickr.com/photos/sachac/15674009543/][2015-01-12 Coding improvements -- index card #workflow #coding]]
-  - [[https://www.flickr.com/photos/sachac/16180955366/][2015.01.03 Making better use of basement -- index card]]
-  - [[https://www.flickr.com/photos/sachac/16021004537/][2015.01.03 Making better use of kitchen -- index card]]
-  - [[https://www.flickr.com/photos/sachac/15584410944/][2015.01.03 Making better use of phone -- index card]]
-- Improving e-mail
-  - [[https://www.flickr.com/photos/sachac/16105853108/][2015-01-15 Helping people be more selective about email questions -- index card #teaching #email]]
-  - [[https://www.flickr.com/photos/sachac/16105854308/][2015-01-15 What if I required people to pay it forward -- #workingoutloud #sharing #teaching]]
-  - [[https://www.flickr.com/photos/sachac/16291598701/][2015-01-16 How can I improve my experience of e-mail -- index card #email #kaizen]]
+#+ORGLST: sketchinbox
+- Compassion
+  + [[https://www.flickr.com/photos/sachac/16122739723/][2015-03-06k Aligning past, present, and future selves -- index card #harmony #alignment #selves]]
+- Freedom
+  + [[https://www.flickr.com/photos/sachac/16113045264/][2015-03-06a How can you measure freedom -- index card #freedom #independence #quantified]]
+  + [[https://www.flickr.com/photos/sachac/16734275912/][2015-03-06b What makes me feel free - What can I measure -- index card #quantified #freedom #independence #feeling]]
+- Purpose
+  + [[https://www.flickr.com/photos/sachac/16528088827/][2015-03-06c Growing slowly from a solid foundation -- index card #purpose #influence #success #growth]]
+  + [[https://www.flickr.com/photos/sachac/16115396893/][2015-03-06d What does that progression look like -- index card #growth #success #purpose]]
+  + [[https://www.flickr.com/photos/sachac/16115396163/][2015-03-06e Am I accelerating - If so, how -- index card #growth #success #acceleration]]
+  + [[https://www.flickr.com/photos/sachac/16735349025/][2015-03-02d What kind of mental Sacha would I like other people to be able to have -- index card #mental #model]]
+- Philosophy
+  + [[https://www.flickr.com/photos/sachac/16555288040/][2015-03-06j So, how can I cultimvate these freedoms -- index card #freedom #philosophy]]
+  + [[https://www.flickr.com/photos/sachac/16535428867/][2015-03-06i What kinds of freedom are out there -- index card #freedom #philosophy]]
+  + [[https://www.flickr.com/photos/sachac/16547938970/][2015-03-02e Control and influence -- index card #philosophy]]
+- Weekly
+  + [[https://www.flickr.com/photos/sachac/16742895645/][2015-03-07a Week ending 2015-03-06 -- index card #weekly #review]]* Micro-habits
+  + [[https://www.flickr.com/photos/sachac/16502211350/][2015-03-01a Week ending 2015-02-27 -- index card #weekly]]
 - Learning
-  - [[https://www.flickr.com/photos/sachac/16386487306/][2015-01-31 Most of my questions are 'How can I...' -- index card #learning #question]]
-  - [[https://www.flickr.com/photos/sachac/16180954156/][2015.01.04 Rhythm for learning -- index card]]
-  - [[https://www.flickr.com/photos/sachac/16052554957/][2015.01.08 Learning as an event -- index card]]
-  - [[https://www.flickr.com/photos/sachac/16052554877/][2015.01.09 Cross-pollination of ideas -- index card]]
-  - [[https://www.flickr.com/photos/sachac/16077216200/][2015.01.12 How I stopped looking for answers -- index card #reading]]
-  - [[https://www.flickr.com/photos/sachac/16077215930/][2015.01.12 What am I learning about -- index card #plans]]
-- Life
-  - [[https://www.flickr.com/photos/65214961@N00/16402493371][2015-01-30 Sunlight in a cafe -- index card #cafe #light]]
-  - [[https://www.flickr.com/photos/sachac/16201408358/][2015-01-27 Field's metal -- index card #hacklab]]
-  - [[https://www.flickr.com/photos/sachac/16224809598/][2015-01-31 What's worth remembering -- index card #memory]]
-  - [[https://www.flickr.com/photos/sachac/16224809568/][2015-01-31 Clearing my fabric stash -- index card #tidying #decluttering]]
-  - [[https://www.flickr.com/photos/sachac/16050882698/][2015.01.08 Team-building activities -- index card]]
-  - [[https://www.flickr.com/photos/sachac/16124099849/][2015-01-17 Weekend routines -- index card #life #routines]]
-  - [[https://www.flickr.com/photos/sachac/16131221219/][2015-01-18 Narratives -- index card #storytelling #perspective]]
-  - [[https://www.flickr.com.ph/photos/65214961@N00/16308478731][2015-01-17 Evening tweaks -- index card #routines]]
-- Mapping
-  - [[https://www.flickr.com/photos/sachac/16168208898/][2015-01-23 Rough notes on goals and questions - for follow up -- index card #rough #notes]]
-  - [[https://www.flickr.com/photos/sachac/16336987245/][2015-01-21 Goal strategies -- index card #popular-goals]]
-  - [[https://www.flickr.com/photos/sachac/16335228571/][2015-01-20 Skill trees - writing -- index card #skill]]
-  - [[https://www.flickr.com/photos/sachac/16336986825/][2015-01-20 Skill trees - asking questions -- index card #skill]]
-  - [[https://www.flickr.com/photos/sachac/16336117042/][2015-01-20 Skill trees - web -- index card #skill #coding]]
-  - [[https://www.flickr.com/photos/sachac/16214788255/][2015.01.06 Figuring out information flow -- index card]]
-  - [[https://www.flickr.com/photos/sachac/15600678564/][2015.01.07 Mapping the connections in my blog -- index card]]
-  - [[https://www.flickr.com/photos/sachac/16019467930/][2015.01.05 How can I get better at summary posts -- index card]]
-- Mastery
-  - [[https://www.flickr.com/photos/sachac/15586970163/][2015.01.05 A reflection on diminishing returns versus compounding growth -- index card]]
-  - [[https://www.flickr.com/photos/sachac/16206810525/][2015.01.05 Different ideas about mastery -- index card]]
-  - [[https://www.flickr.com/photos/sachac/16213992552/][2015.01.06 Competence and mastery -- index card]]
-- Planning
-  - [[https://www.flickr.com/photos/sachac/16370887201/][2015-01-25 Phrasing goals - past, future, present -- index card #goals #planning #language]]
-  - [[https://www.flickr.com/photos/sachac/15766590114/][2015-01-27 Thinking about a goal graph -- index card #visualization #planning #goals]]
-  - [[https://www.flickr.com/photos/sachac/16168208338/][2015-01-22 Buffet of other goals -- index card #goals]]
-  - [[https://www.flickr.com/photos/sachac/16354937812/][2015-01-22 Imagining a good quest or skill discussion -- index card #goals #conversation]]
-  - [[https://www.flickr.com/photos/sachac/16354067491/][2015-01-22 Goals and skills -- index card #goals]]
-  - [[https://www.flickr.com/photos/sachac/16354067701/][2015-01-22 Thesis projects for 2015 - ideas -- index card #sharing #plans]]
-  - [[https://www.flickr.com/photos/sachac/16150806209/][2015-01-20 What do I want from this quest list and skill tree visualization -- index card]]
-- Quantified
-  - [[https://www.flickr.com/photos/sachac/16263754392/][2015.01.10 What questions do I want to explore with data -- index card #quantified]]
-  - [[https://www.flickr.com/photos/sachac/16263754472/][2015.01.10 What is the goal of my tracking -- index card #quantified]]
-  - [[https://www.flickr.com/photos/sachac/16293885565/][2015-01-12 Examining my blog analysis goals -- index card #blog #coding #pkm]]
+  + [[https://www.flickr.com/photos/sachac/16686746691/][2015-02-24b Exploring idiosyncratic questions -- index card #questions #sharing]]
+- Sewing
+  + [[https://www.flickr.com/photos/sachac/16688084005/][2015-02-25b What's next for sewing -- index card #sewing]]
+  + [[https://www.flickr.com/photos/sachac/16662128466/][2015-02-24d Improving my sewing experience -- index card #sewing]]
+  + [[https://www.flickr.com/photos/sachac/16688083125/][2015-02-24a New pattern, or several of one -- index card #sewing]]
+- Drawing
+  + [[https://www.flickr.com/photos/sachac/16442816239/][2015-02-20d Tips from my digital workflow -- index card #drawing #process #digital]]
+- Tech
+  + [[https://www.flickr.com/photos/sachac/16480801567/][2015-02-24c Update on phone decision -- index card #tech #decision]]
+  + [[https://www.flickr.com/photos/sachac/16006436244/][2015-02-20c Hmm, phone seems to be limping along -- index card #phone #tech]]
+  + [[https://www.flickr.com/photos/sachac/16602641236/][2015-02-20a Flagship or midrange or budget -- index card #phone #tech]]
+  + [[https://www.flickr.com/photos/sachac/16008847513/][2015-02-20b Flagship phone features -- index card #phone #tech #decision]]
+  + [[https://www.flickr.com/photos/sachac/16421312517/][2015-02-19b Phone battery -- index card #phone #tech]]
+- Thinking
+  + [[https://www.flickr.com/photos/sachac/16734140871/][2015-03-02b Thinking about my ETF hangups -- index card #finance #money #investing #etf #hangups]]
+  + [[https://www.flickr.com/photos/sachac/16366688599/][2015-02-16c Thinking, learning, doing, sharing, and reviewing -- index card #thinking #balance #learning #sharing #reviewing #doing -- ref 2015-02-16b]]
+  + [[https://www.flickr.com/photos/sachac/16367066277/][2015-02-16b Finding a good mix of thinking, learning, and doing -- index card #balance #thinking #learning #doing]]
+- Happiness
+  + [[https://www.flickr.com/photos/sachac/16709463286/][2015-03-06f Happiness and freedom -- index card #feelings #philosophy]]
+  + [[https://www.flickr.com/photos/sachac/16526967396/][2015-02-14e Happiness - pleasure and purpose -- index card #happiness #time #decision #purpose]]
+- Journal
+  + [[https://www.flickr.com/photos/sachac/16535429077/][2015-03-06h Friday -- index card #journal]]
+  + [[https://www.flickr.com/photos/sachac/16734276252/][2015-03-06g A path to keeping a diary -- index card #writing #journaling #diary]]
+  + [[https://www.flickr.com/photos/sachac/16735349485/][2015-03-03a Tuesday -- index card #journal]]
+  + [[https://www.flickr.com/photos/sachac/16113045084/][2015-03-05b Thursday -- index card #journal]]
+  + [[https://www.flickr.com/photos/sachac/16549246079/][2015-03-04a Wednesday -- index card #journal]]
+  + [[https://www.flickr.com/photos/sachac/16547794688/][2015-03-02a Monday -- index card #journal]]
+  + [[https://www.flickr.com/photos/sachac/16663658366/][2015-02-28a Saturday -- index card #journal]]
+  + [[https://www.flickr.com/photos/sachac/16688576152/][2015-03-01b Sunday]]
+  + [[https://www.flickr.com/photos/sachac/16687048892/][2015-02-25a Wednesday -- index card #journal]]
+  + [[https://www.flickr.com/photos/sachac/16500681570/][2015-02-27a Friday -- index card #journal]]
+  + [[https://www.flickr.com/photos/sachac/16065752264/][2015-02-26a Thursday -- index card #journal]]
+  + [[https://www.flickr.com/photos/sachac/16500493408/][2015-02-24e Tuesday -- index card #journal]]
+  + [[https://www.flickr.com/photos/sachac/16006426194/][2015-02-16d Monday -- index card #journal]]
+  + [[https://www.flickr.com/photos/sachac/16421313877/][2015-02-20e Friday -- index card #journal]]
+  + [[https://www.flickr.com/photos/sachac/16006437064/][2015-02-21b Saturday -- index card #journal]]
+  + [[https://www.flickr.com/photos/sachac/16627512481/][2015-02-17a Tuesday -- index card #journal]]
+  + [[https://www.flickr.com/photos/sachac/16627948492/][2015-02-19a Thursday -- index card #journal]]
+  + [[https://www.flickr.com/photos/sachac/16602641056/][2015-02-18a Wednesday -- index card #journal]]
+  + [[https://www.flickr.com/photos/sachac/16526967886/][2015-02-15a Sunday -- index card #journal]]
+  + [[https://www.flickr.com/photos/sachac/16367065617/][2015-02-14b Saturday - relax, tidy, connect -- index card #journal]]
+  + [[https://www.flickr.com/photos/sachac/16331375580/][2015-02-11f Wednesday -- index card #journal]]
+  + [[https://www.flickr.com/photos/65214961@N00/16462018641][2015-02-07 Week ending 2015-02-06 -- index card #weekly]]
+  + [[https://www.flickr.com/photos/sachac/16282173920/][2015-02-06 Journal -- index card #journal]]
+- Connecting
+  + [[https://www.flickr.com/photos/sachac/16528087467/][2015-03-02c Playing with conversation -- index card #connecting #introduction]]
+  + [[https://www.flickr.com/photos/sachac/16421313497/][2015-02-17b What kind of interesting people do I want to have more of in my life -- index card #connecting]]
+  + [[https://www.flickr.com/photos/sachac/16453163312/][2015-02-05 How can non-profits regularly reach out to people over social media -- index card #social #social-media #connecting]]
+- Delegation
+  + [[https://www.flickr.com/photos/sachac/16258039917/][2015-02-03 Delegation and dreaming small dreams -- index card #delegation]]
+- Cooking
+  + [[https://www.flickr.com/photos/sachac/16268202897/][2015-02-05 Biscotti -- index card #cooking #baking]]
+  + [[https://www.flickr.com/photos/sachac/16201636800/][2015-01-26 Shepherd's pie -- index card #cooking]]
+  + [[https://www.flickr.com/photos/sachac/16203142047/][2015-01-28 Cheesy vegan alfredo -- index card #cooking]]
+  + [[https://www.flickr.com/photos/sachac/16201638250/][2015-01-28 Winter vegetables to explore -- index card #cooking]]
 - Raw book notes
   - [[https://www.flickr.com/photos/sachac/15733381764/][2015-01-22 Book - Leading the Life You Want - Friedman 2014 -- index card #book]]
-  - [[https://www.flickr.com/photos/sachac/16291598451/][2015-01-15 Writing on Both Sides of Your Brain - Henriette Anne Klauser -- index card #book #raw]]
   - [[https://www.flickr.com/photos/sachac/16107254319/][2015-01-15 Think Better - Tim Hurson -- index card #book #raw #thinking #creativity]]
   - [[https://www.flickr.com/photos/sachac/16293386655/][2015-01-15 How to Read and Why - Harold Bloom -- index card #book #raw #reading]]
   - [[https://www.flickr.com/photos/sachac/16168452310/][2015-01-23 Book - Leaving a Trace - Alexandra Johnson -- index card #writing #book]]
   - [[https://www.flickr.com/photos/sachac/16129856048/][2015-01-18 The Sense of Style -- index card #book #writing]]
   - [[https://www.flickr.com/photos/65214961@N00/16122713078][2015-01-14 On Desire - Why We Want What We Want - William Irvine -- index cards #book]]
   - [[https://www.flickr.com/photos/sachac/16203140617/][2015-01-26 Book - How to Think Like Leonardo da Vinci -- index card #raw #book]]
-- Talking
-  - [[https://www.flickr.com/photos/sachac/15789988394/][2015-01-31 When I don't really like talking, and what I might be able to do about it -- index card #connecting #introvert]]
-  - [[https://www.flickr.com/photos/sachac/16201408508/][2015-01-27 What makes these conversations different -- index card #connecting]]
-- Tools
-  - [[https://www.flickr.com/photos/sachac/16077216390/][2015.01.11 Making better use of Evernote -- index card #evernote]]
-  - [[https://www.flickr.com/photos/sachac/16180954036/][2015.01.03 Social bookmarking -- index card]]
-  - [[https://www.flickr.com/photos/sachac/16204941031/][2015.01.03 Social -- index card]]
-- Writing
-  - [[https://www.flickr.com/photos/sachac/16203142407/][2015-01-28 I tend to think in circles around a topic -- index card #self-directed-learning #learning #questions]]
-  - [[https://www.flickr.com/photos/sachac/16201638410/][2015-01-28 What areas of knowledge do I want to organize -- index card #writing #pkm]]
-  - [[https://www.flickr.com/photos/sachac/15642166754/][2015.01.11 Learning from what I like about books -- index card #writing]]
-  - [[https://www.flickr.com/photos/sachac/16078466449/][2015.01.12 Undirected questions versus directed questions -- index card #writing]]
-  - [[https://www.flickr.com/photos/sachac/16256100136/][2015-01-13 What's getting in my way when it comes to reverse outlining -- index card #outlining #writing #obstacle]]
-  - [[https://www.flickr.com/photos/sachac/16336986425/][2015-01-19 How can I get better at research -- index card #learning]]
-  - [[https://www.flickr.com/photos/sachac/16149405478/][2015-01-19 Improving my sharing -- index card #writing #sharing]]
-  - [[https://www.flickr.com/photos/sachac/16149615990/][2015-01-19 Deeper outlines -- index card #writing]]
-  - [[https://www.flickr.com/photos/sachac/16150805659/][2015-01-19 A good way to track writing revisions -- index card #editing #tech]]
+  - [[https://www.flickr.com/photos/sachac/16291598451/][2015-01-15 Writing on Both Sides of Your Brain - Henriette Anne Klauser -- index card #book #raw]]
++ [[https://www.flickr.com/photos/sachac/16729458436/][2015-03-08a Monthly review - February 2015 -- index card #monthly]]
 
-* Micro-habits
+
 ** Automate Text
    :PROPERTIES:
    :Effort:   4:00
@@ -965,6 +954,117 @@ Thoughts? E-mail me at [[mailto:sacha@sachachua.com][sacha@sachachua.com]]
     - Psychology, cognitive limits, distraction
 
 * Learning, writing, sharing knowledge, and constant improvement
+** DONE Cultivate memories deliberately                      :life:happiness:
+   CLOSED: [2015-02-02 Mon 10:36]
+   :PROPERTIES:
+   :Effort:   1:00
+   :ID:       o2b:c64f089e-bcf4-4a64-b769-c46a83b6cfdd
+   :POST_DATE: [2015-02-02 Mon 10:33]
+   :POSTID:   27943
+   :BLOG:     sacha
+   :END:
+   :LOGBOOK:
+   CLOCK: [2015-02-02 Mon 09:10]--[2015-02-02 Mon 10:36] =>  1:26
+   :END:
+
+How much can we influence the memories that come upon us unexpectedly
+or the ones that we bring up when we reflect?
+
+Sometimes, in the middle of washing the dishes, I remember standing on
+a footstool in my mother's kitchen and washing the dishes there; she'd
+taught the three of us sisters to handle different stages of the
+dish-washing assembly line. I can see what prompted that memory. The
+connection is easy to understand. Other times, I'm not sure what drew
+me back to a time or place I'd forgotten. Some memories make me smile.
+Others remind me where I could've done better.
+
+I've been thinking about long-term happiness, experiences, and memory.
+I imagine that at eighty or ninety years old, you'd want to have
+plenty of good memories. What's worth paying attention to? What's
+worth creating experiences for? How can you smooth the edges of rough
+memories and intensify good ones?
+
+Here are some of my thoughts about the memories I want to cultivate
+through attention and understanding.
+
+[[https://www.flickr.com/photos/sachac/16224809598/][2015-01-31 What's worth remembering -- index card #memory]]
+
+*I'd like to remember, clearly and distinctly, the things that contribute to happiness*: connection, mastery, triumph, little moments
+of joy. How can we get better at things like that? Paying close
+attention, and creating the situations where these memories can arise.
+
+*I'd like to remember the storms* -- not to dwell on them, not to feel a
+victim, but to remember that they're temporary and that we've
+weathered them in the past. (No /Eternal Sunshine of the Spotless
+Mind/ for me!) I don't write as much about these (in public, or even
+in my journals), but that doesn't mean I don't think of them from time
+to time. By not writing about them, though, I miss out on the
+opportunity to make sense of them, to fit them into a coherent
+narrative that helps me move forward.
+
+*I'd like to remember the things that will help me make better decisions*: ideas, assumptions, consequences, lessons learned. Since it can be hard to remember details and one's mind is often tempted to rewrite things more favourably, writing about these things is a good way to extend my understanding over time.
+
+I have a lot of mental clutter. The time in school I wanted to
+experiment with fixing a memory with intense clarity, choosing (of all
+things!) the speckled ceiling to focus on. Many embarrassing moments,
+like the time a friend teased me for having mispronounced "adolescent"
+in a moment of inattention. Every moment contains a lesson, but I'm
+not sure that these lessons are worth the attention my mind gives
+them. I don't dwell on these thoughts, but they skitter across my
+brain from time to time. It would be good to be able to acknowledge
+them and their underlying thoughts, and then put them on a mental
+shelf. Then, when they escape, I can say, "Oh, hello again! Do you
+have anything to add? No? Back you go."
+
+[[https://www.flickr.com/photos/sachac/16131221219/][2015-01-18 Narratives -- index card #storytelling #perspective]]
+
+By thinking about memories on my own terms, I can make sense of them
+my way. The narratives we tell ourselves have such power. If your
+story is "Everyone's against me!", it's easy to find memories that fit
+that pattern, and you'll feel worse and worse. If your story is
+"Actually, things are pretty awesome," it will likewise be easy to
+find memories that fit. By thinking about the general types of
+memories that come up and connecting them to a positive story, it'll
+be easier to respond to them positively when they come up at other
+times.
+
+*In addition to cultivating your existing memories, it's also good to
+deliberately create good ones.* The impression I get from how other
+people do this is that people plan Big Memories. The awesome vacation.
+The ascetic pilgrimage. The conquered marathon.
+
+My life tends to be about small memories. The in-joke picked up from
+the movie W- and I watched a few years ago, blended with the pun of
+the moment. The amusing situations our cats get themselves into.
+Cooking with friends. There are big memories mixed in there too
+(family trips, graduations, weddings), but the small ones... How can I
+explain this? The small ones seem as richly flavoured as the big ones
+are. Big memories are easier to tell other people about, but the small
+ones are more plentiful.
+
+(Unless you're like my dad, generating big memories by the bucket-load
+because you're always on interesting adventures.)
+
+What would it be like to be a big-memory-full person, a
+bucket-list-crosser-outer, a grand adventurer? Maybe I'd go refresh my
+memory of a night sky so clear you feel the dimensions of space. Maybe
+I'd splurge on eating interesting food at wonderful restaurants. Maybe
+I'd go to more parties (some of my friends throw themed ones, even). Maybe I'd bike around more in the city, or take the train and try biking near Niagara. Maybe I'd get back into the habit of having birthday parties.
+
+In "[[https://www.linkedin.com/pulse/20130804220552-659753-memories-make-your-life-meaningful-here-s-how-to-have-more-of-them][Memories Make Your Life Meaningful -- Here's How to Have More of Them]], Ben Casnocha writes:
+#+begin_quote
+- Prize novelty. Novelty leads to memories.
+- Take on challenges; endure struggle; feel intense lows and highs.
+- Do things with people. And use people as a key variable.
+- Seek novelty, yes, except when novelty itself becomes routine.
+- Review and re-live memories soon after the fact.
+- If you consciously focus on creating a great memory in the moment, it sticks.
+#+end_quote
+
+More novelty, more randomness, more challenges, more people, more
+review, more attention. This slows life down, makes it denser with
+memories, and expands joy.
+
 ** DONE Write about open loops                                     :@writing:
    CLOSED: [2015-01-28 Wed 16:36]
 
@@ -998,7 +1098,7 @@ might help you too. =)
 I generally keep my life low-stress. Frugality gives me a buffer from
 most of life's financial stressors. Low expectations and personal
 responsibility make happiness easier. Stoicism helps me focus on what
-I can control. 
+I can control.
 
 I do like relaxing and being more appreciative. Everyday activities
 like doing the dishes, cuddling cats, spending time with W-, and
@@ -1051,7 +1151,7 @@ of meditation, I think.
 [[https://www.flickr.com/photos/sachac/16402680005/][2015-01-29 Being okay with unfair -- index card #stoicism]]
 
 So that's how I "meditate," I guess. No relaxing music, no super-deep
-thoughts. Mostly just everyday activities and the occasional bit of 
+thoughts. Mostly just everyday activities and the occasional bit of
 reflection. Seems to be working for me so far. =)
 
 ** Personal knowledge management
@@ -1109,6 +1209,113 @@ https://twitter.com/awolfson0/status/540626036837208065
 - You don't always need to answer a question completely. Sometimes you just need to resolve a little uncertainty.
 
 - risk http://lifehacker.com/distinguish-between-uncertainty-and-risk-to-minimize-de-1677485186
+*** DONE Shrinking my learn-do-share-review cycle          :learning:sharing:
+    CLOSED: [2015-02-04 Wed 13:15]
+    :PROPERTIES:
+    :Effort:   1:00
+    :ID:       o2b:8fc70c66-2ded-4599-9dc9-3c859980ff3f
+    :POST_DATE: [2015-02-04 Wed 13:13]
+    :POSTID:   27955
+    :BLOG:     sacha
+    :END:
+    :LOGBOOK:
+    CLOCK: [2015-02-04 Wed 12:38]--[2015-02-04 Wed 13:15] =>  0:37
+    :END:
+
+Sometimes I read too much without doing anything about what I learn.
+By the time I get around to applying ideas, my memory is fuzzy and I
+have to dig up my notes anyway. Sometimes I never get around to
+applying what I've learned.
+
+Sometimes the tasks on my TODO list are too big to fit into a single
+session of thinking-about or doing, so I end up procrastinating them.
+Or sometimes I do them, but I feel like I'm wandering around.
+
+Sometimes I let myself focus too much on learning and doing, moving
+onward. By the time I want to share what I've learned, I feel like
+there's just so much background I need to cover before people can get
+to the point of being able to do things. Or I've forgotten what those
+first crucial steps were.
+
+Sometimes I get so caught up in learning, doing, or sharing, that I
+forget to spend time thinking about *how* I'm doing things. I've been
+keeping a [[http://sachachua.com/blog/2014/11/keeping-process-journal/][journal]], but the entries are often very short - just
+keywords that describe what I did, without notes on how I might do it
+better.
+
+Have you felt like that too? Tell me I'm not the only one who has to
+[[http://sachachua.com/blog/2013/11/finding-the-right-balance-between-thinking-learning-doing-and-reviewing/][think about the balance]]. =)
+
+I've been working on reducing waste by shortening this learn-do-share
+cycle. Instead of spending a week reading five books about a topic, I
+might spend a couple of hours reading one book, extracting the key
+points from it, and identifying one or two actions I can try. Instead
+of doing an exhaustive search to find the best tool for what I want to
+do, I'll do a quick search, pick one, try it out, and then use that
+experience to help me learn. Instead of waiting until I feel confident
+about a topic (or even until I've worked out all the bugs), I'll [[http://sachachua.com/blog/2014/01/share-learn/][share
+while I learn]]. Instead of trying to fill in all the gaps between where
+a beginner might start and where my post ends up, I write just the
+part that's fresh in my memory, and then I might fill in other gaps
+when people ask.
+
+[[https://www.flickr.com/photos/sachac/16443943455/][2015-02-04 Shrinking my Learn-Do-Share cycle -- index card #sharing #learning]]
+
+In fact, I've been moving towards posting more of my rough notes using
+index cards. That way, I don't even have to wait until I've summarized
+the cards into a more coherent blog post. They're out there already,
+easy to link to or share in conversations. I still suspect it's a bit
+of a firehose of incoherence, but I'm pleasantly surprised that some
+people actually [[https://twitter.com/baquah/status/562794722260180992][find them interesting]]. =)
+
+[[https://www.flickr.com/photos/sachac/16435789832/][2015-02-03 Benefits of sharing my index cards -- index card #sharing #drawing]]
+
+A fast learn-do-share cycle results in a new challenge: *What do you
+do with all these little pieces?* This matters for both organizing
+your own notes and making it easier for other people to learn.
+
+I've been refining my workflows for organizing my index cards,
+snippets, and posts into outlines. Picking descriptive titles
+definitely helps. Fortunately, other people have given this challenge
+of personal knowledge management much thought. [[https://www.google.ca/search?q=zettelkasten][Zettelkasten]] looks like
+an interesting keyword to research, and I'm looking forward to picking
+up ideas from other people's techniques.
+
+When it comes to organizing notes for other people, I'm still rather
+haphazard, but I'm planning to braindump a large outline of questions
+and use that to create maps for people.
+
+As for the actual division of time, the pomodoro technique isn't part
+of my habitual workflow yet, but I've heard good things about it.
+Maybe I'll experiment with a pomodoro-based schedule: one for
+learning, one for doing, and one for sharing. But my learning cycle's
+actually a lot more intertwined. At its best, I'm learning *as* I'm
+doing (flipping between windows as needed), and the notes that I take
+while I'm learning and doing (thanks to Org Mode and literate
+programming!) can easily be shared as a blog post. So maybe each chunk
+of time represents a topic instead, and I can track whether I'm
+successfully getting things all the way through to the sharing stage.
+
+Sure, some topics require deeper reflection and integration. For
+instance, you can't expect instant results from philosophy. But it
+might be interesting to shorten the distance from learning to action
+and from action to sharing.
+
+I like the tips in Christian Tietze's "[[http://christiantietze.de/posts/2014/07/knowledge-cycle-efficiently-organize-writing-projects/][Use a Short Knowledge Cycle to
+Keep Your Cool]]" on how to figure out a good "size" for your research
+tasks so that you don't feel overwhelmed by them. It's a good reminder
+to iterate: you don't have to research everything before you start
+trying things out, you don't have to know everything before you start
+writing, and you don't have to have a perfect process - you can keep
+improving it.
+
+So we'll see how this works out. For example, this post took me half
+an hour to research/think about, and another half-hour to write. It
+could be more interesting if I researched some more (found similar
+techniques, contrasting opinions, etc.), and it could be richer with
+more experiments and experiences, but here it is. I can always add to it
+in the future, or write another post and link to the previous one.
+
 
 *** DONE Tell the difference between diminishing returns and compounding growth when it comes to investing in skills
     CLOSED: [2015-01-28 Wed 16:08]
@@ -1737,7 +1944,7 @@ Requested by @gozes https://twitter.com/sachac/status/380763070382866432
  - Choosing among strategies
 
 **** Making better use of time
-***** STARTED Choosing what to think about on my subway commute
+***** TODO Choosing what to think about on my subway commute
 
   - about 50 minutes
     - I often try to take this off-peak, so that I can avoid the rush and grab a seat.
@@ -2125,7 +2332,14 @@ Organization
 Learning
 Memory
 Summarization
-*** STARTED Getting better at writing other-directed posts  :writing:
+*** Scooped
+
+
+  + [[https://www.flickr.com/photos/sachac/15816658523/][2015-02-03 Scooped -- index card #writing #sharing]]
+
+
+*** DONE Getting better at writing other-directed posts             :writing:
+    CLOSED: [2015-02-06 Fri 17:03]
     :PROPERTIES:
     :Effort:   1:00
     :ID:       o2b:1e680dea-e2cc-4757-a511-3578a572a08b
@@ -6506,6 +6720,105 @@ It got me thinking: *What happens if you look for a good balance between two (or
 - Abstract
 
 ** Personal finance
+*** STARTED Dipping my toes into the ETF waters   :finance:
+    :PROPERTIES:
+    :Effort:   1:00
+    :ID:       o2b:127104e8-c311-43b8-bc0c-4e704b67129b
+    :POST_DATE: [2015-03-02 Mon 18:30]
+    :POSTID:   28015
+    :BLOG:     sacha
+    :END:
+    :LOGBOOK:
+    CLOCK: [2015-03-02 Mon 18:03]--[2015-03-04 Wed 12:59] => 42:56
+    CLOCK: [2015-03-02 Mon 15:45]--[2015-03-02 Mon 16:18] =>  0:33
+    CLOCK: [2015-03-02 Mon 13:18]--[2015-03-02 Mon 15:25] =>  2:07
+    :END:
+
+There's something about taking a look at processes that intimidate you
+and seeing if you can break them down into smaller steps that are more
+manageable. I've been thinking about shifting some of my investments
+from TD e-series index funds to exchange traded funds (ETFs), since
+that seems to be the next step in my personal finance journey. I've
+held back from making that decision, though. On one hand, it only
+makes sense if you commit a large amount. On the other hand, it's a
+little scary to experiment with an amount large enough to make a
+difference.
+
+My investing story has been all about baby steps. I started with TD
+e-series funds soon after receiving my first paycheque in 2007. I
+chose those index funds because of their low management expense ratios
+(MERs). I invested as much as I could, ignoring the doom-and-gloom
+of 2008. If I'd carved out more of my budget, I could have taken more
+advantage of the recovery. But in retrospect, I probably would have
+made the same decisions; most of my savings went into building an
+emergency fund and an opportunity fund, and that was important for
+making me feel safer and encouraging me to take small risks. As I
+built a good safety net, I invested more.
+
+This has been going well so far. I've settled into a rhythm of
+rebalancing by way of annual contributions. I think I've reached the
+point at which it makes sense to switch to ETFs, since those have even
+lower MERs. Most forum posts I've read about ETFs focus on discount
+brokers like Questrade because of their free or low-cost trades, but
+I'm hesitant about switching to Questrade because of the customer
+service complaints I've read. I know that's slightly irrational,
+biased by salience; the horror stories stick in my head, even though I
+know lots of people are happy with it and I have the persistence to
+deal with technical issues.
+
+Maybe I can dip my toes into the ETF waters by converting the Canadian
+index fund investments I have in my RRSP into something like VCN, but
+within TD Waterhouse instead of creating an account with Questrade.
+This means that I'll need to spend $10 each time I buy shares instead
+of buying them for free, but since I'm planning to hold these for a
+very long time and I rebalance yearly, the difference in transaction
+costs is likely to be worth it if it gets me to act.
+
+It looks like putting in a limit order is the best way to do this, so
+I'll take care of that once the money from the sale of my e-series
+fund arrives in my investment account.
+
+The difference between the MERs for the TD Canadian Index e-series
+fund (0.33%) and VCN (0.10%) isn't much for the amount I'm looking at
+experimenting with, but it's more about getting over the intimidation
+factor of trying out ETFs. If I try it and it works out, I might try
+converting some of my non-registered investments when the capital
+gains make sense (either a low-income year or one of the inevitable
+slumps in the market). Alternatively, I might try the popular approach
+of accumulating investments in an e-series fund (maybe the TFSA,
+especially if they increase the contribution room) and then
+periodically converting that into ETFs.
+
+I'm cautiously optimistic about how the stock market will perform over
+the next few decades. Its recent gains don't quite seem connected with
+the struggles of jobseekers and small business owners around me, and
+there's some kerfluffle over oil prices that I don't quite understand.
+But I'm less concerned now than I used to be about demographic-related
+stock market crashes (someone pointed out that many people don't have
+that much invested in the stock market anyway), and sufficient savings
+can help me ride out a 2008-style downturn. We don't seem to be headed
+towards decades-long malaise. Even if we do end up with market
+difficulties, chances are I'll be right in the same bucket with
+everyone else, so it's no big loss.
+
+I'm still nowhere near ready to pick individual stocks, much less
+day-trade. Neither my self-confidence or my ambitions are strong
+enough to tempt me to that path.
+
+More than that, investing in frugal choices and skills gives me more
+independence. The more I can cook healthy, yummy meals with low-cost
+ingredients, the less I depend on finances. The more I can improve or
+entertain myself with free or low-cost resources, the richer life I
+live. As I build online and offline relationships with people who
+share similar values, my world grows.
+
+The difference between the management expense ratios of TD e-series
+funds and index ETFs probably isn't going to result in a significant
+difference in my investment results. Not as significant as the
+decision to keep investing, or the choice of a particular lifestyle.
+But as practice in breaking down and trying out intimidating things,
+I think it will be worthwhile.
+
 *** Eating out and eating in
 
 W- and I have been taking advantage of the summer weather by biking around the city during weekends. We're working on being more adventurous, and have so far discovered a Japanese curry place that we like. What tends to happen, though, is that we end up talking ourselves out of going out to eat (expensive; can be less healthy; besides, it's all the same at the end)
@@ -6799,7 +7112,7 @@ maybe I can learn how to create so much value that it becomes a
 self-perpetuating machine.
 
 *** Life without a job
-*** STARTED Reflecting on patronization, liberality, prodigality, meanness
+*** TODO Reflecting on patronization, liberality, prodigality, meanness
 		:LOGBOOK:
 		CLOCK: [2014-07-18 Fri 22:18]--[2014-07-18 Fri 22:22] =>  0:04
 		:END:
@@ -7064,336 +7377,6 @@ situation too.
 This could work.
 
 ** 5-year experiment
-*** DONE The imperfect fungibility of time: thinking about how to use money to accelerate learning
-    CLOSED: [2015-02-01 Sun 21:55]
-    :PROPERTIES:
-    :Effort:   1:00
-    :ID:       o2b:184b66ac-fabd-4e2e-bbb2-0af9bad983a7
-    :POST_DATE: [2015-02-01 Sun 21:44]
-    :POSTID:   27934
-    :BLOG:     sacha
-    :END:
-    :LOGBOOK:
-    CLOCK: [2015-02-01 Sun 19:52]--[2015-02-01 Sun 21:55] =>  2:03
-    :END:
-
-If I wanted to, I could spend more time consulting. This would make my
-clients happy. It would help me create much more value, and they would
-get more value from me than from other ways they could spend their
-budget. I would improve my skills along the way, especially with
-people's requests and feedback. And to top it all off, I would earn
-more money that I could add to my savings, exchange for other people's
-time or talents, or use to improve our quality of life.
-
-It's really tempting, but I'm making myself say no, at least for now.
-I'm keeping my consulting to roughly one day a week. I might do more
-if there's something where I can't resist making a difference or if
-our situation changes significantly. I expect that [[http://sachachua.com/blog/2015/01/learning-work-things/][learning to work on
-my own things]] will mean encountering and dealing with inner
-Resistance. I expect that my [[http://sachachua.com/blog/2015/02/5-year-experiment-conversation-anxious-side-sharing-time-might-better-giving-money/][anxious side]] will whisper its self-doubt.
-So I lash myself to the mast and sail past the Sirens, heading towards
-(if I'm lucky!) years of wandering.
-
-[[https://www.flickr.com/photos/65214961@N00/15780207884][2015-01-30 Leaving money on the table -- index card #consulting #experiment #balance]]
-
-Part of this is the realization that even after my [[http://sachachua.com/blog/category/delegation][experiments with
-delegation]], I'm still not good at converting money back into time,
-learning, ability, or enjoyment.
-
-[[https://www.flickr.com/photos/65214961@N00/16088833847][2015-01-07 What am I happy to pay for in money or time -- index card]]
-
-Extra money tends to go into projects, tools or cooking experiments.
-Gardening is one of my luxuries: a few bags of dirt, some seeds and
-starters, and an excuse to be outside regularly. Paying someone to do
-the first draft of a transcript gets around my impatience with
-listening to my own voice. Aside from these regular decisions, I tend
-to think carefully about what I spend on. Often a low-cost way of
-doing something also helps me learn a lot - sometimes much more than
-throwing money at the problem would.
-
-[[https://www.flickr.com/photos/sachac/16202820549/][2015-01-27 Financial goals -- index card #finance]]
-  
-But there *are* things that money can buy, and it's good for me to
-learn how to make better decisions about that. For example, a big
-savings goal might be "buying" more of W-'s time, saving up in case he
-wants to experiment with a more self-directed life as well. House
-maintenance projects need tools, materials, and sometimes skilled
-help. Cooking benefits from experimentation, better ingredients, and
-maybe even instruction.
-
-[[https://www.flickr.com/photos/sachac/16233235750/][2015-02-01 Accelerating my learning -- index card #learning #accelerating]]
-
-What about accelerating my learning so that I can share even more
-useful stuff? Working with other people can help me:
-- take advantage of external perspectives (great for editing)
-- organize my learning path into a more effective sequence
-- learn about adjacent possibilities and low-hanging fruit
-- bridge gaps
-- improve through feedback
-- create scaffolds/structures and feed motivation
-- set up and observe deliberate practice
-- direct my awareness to what's important
-
-In order to make the most of this, I need to get better at:
-- identifying what I want to learn
-- identifying who I can learn from
-- approaching them and setting up a relationship
-- experimenting 
-- following up
-
-How have I invested money into learning, and what have the results been like?
-
-*Tools?* Yup, totally worth it, even for the tools I didn't end up
-using much of (ex: ArtRage). Do more of this. How can I get better at:
-- keeping an eye out for potentially useful tools: 
-  - Emacs packages
-  - AutoHotkey scripts/ideas
-  - Windows/Linux tools related to writing, drawing, coding
-- evaluating whether a tool can fit my workflow
-- supporting people who make good tools
-  - expressing appreciation
-  - contributing code
-  - writing about tools
-  - sending money
-
-*Books?* Some books have been very useful. On the other hand, the
-library has tons of books, so I have an infinite backlog of free
-resources. Buying and sketchnoting new books (or going to author
-events) is good for connecting with authors and readers about the book
-du jour, but on the other hand, I also get a lot of value from
-focusing on classics that I want to remember.
-
-*Conferences?* Mostly interesting for meeting people and bumping into
-them online through the years. Best if I go as a speaker (makes
-conversations much easier and reduces costs) and/or as a sketchnoter
-(long-term value creation). It would be even awesomer if I could
-combine this with in-person intensive learning, like a hackathon or a
-good workshop...
-
-*Courses?* Meh. Not really impressed by the online courses I've taken
-so far, but then again, I don't think I'm [[http://sachachua.com/blog/2014/10/coming-terms-online-courses/][approaching them with the
-right mindset either]].
-
-Things I will carve out opportunity-fund space for so that I can try
-more of them:
-
-*Pairing/coaching/tutoring?* Tempting, especially in terms of [[http://sachachua.com/blog/2014/11/emacs-coaching-unknowns-figuring-want-learn/][Emacs]],
-Node/Javascript, Rails, or Japanese. For example, some goals might be:
-- Learn how to improve Emacs Lisp performance and reliability: profiling, code patterns, tests, etc.
-- Define and adopt better Emacs habits
-  - Writing
-  - Organization
-  - Planning
-  - Programming
-- Write more elegant and testable Javascript
-- Set up best-practices Javascript/CSS/HTML/Rails environment in Emacs
-- Learn how to take advantage of new features in Wordpress
-- Write more other-directed posts
-- Get better at defining what I want to learn and reaching out to people
-
-Actually, in general, how does one accelerate learning?
-
-- *General learning techniques:* spaced repetition, skill breakdowns, deliberate practice...
-- *Structure and motivation:* personal trainers, courses
-- *Instruction and perspective:* expert, peer, or external
-- *Higher-quality resources:* original research, well-written/organized resources, richer media, good level of detail, experience/authority
-- *Better tools:* things are often much easier and more fun
-- *Experimentation:* learning from experience, possibly coming up with new observations
-- *Feedback, analysis:* experience, thoroughness
-- *Immersion:* languages, retreats
-- *Outsourcing:* research, summaries, scale, skills, effort
-- *Relationships:* serendipity, connection, conversation, mentoring, sponsorship
-- *Community:* premium courses or membership sites often offer this as a benefit
-- *Freedom:* safety net that permits experimentation, time to focus on it instead of worrying about bills, etc.
-
-Hmm. I have some experience in investing in better tools,
-higher-quality resources, experimentation, feedback/analysis,
-delegation, and freedom. I'd like to get better at that and at
-investing in relationships and outsourcing. Come to think of it, that
-might be more useful than focusing on learning from
-coaching/instruction, at least for now.
-
-Let me imagine what using money to accelerate learning would be like:
-
-- Relationships
-  - Get to know individuals faster and deeper
-    - Free: Build org-contacts profiles of people who are part of my
-      tribe (people who comment/link/interact); think about them on a
-      regular basis
-    - Free: Proactively reach out and explore shared interests/curiosities
-    - *$:* Figure out digital equivalent of treating people to lunch or
-      coffee: conversation + maybe investing time into creating a good
-      resource for them and other people + sending cash, donating to
-      charity, or (best) cultivating reciprocal learning
-    - *$:* Sign up for a CRM that understands Gmail, Twitter, and
-      maybe even Disqus
-  - Identify things to learn about and reach out to people who are good role models for those skills
-    - Free: Be specific about things I want to learn
-    - Free: Find people who know how to do those things (maybe delegate research)
-    - *$:* Apply their advice
-    - *$:* Reach out with results and questions, maybe an offer to donate to their favourite charity
-  - Help the community ([[http://sachachua.com/blog/2015/01/improving-evil-plans-emacs/][like Emacs evil plans]]; rising tide lifts all boats)
-    - *$:* Invest time and money into creating good resources
-    - Be approachable
-    - *$:* Bring the community together. Invest in
-      platforms/organization. For example, I can use whatever I would
-      have spent on airfare to create a decent virtual conference
-      experience, or figure out the etiquette of having an assistant
-      set up and manage Emacs Hangouts/Chats.
-- Outsourcing 
-  - Identify things that I want to do, regardless of skills
-  - *$:* Experiment with outsourcing parts that I don't know how to do
-    yet (or even the ones I can do but want external perspectives on)
-  - Use the results to determine what I actually want and what to
-    learn more about; iterate as needed
-
-Huh, that's interesting. When I start thinking about investing in
-learning, I tend to fixate on finding a coach because I feel a big gap
-around directly asking people for help. But I can invest in other ways
-that might be easier or more effective to start with. Hmm... Thoughts?
-
-
-*** DONE Finding a model for my sharing                          :experiment:
-    CLOSED: [2015-01-12 Mon 13:43]
-    :PROPERTIES:
-    :Effort:   1:00
-    :Evernote:  sharing-model
-    :ID:       o2b:0d337d6b-0d70-433b-a84c-3ac7a6dcf15f
-    :POST_DATE: [2015-01-12 Mon 13:39]
-    :POSTID:   27796
-    :BLOG:     sacha
-    :END:
-    :LOGBOOK:
-    CLOCK: [2015-01-12 Mon 11:32]--[2015-01-12 Mon 13:43] =>  2:11
-    :END:
-
-Can a sharing model based on free/pay-what-you-want resources be
-sustainable over a long period of time?
-
-I've been thinking about this for a number of reasons:
-- One of my assistants e-mailed me about [[http://sachachua.com/blog/2014/11/rethinking-delegation/][my difficulties with
-  delegation]]. He suggested thinking of my life as a business: What
-  would my objectives be? When I reflected on that, I realized I had
-  some discomfort around the ideas of customers and business models.
-  Was my life more like science and exploration? Not quite, either. I
-  left the thread of thought unresolved.
-- Problogger posted this [[http://www.problogger.net/archives/2015/01/06/make-money-blogging-start-the-new-year-by-increasing-your-income-streams/][mind map of different ways to monetize a
-  blog]]. I realized that I'm not keen on advertising, physical
-  products, selling/flipping blogs, premium
-  content/communities/products, affiliate marketing (except for
-  books I like, and even then those offer tiny commissions and
-  it feels a little hypocritical to do that given that I hardly ever
-  buy books myself), and other indirect methods. I might be okay with
-  coaching, if I can come up with a good workaround for the impostor
-  syndrome.
-- In an interview about Quantified Self and life experiments, a
-  journalist asked me to describe my business. I felt that social
-  business consulting wasn't the real crux of my current life's work,
-  and that talking about writing and publishing e-books would be
-  incomplete without exploring why free/pay-what-you-want pricing is
-  important to me. Answering his question prompted me to think about
-  my motivations a bit more.
-- Harold Jarche wrote about [[http://jarche.com/2015/01/the-exposure-economy/][the exposure economy]] and his decision to
-  limit his sharing. I understand where he's coming from - by mom
-  gives similar lectures to aspiring photographers who have yet to
-  internalize that "exposure" won't buy them new equipment. But
-  there's something else that drives me to share *more*, not less, and
-  I want to understand that.
-- [[https://twitter.com/ljconrad/status/554657853966147584][@ljconrad]] retweeted a link to [[http://highability.org/521/the-gift-of-being-uncommon/][The Gift of Being Uncommon]], which
-  included a segment on "gift reciprocity versus market economy." It
-  says that people "may have difficulty charging sufficiently for
-  their work, especially if they view their own abilities, products or
-  insights as gifts that need to be shared with others." I've
-  requested Lewis Hyde's book /The Gift: Creativity and the Artist in
-  the Modern World/ from the library, and I'm looking forward to digging into it further.
-- The contrast of a gift culture versus a market economy reminded me
-  of Eric S. Raymond's [[http://www.catb.org/esr/writings/homesteading/homesteading/]["Homesteading the Noosphere"]] (2000). I revisited its
-  sections on gift culture, art, and reward. It made me think: Is
-  reputation a major driver for me? How does this work out if my ideal
-  outcome does not involve parlaying that reputation into economic
-  opportunities like jobs or gigs?
-- And that reminded me of Tom Morkes' guide to [[http://blog.gumroad.com/post/75707736685/is-pay-what-you-want-pricing-for-you][pay what you want
-  pricing]], and the breadth of people using the PWYW strategy. I'm
-  always delighted to get a note from Gumroad that someone has
-  purchased one of my resources, but I'm still working on getting my
-  [[http://sachachua.com/blog/?p=27781&shareadraft=baba27781_54b00c3c5784c][anxious side]] to accept that this is okay.
-
-So that's my context.
-
-Mulling all those things, I realized that the model I can use to
-understand my desire to share isn't business (with its customers,
-markets, and exchanges of value) or modern science (with its funding
-from institutions and competition around publications).
-
-It's *philosophy*. Ancient philosophy, not professionalized modern
-philosophy.
-
-What were the "business models" for ancient Greek and Roman
-philosophers? How did they sustain themselves?
-
-[[https://www.flickr.com/photos/sachac/15644689403/][2015.01.10 How did schools of philosophy work in ancient Greece and Rome -- index card #independence #philosophy]]
-
-[[https://www.flickr.com/photos/sachac/15642166954/][2015.01.10 More about philosophers -- index card #independence]]
-
-- The Cynics begged in the streets. (I'd rather avoid that option.)
-- People or schools received gifts (from students, from other people
-  in the community, etc.).
-- People or schools had rich patrons.
-- People charged tuition, offered private tutoring, and so on.
-- People worked in unrelated occupations. For example, [[http://en.wikipedia.org/wiki/Cleanthes][Cleanthes]]
-  philosophized during the day and carried water at night.
-- People had private means: estates, investments, and so
-  forth. [[http://en.wikipedia.org/wiki/Seneca_the_Younger][Seneca]] had a fortune (acquired through less-palatable means). [[http://en.wikipedia.org/wiki/Titus_Pomponius_Atticus][Atticus]] inherited wealth and grew it through real estate.
-
-Some philosophers taught in closed schools: [[http://en.wikipedia.org/wiki/Pythagoras][Pythagoras]] kept an
-exclusive brotherhood. Others taught in public, like [[http://en.wikipedia.org/wiki/Stoicism][Zeno]] did.
-
-I don't quite think of what I do as philosophy, but I can learn from
-how these schools worked. For example, using philosophy as a lens, it
-makes sense to me to share in public for the following reasons:
-- More people can learn.
-- Ideas stand a greater chance of being remembered and used. (By other
-  people, and by me!)
-- I can grow from the conversation.
-
-This last point is particularly important to me. I'm still figuring
-things out. I don't feel that I'm quite at the stage where I can teach
-people well - when I have clear paths and well-tested lessons. I'm
-still at the stage where I try to live as well as I can, making and
-sharing useful things. People's questions often help me realize
-something I didn't know I knew. I'm nowhere close to sharing wisdom
-suitable for the ages (and might never be).
-
-[[https://www.flickr.com/photos/sachac/16264586265/][2015.01.11 Current state and future states -- index card #writing]]
-
-With that learner's perspective, it doesn't make sense to me to limit
-the circle of people I can reach, or to charge people for the
-privilege of my being able to learn from them. But it does make sense
-to be open to gifts - of money, sure, but especially of time, skills,
-experience, and perspective.
-
-[[https://www.flickr.com/photos/sachac/16238668166/][2015.01.10 Lessons from ancient Rome -- index card #philosophy]]
-
-In fact, reflecting on how ancient philosophers managed their ups and
-downs helped me address more of my anxiety over whether a financial
-mistake might break this freedom. After all, life back then was way
-more volatile than life is now. What's a downturn in the stock market
-like compared to the whims of emperors and the possibility of exile? I
-have fewer pressures on my life and more resources than people back
-then could imagine. (Searchable books! The Internet! Amazing text
-editors! Boggle.) If I want to learn about interesting things,
-potential changes in my situation shouldn't stop me.
-
-So here we are. I don't know if Kevin Kelly is right about [[http://kk.org/thetechnium/2008/03/1000-true-fans/][1,000 True
-Fans]] (or John Scalzi about a [[http://whatever.scalzi.com/2008/03/12/the-nagging-details-about-1000-true-fans/][larger, more modest base]]). "Fan" isn't
-quite what I'm going for, anyway. I want co-adventurers,
-co-figure-out-ers - ideas bumping into each other in conversations,
-the back-and-forth of experiments. Maybe a teacher will appear and
-guide me. Maybe students will help me discover what I can teach. I've
-found some role models to help me understand sharing, and I'm looking
-forward to seeing if that can still work in the modern world - or
-better yet, what we can do with it.
-
 *** The 5-year experiment: A conversation with my anxious side, and how giving me time might be better than giving me money :experiment:
     :PROPERTIES:
     :Effort:   1:00
@@ -9862,6 +9845,249 @@ Nice to have a kitchen and the time to cook! =)
 	:END:
 - [[http://sachachua.com/blog/?p=27634&shareadraft=baba27634_54791f18b29e6][Emacs configuration and use-package]]
 - [[http://sachachua.com/blog/2014/11/emacs-coaching-unknowns-figuring-want-learn/][Emacs, coaching, and unknowns: Figuring out what I want to learn]]
+** Cooking with Emacs
+
+** TODO Emacs Org Mode and the power of plain text  :emacs:org:
+   :PROPERTIES:
+   :ID:       o2b:b0c8f877-460c-42e0-b2b1-47f922fcddc7
+   :POST_DATE: [2015-02-03 Tue 13:41]
+   :POSTID:   27952
+   :BLOG:     sacha
+   :END:
+
+When I build a tool for other people to use and I want to store data,
+I usually have to think in terms of relational databases: tables,
+fields, and queries. There are other kinds of databases out there,
+like ones with flexible documents or ones that are optimized for
+graphs, but I haven't gotten the hang of them yet.
+
+When I build a tool for myself and I want to store data, I usually use
+plain text. (Or _maybe_ a spreadsheet, but now that I'm getting the
+hang of [[http://sachachua.com/blog/2015/01/getting-data-org-mode-tables/][Org Mode tables]], I'm leaning more and more towards text.)
+
+[[https://www.flickr.com/photos/sachac/16242089990/][2015-02-02 Plain text -- index card #data #organization #pkm #org]]
+
+I like the flexibility of plain text. Sometimes I want to organize my
+thoughts in an [[http://sachachua.com/outline][outline]] or an [[http://sachachua.com/index][index]]. Sometimes I want to make a graph,
+like the way I wanted to visualize how my [[http://sachachua.com/evil-plans][goals]] are related to each
+other. Sometimes I change my mind about what I want. (All the time,
+actually. =) ) Plain text lets me add structure the way I want to.
+It's all in my text editor, so I can move things around or reorganize
+things using the tools in Emacs.
+
+Sure, sometimes I mess up because of formatting mistakes or the lack
+of validation. For example, typos in my personal ledger show up when
+the numbers don't match my bank balances or there's a new category
+with a misspelled name. But these are easy enough to catch and fix,
+and I can't completely guard against them with a database anyway. And
+it's nice to know that version control can let me visually step
+through the changes or recover from mistakes.
+
+What about speed? Databases can be much faster than plain text for
+large quantities of data, for sure. I tend to work with pretty small
+quantities of data. For example, my blog index has 3257 lines, and the
+file that I'm drafting this in is under a megabyte. Even with whatever
+Emacs Lisp I've written to extract or cross-reference data, I'm still
+mostly bottlenecked by my brain instead of my computer. Sure, it took
+me a little longer to figure out how to do table calculations using
+Org Mode, but now that I have some notes on that, I should be able to
+come up with future calculations more easily. Besides, if I need to
+analyze things quickly, I can export and then crunch the numbers using
+a different tool.
+
+Speaking of tools, staying with lightly-structured plain text lets me
+build a toolkit of text manipulation techniques. When I'm editing
+things in Emacs, scripting with Emacs Lisp, searching with grep, or
+writing Javascript/Ruby/Perl code to work with text, I'm developing
+skills that I can use in a wide range of situations.
+
+If you're interested in keeping your data in plain text with Org Mode,
+here are some tips that can help you learn how to work with your
+information.
+
+*** Start with tables
+
+1. Learn how to use keyboard shortcuts to create, move, or delete rows and columns.
+2. Learn how to sort tables.
+2. Learn how to use the column with specifier (ex: =<10>=) to limit
+   the displayed size of your column while still being able to add
+   more information.
+3. Use Org Mode's support for calculations to do math or perform other
+   operations on your table.
+
+*** Consider using properties
+
+Org tables don't do well with paragraphs or more complex information, so you might want to use Org subtrees with properties.
+
+You can use Org columns to display property values, or use Org dynamic
+blocks to put a summary of the values into your Org Mode file. See
+=org-collector.el= for a =propview= report.
+
+If you want more control, you can work with the information using
+Emacs Lisp. You can use =org-entry-get=,
+=org-entry-get-multivalued-property=, or
+=org-entry-get-with-inheritance= to get the value of the property. If
+you want to go through all the subtrees (or a subset of them), use
+=org-map-entries= to call your own function at each of the matching
+headlines in the scope. =org-heading-components= will give you the
+information from the current heading, and you can use
+=org-end-of-subtree= to give you the boundary of the subtree if you
+want to process it further.
+
+You can parse Org Mode lists with =org-list-struct=. I haven't dug
+into this deeply yet, but it looks interesting.
+
+*** Parse free-form text
+
+In addition to working with tables and properties, you can write
+functions that use regular expressions or other techniques to extract
+data from text. =re-builder= can be useful for visual feedback while
+you're figuring out the right regular expression to build. Remember,
+you're in Emacs, so you don't have to come up with the perfect regular
+expression that extracts all the data in one go. You can search for a
+regular expression, use a command like =forward-line=, save something
+to a variable, and so forth. Try thinking about how you would do
+something by hand, and then using =repeat-complex-command= to see what
+functions Emacs called when you did that.
+
+=save-restriction=, =narrow-to-region=, and =save-excursion= are very
+useful when it comes to limiting the scope of your processing or
+saving your position, so check them out in the Emacs Lisp manual.
+
+I find plain text to be really useful when I'm figuring things out
+(so, all the time), since I don't have to build a complex interface
+for working with it. As I learn more about Org Mode's features, I find
+myself using it for more and more of my data. Org's slogan is
+"Organize your life in plain text!" -- and I think it just might be
+serious about that!
+
+** DONE Let's have a virtual Emacs conference in August - help me make it happen! :emacs:conference:connecting:
+   CLOSED: [2015-02-02 Mon 15:53]
+   :PROPERTIES:
+   :Effort:   2:00
+   :ID:       o2b:a0cdd3bf-cb74-4253-9dea-137b3928ca2a
+   :POST_DATE: [2015-02-02 Mon 15:50]
+   :POSTID:   27948
+   :BLOG:     sacha
+   :END:
+   :LOGBOOK:
+   CLOCK: [2015-02-02 Mon 15:08]--[2015-02-02 Mon 15:53] =>  0:45
+   :END:
+
+Why August? It's an arbitrary target, although it tickles my brain to
+think about celebrating my 32nd birthday with awesome people sharing
+awesome ideas. (Incidentally, I'll also reach the point of having been
+using Emacs for about half my life - doubly neat!)
+
+Anyway. I think it would be great to have some kind of
+knowledge-swapping thing. Since I'm not particularly keen on
+travelling, not everyone can make it out to Canada, and it's hard to
+make awesome in-person conference recordings anyway, maybe a virtual
+conference would be a great bet. I'm willing to spend what I would
+have paid for airfare on things like organization, speaker honoraria,
+and other good things.
+
+I enjoyed the Emacs Conference in 2013, and I think we should figure
+out how to have these kinds of get-togethers more often. [[http://sachachua.com/emacs-chat][Emacs Chats]]
+and [[http://sachachua.com/blog/tag/emacs-hangout][Emacs Hangouts]] are tiny steps in that direction, and I'd
+appreciate help in making this and many other community-ish things
+even better. =)
+
+[[https://www.flickr.com/photos/sachac/16428559642/][2015-02-02 Imagining an Emacs conference -- index card #emacs #conference #plans #organizing-people]]
+
+So here's what I imagine a virtual Emacs conference might be like.
+People volunteer, and somehow we organize a schedule of fascinating
+talks. This could be a full day, or maybe we'd spread it out over a
+couple of half-days (maybe even scheduled for different timezones so
+that everyone has something they can interact with life). We use
+Google Hangout on Air or a similar platform that can stream and
+automatically record. There's the speaker with slides and
+screensharing, and there's a moderator who can pick up questions from
+IRC and Google Hangout in order to ask them out loud. We might even be
+able to pull off panel discussions. Afterwards, there's a playlist and
+a webpage with all the videos/MP3s/OGGs, and people can share their
+notes/discussions/follow-ups.
+
+All this is immensely doable with the technology we have today. For free, even. Anyway, the technology should be okay.
+
+What about topics? Here's what I'm particularly curious about:
+
+- New features in Emacs 25 (and beyond)
+- Demos, workflows, and setup tips for popular toolsets/needs (ex: awesome setups for Clojure/CL, Rails, Javascript, C++, Java, writing, research)
+- Fascinating uses of Emacs
+- Good practices for Emacs Lisp: automated testing, performance, reliability, coding style/idioms (maybe even workshops along these lines)
+- Demystifying cool stuff: how core modules work, how to contribute to Emacs
+- A hackathon: get package.el headers on everything! fix bugs! make improvements! document!
+- Emacs microhabits, learning
+- Workshops: intermediate/advanced use of Org Mode, Calc, ESS, and other powerful packages
+- Emacs community-building and sharing
+
+And people can suggest other topics, too. =) Maybe we can even figure
+out some kind of unconference setup: people suggesting topics they can
+share, quickly voting on what they're interested in, and breaking up
+into separate "rooms" to share/discuss.
+
+[[https://www.flickr.com/photos/sachac/15809453673/][2015-02-02 Making a virtual Emacs conference happen -- index card #emacs #organizing-people #conference #planning #questions]]
+
+An Emacs conference would be awesome. Here are my (pitiful) excuses for why I haven't figured out how to organize one yet, and things I want to figure out (especially with people's help):
+
+- *Who might be interested in speaking?* How does one go about
+  organizing speakers, schedules, topics, tech, etc? I'm still slowly
+  getting the hang of reaching out to people and inviting them to
+  Emacs Chats.
+- *Will people show up and ask questions?* Part of me is worried that
+  I'll pick entirely the wrong date/time/topics and there'll be
+  awkward silence.
+- *How can we handle questions?* IRC, probably, so that people can
+  chat about stuff too. I think I'm pretty comfortable at keeping an
+  eye on stuff and repeating people's questions. Or maybe people can
+  join the Emacs Hangout if we can get the flow to be smooth?
+- *Will the experience be pleasant and worthwhile?* Maybe not as
+  goosebump-inducingly awesome as being in a room with 80+ other Emacs
+  geeks, but I think it will be worthwhile.
+- *How can we harvest and share resources?* Hangouts on Air will put
+  videos on Youtube automatically, so that'll be taken care of.
+- *What would we need to do leading up to it?* Something about a
+  mailing list, and a webpage, and lots and lots of coordination.
+- *Do I need to gain experience/confidence with smaller steps?*
+  Or maybe find some accomplices?
+
+Of course, if someone wants to organize an in-person one, that's cool too. Especially in Toronto. That would be awesome. =) (Although I might be able to get to New York or similar places too...)
+
+My evil plans for a conference like this include:
+- Getting cool stuff out of people's heads/fingers/configs and into a form that other people can look at, learn from, and link to
+- Ditto for good practices that can help us develop better code (performance)
+- Discovering resources and tips we might not have found out about otherwise
+- Sparking more conversations and follow-ups
+- Spurring people to create and share more resources
+
+What could help the Emacs community learn even faster?
+
+[[https://www.flickr.com/photos/sachac/15800587003/][2015-02-01 Accelerating the Emacs community -- index card #accelerating #emacs]]
+
+How can we get more people sharing their configs, or learning from
+other people's configs? How can we make it easier for people to share
+through blog posts, videos, animated GIFs, and presentations? How can
+we create spaces for people to connect, either with virtual meetups or
+in person? How can we swap interesting ideas, workflows, and mental
+habits? How can we improve our skills? How can we keep the
+conversation going?
+
+Mm. Figuring out how to do virtual conferences might be a good start.
+Also, I've got this idea noodling around in my head on having some
+kind of an intermediate/advanced Org Mode workshop: something that
+covers clocking workflows, table calculations, literate programming,
+data analysis, publishing. Figuring out how to do virtual workshops would be awesome too.
+
+Okay. First things first. Some kind of date and some kind of time, and
+some kind of help sorting out a schedule. August 8 and/or August 15,
+maybe? If [[http://publiclibrariesonline.org/2014/10/a-free-virtual-conference-for-librarians-its-on/][librarians]] can hold an [[http://www.liboncon.com/news][online conference]] through Google
+Hangouts, we should be able to figure this out too. (Librarians are
+super-cool!) If you have lots of experience in organizing virtual
+conferences or you have ideas for how to make this less intimidating
+for a non-organizer-y introvert, I'd love to hear from you in the
+comments or at [[mailto:sacha@sachachua.com][sacha@sachachua.com]]. Let's make this happen!
+
 
 ** Getting data from Org Mode tables  :emacs:org:
    :PROPERTIES:
@@ -10048,7 +10274,6 @@ hope this explanation will help you (and that it'll help me when I
 forget the syntax, as I'm sure I will). If you come up with something
 really neat that uses Org Mode tables, tell me what you've figured
 out!
-
 
 ** DONE Meta-post: Revising my post on emptying one's cup   :writing:editing:
    CLOSED: [2015-01-19 Mon 13:19]
@@ -10790,15 +11015,23 @@ Now I just have to remember that =C-u= does cool stuff...
 https://gist.githubusercontent.com/sachac/11090358/raw/4ece9ccc2399ee9f8deb3f1c1294ab43bf6ba844/gistfile1.org
 zeltak
 ** TODO Getting started with configuring Emacs
-** TODO Cooking with Emacs																				:requested:
+** STARTED Cooking with Emacs                                     :requested:
+   :PROPERTIES:
+   :Effort:   1:00
+   :END:
+   :LOGBOOK:
+   CLOCK: [2015-02-17 Tue 11:37]--[2015-02-17 Tue 11:53] =>  0:16
+   :END:
 @cehter
-
 - menu planning
+
+
+
 ** TODO Org Mode and Evernote
 http://sachachua.com/blog/2013/06/heres-the-recording-from-how-to-use-evernote-to-improve-your-visual-thinking/#comment-968427150
 
 ** TODO Tracking people with org-contacts
-   SCHEDULED: <2015-02-28 Sat>
+   SCHEDULED: <2015-03-03 Tue>
 ** TODO Ledger and Org Mode
 ** TODO Ledger tutorial
 - requested by henders254 on June 28, 2013
@@ -13020,6 +13253,75 @@ knives, pans, and other tools.
      :END:
 ** Productivity and time
 - [[http://sachachua.com/blog/2015/01/relaxed-routines/][Relaxed routines]]
+
+
+
+*** DONE Learning to live slowly                            :experiment:pace:
+    CLOSED: [2015-03-02 Mon 13:18]
+    :PROPERTIES:
+    :Effort:   1:00
+    :ID:       o2b:dab9eac6-9cb6-4732-a267-c29f81571672
+    :POST_DATE: [2015-03-01 Sun 22:22]
+    :POSTID:   28014
+    :BLOG:     sacha
+    :END:
+    :LOGBOOK:
+    CLOCK: [2015-03-01 Sun 21:50]--[2015-03-02 Mon 13:18] => 15:28
+    :END:
+
+Sometimes I feel a little duller around the edges, not quite as alert.
+It's a little harder to think, to reason. I feel slightly out of
+focus. I talk more slowly, move more slowly.
+
+And yet, living more slowly, I feel like I live more gracefully as
+well. None of the sharp jitters when my mind works at its fastest,
+none of the zigzags and interruptions, none of the words tumbling over
+themselves in their haste. More meditative.
+
+I know why this is so and I don't seek to avoid it. The real question
+is: How can I embrace this state? How can I make the most of it? It is
+natural, and will only become more so over time.
+
+Coding currently feels better with a sharp mind, but there are still a
+myriad tasks to do and things to learn even when I don't feel at my
+peak. Over time, I'll learn to code in a reflective state instead of
+the intense one I carried over from competitions and quick
+prototyping. I think this will be good for my growth as a developer.
+After all, speed is not as useful as insight and care.
+
+Reflective writing feels better than rapid writing. I don't feel
+brilliant, but I feel methodical: following threads slowly, watching
+my own thoughts.
+
+Cooking has become something that gives me pleasure. It's one of those
+activities that I can indulge in, knowing that I can reliably create
+value where sometimes writing or coding does not. There are no blocks
+when it comes to cooking, only the steady slicing of ingredients and
+the textures and tastes of alchemy.
+
+This slowness is perfect for listening, for talking. When I was
+younger, I felt an almost physical itch to be elsewhere, to be away,
+to be within the world of a book or a computer instead of in
+conversation.
+
+Tidying benefits from deliberate thought. I organized my closet and my
+drawers by colour, and suddenly the patterns are visible. It takes
+just as much effort to maintain this order as it would to mess it up,
+and so I keep it.
+
+Most days, I get very little done. But somehow, looking back over the
+week, I find that I've covered more ground than I thought.
+
+I have the perfect foundation for learning how to live slowly. Few
+commitments, few expectations. I've lived this first part at a speed
+that other people have found remarkable but also, perhaps,
+uncomfortable: speaking, reading, coding, enthusiasm. It might be
+interesting to experiment with the flip side of that: the kind of
+stillness that the nuns in my grade school carried with them, the calm
+of late-night relaxed conversations, the serenity of quiet. I think I
+can translate the things I've loved about my faster life. Enthusiasm
+and delight don't need to be breathless. The world is frantic enough.
+Let me learn how to be contagiously restful. =)
 
 *** DONE Fuzzy brain
 		 CLOSED: [2014-09-14 Sun 20:22]
@@ -16630,3 +16932,102 @@ I write. In podcasts and real-life conversations, I often interrupt
 myself, stutter, or use complex sentence patterns. When I write, I
 feel like I'm thinking more clearly and saying things more clearly.
 
+** DONE Continuous integration and code coverage for Emacs packages with Travis and Coveralls :emacs:
+   CLOSED: [2015-02-04 Wed 13:58]
+   :PROPERTIES:
+   :ID:       o2b:daeea0bd-18e3-47bb-82b0-17f76c048c0a
+   :POST_DATE: [2015-02-04 Wed 13:49]
+   :POSTID:   27958
+   :BLOG:     sacha
+   :END:
+
+Do you maintain an Emacs package hosted on Github? Would you like to
+get those confidence-building, bragging-rights-granting,
+other-developers-inspiring *build: passing* and *coverage: 100%*
+badges into your README file?
+
+It turns out that this is pretty easy with [[http://www.gnu.org/software/emacs/manual/ert.html][ERT]], [[https://cask.github.io/usage.html][Cask]], [[http://travis-ci.org][Travis CI]], [[https://github.com/sviridov/undercover.el][undercover.el]], and [[http://coveralls.io][Coveralls.io]].
+
+1. Log on to [[http://travis-ci.org][Travis]] and enable continuous integration for your repository.
+2. Log on to [[http://coveralls.io][Coveralls.io]] and enable coverage testing for your repository.
+3. Set up a git branch, since you'll probably be making lots of small
+   commits while you smooth out the testing workflow.
+4. Define your tests with ERT. See https://github.com/abo-abo/tiny/blob/master/tiny-test.el for an example.
+5. Define your dependencies with Cask. Include =undercover=. For
+   example, here's a simple Cask file:
+   #+begin_src emacs-lisp
+   (source gnu)
+   (source melpa)
+
+   (development
+     (depends-on "undercover"))
+   #+end_src
+6. Add a =.travis.yml= that specifies how to test your package on Travis. For example, see this [[https://github.com/abo-abo/tiny/blob/master/.travis.yml][.travis.yml]] and [[https://github.com/abo-abo/tiny/blob/master/Makefile][Makefile]].
+7. Commit and push.
+8. Check your repository status in Travis to see if it ran properly.
+9. Check your coverage status in Coveralls.io to see if it displayed
+   properly.
+10. Get the badge code from Travis and Coveralls, and add them to your
+    README (probably using Markdown). Yay!
+
+Incidentally, if you want to see your test coverage locally, you can
+=(require 'testcover)= and then use =testcover-this-defun= or
+=testcover-start= to instrument the macros and functions for coverage.
+Run your tests, then use =testcover-mark-all= to look at the results.
+See the documentation in =testcover.el= to find out what the coloured
+overlays mean. Edebug has a test coverage tool too, so you can explore
+that one if you prefer it.
+
+Additional notes on testing:
+
+[[https://www.flickr.com/photos/sachac/16249059918/][2015-02-03 Better Emacs Testing -- index card #testing #emacs]]
+
+[[https://www.flickr.com/photos/sachac/16417963446/][2015-02-04 Yay, testing in Emacs -- index card #testing #emacs]]
+
+
+** DONE Miscellaneous memories                                         :life:
+   CLOSED: [2015-02-10 Tue 10:12]
+   :PROPERTIES:
+   :Effort:   1:00
+   :ID:       o2b:1e4327e3-6026-4ea6-b876-294f6dd243b7
+   :POST_DATE: [2015-02-10 Tue 10:08]
+   :POSTID:   27981
+   :BLOG:     sacha
+   :END:
+   :LOGBOOK:
+   CLOCK: [2015-02-10 Tue 10:00]--[2015-02-10 Tue 10:12] =>  0:12
+   :END:
+
+Because these don't quite fit in their own blog posts, but I want to
+stash them in my blog anyway.
+
+[[https://www.flickr.com/photos/sachac/15821429074/][2015-02-04 Yay, passport -- index card #canada #travel #paperwork]]
+
+I got my Canadian passport, yay! I'm still not particularly keen on
+travel, but this will make it loads easier when I do. Fewer visas to
+apply for, fewer paperwork hassles... Hooray!
+
+[[https://www.flickr.com/photos/65214961@N00/16402493371][2015-01-30 Sunlight in a cafe -- index card #cafe #light]]
+
+Our kitchen is the room with the most sunlight in our house, so I
+spend most of my time in it. But it faces west, so it doesn't get as
+much sun as a south-facing room would. (Life in the northern
+hemisphere: I'm still getting the hang of all the little details!)
+
+The other week, I went to a cafe to help someone with Emacs. So much
+sunlight! Wonderful. I felt like a cat.
+
+[[https://www.flickr.com/photos/sachac/16201408358/][2015-01-27 Field's metal -- index card #hacklab]]
+
+Eric brought some Field's metal to Hacklab. It's a metal that melts at
+a temperature below that of hot water. We cast tiny robots in a
+chocolate mold. =)
+
+[[https://www.flickr.com/photos/sachac/16224809568/][2015-01-31 Clearing my fabric stash -- index card #tidying #decluttering]]
+
+Decluttering the basement, letting go of just-in-case fabric and
+planned projects I hadn't touched in years. I might take up sewing
+again, but I'll be more careful about fabric and pattern purchases.
+
+Hmm, maybe I should include little memories in my weekly review. That
+makes sense. I'll do that going forward!

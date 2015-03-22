@@ -110,7 +110,7 @@ describe("PrettyDate.update", function() {
    :QUANTIFIED: Japanese
    :END:
 See [[file:~/personal/organizer.org::*Learn%20Japanese][Learn Japanese]]
-*** STARTED Find an easy way to look up Japanese when typing into Emacs
+*** TODO Find an easy way to look up Japanese when typing into Emacs
     :LOGBOOK:
     CLOCK: [2014-11-12 Wed 17:01]--[2014-11-15 Sat 09:30] => 64:29
     :END:
@@ -198,11 +198,12 @@ http://www.tableausoftware.com/community/support/documentation-old
 
 ** Turning ideas and assumptions into experiments
 *** TODO [#C] Tracking: Update the number of tasks        :lowenergy:routine:
-    SCHEDULED: <2015-02-16 Mon .+1m>
+    SCHEDULED: <2015-03-17 Tue .+1m>
     :PROPERTIES:
-    :LAST_REPEAT: [2015-01-16 Fri 17:08]
+    :LAST_REPEAT: [2015-02-17 Tue 11:17]
     :END:
 			 :LOGBOOK:
+       - State "DONE"       from "TODO"       [2015-02-17 Tue 11:17]
        - State "DONE"       from "TODO"       [2015-01-16 Fri 17:08]
        - State "DONE"       from "TODO"       [2014-12-09 Tue 14:15]
        - State "DONE"       from "TODO"       [2014-11-05 Wed 18:27]
@@ -231,12 +232,6 @@ http://www.tableausoftware.com/community/support/documentation-old
 			 CLOCK: [2014-04-18 Fri 16:35]--[2014-04-18 Fri 16:37] =>  0:02
 			 - State "DONE"       from "STARTED"    [2014-04-17 Thu 22:03]
 			 CLOCK: [2014-04-17 Thu 21:49]--[2014-04-17 Thu 21:59] =>  0:10
-			 :END:
-			 :PROPERTIES:
-			 :CREATED:  [2014-04-16 Wed 22:17]
-			 :Effort:   0:10
-       :LAST_REPEAT: [2014-11-05 Wed 18:27]
-			 :QUANTIFIED: Tracking
 			 :END:
 
 <2014-04-16>--<2014-05-16 Fri>
@@ -336,6 +331,8 @@ Hmm, maybe I'll go ahead and calculate that first.
 | 2014-12-09 | 1827 |      6 |  117 |     0 |      4 |   288 |      65 |  2307 |    79% |     67 |     -1 |      84 |          18 |
 | 2015-01-04 |  390 |      8 |  189 |     2 |      4 |    94 |      63 |   750 |    52% |  -1437 |   -194 |   -1557 |          74 |
 | 2015-01-16 |  444 |      9 |  197 |     3 |      4 |    97 |      63 |   817 |    54% |     54 |      3 |      67 |          10 |
+| 2015-02-17 |  546 |     11 |  230 |    26 |      4 |    96 |     116 |  1029 |    53% |    102 |     -1 |     212 |         111 |
+| 2015-02-18 |  555 |     15 |  236 |    26 |      4 |    96 |     115 |  1047 |    53% |      9 |      0 |      18 |           9 |
 #+TBLFM: @3$11..@>$11=$2-@-1$2::@3$13..@>$13=$9-@-1$9::@3$14..@>$14=$13-$11-($7-@-1$7)::@3$12..@>$12=$7-@-1$7
 
 #+begin_src R :var data=burndown :results graphics :file tasks.png :exports both
