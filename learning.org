@@ -198,11 +198,12 @@ http://www.tableausoftware.com/community/support/documentation-old
 
 ** Turning ideas and assumptions into experiments
 *** TODO [#C] Tracking: Update the number of tasks        :lowenergy:routine:
-    SCHEDULED: <2015-03-17 Tue .+1m>
+    SCHEDULED: <2015-04-22 Wed .+1m>
     :PROPERTIES:
-    :LAST_REPEAT: [2015-02-17 Tue 11:17]
+    :LAST_REPEAT: [2015-03-22 Sun 18:52]
     :END:
 			 :LOGBOOK:
+       - State "DONE"       from "TODO"       [2015-03-22 Sun 18:52]
        - State "DONE"       from "TODO"       [2015-02-17 Tue 11:17]
        - State "DONE"       from "TODO"       [2015-01-16 Fri 17:08]
        - State "DONE"       from "TODO"       [2014-12-09 Tue 14:15]
@@ -333,6 +334,7 @@ Hmm, maybe I'll go ahead and calculate that first.
 | 2015-01-16 |  444 |      9 |  197 |     3 |      4 |    97 |      63 |   817 |    54% |     54 |      3 |      67 |          10 |
 | 2015-02-17 |  546 |     11 |  230 |    26 |      4 |    96 |     116 |  1029 |    53% |    102 |     -1 |     212 |         111 |
 | 2015-02-18 |  555 |     15 |  236 |    26 |      4 |    96 |     115 |  1047 |    53% |      9 |      0 |      18 |           9 |
+| 2015-03-22 |  602 |     23 |  242 |    26 |      4 |   101 |     115 |  1113 |    54% |     47 |      5 |      66 |          14 |
 #+TBLFM: @3$11..@>$11=$2-@-1$2::@3$13..@>$13=$9-@-1$9::@3$14..@>$14=$13-$11-($7-@-1$7)::@3$12..@>$12=$7-@-1$7
 
 #+begin_src R :var data=burndown :results graphics :file tasks.png :exports both

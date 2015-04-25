@@ -124,6 +124,8 @@ Click on the headings to expand them.
   - [[https://www.flickr.com/photos/sachac/16203140617/][2015-01-26 Book - How to Think Like Leonardo da Vinci -- index card #raw #book]]
   - [[https://www.flickr.com/photos/sachac/16291598451/][2015-01-15 Writing on Both Sides of Your Brain - Henriette Anne Klauser -- index card #book #raw]]
 + [[https://www.flickr.com/photos/sachac/16729458436/][2015-03-08a Monthly review - February 2015 -- index card #monthly]]
++ [[https://www.flickr.com/photos/sachac/16847896789/][2015-04-04a Ideas for laser registration -- index card #hacklab #laser]]
++ [[https://www.flickr.com/photos/sachac/17218478255/][2015-04-20k Week ending 2015-04-17 -- index card #journal #weekly]]
 
 
 ** Automate Text
@@ -11031,7 +11033,6 @@ zeltak
 http://sachachua.com/blog/2013/06/heres-the-recording-from-how-to-use-evernote-to-improve-your-visual-thinking/#comment-968427150
 
 ** TODO Tracking people with org-contacts
-   SCHEDULED: <2015-03-03 Tue>
 ** TODO Ledger and Org Mode
 ** TODO Ledger tutorial
 - requested by henders254 on June 28, 2013
@@ -17031,3 +17032,82 @@ again, but I'll be more careful about fabric and pattern purchases.
 
 Hmm, maybe I should include little memories in my weekly review. That
 makes sense. I'll do that going forward!
+** DONE Quality of life and repurposing
+   CLOSED: [2015-04-20 Mon 21:18] SCHEDULED: <2015-04-13 Mon>
+   :PROPERTIES:
+   :Effort:   1:00
+   :END:
+   :LOGBOOK:
+   CLOCK: [2015-04-13 Mon 17:49]--[2015-04-13 Mon 18:08] =>  0:19
+   :END:
+
+If the third year of my experiment was a deliberate exploration of
+self-direction and self-care, I think this fourth year of my
+experiment will be about improving quality of life: finding things
+that work well, and building the habits and systems that make these
+experiences easier and better.
+
+I can change my quality of life by changing the way I use the
+resources I have. For example, I can spend money to buy a loaf of
+really good bread, or I can spend time to make a loaf of simple bread.
+Actually, since money can be thought of as time as well, the choice is
+often between spending time to do something myself, or spending
+(usually much less) time in order to purchase it.
+
+Here are some components that make a difference in my quality of life:
+
+- 
+
+Several threads coming together, as my thoughts often are:
+
+- I turned the broadcloth box cushion cover prototype (to test the fit
+  and the construction method) into a bias-bound top, same as the
+  other ones I've already sewn. It felt great to reuse the fabric,
+  especially as the main panels turned out to be just the right width
+  and height. As an added bonus, I used this to learn about the laser
+  cutter's capabilities.
+- I turned scraps of broadcloth, flannel (from old pajamas), and
+  ripstop nylon into another sewing project, which is working out
+  pretty nicely.
+- I prepared lasagna with half of the ground beef I bought, and I made
+  Japanese hamburger steak with the other half. This means I don't
+  have to store raw or cooked ground beef in the freezer, and we can
+  enjoy extra variety during our weekday meals. Also, I used the
+  leftover sauce and cheese mixture from the lasagna to make a tiny
+  lasagna that fit in a small rectangular glass container. (Now this
+  is making me think of [[http://www.thefoodinmybeard.com/recipe/lasagna-in-a-jar/][mason jar lasagna]], although that might be more
+  involved than we need...)
+- I've been thinking about how I can experiment with seed starting.
+  Instead of waiting until Home Depot stocks those window-sill Jiffy
+  trays, I might be able to create my own narrow containers out of the
+  plastic containers we get from groceries, maybe with a small insert
+  for drainage.
+- I've also been thinking about the [[http://marshallbrain.com/manna5.htm][Australia Project]] described in
+  Marshall Brain's science fiction project /Manna/ - a post-scarcity
+  society built on the abundance enabled by robotic production and
+  recycling. We're nowhere near frictionless recycling yet, but there
+  might be some ways to play around with the ideas.
+
+The idea I keep coming back to for the fourth year of experiment
+I
+was reflecting on this year of my experiment being about improving
+quality of life. 
+
+
+
+I've been thinking about *repurposing*, which is a skill in itself. 
+
+
+
+I like the way recent sewing projects have been helping me see clothes
+in a different light. I like the way more experience in cooking helps
+me imagine what else to do with the ingredients in the fridge.
+
+"Reduce - Reuse - Recycle" is pretty straightforward. We take reusable
+shopping bags to the supermarket so that we don't have to bag
+groceries in plastic. We have a system of standardized food containers
+so that we don't have to use Ziploc bags. We separate our organics,
+recyclables, and other garbage. But sometimes it's too easy for me to
+just chuck something in the recycling bin, donate it to the thrift
+store, or junk it if it's not fit for either, and I'm curious about
+ways we could do even better.

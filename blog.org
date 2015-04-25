@@ -6,7 +6,7 @@ get in touch with me, please check out
 http://sachachua.com/blog/contact . =)
 
 Oldest post in index: December 12, 2007
-Most recent post in index: Feb 28, 2014
+Most recent post in index: March 31, 2014
 
 Quick links to trails that are already logically ordered (more to come):
 - [[#no-excuses-blogging][Blogging, A No-Excuses Guide to]]
@@ -21,11 +21,14 @@ Quick links to trails that are already logically ordered (more to come):
 See also: [[starting_business][Starting my own business]]
 
 - Motivation
+  - [X] [[http://sachachua.com/blog/2015/03/thinking-enjoy-helping-people/][Thinking about when I enjoy helping people]] (Mar 2015)
   - [X] [[http://sachachua.com/blog/2014/10/reflecting-motives/][Reflecting on motives]] (Oct 2014)
   - [X] [[http://sachachua.com/blog/2015/02/5-year-experiment-conversation-anxious-side-sharing-time-might-better-giving-money/][The 5-year experiment: A conversation with my anxious side, and how sharing time might be better than giving money]] (Feb 2015)
   - [X] [[http://sachachua.com/blog/2014/01/conversation-writing-reflections-taskmasters/][A conversation about writing, and reflections on taskmasters]] (Jan 2014) 
   - [X] [[http://sachachua.com/blog/2015/01/finding-model-sharing/][Finding a model for my sharing]] (Jan 2015)
 - Vision
+  - [X] [[http://sachachua.com/blog/2015/03/what-do-i-want-to-get-ready-for-next/][What do I want to get ready for next?]] (Mar 2015)
+  - [X] [[http://sachachua.com/blog/2015/03/future-pull-power-imagination/][Future pull and the power of imagination]] (Mar 2015)
   - [X] [[http://sachachua.com/blog/2015/02/experimenting-way-awesome-life/][Experimenting my way to an awesome life]] (Feb 2015)
   - [X] [[http://sachachua.com/blog/2015/02/trying-common-goals/][Trying on common goals]] (Feb 2015)
   - [X] [[http://sachachua.com/blog/2014/11/figuring-path-awesomeness/][Figuring out my own path to awesomeness]] (Nov 2014)
@@ -52,6 +55,9 @@ See also: [[starting_business][Starting my own business]]
   - [X] [[http://sachachua.com/blog/2013/10/the-power-of-no-being-completely-unhireable-until-2017-and-possibly-longer/][The power of no: being completely* unhireable until 2017 (and possibly longer)]] (Oct 2013)
   - [X] [[http://sachachua.com/blog/2013/08/on-making-big-scary-decisions-and-how-i-left-an-awesome-job-to-do-my-own-thing-or-how-to-be-a-builder-lemming/][On making big, scary decisions, and how I left an awesome job to do my own thing; or how to be a Builder Lemming]]
 - Pace
+  - [X] [[http://sachachua.com/blog/2015/03/learning-live-slowly/][Learning to live slowly]] (Mar 2015)
+  - [X] [[http://sachachua.com/blog/2015/03/reflection-otium/][A reflection on otium]] (Mar 2015)
+  - [X] [[http://sachachua.com/blog/2015/03/imperfect-fungibility-time-thinking-use-money-accelerate-learning/][The imperfect fungibility of time: thinking about how to use money to accelerate learning]] (Mar 2015)
   - [X] [[http://sachachua.com/blog/2015/02/different-dimensions-scaling/][Different dimensions of scaling up]] (Feb 2015)
   - [X] [[http://sachachua.com/blog/2015/02/intentionally-interrupting-momentum-limiting-flow/][Intentionally interrupting momentum and limiting flow]] (Feb 2015)
   - [X] [[http://sachachua.com/blog/2014/05/hmm-maybe-im-slacking/][Hmm, maybe I’m not slacking off after all]] (May 2014)
@@ -149,6 +155,7 @@ See also: [[no-excuses-blogging][Blogging, A No-Excuses Guide to]]
   - [X] [[http://sachachua.com/blog/2008/01/blogging-works-in-mysterious-ways/][Blogging works in mysterious ways]]
   - [X] [[http://sachachua.com/blog/2008/04/addicted-to-blogging/][Addicted to blogging?]]
   - [X] [[http://sachachua.com/blog/2015/02/envy-peoples-writing/][Envy and other people's writing]] (Feb 2015)
+  - [X] [[http://sachachua.com/blog/2015/03/getting-better-writing-directed-posts/][Getting better at writing other-directed posts]] (Mar 2015)
 
 ** Blogging, A No-Excuses Guide to   :trail:book:
 	 :PROPERTIES:
@@ -739,6 +746,7 @@ See also: [[drawing-tools][Drawing tools and processes]]
 See also [[sketchnote-lessons][Sketchnote lessons]]
 
 - Workflow
+  - [X] [[http://sachachua.com/blog/2015/03/can-make-better-use-index-card-drawing-process/][How can I make better use of my index card drawing process?]] (Mar 2015)
   - [X] [[http://sachachua.com/blog/2015/02/learning-artists-making-studies-ideas/][Learning from artists: making studies of ideas]] (Feb 2015)
   - [X] [[http://sachachua.com/blog/2014/05/draw-visual-summary-book/][How to draw a visual summary of a book]] (May 2014)
   - [X] [[http://sachachua.com/blog/2014/03/how-i-animate-sketches-with-autodesk-sketchbook-pro-and-camtasia-studio/][How I animate sketches with Autodesk Sketchbook Pro and Camtasia Studio]] (March 2014)
@@ -1018,6 +1026,7 @@ Featured:
 - [X] [[http://sachachua.com/blog/2014/04/emacs-beginner-resources/][Emacs beginner resources]] (Apr 2014)
 
 - Learning
+  - [X] [[http://sachachua.com/blog/2015/03/the-balance-between-doing-and-improving-evaluating-yak-shaving/][The balance between doing and improving - evaluating yak-shaving]] (Mar 2015)
   - [X] [[http://sachachua.com/blog/2015/02/getting-started-emacs-empty-cup/][Getting started with Emacs? Empty your cup]] (Feb 2015)
   - [X] [[http://sachachua.com/blog/2014/11/emacs-coaching-unknowns-figuring-want-learn/][Emacs, coaching, and unknowns: Figuring out what I want to learn]] (Nov 2014)
 - Teaching
@@ -1034,6 +1043,7 @@ Featured:
   - [X] [[http://sachachua.com/blog/2014/11/emacs-evaluating-javascript-css-chrome-using-skewer-mode/][Emacs: Evaluating Javascript and CSS in Chrome using Skewer Mode]] (Nov 2014)
 
 Other:
+- [X] [[http://sachachua.com/blog/2015/03/getting-helm-org-refile-clock-create-tasks/][Getting Helm and org-refile to clock in or create tasks]] (Mar 2015)
 - [X] [[http://sachachua.com/blog/2015/02/lets-virtual-emacs-conference-august-help-make-happen/][Let's have a virtual Emacs conference in August - help me make it happen!]] (Feb 2015)
 - [X] [[http://sachachua.com/blog/2015/02/continuous-integration-code-coverage-emacs-packages-travis-coveralls/][Continuous integration and code coverage for Emacs packages with Travis and Coveralls]] (Feb 2015)
 - [X] [[http://sachachua.com/blog/2015/02/using-emacs-prepare-files-external-applications-like-autodesk-sketchbook-pro/][Using Emacs to prepare files for external applications like Autodesk Sketchbook Pro]] (Feb 2015)
@@ -1128,6 +1138,7 @@ Other:
 - [X] [[http://sachachua.com/blog/2008/04/faster-mail-with-emacs/][Faster mail with Emacs]]
 - [X] [[http://sachachua.com/blog/2008/08/emacs-and-gnus-zomg-new-chapter-out-the-door/][Emacs and Gnus: zomg, new chapter out the door!]]
 ** Emacs Org Mode
+- [X] [[http://sachachua.com/blog/2015/03/emacs-org-mode-power-plain-text/][Emacs Org Mode and the power of plain text]] (Mar 2015)
 - [X] [[http://sachachua.com/blog/2015/02/digital-index-piles-emacs-rapid-categorization-org-mode-items/][Digital index piles with Emacs: Rapid categorization of Org Mode items]] (Feb 2015)
 - [X] [[http://sachachua.com/blog/2015/02/org-mode-reusing-date-file-datetree-prompt/][Org Mode: Reusing the date from file-datetree-prompt]] (Feb 2015)
 - [X] [[http://sachachua.com/blog/2015/02/learn-take-notes-efficiently-org-mode/][Learn how to take notes more efficiently in Org Mode]] (Feb 2015)
@@ -1466,6 +1477,7 @@ Obsolete:
   - [X] [[http://sachachua.com/blog/2009/10/find-your-attention-wandering-during-teleconferences/][Find your attention wandering during teleconferences?]]
   - [X] [[http://sachachua.com/blog/2012/02/what-to-do-when-you-have-a-hard-time-listening-to-lectures-adapting-as-a-visual-learner/][What to do when you have a hard time listening to lectures: adapting as a visual learner]]
   - [X] [[http://sachachua.com/blog/2009/10/what-to-do-during-boring-teleconference-calls/][What to do during boring teleconference calls]]
+  - [X] [[http://sachachua.com/blog/2015/03/cultivate-memories-deliberately/][Cultivate memories deliberately]] (Mar 2015)
 - Plans
   - [X] [[http://sachachua.com/blog/2012/05/learning-more-about-what-i-want-to-learn/][Learning more about what I want to learn]]
   - [X] [[http://sachachua.com/blog/2014/12/learning-effectively-exploring-various-unknowns/][Learning more effectively by exploring various unknowns]] (Dec 2014) 
@@ -1476,11 +1488,13 @@ Obsolete:
 - Learning about learning
   - [X] [[http://sachachua.com/blog/2015/01/learning-little-quickly/][Learning a little more quickly]] (Jan 2015)
   - [X] [[http://sachachua.com/blog/2013/10/what-do-i-want-to-learn-about-learning/][What do I want to learn about learning?]] (Oct 2013)
+  - [X] [[http://sachachua.com/blog/2015/03/shrinking-learn-share-review-cycle/][Shrinking my learn-do-share-review cycle]] (Mar 2015)
 - Techniques
   - [X] [[http://sachachua.com/blog/2014/10/coming-terms-online-courses/][Coming to terms with online courses]] (Oct 2014)
   - [X] [[http://sachachua.com/blog/2014/02/test-driven-learning/][Test-driven learning]] (Feb 2014)
   - [X] [[http://sachachua.com/blog/2014/01/getting-better-learning/][Getting better at learning on my own]] (Jan 2014)
   - [X] [[http://sachachua.com/blog/2013/12/check-getting-started-guides-ask/][Check out these getting started guides - suggest more!]] (Dec 2013)
+  - [X] [[http://sachachua.com/blog/2015/03/enjoy-the-prep-work/][Enjoy the prep work]] (Mar 2015)
 - Creativity
   - [X] [[http://sachachua.com/blog/2014/09/programming-creativity/][Programming and creativity]] (Sept 2014)
   - [X] [[http://sachachua.com/blog/2014/09/learning-from-the-alternative-uses-task/][Learning from the Alternative Uses Task]] (Sept 2014)
@@ -1526,7 +1540,8 @@ Obsolete:
 - [X] [[http://sachachua.com/blog/2009/05/a-love-affair-with-books/][A love affair with books]]
 - [X] [[http://sachachua.com/blog/2009/11/oh-the-library/][Oh the library…]]
 - [X] [[http://sachachua.com/blog/2008/02/library-elf-is-awesome/][Library Elf is awesome]]
-** Life [133/133]
+** Life [134/134]
+- [X] [[http://sachachua.com/blog/2015/03/alternatives-sitting-meditation-clear-mind/][Alternatives to sitting meditation: How I clear my mind]] (Mar 2015)
 - [X] [[http://sachachua.com/blog/2015/02/miscellaneous-memories/][Miscellaneous memories]] (Feb 2015)
 - [X] [[http://sachachua.com/blog/2014/10/level-making-ikea-compatible-shelves/][Level up! Making IKEA-compatible shelves]] (Oct 2014)
 - [X] [[http://sachachua.com/blog/2014/09/becoming-filipino-canadian/][Becoming Filipino-Canadian]] (Sept 2014)
@@ -1737,7 +1752,8 @@ Obsolete:
 - [X] [[http://sachachua.com/blog/2008/01/mike-moran-writer-search-marketing-expert-distinguished-engineer/][Mike Moran: Writer, Search Marketing Expert, Distinguished Engineer!]]
 - [X] [[http://sachachua.com/blog/2009/04/notes-from-a-conversation-with-isaac-ezer-and-andrew-louis/][Notes from a conversation with Isaac Ezer and Andrew Louis]]
 - [X] [[http://sachachua.com/blog/2009/10/how-i-met-jeff-muzzerall/][How I met Jeff Muzzerall]]
-** Personal finance [20/20]
+** Personal finance [21/21]
+- [X] [[http://sachachua.com/blog/2015/03/dipping-toes-etf-waters/][Dipping my toes into the ETF waters]] (Mar 2015)
 - [X] [[http://sachachua.com/blog/2014/11/keeping-financial-score-ledger/][Keeping (financial) score with Ledger]] (Nov 2014)
 - [X] [[http://sachachua.com/blog/2014/06/baby-steps-towards-investing/][Baby steps towards investing]] (June 2014)
 - [X] [[http://sachachua.com/blog/2013/06/how-hacking-my-wants-helped-me-experiment-with-early-retirement/][How hacking my wants helped me experiment with early retirement]] (June 2013)
@@ -2042,7 +2058,8 @@ See also: [[remote-presentations-that-rock][Remote Presentations That Rock]]
 - [X] [[http://sachachua.com/blog/2010/12/quantified-self-toronto-second-meetup/][Quantified Self Toronto: Second Meetup]]
 - [X] [[http://sachachua.com/blog/2012/03/quantified-self-toronto-9-2/][Organizing resources for Quantified Self Toronto]]
 - [X] [[http://sachachua.com/blog/2012/01/quantified-self-toronto-9/][Quantified Self Toronto #9]] (Jan 2012)
-** Quantified Self - Tracking other things [11/11]
+** Quantified Self - Tracking other things [12/12]
+- [X] [[http://sachachua.com/blog/2015/03/quantified-self-how-can-you-measure-freedom/][Quantified Self: How can you measure freedom?]] (Mar 2015)
 - [X] [[http://sachachua.com/blog/2012/05/getting-started-with-quantified-self/][Getting Started with Quantified Self]]
 - Clothing
   - [X] [[http://sachachua.com/blog/2014/04/quantified-self-analyzing-32-months-clothing-data/][Quantified Self: Analyzing 32 months of clothing data]] (Apr 2014)
@@ -2142,7 +2159,8 @@ See also:
 - [X] [[http://sachachua.com/blog/2010/06/the-work-of-self-understanding/][The work of self-understanding]]
 - [X] [[http://sachachua.com/blog/2010/06/introspection/][Influence map; introspection]]
 - [X] [[http://sachachua.com/blog/2010/03/on-circumstances-and-somebodies/][On circumstances and somebodies]]
-** Sewing [20/20]
+** Sewing [21/21]
+- [X] [[http://sachachua.com/blog/2015/03/back-sewing/][Back to sewing!]] (Mar 2015)
 - [X] [[http://sachachua.com/blog/2013/09/sewing-made-a-ps-vita-case/][Sewing: Made a PS Vita case!]]
 - [X] [[http://sachachua.com/blog/2011/06/made-a-stuff-sack-for-j/][Made a stuff sack for J-]] (June 2011)
 - [X] [[http://sachachua.com/blog/2011/05/made-a-kitty-soap-holder/][Made a kitty soap holder]]
@@ -2175,7 +2193,11 @@ See also [[blogging][Blogging]], [[writing][Writing]]
 ** Simple living [3/3]
 - [X] [[http://sachachua.com/blog/2014/01/caring-for-things-without-caring-about-things/][Caring for things without caring about things]] (Jan 2014)
 - [X] [[http://sachachua.com/blog/2014/01/thinking-about-routines-after-an-extended-trip/][Thinking about routines after an extended trip]] (Jan 2014)
-** Sketched Books [30/30]
+** Sketched Books [34/34]
+- [X] [[http://sachachua.com/blog/2015/03/sketched-book-self-compassion-stop-beating-yourself-up-and-leave-insecurity-behind-kristin-neff/][Sketched Book - Self-compassion: Stop Beating Yourself Up and Leave Insecurity Behind - Kristin Neff]] (Mar 2015)
+- [X] [[http://sachachua.com/blog/2015/03/sketched-book-checklist-manifesto-get-things-right-atul-gawande/][Sketched Book - The Checklist Manifesto: How to Get Things Right - Atul Gawande]] (Mar 2015)
+- [X] [[http://sachachua.com/blog/2015/03/sketched-book-obstacle-way-timeless-art-turning-trials-triumph-ryan-holiday/][Sketched Book - The Obstacle Is The Way: The Timeless Art of Turning Trials into Triumph - Ryan Holiday]] (Mar 2015)
+- [X] [[http://sachachua.com/blog/2015/03/sketched-book-write-faster-write-better-david-fryxell/][Sketched Book: Write Faster, Write Better - David A. Fryxell]] (Mar 2015)
 - [X] [[http://sachachua.com/blog/2015/02/sketched-book-take-charge-talent-three-keys-thriving-career-organization-life-don-maruska-jay-perry-2013/][Sketched Book: Take Charge of Your Talent: Three Keys to Thriving in Your Career, Organization, and Life - Don Maruska, Jay Perry (2013)]] (Feb 2015)
 - [X] [[http://sachachua.com/blog/2015/02/sketched-book-good-cant-ignore-skills-trump-passion-quest-work-love-cal-newport/][Sketched Book - So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love - Cal Newport]] (Feb 2015)
 - [X] [[http://sachachua.com/blog/2015/01/sketched-book-start-great-leaders-inspire-everyone-take-action-simon-sinek/][Sketched Book: Start With Why: How Great Leaders Inspire Everyone to Take Action &#8211; Simon Sinek]] (Jan 2015)
@@ -2778,9 +2800,10 @@ See also: [[Writing, process of]]
 - [X] [[http://sachachua.com/blog/2012/07/transcript-emacs-chat-john-wiegley/][Transcript: Emacs chat with John Wiegley]]
 - [X] [[http://sachachua.com/blog/2012/06/emacs-chatting-with-john-wiegley-about-the-cool-things-he-does-with-emacs/][Emacs: Chatting with John Wiegley about the cool things he does with Emacs]]
 
-** Emacs hangouts [6/6]
+** Emacs hangouts [7/7]
 <<emacs-hangouts>>
 
+- [X] [[http://sachachua.com/blog/2015/03/emacs-hangout-2015-03-18-show-notes/][Emacs Hangout 2015-03-18 show notes]] (Mar 2015)
 - [X] [[http://sachachua.com/blog/2015/02/experimental-emacs-hangout-2015-02-18/][Experimental Emacs Hangout 2015-02-18]] (Feb 2015)
 - [X] [[http://sachachua.com/blog/2015/01/emacs-hangout/][2015-01-09 Emacs Hangout]] (blog post with video) (Jan 2015)
 - [X] [[http://sachachua.com/blog/2014/12/emacs-hangout-3-emacs-can-read-mind/][Emacs Hangout #3: Emacs can read your mind]] (Dec 2014) 
@@ -2822,6 +2845,7 @@ http://frugalfire.com
 - [X] [[http://sachachua.com/blog/2008/12/2008-annus-mirabilis/][2008: Annus Mirabilis]]
 - [X] [[http://sachachua.com/blog/2008/12/sketches-2008-highlights/][Sketches: 2008 highlights]]
 * Monthly reviews [61/61]
+- [X] [[http://sachachua.com/blog/2015/03/monthly-review-february-2015/][Monthly review: February 2015]] (Mar 2015)
 - [X] [[http://sachachua.com/blog/2015/02/monthly-review-january-2015/][Monthly review: January 2015]] 
 - [X] [[http://sachachua.com/blog/2015/01/monthly-review-december-2014/][Monthly review: December 2014]]
 - [X] [[http://sachachua.com/blog/2014/12/monthly-review-november-2014/][Monthly review: November 2014]]
@@ -2884,6 +2908,11 @@ http://frugalfire.com
 - [X] [[http://sachachua.com/blog/2009/03/monthly-review-february-2009/][Monthly review: February 2009]]
 - [X] [[http://sachachua.com/blog/2009/01/monthly-review-january-2009/][Monthly review: January 2009]]
 * Weekly reviews
+- [X] [[http://sachachua.com/blog/2015/03/weekly-review-week-ending-march-27-2015/][Weekly review: Week ending March 27, 2015]] (Mar 2015)
+- [X] [[http://sachachua.com/blog/2015/03/weekly-review-week-ending-march-20-2015/][Weekly review: Week ending March 20, 2015]] (Mar 2015)
+- [X] [[http://sachachua.com/blog/2015/03/weekly-review-week-ending-march-13-2015/][Weekly review: Week ending March 13, 2015]] (Mar 2015)
+- [X] [[http://sachachua.com/blog/2015/03/weekly-review-week-ending-march-6-2015/][Weekly review: Week ending March  6, 2015]] (Mar 2015)
+- [X] [[http://sachachua.com/blog/2015/03/weekly-review-week-ending-february-27-2015/][Weekly review: Week ending February 27, 2015]] (Mar 2015)
 - [X] [[http://sachachua.com/blog/2015/02/weekly-review-week-ending-february-20-2015/][Weekly review: Week ending February 20, 2015]] (Feb 2015)
 - [X] [[http://sachachua.com/blog/2015/02/weekly-review-week-ending-february-13-2015/][Weekly review: Week ending February 13, 2015]] (Feb 2015)
 - [X] [[http://sachachua.com/blog/2015/02/weekly-review-week-ending-february-6-2015/][Weekly review: Week ending February  6, 2015]] (Feb 2015)
