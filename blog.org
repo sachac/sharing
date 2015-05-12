@@ -6,7 +6,7 @@ get in touch with me, please check out
 http://sachachua.com/blog/contact . =)
 
 Oldest post in index: December 12, 2007
-Most recent post in index: April 30, 2014
+Most recent post in index: April 30, 2015
 
 Quick links to trails that are already logically ordered (more to come):
 - [[#no-excuses-blogging][Blogging, A No-Excuses Guide to]]
@@ -50,10 +50,6 @@ See also: [[starting_business][Starting my own business]]
   - [X] [[http://sachachua.com/blog/2014/05/thinking-want-time/][Thinking about what I want to do with my time]] (May 2014)
   - [X] [[http://sachachua.com/blog/2014/04/reinvesting-time-and-money-into-emacs/][Reinvesting time and money into Emacs]] (Apr 2014)
   - [X] [[http://sachachua.com/blog/2014/01/becoming-own-client/][Becoming my own client; also, delegation]] (Jan 2014)
-    - Sketch: 2014-01-12-Being-my-own-client-part-1-of-4
-    - Sketch: 2014-01-12-Being-my-own-client-part-2-Projects
-    - Sketch: 2014-01-12-Being-my-own-client-part-3-Emacs-blog
-    - Sketch: 2014-01-12-Being-my-own-client-part-4-buying-back-time
   - [X] [[http://sachachua.com/blog/2013/10/the-power-of-no-being-completely-unhireable-until-2017-and-possibly-longer/][The power of no: being completely* unhireable until 2017 (and possibly longer)]] (Oct 2013)
   - [X] [[http://sachachua.com/blog/2013/08/on-making-big-scary-decisions-and-how-i-left-an-awesome-job-to-do-my-own-thing-or-how-to-be-a-builder-lemming/][On making big, scary decisions, and how I left an awesome job to do my own thing; or how to be a Builder Lemming]]
 - Pace

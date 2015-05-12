@@ -127,6 +127,84 @@ Click on the headings to expand them.
 + [[https://www.flickr.com/photos/sachac/16847896789/][2015-04-04a Ideas for laser registration -- index card #hacklab #laser]]
 + [[https://www.flickr.com/photos/sachac/17218478255/][2015-04-20k Week ending 2015-04-17 -- index card #journal #weekly]]
 
+*** Weekly review: Week ending May  8, 2015  :weekly:
+*Blog posts*
+
+*Sketches*
+
+- [[https://www.flickr.com/photos/sachac/17357213612/][2015-05-02a Saturday -- index card #journal]] 
+- [[https://www.flickr.com/photos/sachac/17151681487/][2015-05-02b Lined pouch -- index card #sewing]] 
+- [[https://www.flickr.com/photos/sachac/17171559920/][2015-05-02c Containers -- index card #sewing]] 
+- [[https://www.flickr.com/photos/sachac/17358776781/][2015-05-02d Rough edges I could smooth -- index card #sewing]] 
+- [[https://www.flickr.com/photos/sachac/17333172166/][2015-05-02e When I'm sharp, when I'm fuzzy -- index card #fuzzy]] 
+- [[https://www.flickr.com/photos/sachac/17357215192/][2015-05-03a Make, buy -- index card #making]] 
+- [[https://www.flickr.com/photos/sachac/17171338208/][2015-05-03b Shifting visions of success -- index card #experiment #success]] 
+- [[https://www.flickr.com/photos/sachac/17171560970/][2015-05-03c Tracing evolution of wild success -- index card #experiment #success]] 
+- [[https://www.flickr.com/photos/sachac/17333172866/][2015-05-03d Sidetracked by experiences of abundance, quality of life -- index card #experiment #success #quality-of-life]] 
+- [[https://www.flickr.com/photos/sachac/17171561350/][2015-05-03e Default or majority state and fuzziness -- index card #fuzzy]] 
+- [[https://www.flickr.com/photos/sachac/16753632513/][2015-05-03f Sunday -- index card #journal]] 
+- [[https://www.flickr.com/photos/sachac/16753632533/][2015-05-04a More than quiet afternoons -- index card #experiment #pace]] 
+- [[https://www.flickr.com/photos/sachac/16753632933/][2015-05-04b Thoughts on fabric for summer -- index card #sewing #fabric]] 
+- [[https://www.flickr.com/photos/sachac/17373587661/][2015-05-04c Keeping the end of the day in mind -- index card #life #quality-of-life]] 
+- [[https://www.flickr.com/photos/sachac/17371954682/][2015-05-04d Chicken chicken chicken -- index card #cooking]] 
+- [[https://www.flickr.com/photos/sachac/16753632943/][2015-05-04e Monday -- index card #journal]] 
+- [[https://www.flickr.com/photos/sachac/17373928815/][2015-05-04f Laptops and lap cats -- index card #life #cats]] 
+*Link round-up*
+
+
+
+*Focus areas and time review*
+
+- *Business* (19.6h - 11%)
+
+  - [ ] Earn: E1: 1-2 days of consulting
+  - *Earn* (2.9h - 14% of Business)
+  - *Build* (15.7h - 80% of Business)
+    - *Drawing* (12.0h)
+    - *Paperwork* (0.0h)
+  - *Connect* (1.0h - 5% of Business)
+- *Relationships* (4.3h - 2%)
+  - [X] Calculate med refills
+  - [X] Call R and ask about S
+  - [X] Holiday get-together with W-'s family
+
+
+- *Discretionary - Productive* (27.0h - 16%)
+  - *Emacs* (0.2h - 0% of all)
+  - [X] Announce Emacs Hangout 2015-05-13
+  - [ ] Reschedule Emacs Lisp Development Tips episode with jwiegley
+  - [X] Buy or make black top that matches skirt
+  - [X] Modify pattern for tops to cut out bias
+  - [X] How can I get better at inviting people for Emacs Chats? Hangouts?
+  - [X] Check out cherry blossoms
+  - [X] How do I get more fibre?
+  - [X] [#A] What jobs do I hire my phone for?
+  - [X] Stay with Wind or switch to Koodo?
+  - [X] [#A] What if I try a different form factor?
+  - [X] [#A] Should I get it from my network or retail?
+  - [X] Should I get a flagship phone or a lower-end phone?
+  - [X] How can I prepare vegetables more frequently?
+  - [X] Fix colour scheme
+  - [X] Check out John Kitchin's Youtube video
+  - [X] [#A] What should I do about my phone?
+  - [X] What is the exhaustive list of what I have?
+  - [X] Laser-cutting bias tape in off-cut regions
+  - [X] Work on menu planning in Emacs
+  - [X] Fix subscription page
+  - [X] Announce next Hangout May 13
+  - [X] Call tomorrow to see if Sunday morning is okay for cat grooming
+  - [X] Research Quantified Self
+  - [X] Iron and prepare cotton lawn top
+  - [X] Integrate journal with review
+  - [ ] Process Quantified Self Toronto videos
+  - [ ] Host Emacs Hangout
+  - *Writing* (8.0h)
+- *Discretionary - Play* (6.7h - 4%)
+- *Personal routines* (35.8h - 21%)
+- *Unpaid work* (13.5h - 8%)
+- *Sleep* (61.0h - 36% - average of 8.7 per day)
+
+
 
 ** Automate Text
    :PROPERTIES:
