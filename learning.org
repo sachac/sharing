@@ -7,7 +7,7 @@ Want to help me with anything on this list? Please feel free to contact me at
 You can find this document at http://sach.ac/my-learning
 
 * Questions
-
+  
 Help me figure things out! E-mail me with your thoughts and ideas.
 
 - Emacs
@@ -34,8 +34,6 @@ Help me figure things out! E-mail me with your thoughts and ideas.
 - How can I get better at learning from other people?
 - What do other people need or want that is easy for me to provide?
 
-* Topics I'm learning more about
-
 
 * Previous curiosities - Nov 12, 2014                              :learning:
 ** Web design and development
@@ -43,149 +41,29 @@ Help me figure things out! E-mail me with your thoughts and ideas.
    :QUANTIFIED: Coding
    :END:
 
-*** TODO Learn how to combine Jasmine and Angular
-*** DONE Go through a QUnit tutorial
-    CLOSED: [2014-11-12 Wed 15:44]
+*** CANCELLED Learn how to combine Jasmine and Angular
+    CLOSED: [2015-05-08 Fri 20:49]
     :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2014-11-12 Wed 15:44]
-    CLOCK: [2014-11-12 Wed 15:00]--[2014-11-12 Wed 15:44] =>  0:44
-    :END:
-    :PROPERTIES:
-    :Effort:   1:00
-    :END:
-Completed http://www.smashingmagazine.com/2012/06/27/introduction-to-javascript-unit-testing/
-*** DONE Go through a Jasmine tutorial
-    CLOSED: [2014-11-12 Wed 16:25]
-    :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2014-11-12 Wed 16:25]
-    CLOCK: [2014-11-12 Wed 15:44]--[2014-11-12 Wed 16:25] =>  0:41
-    :END:
-    :PROPERTIES:
-    :Effort:   1:00
-    :END:
-Converted the QUnit tutorial test code to Jasmine. Also added jasmine-jquery for easy fixtures.
-
-#+begin_src js2
-describe("PrettyDate.format", function() {
-    function checkDate(name, then, expected) {
-        it(name, function() {
-            expect(prettyDate.format('2008/01/28 22:25:00Z', then)).toEqual(expected);
-        });
-    }
-    checkDate("should display recent times", '2008/01/28 22:24:30Z', 'just now');
-    checkDate("should display times within a minute", '2008/01/28 22:23:30Z', '1 minute ago');
-    checkDate("should display times within an hour", '2008/01/28 21:23:30Z', '1 hour ago');
-    checkDate("should display times within a day", '2008/01/27 22:23:30Z', 'Yesterday');
-    checkDate("should display times within two days", '2008/01/26 22:23:30Z', '2 days ago');
-});
-describe("PrettyDate.update", function() {
-    function domtest(name, now, first, second) {
-       it(name, function() {
-           loadFixtures('test_fixture.html');
-           var links = document.getElementById('qunit-fixture').getElementsByTagName('a');
-           expect(links[0].innerHTML).toEqual('January 28th, 2008');
-           expect(links[2].innerHTML).toEqual('January 27th, 2008');
-           prettyDate.update(now);
-           expect(links[0].innerHTML).toEqual(first);
-           expect(links[2].innerHTML).toEqual(second);
-       });
-    }
-
-     domtest("prettyDate.update", '2008-01-28T22:25:00Z', '2 hours ago', 'Yesterday');
-     domtest("prettyDate.update, one day later", '2008-01-29T22:25:00Z', 'Yesterday', '2 days ago');
-
-});
-#+end_src
-*** DONE Write about beginner steps for testing
-    CLOSED: [2014-11-12 Wed 16:40]
-    :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2014-11-12 Wed 16:40]
-    CLOCK: [2014-11-12 Wed 16:26]--[2014-11-12 Wed 16:40] =>  0:14
-    :END:
-    :PROPERTIES:
-    :Effort:   1:00
+    - State "CANCELLED"  from "TODO"       [2015-05-08 Fri 20:49]
     :END:
 ** Japanese
    :PROPERTIES:
    :QUANTIFIED: Japanese
    :END:
 See [[file:~/personal/organizer.org::*Learn%20Japanese][Learn Japanese]]
-*** TODO Find an easy way to look up Japanese when typing into Emacs
+*** CANCELLED Find an easy way to look up Japanese when typing into Emacs
+    CLOSED: [2015-05-08 Fri 20:46]
     :LOGBOOK:
+    - State "CANCELLED"  from "TODO"       [2015-05-08 Fri 20:46]
     CLOCK: [2014-11-12 Wed 17:01]--[2014-11-15 Sat 09:30] => 64:29
     :END:
     :PROPERTIES:
     :Effort:   1:00
     :END:
-*** DONE Find an e-book for learning Japanese and put it on my laptop & tablet
-    CLOSED: [2014-11-12 Wed 12:31]
-    :LOGBOOK:
-    - State "DONE"       from "TODO"       [2014-11-12 Wed 12:31]
-    :END:
-*** DONE Find a Japanese plain past tense practice tool
-    CLOSED: [2014-11-12 Wed 14:34]
-    :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2014-11-12 Wed 14:34]
-    CLOCK: [2014-11-12 Wed 13:57]--[2014-11-12 Wed 14:34] =>  0:37
-    :END:
-    :PROPERTIES:
-    :Effort:   0:30
-    :QUANTIFIED: Japanese
-    :END:
 ** Reporting
-*** DONE Find a Tableau e-book and put it on my laptop/tablet
-    CLOSED: [2014-11-12 Wed 13:57]
-    :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2014-11-12 Wed 13:57]
-    CLOCK: [2014-11-12 Wed 12:31]--[2014-11-12 Wed 13:28] =>  0:57
-    :END:
-    :PROPERTIES:
-    :Effort:   0:30
-    :QUANTIFIED: Learn
-    :END:
-http://www.tableausoftware.com/community/support/documentation-old
 * Jan 29, 2014                                                     :learning:
 ** Working well without deadlines
-*** DONE A-B-A test: Without, with, without deadlines
-    CLOSED: [2014-03-02 Sun 14:05] SCHEDULED: [2014-03-01 Sat]--[2014-06-01 Sun]
-    :LOGBOOK:
-    - State "DONE"       from "TODO"       [2014-03-02 Sun 14:05]
-    :END:
 ** Learning from people
-*** DONE Make a list of questions I'm curious about
-		 CLOSED: [2014-04-20 Sun 23:13]
-		:LOGBOOK:
-		- State "DONE"       from "STARTED"    [2014-04-20 Sun 23:13]
-		CLOCK: [2014-04-20 Sun 23:09]--[2014-04-20 Sun 23:13] =>  0:04
-		CLOCK: [2014-04-20 Sun 22:34]--[2014-04-20 Sun 22:57] =>  0:23
-		:END:
-		:PROPERTIES:
-		:Effort:   0:30
-		:END:
-
-*** DONE Ask questions in public
-		 CLOSED: [2014-04-20 Sun 23:25]
-		:LOGBOOK:
-		- State "DONE"       from "STARTED"    [2014-04-20 Sun 23:25]
-		CLOCK: [2014-04-20 Sun 23:14]--[2014-04-20 Sun 23:25] =>  0:11
-		:END:
-		:PROPERTIES:
-		:Effort:   0:30
-		:QUANTIFIED: Business Learn
-		:END:
-*** DONE Set up conversations
-		 CLOSED: [2014-04-20 Sun 23:25]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-20 Sun 23:25]
-		 :END:
-		:PROPERTIES:
-		:Effort:   0:30
-		:END:
-*** DONE Share notes/transcripts
-		 CLOSED: [2014-04-18 Fri 10:25]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-18 Fri 10:25]
-		 :END:
 *** Learn from historical figures
 **** Note-taking
 - Leonardo da Vinci
@@ -198,11 +76,12 @@ http://www.tableausoftware.com/community/support/documentation-old
 
 ** Turning ideas and assumptions into experiments
 *** TODO [#C] Tracking: Update the number of tasks        :lowenergy:routine:
-    SCHEDULED: <2015-04-22 Wed .+1m>
+    SCHEDULED: <2015-05-24 Sun .+1m>
     :PROPERTIES:
-    :LAST_REPEAT: [2015-03-22 Sun 18:52]
+    :LAST_REPEAT: [2015-04-24 Fri 20:23]
     :END:
 			 :LOGBOOK:
+       - State "DONE"       from "TODO"       [2015-04-24 Fri 20:23]
        - State "DONE"       from "TODO"       [2015-03-22 Sun 18:52]
        - State "DONE"       from "TODO"       [2015-02-17 Tue 11:17]
        - State "DONE"       from "TODO"       [2015-01-16 Fri 17:08]
@@ -335,6 +214,7 @@ Hmm, maybe I'll go ahead and calculate that first.
 | 2015-02-17 |  546 |     11 |  230 |    26 |      4 |    96 |     116 |  1029 |    53% |    102 |     -1 |     212 |         111 |
 | 2015-02-18 |  555 |     15 |  236 |    26 |      4 |    96 |     115 |  1047 |    53% |      9 |      0 |      18 |           9 |
 | 2015-03-22 |  602 |     23 |  242 |    26 |      4 |   101 |     115 |  1113 |    54% |     47 |      5 |      66 |          14 |
+| 2015-04-24 |  662 |     29 |  255 |    28 |      4 |   103 |     116 |  1197 |    55% |        |        |         |             |
 #+TBLFM: @3$11..@>$11=$2-@-1$2::@3$13..@>$13=$9-@-1$9::@3$14..@>$14=$13-$11-($7-@-1$7)::@3$12..@>$12=$7-@-1$7
 
 #+begin_src R :var data=burndown :results graphics :file tasks.png :exports both
@@ -364,116 +244,7 @@ print(plot)
 [[file:r-graph-2.png]]
 
 
-*** DONE [#C] Track cat data 																	:@home:routine:
-
-<2014-03-23>--<2014-05-23 Fri>
-
-[[https://docs.google.com/a/sachachua.com/spreadsheet/ccc?key=0AsLpkeSVIjRYdE40bU13V3I5YV9XMlA3bW5XaVB4Tmc&usp=drive_web#gid=0][Spreadsheet]]
-http://192.168.1.11/webcam
-
-#+begin_src emacs-lisp
-(progn
- (browse-url "https://docs.google.com/a/sachachua.com/spreadsheet/ccc?key=0AsLpkeSVIjRYdE40bU13V3I5YV9XMlA3bW5XaVB4Tmc&usp=drive_web#gid=0")
-(browse-url-firefox "http://192.168.1.11/webcam"))
-#+end_src
-
-#+RESULTS:
-
-    :LOGBOOK:
-		CLOCK: [2014-07-27 Sun 22:25]--[2014-07-27 Sun 22:28] =>  0:03
-		- State "DONE"       from "STARTED"    [2014-06-25 Wed 23:30]
-		CLOCK: [2014-06-25 Wed 19:43]--[2014-06-25 Wed 23:30] =>  3:47
-		- State "DONE"       from "STARTED"    [2014-06-13 Fri 12:23]
-		CLOCK: [2014-06-13 Fri 12:23]--[2014-06-13 Fri 12:23] =>  0:00
-		CLOCK: [2014-06-01 Sun 18:58]--[2014-06-01 Sun 20:32] =>  1:34
-		- State "DONE"       from ""           [2014-05-21 Wed 22:12]
-		CLOCK: [2014-05-21 Wed 21:24]--[2014-05-21 Wed 22:12] =>  0:48
-		- State "DONE"       from "STARTED"    [2014-05-17 Sat 22:58] \\
-			15 data points
-		CLOCK: [2014-05-17 Sat 22:46]--[2014-05-17 Sat 22:58] =>  0:12
-		- State "DONE"       from "STARTED"    [2014-05-16 Fri 21:43] \\
-			65 data points (/ 41 65.0) 0.6307692307692308 per data point
-		CLOCK: [2014-05-16 Fri 21:02]--[2014-05-16 Fri 21:43] =>  0:41
-		- State "DONE"       from "STARTED"    [2014-05-14 Wed 20:02] \\
-			47 data points (VLC plugin issues)
-		CLOCK: [2014-05-14 Wed 19:39]--[2014-05-14 Wed 20:02] =>  0:23
-		- State "DONE"       from "STARTED"    [2014-05-09 Fri 19:57] \\
-			36 data points
-		CLOCK: [2014-05-09 Fri 19:46]--[2014-05-09 Fri 19:57] =>  0:11
-		- State "DONE"       from "STARTED"    [2014-05-07 Wed 22:35] \\
-			19 data points
-		CLOCK: [2014-05-07 Wed 22:31]--[2014-05-07 Wed 22:35] =>  0:04
-		- State "DONE"       from "STARTED"    [2014-05-06 Tue 23:04]
-		CLOCK: [2014-05-06 Tue 22:19]--[2014-05-06 Tue 23:04] =>  0:45
-		- State "DONE"       from "STARTED"    [2014-05-05 Mon 18:17]
-		CLOCK: [2014-05-05 Mon 18:00]--[2014-05-05 Mon 18:17] =>  0:17
-		- State "DONE"       from "STARTED"    [2014-05-04 Sun 21:24]
-		CLOCK: [2014-05-04 Sun 20:06]--[2014-05-04 Sun 21:24] =>  1:18
-		- State "DONE"       from "STARTED"    [2014-05-01 Thu 23:05] \\
-			Zapped the pi
-		CLOCK: [2014-05-01 Thu 22:21]--[2014-05-01 Thu 22:29] =>  0:08
-		- State "DONE"       from "STARTED"    [2014-04-30 Wed 20:24] \\
-			Hmm, these experimental conditions are not working...
-		CLOCK: [2014-04-30 Wed 20:00]--[2014-04-30 Wed 20:24] =>  0:24
-		- State "DONE"       from "STARTED"    [2014-04-28 Mon 21:48]
-		CLOCK: [2014-04-28 Mon 21:27]--[2014-04-28 Mon 21:48] =>  0:21
-		- State "DONE"       from "STARTED"    [2014-04-27 Sun 18:37]
-		CLOCK: [2014-04-27 Sun 16:37]--[2014-04-27 Sun 18:37] =>  2:00
-		- State "DONE"       from "STARTED"    [2014-04-23 Wed 23:53] \\
-			Leia's X is remarkably stable at 6%.
-		CLOCK: [2014-04-23 Wed 23:24]--[2014-04-23 Wed 23:53] =>  0:29
-		CLOCK: [2014-04-23 Wed 19:04]--[2014-04-23 Wed 19:11] =>  0:07
-		- State "DONE"       from "STARTED"    [2014-04-20 Sun 11:03] \\
-			13 data points
-		CLOCK: [2014-04-20 Sun 10:58]--[2014-04-20 Sun 11:03] =>  0:05
-		- State "DONE"       from "STARTED"    [2014-04-19 Sat 17:13] \\
-			15 data points. That's weird, Leia pooped outside the box without checking the other two empty boxes...
-		CLOCK: [2014-04-19 Sat 17:06]--[2014-04-19 Sat 17:13] =>  0:07
-		- State "DONE"       from "STARTED"    [2014-04-18 Fri 12:16] \\
-			11 data points
-		CLOCK: [2014-04-18 Fri 12:10]--[2014-04-18 Fri 12:16] =>  0:06
-		- State "DONE"       from "STARTED"    [2014-04-17 Thu 21:48] \\
-			22 data points. Also, Neko covered! Learned how to use INDEX(F2:F,COUNTA(F2:F)) to get the last item.
-		CLOCK: [2014-04-17 Thu 21:27]--[2014-04-17 Thu 21:48] =>  0:21
-		- State "DONE"       from "TODO"       [2014-04-16 Wed 17:35]
-		- State "DONE"       from "STARTED"    [2014-04-15 Tue 00:03]
-    24 data points
-		CLOCK: [2014-04-14 Mon 23:41]--[2014-04-15 Tue 00:03] =>  0:22
-		- State "DONE"       from "STARTED"    [2014-04-13 Sun 18:34]
-		CLOCK: [2014-04-13 Sun 18:11]--[2014-04-13 Sun 18:34] =>  0:23
-		CLOCK: [2014-04-12 Sat 15:24]--[2014-04-12 Sat 15:28] =>  0:04
-		- State "DONE"       from "TODO"       [2014-04-11 Fri 22:27]
-		- State "DONE"       from "STARTED"    [2014-04-11 Fri 20:47] 32 data points
-		CLOCK: [2014-04-11 Fri 20:20]--[2014-04-11 Fri 20:47] =>  0:27
-    - State "DONE"       from "STARTED"    [2014-04-09 Wed 19:28]
-    CLOCK: [2014-04-09 Wed 19:13]--[2014-04-09 Wed 19:28] =>  0:15
-    - State "DONE"       from "STARTED"    [2014-04-05 Sat 00:51]
-    CLOCK: [2014-04-05 Sat 00:12]--[2014-04-05 Sat 00:51] =>  0:39
-    :END:
-    :PROPERTIES:
-    :STYLE:    habit
-    :QUANTIFIED: Track
-    :Effort:   0:30
-    :LOGGING: lognoterepeat
-		:LAST_REPEAT: [2014-06-25 Wed 23:30]
-		:Attachments: 2014-04-27%2017_16_53-Microsoft%20Excel%20-%20Litterbox%20Data.xlsx.png
-		:ID:       8cbad18f-d84a-4351-b3f1-933ce5666f8e
-    :END:
-
-
-
-
 ** Self-directed learning
-*** DONE Use the structured debriefing framework for one occasion, then reflect on it
-		 CLOSED: [2014-04-23 Wed 16:25]
-		:LOGBOOK:
-		- State "DONE"       from "STARTED"    [2014-04-23 Wed 16:25]
-		CLOCK: [2014-04-23 Wed 15:43]--[2014-04-23 Wed 16:25] =>  0:42
-		:END:
-		:PROPERTIES:
-		:Effort:   1:00
-		:QUANTIFIED: Writing
-		:END:
 ** Delegation
 :PROPERTIES:
 :QUANTIFIED: Delegation
@@ -482,44 +253,6 @@ http://192.168.1.11/webcam
 		:PROPERTIES:
 		:Effort:   1:15
 		:END:
-**** DONE Consider encouraging current assistants vs adding more assistants
-		 CLOSED: [2014-04-18 Fri 18:05]
-		 :LOGBOOK:
-		 - State "DONE"       from "STARTED"    [2014-04-18 Fri 18:05]
-		 CLOCK: [2014-04-18 Fri 17:46]--[2014-04-18 Fri 18:05] =>  0:19
-		 :END:
-		 :PROPERTIES:
-		 :Effort:   0:15
-		 :END:
-- Sticking with current team
-  - Decent skills
-  - Need more pushing, perhaps, since I'm too nice and I allow people to pick instead of assigning tasks? Try getting the hang of assigning tasks first.
-- Adding more people
-  - Could possibly run into task starvation
-  - But more skills! Coding? Emacs Lisp?
-  - Learn how to manage the assistants I have first, before greedily adding more.
-
-**** DONE Add more tasks to delegation board in Trello
-		 CLOSED: [2014-04-23 Wed 15:42]
-		 :LOGBOOK:
-		 - State "DONE"       from "STARTED"    [2014-04-23 Wed 15:42]
-		 CLOCK: [2014-04-23 Wed 15:34]--[2014-04-23 Wed 15:42] =>  0:08
-		 :END:
-		 :PROPERTIES:
-		 :Effort:   0:30
-		 :END:
-
-
-**** DONE Examine unscheduled tasks for things that can be delegated
-		 CLOSED: [2014-04-18 Fri 17:23]
-		 :LOGBOOK:
-		 - State "DONE"       from "STARTED"    [2014-04-18 Fri 17:23]
-		 CLOCK: [2014-04-18 Fri 17:19]--[2014-04-18 Fri 17:23] =>  0:04
-		 :END:
-		 :PROPERTIES:
-		 :Effort:   0:30
-		 :END:
-Nothing! Really? Weird...
 *** CANCELLED Document three processes each week
 		 CLOSED: [2014-06-06 Fri 20:32]
     :LOGBOOK:
@@ -555,10 +288,6 @@ http://www.chrisducker.com/101-tasks-to-outsource-to-virtual-staff/
 - [2013-01-28] How to add tags to Flickr sketches
 
 ** Exercise
-*** DONE Borrow yoga DVD and try half an hour every other day
-    :LOGBOOK:
-    - State "DONE"       from "TODO"       [2014-02-05 Wed 20:27]
-    :END:
 *** CANCELLED Sign up for a class series (8 weeks?)
 		CLOSED: [2014-06-05 Thu 21:57]
 		 :LOGBOOK:
@@ -566,39 +295,9 @@ http://www.chrisducker.com/101-tasks-to-outsource-to-virtual-staff/
 			 Meh.
 		 :END:
 ** Cooking
-*** DONE Try two spice combinations
-    CLOSED: [2014-03-17 Mon 16:07]
-    :LOGBOOK:
-    - State "DONE"       from "TODO"       [2014-03-17 Mon 16:07]
-    :END:
 * Learning update - Jan 3, 2014                                    :learning:
 
 ** Learning (T)
-*** DONE Planning: Figuring out good questions to explore and resources/experiments for those questions
-		 CLOSED: [2014-04-18 Fri 16:45]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:45]
-		 :END:
-**** DONE If I focus on just-in-time learning (instead of scheduled courses or recurring membership), then I will use the momentum to directly apply the lessons and I won't feel guilty about unused resources
-		 CLOSED: [2014-04-18 Fri 16:45]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:45]
-		 :END:
-**** DONE If I name the things I'm learning about and map them to categories, then I can look up my notes and visualize the accumulation
-		 CLOSED: [2014-04-18 Fri 16:45]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:45]
-		 :END:
-**** DONE If I track experiments in Org Mode, then good ideas won't slip through the cracks and I will be deliberately observing effects and making progress :month:
-     CLOSED: [2014-01-14 Tue 20:21]
-     :LOGBOOK:
-     - State "DONE"       from "TODO"       [2014-01-14 Tue 20:21]
-     :END:
-     <2014-01-05 Sun>--<2014-02-05 Wed>
-Duration: 1 month
-Previous state: Flickr
-Conclusion: GOOD.
-
 *** SOMEDAY Learning from people
 - Triggered experiment: When i have an idea or I could use some help, then I should ask my social networks, and maybe others will get involved
 *** CANCELLED Finding and filling gaps
@@ -613,26 +312,8 @@ Conclusion: GOOD.
 - Experimenting
 ** Sharing (W)
 *** Writing
-**** DONE Pretend that I am confident
-		 CLOSED: [2014-04-17 Thu 22:56]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:56]
-		 :END:
-*** DONE Collecting questions and sharing answers/tips
-		 CLOSED: [2014-04-18 Fri 16:49]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:49]
-		 :END:
 *** SOMEDAY Organizing and collating
 *** SOMEDAY Finding and filling gaps
-*** DONE Podcasting, video
-*** DONE Hangouts
-*** DONE Helpouts
-**** DONE When I offer 30-minute Helpouts for Emacs, then this will be enough time to comfortably explore someone's configuration
-     CLOSED: [2014-03-05 Wed 16:06] SCHEDULED: <2014-03-05 Wed>
-     :LOGBOOK:
-     - State "DONE"       from "TODO"       [2014-03-05 Wed 16:06]
-     :END:
 *** SOMEDAY Personal updates (see Connecting)
 *** To share
 - Blogging
@@ -641,242 +322,31 @@ Conclusion: GOOD.
 - E-mail
 - Social networks
 ** Drawing and visual thinking (Th)
-*** DONE Using colour for emphasis, structure, and visual variety
-		 CLOSED: [2014-04-17 Thu 22:57]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:57]
-		 :END:
-**** DONE If I draw with blue and black as my default workflow, then I can add shading with a light blue or light yellow highlight to add more depth and interest to my sketches
-     CLOSED: [2014-01-11 Sat 22:19]
-     :LOGBOOK:
-     - State "DONE"       from "TODO"       [2014-01-11 Sat 22:19]
-     :END:
-- 2014-01-11: Pretty all right. Will continue.
-- Previous: Drew with red and black; used to draw with blue and black, but decided not to because I didn't have the pens handy. Will change to always carrying the pens in my belt bag.
-- If false: Blue is hard to see at a glance, and switching and colouring are less fun.
-     SCHEDULED: <2014-01-05 Sun>--<2014-01-11 Sat>
-
-**** DONE If I draw with red and black, then my sketchnotes will be more visually structured while still keeping post-processing simple
-     CLOSED: [2014-01-05 Sun 21:29] DEADLINE: <2014-01-05 Fri>
-     :LOGBOOK:
-     - State "DONE"       from "TODO"       [2014-01-05 Sun 21:29]
-     :END:
-- Previous: All black or all blue; sometimes computer-coloured
-- If false: Thumbnails are still difficult to distinguish; feeling vs all-black sketches; feeling vs blue-and-black sketches like
-
-| Blue | [[http://www.flickr.com/photos/sachac/10994747174/][Flickr]] | [[http://sachachua.com/blog/2013/12/making-paper-notes/][Blog]] |
-| Red  | [[http://www.flickr.com/photos/sachac/11733224444/][Flickr]] | [[http://sachachua.com/blog/2014/01/spiral-learning/][Blog]] |
-
-- [2014-01-05]: If I use red, I usually have to colour-correct it in Autodesk Sketchbook Pro so that it doesn't look pink. I haven't figured out how to automate this yet, since Autodesk Sketchbook Pro neatly allows me to avoid correcting grayscale items. Per image, it's a few clicks and a drag. Leaning towards blue again. Red is more fun, though.
-
-Evaluated over three days:  <2014-01-03 Fri>--<2014-01-05 Sun>
-
-**** DONE If I spend at least one day a week drawing on my computer, then I will improve my workflow and get a better sense of my needs
-		 CLOSED: [2014-04-18 Fri 16:45]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:45]
-		 :END:
-*** DONE Figures, hands, faces :low-energy:
-		 CLOSED: [2014-09-14 Sun 20:20]
-		 :LOGBOOK:
-		 - State "DONE"       from "SOMEDAY"    [2014-09-14 Sun 20:20]
-		 :END:
 *** SOMEDAY Depth :low-energy:
-*** DONE Visual vocabulary :low-energy:
-		 CLOSED: [2014-04-18 Fri 10:31]
-		 :LOGBOOK:
-		 - State "DONE"       from "SOMEDAY"    [2014-04-18 Fri 10:31]
-		 :END:
-*** DONE Metaphors :low-energy:
-		 CLOSED: [2014-04-18 Fri 10:31]
-		 :LOGBOOK:
-		 - State "DONE"       from "SOMEDAY"    [2014-04-18 Fri 10:31]
-		 :END:
 *** To share
 - Workflow
 - Thinking
 - Models
 ** Living (F)
-*** DONE Establishing a winter exercise routine
-		 CLOSED: [2014-04-18 Fri 16:46] SCHEDULED: <2014-11-01 Sat>
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:46]
-		 :END:
-**** DONE If I play with exercise (ex: zombie survival mode), then I can make it fun enough to do 3x a week
-		 CLOSED: [2014-04-18 Fri 16:46]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:46]
-		 :END:
-Biking is fun. At home - strength exercises while playing?
-*** DONE House
-		 CLOSED: [2014-09-14 Sun 20:21]
-		 :LOGBOOK:
-		 - State "DONE"       from "SOMEDAY"    [2014-09-14 Sun 20:21]
-		 :END:
-**** DONE If we let Leia out in the basement on non-litterbox-accident days, then the number of accidents will be less than three times a month :quarter:
-     CLOSED: [2014-01-26 Sun 22:24]
-     :LOGBOOK:
-     - State "DONE"       from "TODO"       [2014-01-26 Sun 22:24]
-     :END:
-     [2014-01-05 Sun]--[2014-04-05 Sat]
-Started [2013-01-05]
-(three-day isolation protocol whenever she has tummy problems)
-
-Previous: Bathroom almost all day except when we're there to monitor
-**** DONE If we don't turn on special heating downstairs, the cats will still be fine :month:
-     CLOSED: [2014-01-11 Sat 22:58]
-     :LOGBOOK:
-     - State "DONE"       from ""           [2014-01-11 Sat 22:58]
-     :END:
-If false: The cats are shivering or they catch cold
-     <2014-01-05 Sun>--<2014-01-11 Wed>
-**** DONE If I establish a weekly routine with daily vacuuming, then I will clean more regularly :week:
-     CLOSED: [2014-01-11 Sat 22:56]
-     :LOGBOOK:
-     - State "DONE"       from "TODO"       [2014-01-11 Sat 22:56]
-     :END:
-- If false: I drop the schedule after a week
-- Previous: Occasional weekend cleaning
-     <2014-01-05 Sun>--<2014-01-12 Sun>
-
-Yeaaaah... right.
-**** DONE If I embrace research and comparison shopping as an opportunity to geek out more, then I will feel less overwhelmed and more edified
-		 CLOSED: [2014-04-17 Thu 22:57]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:57]
-		 :END:
-- 2013-01-06: Vacuum
-**** DONE If I spend time maintaining the things I like, then I can make them last longer than I expected
-		 CLOSED: [2014-04-17 Thu 22:57]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:57]
-		 :END:
-- 2013-01-06: Boots
-**** If I invest in amending the soil and I stop trying to balance the cost (treat it like a hobby instead of as grocery-replacement), then I'll enjoy growing basil, tomatoes, and bitter melon
-[[file:~/personal/organizer.org::*Garden][Garden]]
-*** DONE Minimalism, quality
-		 CLOSED: [2014-09-14 Sun 20:21]
-		 :LOGBOOK:
-		 - State "DONE"       from "SOMEDAY"    [2014-09-14 Sun 20:21]
-		 :END:
-*** DONE More recipes
-		 CLOSED: [2014-09-14 Sun 20:21]
-		 :LOGBOOK:
-		 - State "DONE"       from "SOMEDAY"    [2014-09-14 Sun 20:21]
-		 :END:
 *** Stoicism
-**** DONE Track negative feelings
-		 CLOSED: [2014-04-17 Thu 22:55]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:55]
-		 :END:
-<2014-01-26 Sun>--<2014-02-26 Wed>
-
-http://sachachua.com/blog/2014/01/simplifying-with-stoicism-examining-negative-feelings/
-
-| [2014-01-26]     | Went for a two-hour walk in the snow. Was fine. |
-| [2014-01-27 Mon] | Paper cut. No problem.                          |
-| [2014-01-28 Tue] | Worked with Java. Not frustrated.               |
-| [2014-02-09]     | Anxious about potential side-effects. |
-
-
-**** DONE Identify attachments
-		 CLOSED: [2014-04-17 Thu 22:55]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:55]
-		 :END:
-**** DONE Identify what I can control
-		 CLOSED: [2014-04-17 Thu 22:55]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:55]
-		 :END:
-**** DONE Practise negative visualization
-		 CLOSED: [2014-04-18 Fri 16:49]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:49]
-		 :END:
-
 *** To share
 - Frugality, personal finance
 - Relationships
 - Biking
 - Cooking
 ** Business
-*** DONE Creating collections and courses
-		 CLOSED: [2014-04-17 Thu 22:56]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:56]
-		 :END:
-*** DONE Delegation
-		 CLOSED: [2014-09-14 Sun 20:21]
-		 :LOGBOOK:
-		 - State "DONE"       from "SOMEDAY"    [2014-09-14 Sun 20:21]
-		 :END:
-**** DONE If I identify a large list of tasks to outsource AND I set aside time to train and document, then I will benefit from having the tasks regularly taken care of, and this will be more reassuring than stressful
-		 CLOSED: [2014-04-17 Thu 22:57]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:57]
-		 :END:
-**** Hypothesis: I can manage 30 hours of useful delegated work each week
-<2014-01-26 Sun>--<2014-02-26 Wed>
-
-Duplicate of [[*Work%20up%20to%20delegating%2030%20hours%20of%20work%20a%20week][Work up to delegating 30 hours of work a week]]
-
 *** SOMEDAY Partnering
 *** To share
 - Paperwork
 - Consulting
 ** Connecting
-*** DONE Learning more about people online, and sharing more of myself
-		 CLOSED: [2014-04-17 Thu 22:57]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:57]
-		 :END:
-*** DONE Asking for help
-		 CLOSED: [2014-09-14 Sun 20:21]
-		 :LOGBOOK:
-		 - State "DONE"       from "SOMEDAY"    [2014-09-14 Sun 20:21]
-		 :END:
-*** DONE Games
-		 CLOSED: [2014-09-14 Sun 20:21]
-		 :LOGBOOK:
-		 - State "DONE"       from "SOMEDAY"    [2014-09-14 Sun 20:21]
-		 :END:
 *** SOMEDAY Social updates (personal stories, etc.)
 *** SOMEDAY Conferences
-*** DONE Hacklab
-		 CLOSED: [2014-04-18 Fri 10:31]
-		 :LOGBOOK:
-		 - State "DONE"       from "SOMEDAY"    [2014-04-18 Fri 10:31]
-		 :END:
-**** DONE If I mentally commit to going to Hacklab at least one full day a week, then I'll appreciate more of the benefits of going there :month:
-		 CLOSED: [2014-04-17 Thu 22:49]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:49]
-		 :END:
-Previous: I try to go once a week, but I often talk myself out of it because it's cold or I'm not sure if anyone will be there
-(Fridays? Mondays?)
 *** To share
 - Meetups
 - Helping
 
 ** Emacs (M)
-*** DONE Drawing and writing things to help people learn basic and intermediate topics
-		 CLOSED: [2014-04-17 Thu 22:57]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:57]
-		 :END:
-Under "Explaining Emacs, helping people learn"
-*** DONE Org improvements
-		 CLOSED: [2014-04-18 Fri 10:31]
-		 :LOGBOOK:
-		 - State "DONE"       from "SOMEDAY"    [2014-04-18 Fri 10:31]
-		 :END:
-*** DONE Emacs/package contributions
-		 CLOSED: [2014-04-18 Fri 10:31]
-		 :LOGBOOK:
-		 - State "DONE"       from "SOMEDAY"    [2014-04-18 Fri 10:31]
-		 :END:
 *** To share
 - Configuration
 - Customization
@@ -998,62 +468,17 @@ What do I want to learn about and write about this year?
 
 ** Work
 *** Entrepreneurship
-**** DONE Defining the problem
-**** DONE Validating ideas
-**** DONE Planning my next mini-experiments
 **** CANCELLED Experimenting with microstock illustrations
-**** DONE Decision review: Starting my own business
-**** DONE Learning about business
-**** DONOE What I've learned about service businesses
-**** DONE Learning about product businesses
+**** DONE What I've learned about service businesses
 **** CANCELLED Amazon affiliate update
-**** DONE Business and my personal learning network
 *** Sales
-**** DONE How to not be overwhelmed by opportunities and to-dos
-- target: one conference
 **** CANCELLED Writing sales letters
-**** DONE Reaching out for that initial conversation
-**** DONE Following up on conversations
-**** DONE Closing the sale
-**** DONE Refining my message
-**** DONE Sketchnoting my sales letter
-**** DONE Experience report: Connecting with agencies
-**** DONE Experience report: Connecting with organizers
 *** Marketing
-**** DONE Developing an editorial calendar for my business blog
 **** CANCELLED Experience report: Finding trade publications
 *** Skills
 **** Summarizing is hard
 **** Learning how to summarize
 - newspaper game
-**** DONE What's new in Rails
-		 CLOSED: [2014-04-23 Wed 16:32]
-		 :LOGBOOK:
-		 - State "DONE"       from "STARTED"    [2014-04-23 Wed 16:32]
-		 CLOCK: [2014-04-23 Wed 16:25]--[2014-04-23 Wed 16:32] =>  0:07
-		 :END:
-		 :PROPERTIES:
-		 :Effort:   2:00
-		 :QUANTIFIED: 0:30
-		 :END:
-**** DONE Adding tests to Quantified Awesome
-		 CLOSED: [2014-09-14 Sun 20:20]
-		 :LOGBOOK:
-		 - State "DONE"       from "SOMEDAY"    [2014-09-14 Sun 20:20]
-		 :END:
-		 :PROPERTIES:
-		 :Effort:   4:00
-		 :END:
-**** DONE How to draw abstract concepts
-**** DONE Developing a colour scheme
-**** DONE How to listen and draw at the same time
-**** DONE Sketchnote compilation
-**** DONE Organizing sketchnotes
-**** DONE Animation workflow
-**** DONE Learning plan: Sketchnotes
-**** DONE Revising my sketchnotes
-**** DONE Planning how to learn: Whiteboard animations
-**** DONE Getting the hang of drawing sketchnotes
 *** Reading
 **** Metaphor and Emotion   :opportunity-fund:
   http://www.amazon.com/Metaphor-Emotion-Language-Interaction-ebook/dp/B000SEUPH6/ref=sr_1_1_bnp_1_kin?ie=UTF8&qid=1372988059&sr=8-1&keywords=metaphor+and+emotion
@@ -1061,45 +486,10 @@ What do I want to learn about and write about this year?
   $17.60 Kindle
   $36.87 Paperback
 **** TODO Request books from the library focusing on one of the topics
-**** DONE Planning my business reading list
-**** DONE Reviewing my book notes
 *** Delegation
-**** DONE How I hire people on oDesk
-**** DONE Learning from how other people delegate
-**** DONE Imagining wild success: delegation
-**** DONE Delegating scheduling to a virtual assistant
-**** DONE Using Trello to visually track delegated tasks
-**** DONE Planning ahead in terms of people
-**** DONE Writing down your processes
-**** DONE Evaluating assistants
 *** Connecting
 **** CANCELLED Get a rich e-mail summary of your agenda
-**** DONE Personal contact relationship management
-		 CLOSED: [2014-04-17 Thu 22:56]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:56]
-		 :END:
-**** DONE Helping people get started
-		 CLOSED: [2014-04-17 Thu 22:55]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:55]
-		 :END:
-**** DONE Making the most of meetups
-**** DONE The shy connector: choosing your events
-
-
-**** DONE The shy connector: taking notes
-**** DONE The shy connector: following up
-**** DONE Getting better at following up
-**** DONE Working on being more social
-**** DONE My meetup workflow
-**** DONE Spending on people
-		 CLOSED: [2014-04-18 Fri 16:54]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:54]
-		 :END:
 *** Paperwork
-**** DONE Reducing stress around accounting
 *** Others
 **** 52 visual book reviews
 
@@ -1150,35 +540,21 @@ What do I want to learn about and write about this year?
 #+end_src
 
 **** CANCELLED 365 presentations
-**** DONE Experience report: 1-year anniversary
-**** DONE Figuring out what to spend on
-**** DONE On job titles
-**** DONE Improving my bike ride
-**** DONE Combinations of skills
 **** CANCELLED Planning a presentation 20 seconds at a time
-**** DONE Planning for emergencies
-**** DONE Decision review: Tablet PC
-**** DONE Developing more flexible skills
 **** CANCELLED Looking forward to tablet development
 ** Relationships
 *** Cooking
 **** Exploring ingredients
-***** DONE Cooking: Warm lentil salad with sausages
 ***** CANCELLED Celeriac soup
 			 CLOSED: [2014-04-17 Thu 22:13]
 			 :LOGBOOK:
 			 - State "CANCELLED"  from "TODO"       [2014-04-17 Thu 22:13]
 			 :END:
-***** DONE The quest for quinoa
-***** DONE Barley beginnings
 ***** CANCELLED Swiss chard surprises
-***** DONE Salad days
 ***** CANCELLED Lentil and sausage salad
 **** Exploring techniques
 ***** CANCELLED Cooking with the rice cooker
 ***** CANCELLED Making our own siumai
-***** DONE Quiche quiche quiche quiche
-**** DONE List: Frozen lunches and other bulk meals
 *** Gardening
 **** CANCELLED Growing lentils
 		 CLOSED: [2014-04-17 Thu 22:12]
@@ -1186,19 +562,14 @@ What do I want to learn about and write about this year?
 		 - State "CANCELLED"  from "TODO"       [2014-04-17 Thu 22:12]
 		 :END:
 *** Organizing
-**** DONE Organizing my notes with Evernote and Emacs
 *** Spending time together
-**** DONE Spending time with friends
-**** DONE Spending time with W-
 **** CANCELLED Taking more pictures
 **** CANCELLED Sending more letters
-**** DONE Learning more about friends
 *** Learning new skills
 **** SOMEDAY Getting started with Cantonese
 **** SOMEDAY Cantonese: Learning jyutping
 **** SOMEDAY Cantonese: Phrases at home
 **** SOMEDAY Random Cantonese sentences
-**** DONE Getting started with Latin
 **** SOMEDAY Latin: Phrases at home
 *** Helping out
 **** CANCELLED Meetup marketing: Developing a communications plan
@@ -1215,75 +586,19 @@ What do I want to learn about and write about this year?
 		 :END:
 ** Life
 *** Emacs
-**** DONE Learning Emacs keyboard shortcuts
-**** DONE Learning from others: Emacs and your personal learning network
-**** DONE Playing games in Emacs
-**** DONE Organizing my Org Mode archive
-**** DONE Org-babel and why it's good to mix code and explanation
 **** CANCELLED Tracking people with org-contacts
 *** Wordpress and web development
 **** CANCELLED Custom post types and book reviews
 **** CANCELLED Custom post types and search
 **** CANCELLED NextGen Gallery and search
-**** DONE Things I like about other people's websites
 *** Personal finance
-**** DONE Managing your money with uneven income
-		 CLOSED: [2014-04-18 Fri 16:59]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:59]
-		 :END:
-**** DONE Managing my personal and business finances
-		 CLOSED: [2014-04-18 Fri 17:17]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-18 Fri 17:17]
-		 :END:
 *** Planning
-**** DONE 2013 in review
-		 CLOSED: [2014-04-17 Thu 22:07]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:07]
-		 :END:
 **** CANCELLED Tag clouds for planning
 		 CLOSED: [2014-04-18 Fri 10:26]
 		 :LOGBOOK:
 		 - State "CANCELLED"  from "TODO"       [2014-04-18 Fri 10:26]
 		 :END:
-**** DONE Planning how to learn
-		 CLOSED: [2014-04-18 Fri 16:59]
-		 :LOGBOOK:
-		 - State "DONE"       from "DONE"       [2014-04-18 Fri 16:59]
-		 - State "DONE"       from "TODO"       [2014-04-18 Fri 16:59]
-		 :END:
-**** DONE Premortems and wild success stories
-		 CLOSED: [2014-04-18 Fri 17:17]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-18 Fri 17:17]
-		 :END:
-**** DONE What I feel brilliant at
-		 CLOSED: [2014-04-18 Fri 16:59]
-		 :LOGBOOK:
-		 - State "DONE"       from "TOBLOG"     [2014-04-18 Fri 16:59]
-		 :END:
-**** DONE Making my own opportunities
-		 CLOSED: [2014-04-18 Fri 17:17]
-		 :LOGBOOK:
-		 - State "DONE"       from "TOBLOG"     [2014-04-18 Fri 17:17]
-		 :END:
 *** Quantified
-**** DONE Analyze a year of clothing data
-		 CLOSED: [2014-04-21 Mon 12:10]
-		 :LOGBOOK:
-		 - State "DONE"       from "STARTED"    [2014-04-21 Mon 12:10]
-		 CLOCK: [2014-04-21 Mon 09:54]--[2014-04-21 Mon 12:10] =>  2:16
-		 CLOCK: [2014-04-20 Sun 23:37]--[2014-04-21 Mon 00:35] =>  0:58
-		 CLOCK: [2014-04-20 Sun 23:28]--[2014-04-20 Sun 23:34] =>  0:06
-		 CLOCK: [2014-04-20 Sun 23:28]--[2014-04-20 Sun 23:28] =>  0:00
-		 :END:
-		 :PROPERTIES:
-		 :Effort:   2:00
-		 :QUANTIFIED: Quantified
-		 :END:
-
 **** CANCELLED Building a price book
 		 CLOSED: [2014-09-14 Sun 20:18]
 		 :LOGBOOK:
@@ -1291,11 +606,6 @@ What do I want to learn about and write about this year?
 		 :END:
 		 :PROPERTIES:
 		 :Effort:   2:00
-		 :END:
-**** DONE A year of grocery update
-		 CLOSED: [2014-04-17 Thu 22:55]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:55]
 		 :END:
 **** CANCELLED Looking at my application use
 		 CLOSED: [2014-04-18 Fri 16:59]
@@ -1307,60 +617,24 @@ What do I want to learn about and write about this year?
 		 :LOGBOOK:
 		 - State "CANCELLED"  from "TODO"       [2014-04-18 Fri 16:59]
 		 :END:
-**** DONE Learning plan: Data analysis
-		 CLOSED: [2014-04-17 Thu 22:55]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:55]
-		 :END:
-**** DONE Examining my morning routine
-		 CLOSED: [2014-04-17 Thu 22:55]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:55]
-		 :END:
 *** Writing
 **** CANCELLED The hundred-item list
 		 CLOSED: [2014-04-18 Fri 16:59]
 		 :LOGBOOK:
 		 - State "CANCELLED"  from "TODO"       [2014-04-18 Fri 16:59]
 		 :END:
-**** DONE Organizing what I know
-**** DONE Brainstorming lists
-		 CLOSED: [2014-04-17 Thu 22:55]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:55]
-		 :END:
 **** CANCELLED The power of long lists
 		 CLOSED: [2014-04-18 Fri 16:59]
 		 :LOGBOOK:
 		 - State "CANCELLED"  from "TODO"       [2014-04-18 Fri 16:59]
 		 :END:
-**** DONE Improving my writing systems
-		 CLOSED: [2014-04-17 Thu 22:55]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:55]
-		 :END:
 **** SOMEDAY Collecting stories and quotes
 **** SOMEDAY Writing everywhere
-**** DONE What I like writing about
-		 CLOSED: [2014-04-17 Thu 22:48]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:48]
-		 :END:
 *** Other
-**** DONE Remembering to make time for yourself
-		 CLOSED: [2014-04-17 Thu 22:48]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:48]
-		 :END:
 **** CANCELLED Decision review: Shed
 		 CLOSED: [2014-04-17 Thu 22:12]
 		 :LOGBOOK:
 		 - State "CANCELLED"  from "TODO"       [2014-04-17 Thu 22:12]
-		 :END:
-**** DONE Getting started with weekly reviews
-		 CLOSED: [2014-04-17 Thu 22:48]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:48]
 		 :END:
 **** CANCELLED Decision review: mobile phone decisions
 		 CLOSED: [2014-04-17 Thu 22:12]
@@ -1371,16 +645,6 @@ What do I want to learn about and write about this year?
 		 CLOSED: [2014-04-17 Thu 22:12]
 		 :LOGBOOK:
 		 - State "CANCELLED"  from "TODO"       [2014-04-17 Thu 22:12]
-		 :END:
-**** DONE Make better decisions with emotions
-		 CLOSED: [2014-04-17 Thu 22:48]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:48]
-		 :END:
-**** DONE Without the excuse of time
-		 CLOSED: [2014-04-17 Thu 22:48]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:48]
 		 :END:
 **** CANCELLED List: Ways I use my tablet
 		 CLOSED: [2014-04-18 Fri 10:31]
@@ -1395,11 +659,6 @@ What do I want to learn about and write about this year?
 **** SOMEDAY APIdventures: Twitter
 **** SOMEDAY APIdventures: Evernote
 **** SOMEDAY Learning plan: Android
-**** DONE How I read
-		 CLOSED: [2014-04-17 Thu 22:48]
-		 :LOGBOOK:
-		 - State "DONE"       from "TODO"       [2014-04-17 Thu 22:48]
-		 :END:
 **** SOMEDAY Meditations in everyday moments
 **** SOMEDAY Looking for patterns
 **** SOMEDAY Relaxing
@@ -1545,15 +804,6 @@ Not estimated because this is part of work
 - 2012-04-01: Demoted to focus on drawing, writing, and consulting
 ***** [-] Agile development: I want to get better at planning and executing agile projects
 ***** [X] Documentation: I want to take better notes so that I can support projects more effectively
-**** DONE Testing
-- 2012-04-01: No further progress specifically planned for this year
-***** [X] 100% test coverage
-- Goal: Get used to building more slowly and reliably
-- Estimate: 40 hours; rest included in development
-***** [X] Selenium and other front-end tests
-- Learned how to write Selenium IDE and Selenium RC tests
-***** [X] Behaviour-driven development: Learn with work projects, Quantified Awesome
-- Goal: Learn how to express behaviour clearly and concisely so that I can specify my own apps
 **** [P] Rails: Learn with Quantified Awesome
 - 2012-04-01: Demoted Rails development in order to focus on drawing and writing
 - Previous goal: I want to learn more about Rails because I want to get better at building systems to support the way I want to live, and because I enjoy using it.
@@ -1576,63 +826,6 @@ Not estimated because this is part of work
 ***** [ ] Testing
 ***** [ ] Drupal 7
 **** CANCELLED Android development
-***** DONE Set up my development environment again
-      CLOSED: [2011-12-16 Fri 18:54]
-       - State "DONE"       from "TODO"       [2011-12-16 Fri 18:54]
-      CLOCK: [2011-12-16 Fri 17:33]--[2011-12-16 Fri 18:54] =>  1:21
-      :PROPERTIES:
-      :Modified: 1324079663
-      :END:
-***** DONE Get Quantified Awesome to show up on my Android
-      CLOSED: [2011-12-16 Fri 18:54]
-       - State "DONE"       from "TODO"       [2011-12-16 Fri 18:54]
-      :PROPERTIES:
-      :Modified: 1324079665
-      :END:
-***** DONE Accept a file from Tap Log Records
-      CLOSED: [2011-12-16 Fri 20:34]
-       - State "DONE"       from "TODO"       [2011-12-16 Fri 20:34]
-      :PROPERTIES:
-      :Modified: 1324085675
-      :END:
-#+BEGIN_EXAMPLE
-       <intent-filter>
-       <action android:name="android.intent.action.SEND" />
-       <category android:name="android.intent.category.DEFAULT" />
-       <data android:mimeType="*/*" />
-       </intent-filter>
-#+END_EXAMPLE
-***** DONE Display a value from the file from Tap Log Records
-      CLOSED: [2012-01-13 Fri 11:07]
-       - State "DONE"       from "TODO"       [2012-01-13 Fri 11:07]
-      :PROPERTIES:
-      :Modified: 1326470850
-      :END:
-***** DONE Display the total work time
-      CLOSED: [2012-01-13 Fri 11:07]
-       - State "DONE"       from "TODO"       [2012-01-13 Fri 11:07]
-      :PROPERTIES:
-      :Modified: 1326470857
-      :END:
-***** DONE Display the total work time this week
-      CLOSED: [2012-01-13 Fri 11:07]
-       - State "DONE"       from "TODO"       [2012-01-13 Fri 11:07]
-      :PROPERTIES:
-      :Modified: 1326470858
-      :END:
-***** DONE Display yesterday's statistics for sleep and discretionary time
-      CLOSED: [2012-01-13 Fri 11:07]
-       - State "DONE"       from "TODO"       [2012-01-13 Fri 11:07]
-      :PROPERTIES:
-      :Modified: 1326470859
-      :END:
-***** DONE Build simple text input
-      CLOSED: [2012-01-13 Fri 11:07]
-       - State "DONE"       from "TODO"       [2012-01-13 Fri 11:07]
-      :PROPERTIES:
-      :Modified: 1326470864
-      :END:
-
 ** Quick update 2012-04-01
 Going into business myself means major changes to my time budget and
 learning plan! =) Will continue to refine this as I go along.
