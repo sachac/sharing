@@ -127,6 +127,9 @@ Click on the headings to expand them.
 + [[https://www.flickr.com/photos/sachac/16847896789/][2015-04-04a Ideas for laser registration -- index card #hacklab #laser]]
 + [[https://www.flickr.com/photos/sachac/17218478255/][2015-04-20k Week ending 2015-04-17 -- index card #journal #weekly]]
 
+c:\sacha\Dropbox\Public\sharing>node g:\code\node\flickr-upload.js "c:/sacha/Dropbox/Inbox/2015-05-11f Monday -- index card #journal.png" 
+
+
 *** Weekly review: Week ending May  8, 2015  :weekly:
 *Blog posts*
 
@@ -8568,3 +8571,32 @@ I write. In podcasts and real-life conversations, I often interrupt
 myself, stutter, or use complex sentence patterns. When I write, I
 feel like I'm thinking more clearly and saying things more clearly.
 
+** STARTED Fuzzy brain; also Ni No Kuni  :life:fuzzy:
+   :PROPERTIES:
+   :Effort:   1:00
+   :QUANTIFIED: Writing
+   :ID:       o2b:de795467-5eb4-450c-be83-6e05b383574c
+   :POST_DATE: [2015-05-20 Wed 21:38]
+   :POSTID:   28221
+   :BLOG:     sacha
+   :END:
+
+Low energy both physically and mentally today, but I managed to
+squeeze in a 90-minute walk that included the library and the
+supermarket, so my walking streak continues. I can feel the fuzziness
+start to encroach, so ah well. Time to indulge a little. Aside from the walk, in fact, I spent practically the entire day playing /Ni no Kuni: Wrath of the White Witch/.
+
+I like playing role-playing games, particularly ones that are
+forgiving enough to let you restart or change your mind if a battle's
+too much for you. I enjoy watching the story unfold, and I like slowly getting the hang of the battle system and character development. 
+
+I prefer turn-based games like Persona 4 Golden where you have a
+little time to review the situation and think about what you're going
+to do. But /Ni no Kuni/ is such a pretty game -- gorgeous visuals and
+sound (Studio Ghibli! the Tokyo Philharmonic!) -- that I'm working on
+getting the hang of it. I expect the game to take me a while, though.
+This is good, because I happen to have said while.
+
+There are many things I /could/ do with my time, and I'm sure they'll
+rise higher on my list after I settle in. There'll be time enough for
+other things.

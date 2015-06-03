@@ -7,7 +7,7 @@ Want to help me with anything on this list? Please feel free to contact me at
 You can find this document at http://sach.ac/my-learning
 
 * Questions
-  
+
 Help me figure things out! E-mail me with your thoughts and ideas.
 
 - Emacs
@@ -214,7 +214,8 @@ Hmm, maybe I'll go ahead and calculate that first.
 | 2015-02-17 |  546 |     11 |  230 |    26 |      4 |    96 |     116 |  1029 |    53% |    102 |     -1 |     212 |         111 |
 | 2015-02-18 |  555 |     15 |  236 |    26 |      4 |    96 |     115 |  1047 |    53% |      9 |      0 |      18 |           9 |
 | 2015-03-22 |  602 |     23 |  242 |    26 |      4 |   101 |     115 |  1113 |    54% |     47 |      5 |      66 |          14 |
-| 2015-04-24 |  662 |     29 |  255 |    28 |      4 |   103 |     116 |  1197 |    55% |        |        |         |             |
+| 2015-04-24 |  662 |     29 |  255 |    28 |      4 |   103 |     116 |  1197 |    55% |     60 |      2 |      84 |          22 |
+| 2015-06-02 |   57 |     36 |  216 |    30 |      4 |   110 |     116 |   569 |    10% |   -605 |      7 |    -628 |         -30 |
 #+TBLFM: @3$11..@>$11=$2-@-1$2::@3$13..@>$13=$9-@-1$9::@3$14..@>$14=$13-$11-($7-@-1$7)::@3$12..@>$12=$7-@-1$7
 
 #+begin_src R :var data=burndown :results graphics :file tasks.png :exports both
