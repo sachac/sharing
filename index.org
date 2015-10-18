@@ -127,7 +127,6 @@ Click on the headings to expand them.
 + [[https://www.flickr.com/photos/sachac/16847896789/][2015-04-04a Ideas for laser registration -- index card #hacklab #laser]]
 + [[https://www.flickr.com/photos/sachac/17218478255/][2015-04-20k Week ending 2015-04-17 -- index card #journal #weekly]]
 
-c:\sacha\Dropbox\Public\sharing>node g:\code\node\flickr-upload.js "c:/sacha/Dropbox/Inbox/2015-05-11f Monday -- index card #journal.png" 
 
 
 *** Weekly review: Week ending May  8, 2015  :weekly:
