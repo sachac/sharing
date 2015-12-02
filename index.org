@@ -134,23 +134,23 @@ Click on the headings to expand them.
 
 *Sketches*
 
-- [[https://www.flickr.com/photos/sachac/17357213612/][2015-05-02a Saturday -- index card #journal]] 
-- [[https://www.flickr.com/photos/sachac/17151681487/][2015-05-02b Lined pouch -- index card #sewing]] 
-- [[https://www.flickr.com/photos/sachac/17171559920/][2015-05-02c Containers -- index card #sewing]] 
-- [[https://www.flickr.com/photos/sachac/17358776781/][2015-05-02d Rough edges I could smooth -- index card #sewing]] 
-- [[https://www.flickr.com/photos/sachac/17333172166/][2015-05-02e When I'm sharp, when I'm fuzzy -- index card #fuzzy]] 
-- [[https://www.flickr.com/photos/sachac/17357215192/][2015-05-03a Make, buy -- index card #making]] 
-- [[https://www.flickr.com/photos/sachac/17171338208/][2015-05-03b Shifting visions of success -- index card #experiment #success]] 
-- [[https://www.flickr.com/photos/sachac/17171560970/][2015-05-03c Tracing evolution of wild success -- index card #experiment #success]] 
-- [[https://www.flickr.com/photos/sachac/17333172866/][2015-05-03d Sidetracked by experiences of abundance, quality of life -- index card #experiment #success #quality-of-life]] 
-- [[https://www.flickr.com/photos/sachac/17171561350/][2015-05-03e Default or majority state and fuzziness -- index card #fuzzy]] 
-- [[https://www.flickr.com/photos/sachac/16753632513/][2015-05-03f Sunday -- index card #journal]] 
-- [[https://www.flickr.com/photos/sachac/16753632533/][2015-05-04a More than quiet afternoons -- index card #experiment #pace]] 
-- [[https://www.flickr.com/photos/sachac/16753632933/][2015-05-04b Thoughts on fabric for summer -- index card #sewing #fabric]] 
-- [[https://www.flickr.com/photos/sachac/17373587661/][2015-05-04c Keeping the end of the day in mind -- index card #life #quality-of-life]] 
-- [[https://www.flickr.com/photos/sachac/17371954682/][2015-05-04d Chicken chicken chicken -- index card #cooking]] 
-- [[https://www.flickr.com/photos/sachac/16753632943/][2015-05-04e Monday -- index card #journal]] 
-- [[https://www.flickr.com/photos/sachac/17373928815/][2015-05-04f Laptops and lap cats -- index card #life #cats]] 
+- [[https://www.flickr.com/photos/sachac/17357213612/][2015-05-02a Saturday -- index card #journal]]
+- [[https://www.flickr.com/photos/sachac/17151681487/][2015-05-02b Lined pouch -- index card #sewing]]
+- [[https://www.flickr.com/photos/sachac/17171559920/][2015-05-02c Containers -- index card #sewing]]
+- [[https://www.flickr.com/photos/sachac/17358776781/][2015-05-02d Rough edges I could smooth -- index card #sewing]]
+- [[https://www.flickr.com/photos/sachac/17333172166/][2015-05-02e When I'm sharp, when I'm fuzzy -- index card #fuzzy]]
+- [[https://www.flickr.com/photos/sachac/17357215192/][2015-05-03a Make, buy -- index card #making]]
+- [[https://www.flickr.com/photos/sachac/17171338208/][2015-05-03b Shifting visions of success -- index card #experiment #success]]
+- [[https://www.flickr.com/photos/sachac/17171560970/][2015-05-03c Tracing evolution of wild success -- index card #experiment #success]]
+- [[https://www.flickr.com/photos/sachac/17333172866/][2015-05-03d Sidetracked by experiences of abundance, quality of life -- index card #experiment #success #quality-of-life]]
+- [[https://www.flickr.com/photos/sachac/17171561350/][2015-05-03e Default or majority state and fuzziness -- index card #fuzzy]]
+- [[https://www.flickr.com/photos/sachac/16753632513/][2015-05-03f Sunday -- index card #journal]]
+- [[https://www.flickr.com/photos/sachac/16753632533/][2015-05-04a More than quiet afternoons -- index card #experiment #pace]]
+- [[https://www.flickr.com/photos/sachac/16753632933/][2015-05-04b Thoughts on fabric for summer -- index card #sewing #fabric]]
+- [[https://www.flickr.com/photos/sachac/17373587661/][2015-05-04c Keeping the end of the day in mind -- index card #life #quality-of-life]]
+- [[https://www.flickr.com/photos/sachac/17371954682/][2015-05-04d Chicken chicken chicken -- index card #cooking]]
+- [[https://www.flickr.com/photos/sachac/16753632943/][2015-05-04e Monday -- index card #journal]]
+- [[https://www.flickr.com/photos/sachac/17373928815/][2015-05-04f Laptops and lap cats -- index card #life #cats]]
 *Link round-up*
 
 
@@ -3174,7 +3174,8 @@ http://brainzooming.com/graphs-for-visual-thinking-problem-solving-with-2-lines/
 ** Figuring out the root causes with fishbones
 ** Making decisions with graphs
 ** Sketchnoting
-*** TOBLOG [#C] Accelerate Your Learning with Sketchnotes  :book-idea:PROJECT:
+*** CANCELLED [#C] Accelerate Your Learning with Sketchnotes  :book-idea:PROJECT:
+    CLOSED: [2015-11-13 Fri 15:24]
 # <<accel-sketch>>
 Audience: Entrepreneurial visual thinkers who would like to learn more effectively
 
@@ -8587,7 +8588,7 @@ start to encroach, so ah well. Time to indulge a little. Aside from the walk, in
 
 I like playing role-playing games, particularly ones that are
 forgiving enough to let you restart or change your mind if a battle's
-too much for you. I enjoy watching the story unfold, and I like slowly getting the hang of the battle system and character development. 
+too much for you. I enjoy watching the story unfold, and I like slowly getting the hang of the battle system and character development.
 
 I prefer turn-based games like Persona 4 Golden where you have a
 little time to review the situation and think about what you're going

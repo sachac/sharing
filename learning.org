@@ -76,11 +76,12 @@ See [[file:~/personal/organizer.org::*Learn%20Japanese][Learn Japanese]]
 
 ** Turning ideas and assumptions into experiments
 *** TODO [#C] Tracking: Update the number of tasks        :lowenergy:routine:
-    SCHEDULED: <2015-10-25 Sun .+1m>
     :PROPERTIES:
-    :LAST_REPEAT: [2015-09-25 Fri 18:09]
+    :LAST_REPEAT: [2015-11-26 Thu 21:48]
     :END:
 			 :LOGBOOK:
+       - State "DONE"       from "TODO"       [2015-11-26 Thu 21:48]
+       - State "DONE"       from "TODO"       [2015-10-25 Sun 19:14]
        - State "DONE"       from "TODO"       [2015-09-25 Fri 18:09]
        - State "DONE"       from "TODO"       [2015-07-19 Sun 12:11]
        - State "DONE"       from "TODO"       [2015-06-03 Wed 16:50]
@@ -220,7 +221,9 @@ Hmm, maybe I'll go ahead and calculate that first.
 | 2015-04-24 |  662 |     29 |  255 |    28 |      4 |   103 |     116 |  1197 |    55% |     60 |      2 |      84 |          22 |
 | 2015-06-02 |   57 |     36 |  216 |    30 |      4 |   110 |     116 |   569 |    10% |   -605 |      7 |    -628 |         -30 |
 | 2015-07-19 |  138 |     49 |  348 |    27 |      4 |   117 |     117 |   800 |    17% |     81 |      7 |     231 |         143 |
-| 2015-09-25 |  129 |     38 |  351 |    25 |      4 |   112 |     116 |   775 |    17% |        |        |         |             |
+| 2015-09-25 |  129 |     38 |  351 |    25 |      4 |   112 |     116 |   775 |    17% |     -9 |     -5 |     -25 |         -11 |
+| 2015-10-25 |  185 |     61 |  369 |    29 |      4 |   116 |     116 |   880 |    21% |     56 |      4 |     105 |          45 |
+| 2015-11-25 |  319 |     67 |  226 |    24 |      1 |   159 |     109 |   905 |    35% |    134 |     43 |      25 |        -152 |
 #+TBLFM: @3$11..@>$11=$2-@-1$2::@3$13..@>$13=$9-@-1$9::@3$14..@>$14=$13-$11-($7-@-1$7)::@3$12..@>$12=$7-@-1$7
 
 #+begin_src R :var data=burndown :results graphics :file tasks.png :exports both
