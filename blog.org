@@ -6,7 +6,7 @@ get in touch with me, please check out
 http://sachachua.com/blog/contact . =)
 
 Oldest post in index: December 12, 2007
-Most recent post in index: November 30, 2015
+Most recent post in index: Dec 31, 2015
 
 Quick links to trails that are already logically ordered (more to come):
 - [[#no-excuses-blogging][Blogging, A No-Excuses Guide to]]
@@ -18,7 +18,7 @@ Quick links to trails that are already logically ordered (more to come):
 
 * Topical index
 ** 5-year experiment   :organized:
-See also: [[starting_business][Starting my own business]]
+See also: [[#starting_business][Starting my own business]]
 
 - [X] [[http://sachachua.com/blog/2015/06/moving-past-getting-things-done/][Moving past getting things done]] (June 2015)
 - [X] [[http://sachachua.com/blog/2015/06/growth-experiments-and-shifting-my-preferences/][Growth, experiments, and shifting my preferences]] (June 2015)
@@ -130,12 +130,11 @@ See also: [[starting_business][Starting my own business]]
 	 :PROPERTIES:
 	 :CUSTOM_ID: blogging
 	 :END:
-<<blogging>>
 
 Key resource: [[http://sachachua.com/blog/2014/02/excuses-guide-blogging-pdf-epub-mobi-free-also-notes-publishing/][A No Excuses Guide to Blogging (PDF, EPUB, MOBI - free!); also, notes on publishing]] (Feb 2014)
 
-See also: [[writing][Writing]] \\
-See also: [[no-excuses-blogging][Blogging, A No-Excuses Guide to]]
+See also: [[#writing][Writing]] \\
+See also: [[#no-excuses-blogging][Blogging, A No-Excuses Guide to]]
 
 - [X] [[http://sachachua.com/blog/2015/05/shifts-in-my-writing/][Shifts in my writing]] (May 2015)
 - [X] [[http://sachachua.com/blog/2015/05/what-do-i-want-instead-of-or-in-addition-to-advice-roundups/][What do I want instead of or in addition to advice roundups?]] (May 2015)
@@ -169,8 +168,6 @@ See also: [[no-excuses-blogging][Blogging, A No-Excuses Guide to]]
 	 :PROPERTIES:
 	 :CUSTOM_ID: no-excuses-blogging
 	 :END:
-
-<<no-excuses-blogging>>
 
 See http://sach.ac/no-excuses-blogging
 
@@ -206,7 +203,6 @@ See http://sach.ac/no-excuses-blogging
 	 :PROPERTIES:
 	 :CUSTOM_ID: discovering-yourself-through-blogging
 	 :END:
-<<discovering-yourself-through-blogging>>
 
 1. [[http://sachachua.com/blog/2011/09/discovering-yourself-through-blogging-transcript-from-lotus-blossoming-telesummit/][Transcript: Blogging (Part 1): Blogging and introverts]]
 2. [[http://sachachua.com/blog/2011/09/transcript-blogging-part-2-growing-into-blogging/][Transcript: Blogging (Part 2): Growing into blogging]]
@@ -229,7 +225,6 @@ See http://sach.ac/no-excuses-blogging
 	 :PROPERTIES:
 	 :CUSTOM_ID: value-blogging
 	 :END:
-<<value-blogging>>
 1. [X] [[http://sachachua.com/blog/2011/02/the-value-of-blogging-part-i-thought/][Get More Value from Blogging, part I: The Immediate Benefits of Thought]]
 2. [X] [[http://sachachua.com/blog/2011/02/the-value-of-blogging-part-ii-archive/][Get More Value from Blogging, part II: The Compounding Value of an Archive]]
 3. [X] [[http://sachachua.com/blog/2011/02/get-more-value-from-blogging-part-iii-sharing-makes-the-blog-go-round/][Get More Value from Blogging, part III: Sharing Makes the Blog Go ‘Round]]
@@ -718,7 +713,9 @@ See http://sach.ac/no-excuses-blogging
 - [X] [[http://sachachua.com/blog/2011/08/how-to-set-up-more-frequent-merge-replications-in-sql-server-2000/][How to set up more frequent merge replications in SQL Server 2000]]
 - [X] [[http://sachachua.com/blog/2011/03/cant-see-cross-domain-images-in-your-flash-file-make-a-crossdomain-xml/][Can't see cross-domain images in your Flash file? Make a crossdomain.xml]]
 - [X] [[http://sachachua.com/blog/2011/03/learning-more-about-websphere-and-web-service-development/][Learning more about Websphere and web service development]]
-** Development [10/10]
+** Development [12/12]
+- [X] [[http://sachachua.com/blog/2015/12/scripting-grocery-store-flyer/][Scripting and the grocery store flyer]] (Dec 2015)
+- [X] [[http://sachachua.com/blog/2015/12/scripting-toronto-public-librarys-movie-collection/][Scripting and the Toronto Public Library's movie collection]] (Dec 2015)
 - [X] [[http://sachachua.com/blog/2015/05/thinking-about-adaptive-menus-for-tracking/][Thinking about adaptive menus for tracking]] (May 2015)
 - [X] [[http://sachachua.com/blog/2015/05/building-tools-for-my-future-self/][Building tools for my future self]] (May 2015)
 - [X] [[http://sachachua.com/blog/2014/11/beginner-web-dev-tip-use-inspect-element-learn-html-css-page/][Beginner web dev tip: Use Inspect Element to learn more about HTML and CSS on a (Nov 2014) page]]
@@ -747,7 +744,7 @@ See http://sach.ac/no-excuses-blogging
 - [X] [[http://sachachua.com/blog/2008/04/tle2008-essential-problem-solving-skills-that-will-shorten-a-project-dick-orth/][TLE2008: Essential Problem-Solving Skills That Will Shorten A Project, Dick Orth]]
 - [X] [[http://sachachua.com/blog/2011/07/software-and-making-pots/][Software and making pots]]
 ** Digital sketchnoting [7/7]
-See also: [[drawing-tools][Drawing tools and processes]]
+See also: [[#drawing-tools][Drawing tools and processes]]
 
 - [X] [[http://sachachua.com/blog/2013/09/how-i-prepare-for-professional-digital-sketchnoting/][How I prepare for professional digital sketchnoting]]
 - [X] [[http://sachachua.com/blog/2013/08/working-around-the-limits-of-digital-sketchnoting/][Working around the limits of digital sketchnoting]]
@@ -759,9 +756,11 @@ See also: [[drawing-tools][Drawing tools and processes]]
 
 ** Drawing tips - see Sketchnote Lessons
 ** Drawing tools and processes
-<<drawing-tools>>
+   :PROPERTIES:
+   :CUSTOM_ID: drawing-tools
+   :END:
 
-See also [[sketchnote-lessons][Sketchnote lessons]]
+See also [[#sketchnote-lessons][Sketchnote lessons]]
 
 - Workflow
   - [X] [[http://sachachua.com/blog/2015/03/can-make-better-use-index-card-drawing-process/][How can I make better use of my index card drawing process?]] (Mar 2015)
@@ -829,7 +828,7 @@ See also [[sketchnote-lessons][Sketchnote lessons]]
 - [X] [[http://sachachua.com/blog/2014/09/index-cards/][Index cards]] (Sept 2014)
 
 ** Drawings [105/105]
-See also: [[Sketchnotes]]
+See also: [[#sketchnotes][Sketchnotes]]
 - [X] [[http://sachachua.com/blog/2013/12/doodle-thursday-braindoodles-net-lesson-3-4/][Doodle Thursday: BrainDoodles.net lesson 3 and 4]] (Dec 2013)
 - [X] [[http://sachachua.com/blog/2013/12/doodle-thursday-going-braindoodles-lessons/][Doodle Thursday: Going through BrainDoodles' lessons]] (Dec 2013)
 - [X] [[http://sachachua.com/blog/2013/08/my-evolution-as-an-artist-or-why-theres-hope-for-you-yet/][My evolution as an “artist”, or why there's hope for you yet]]
@@ -983,7 +982,7 @@ See also: [[Sketchnotes]]
 - [X] [[http://sachachua.com/blog/2009/05/drupal-in-the-trenches-ajax-history-makes-my-brain-hurt/][Drupal in the trenches: AJAX history makes my brain hurt]]
 - [X] [[http://sachachua.com/blog/2009/06/drupal-in-the-trenches-mysql-and-delete-joins-multiple-tests/][Drupal in the trenches: MySQL and DELETE joins; multiple tests]]
 ** Drupal, development process for [22/22]
-See also: [[testing][Testing]]
+See also: [[#testing][Testing]]
 - [X] [[http://sachachua.com/blog/2009/03/25-tips-for-totally-rocking-your-drupal-development-environment-pre-session-notes/][25 Tips for Totally Rocking Your Drupal Development Environment: pre-session notes]]
 - [X] [[http://sachachua.com/blog/2008/07/kaizen-what-would-make-our-drupal-lives-better/][Kaizen: What would make our Drupal lives better?]]
 - [X] [[http://sachachua.com/blog/2008/05/getting-through-the-plateau-of-mediocrity-picking-up-the-idioms/][Getting through the plateau of mediocrity; Picking up the idioms]]
@@ -1014,6 +1013,9 @@ See also: [[testing][Testing]]
 ** Drupal, Javascript and [1/1]
 - [X] [[http://sachachua.com/blog/2011/08/drupal-and-jquery-1-5-fixing-the-json-encoding-of-ampersands/][Drupal and JQuery 1.5: Fixing the JSON encoding of ampersands]]
 ** Editing [4/4]
+   :PROPERTIES:
+   :CUSTOM_ID: editing
+   :END:
 - [X] [[http://sachachua.com/blog/2008/08/editors-for-blogging/][Editors for blogging]]
 - [X] [[http://sachachua.com/blog/2008/01/editing/][Editing]]
 - [X] [[http://sachachua.com/blog/2009/11/thinking-about-how-i-can-make-the-most-of-editing-the-world-is-an-amazing-candy-store-of-talent/][Thinking about how I can make the most of editing; The world is an amazing candy-store of talent]]
@@ -1029,8 +1031,8 @@ See also: [[testing][Testing]]
 - [X] [[http://sachachua.com/blog/2011/11/from-the-feeds-development-food-connecting-with-people-e-books-finance/][From the feeds: Development, food, connecting with people, e-books, finance]]
 - [X] [[http://sachachua.com/blog/2010/12/xkcd-tic-tac-toe-and-fractal-goodness/][XKCD tic-tac-toe, and fractal goodness]]
 - [X] [[http://sachachua.com/blog/2008/01/from-lifehack-how-to-make-yourself-insanely-useful/][From Lifehack: How to Make Yourself INSANELY Useful]]
-** Emacs [58/58]
-See also: [[emacs-chats][Emacs chats]] and [[emacs-hangouts][Emacs Hangouts]]
+** Emacs [59/59]
+See also: [[#emacs-chats][Emacs chats]] and [[#emacs-hangouts][Emacs Hangouts]]
 
 Featured:
 - [X] [[http://sachachua.com/blog/2015/09/update-on-emacs-conf-2015-videos-org-mode-tables-and-time-calculations/][Update on Emacs Conf 2015 videos; Org Mode tables and time calculations]] (Sept 2015)
@@ -1054,6 +1056,7 @@ Featured:
   - [X] [[http://sachachua.com/blog/2014/06/emacs-coaching/][What could Emacs coaching look like?]] (June 2014)
   - [X] [[http://sachachua.com/blog/2014/05/planning-e-mail-based-course-emacs-lisp/][Planning an e-mail-based course for Emacs Lisp]] (May 2014)
 - Microhabits and incremental improvement
+  - [X] [[http://sachachua.com/blog/2015/12/scan-bin-turn-scripts-emacs-commands/][Scan ~/bin and turn the scripts into Emacs commands]] (Dec 2015)
   - [X] [[http://sachachua.com/blog/2015/01/emacs-kaizen-ace-isearch-combines-ace-jump-mode-helm-swoop/][Emacs kaizen: ace-isearch combines ace-jump-mode and helm-swoop]] (Jan 2015)
   - [X] [[http://sachachua.com/blog/2015/01/developing-emacs-micro-habits-text-automation/][Developing Emacs micro-habits: Abbreviations and templates]] (Jan 2015)
   - [X] [[http://sachachua.com/blog/2015/01/emacs-microhabit-switching-windows-windmove-ace-window-ace-jump/][Emacs microhabit: Switching windows with windmove, ace-window, and ace-jump]] (Jan 2015)
@@ -1160,7 +1163,11 @@ Other:
 - [X] [[http://sachachua.com/blog/2008/06/emacs-gnus-filter-spam/][Emacs Gnus: Filter Spam]]
 - [X] [[http://sachachua.com/blog/2008/04/faster-mail-with-emacs/][Faster mail with Emacs]]
 - [X] [[http://sachachua.com/blog/2008/08/emacs-and-gnus-zomg-new-chapter-out-the-door/][Emacs and Gnus: zomg, new chapter out the door!]]
-** Emacs news [7/7]
+** Emacs news [11/11]
+- [X] [[http://sachachua.com/blog/2015/12/2015-12-28-emacs-news/][2015-12-28 Emacs News]] (Dec 2015)
+- [X] [[http://sachachua.com/blog/2015/12/2015-12-07-emacs-news/][2015-12-07 Emacs News]] (Dec 2015)
+- [X] [[http://sachachua.com/blog/2015/12/2015-12-14-emacs-news/][2015-12-14 Emacs News]] (Dec 2015)
+- [X] [[http://sachachua.com/blog/2015/12/2015-12-21-emacs-news/][2015-12-21 Emacs News]] (Dec 2015)
 - [X] [[http://sachachua.com/blog/2015/11/2015-11-02-emacs-news/][2015-11-02 Emacs News]] (Nov 2015)
 - [X] [[http://sachachua.com/blog/2015/11/2015-11-09-emacs-news/][2015-11-09 Emacs News]] (Nov 2015)
 - [X] [[http://sachachua.com/blog/2015/11/2015-11-16-emacs-news/][2015-11-16 Emacs News]] (Nov 2015)
@@ -1823,13 +1830,14 @@ Obsolete:
 - [X] [[http://sachachua.com/blog/2008/05/gen-y-growing-up-my-first-chat-with-a-financial-planner/][Gen Y Growing Up: My first chat with a financial planner]]
 - [X] [[http://sachachua.com/blog/2011/01/book-let%e2%80%99s-real-money-profit-habits-personal-finance-managers/][Book: Let's Get Real About Money: Profit from the Habits of the Best Personal Finance Managers]]
 ** Personal knowledge management [7/7]
+   :PROPERTIES:
+   :CUSTOM_ID: pkm
+   :END:
 - [X] [[http://sachachua.com/blog/2015/05/mapping-knowledge/][Mapping knowledge]] (May 2015)
 - [X] [[http://sachachua.com/blog/2013/10/i-dont-write-about-everything/][I don’t write about everything; How do you manage your private notes?]] (Oct 2013)
 - [X] [[http://sachachua.com/blog/2015/01/deliberately-making-sense/][Deliberately making sense]] (Jan 2015)
 - [X] [[http://sachachua.com/blog/2015/01/thoughts-context-connecting-posts-blog-post-index/][Thoughts in context: Connecting posts to my blog post index]] (Jan 2015)
 - [X] [[http://sachachua.com/blog/2015/01/writing-open-loops-closed-loops-working-forgetfulness/][Writing: Open loops, closed loops, and working with forgetfulness]] (Jan 2015)
-<<pkm>>
-
 - [X] [[http://sachachua.com/blog/2014/03/describing-personal-knowledge-management-routines-harold-jarches-seek-sense-share-framework/][Describing my personal knowledge management routines with Harold Jarche’s Seek-Sense-Share framework]] (March 2014)
 - [X] [[http://sachachua.com/blog/2010/01/personal-knowledge-management-morgue-files-capture-systems/][Personal knowledge management, morgue files, capture systems]] (Jan 2010) (Jan 2010)
 - Maps
@@ -2008,9 +2016,8 @@ See also:
 	 :PROPERTIES:
 	 :CUSTOM_ID: remote-presentations
 	 :END:
-<<remote-presentations>>
 
-See also: [[remote-presentations-that-rock][Remote Presentations That Rock]]
+See also: [[#remote-presentations-that-rock][Remote Presentations That Rock]]
 - [X] [[http://sachachua.com/blog/2011/04/remote-training-rocks/][Remote training that rocks]]
 - [X] [[http://sachachua.com/blog/2011/04/giving-a-presentation-using-autodesk-sketchbook-pro-and-a-web-conference/][Giving a presentation using Autodesk Sketchbook Pro and a web conference]]
 - [X] [[http://sachachua.com/blog/2009/03/virtual-conferences-change-the-game/][Virtual conferences change the game]]
@@ -2023,7 +2030,8 @@ See also: [[remote-presentations-that-rock][Remote Presentations That Rock]]
 - [X] [[http://sachachua.com/blog/2011/06/thinking-about-speaking-topics/][Thinking about speaking topics]] (June 2011)
 - [X] [[http://sachachua.com/blog/2008/02/you-have-received-a-painting-from-sacha-45/][New rule for presentations]]
 - [X] [[http://sachachua.com/blog/2008/08/finding-something-worth-talking-about/][Finding something worth talking about]]
-** Productivity [23/23]
+** Productivity [24/24]
+- [X] [[http://sachachua.com/blog/2015/12/making-list-detailed-process-versus-outcome/][Making my to-do list more detailed; process versus outcome]] (Dec 2015)
 - [X] [[http://sachachua.com/blog/2015/07/pleasure-and-utility/][Pleasure and utility]] (July 2015)
 - [X] [[http://sachachua.com/blog/2015/06/tweaking-my-daily-routines-for-that-feeling-of-progress/][Tweaking my daily routines for that feeling of progress]] (June 2015)
 - Accepting yourself
@@ -2183,9 +2191,8 @@ See also: [[remote-presentations-that-rock][Remote Presentations That Rock]]
 	 :PROPERTIES:
 	 :CUSTOM_ID: remote-presentations-that-rock
 	 :END:
-<<remote-presentations-that-rock>>
 
-See also: [[remote-presentations][Presentations, remote]]
+See also: [[#remote-presentations][Presentations, remote]]
 
 - [X] [[http://sachachua.com/blog/2009/10/the-remote-presentations-that-rock-reading-list/][The "Remote Presentations That Rock" reading list]]
 - [X] [[http://sachachua.com/blog/2009/11/thoughts-from-remote-presentations-that-rock-changing-dynamics/][Thoughts from "Remote Presentations That Rock", changing dynamics]]
@@ -2222,7 +2229,9 @@ See also:
 - [X] [[http://sachachua.com/blog/2010/06/the-work-of-self-understanding/][The work of self-understanding]]
 - [X] [[http://sachachua.com/blog/2010/06/introspection/][Influence map; introspection]]
 - [X] [[http://sachachua.com/blog/2010/03/on-circumstances-and-somebodies/][On circumstances and somebodies]]
-** Sewing [33/33]
+** Sewing [35/35]
+- [X] [[http://sachachua.com/blog/2015/12/learning-patchwork-sewing/][Learning about patchwork and sewing]] (Dec 2015)
+- [X] [[http://sachachua.com/blog/2015/12/whats-worth-making/][What's worth making?]] (Dec 2015)
 - [X] [[http://sachachua.com/blog/2015/10/learned-how-to-replace-a-zipper/][Learned how to replace a zipper]] (Oct 2015)
 - [X] [[http://sachachua.com/blog/2015/10/fabric-from-the-thrift-store/][Fabric from the thrift store]] (Oct 2015)
 - [X] [[http://sachachua.com/blog/2015/10/programmatically-rescaling-and-manipulating-the-darts-in-sewing-patterns/][Programmatically rescaling and manipulating the darts in sewing patterns]] (Oct 2015)
@@ -2257,7 +2266,7 @@ See also:
 - [X] [[http://sachachua.com/blog/2008/10/sewing-wool-jumper-blazer/][Sewing: Wool jumper, blazer]]
 - [X] [[http://sachachua.com/blog/2008/10/sewing-red-jacket-v8343/][Sewing: Red jacket, V8343]]
 ** Sharing
-See also [[blogging][Blogging]], [[writing][Writing]]
+See also [[#blogging][Blogging]], [[#writing][Writing]]
 - [X] [[http://sachachua.com/blog/2014/02/stepping-publishing/][Stepping up to publishing]] (Feb 2014)
 - [X] [[http://sachachua.com/blog/2014/01/work-self-work/][Other-work and self-work]] (Jan 2014)
 
@@ -2269,6 +2278,9 @@ See also [[blogging][Blogging]], [[writing][Writing]]
 - [X] [[http://sachachua.com/blog/2014/01/caring-for-things-without-caring-about-things/][Caring for things without caring about things]] (Jan 2014)
 - [X] [[http://sachachua.com/blog/2014/01/thinking-about-routines-after-an-extended-trip/][Thinking about routines after an extended trip]] (Jan 2014)
 ** Sketched Books [34/34]
+   :PROPERTIES:
+   :CUSTOM_ID: sketched-books
+   :END:
 - [X] [[http://sachachua.com/blog/2015/03/sketched-book-self-compassion-stop-beating-yourself-up-and-leave-insecurity-behind-kristin-neff/][Sketched Book - Self-compassion: Stop Beating Yourself Up and Leave Insecurity Behind - Kristin Neff]] (Mar 2015)
 - [X] [[http://sachachua.com/blog/2015/03/sketched-book-checklist-manifesto-get-things-right-atul-gawande/][Sketched Book - The Checklist Manifesto: How to Get Things Right - Atul Gawande]] (Mar 2015)
 - [X] [[http://sachachua.com/blog/2015/03/sketched-book-obstacle-way-timeless-art-turning-trials-triumph-ryan-holiday/][Sketched Book - The Obstacle Is The Way: The Timeless Art of Turning Trials into Triumph - Ryan Holiday]] (Mar 2015)
@@ -2276,7 +2288,6 @@ See also [[blogging][Blogging]], [[writing][Writing]]
 - [X] [[http://sachachua.com/blog/2015/02/sketched-book-take-charge-talent-three-keys-thriving-career-organization-life-don-maruska-jay-perry-2013/][Sketched Book: Take Charge of Your Talent: Three Keys to Thriving in Your Career, Organization, and Life - Don Maruska, Jay Perry (2013)]] (Feb 2015)
 - [X] [[http://sachachua.com/blog/2015/02/sketched-book-good-cant-ignore-skills-trump-passion-quest-work-love-cal-newport/][Sketched Book - So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love - Cal Newport]] (Feb 2015)
 - [X] [[http://sachachua.com/blog/2015/01/sketched-book-start-great-leaders-inspire-everyone-take-action-simon-sinek/][Sketched Book: Start With Why: How Great Leaders Inspire Everyone to Take Action &#8211; Simon Sinek]] (Jan 2015)
-<<sketched-books>>
 - [X] [[http://sachachua.com/blog/2014/12/sketched-book-just-fucking-ship-amy-hoy-alex-hillman/][Sketched Book: Just F*cking Ship - Amy Hoy, Alex Hillman]] (Dec 2014)
 - [X] [[http://sachachua.com/blog/2014/12/sketched-book-stoic-art-living/][Sketched Book: The Stoic Art of Living: Inner Resilience and Outer Results - Tom Morris]] (Dec 2014)
 - [X] [[http://sachachua.com/blog/2014/12/sketched-book-inner-game-work-w-timothy-gallwey/][Sketched Book: The Inner Game of Work - W. Timothy Gallwey]] (Dec 2014)
@@ -2311,7 +2322,6 @@ See also [[blogging][Blogging]], [[writing][Writing]]
 	 :PROPERTIES:
 	 :CUSTOM_ID: sketchnote-lessons
 	 :END:
-<<sketchnote-lessons>>
 1. [X] [[http://sachachua.com/blog/2013/08/resources-for-getting-started-with-sketchnoting/][Resources for getting started with sketchnoting]]
 2. [X] [[http://sachachua.com/blog/2013/08/sketchnote-lessons-quick-lettering/][Sketchnote Lessons: Quick Lettering]]
 3. [X] [[http://sachachua.com/blog/2013/09/sketchnote-lesson-using-color/][Sketchnote Lessons: Adding color]]
@@ -2389,6 +2399,10 @@ See also [[blogging][Blogging]], [[writing][Writing]]
 - [X] [[http://sachachua.com/blog/2012/09/sketchnotes-from-wordcamp-toronto-day-1/][Sketchnotes from WordCamp Toronto Day 1: Marketing, giving back, multilingual sites, security, SEO & analytics, e-commerce]]
 - [X] [[http://sachachua.com/blog/2012/09/sketchnotes-from-wordcamp-toronto-2012-day-2-case-studies/][Sketchnotes from WordCamp Toronto 2012 Day 2: Case studies]]
 ** Sketchnotes [18/18]
+   :PROPERTIES:
+   :CUSTOM_ID: sketchnotes
+   :END:
+
 - [X] [[http://sachachua.com/blog/2013/10/mindmapping-chat-with-billy-waters-vitaminsludge/][Mindmapping chat with Billy Waters (@vitaminsludge)]] (Oct 2013)
 - [X] [[http://sachachua.com/blog/2013/06/announcing-this-2012-sketchnotes-collection-freepwyc/][Announcing this 2012 Sketchnotes collection! (free/PWYC)]] (June 2013)
 - [X] [[http://sachachua.com/blog/2013/06/sketchnotes-how-to-live-an-amazing-life-c-c-chapman-third-tuesday-toronto/][Sketchnotes: How to Live an Amazing Life (C.C. Chapman, Third Tuesday Toronto)]] (June 2013)
@@ -2471,7 +2485,6 @@ See also [[blogging][Blogging]], [[writing][Writing]]
 	 :PROPERTIES:
 	 :CUSTOM_ID: starting_business
 	 :END:
-<<starting_business>>
 
 - [X] [[http://sachachua.com/blog/2012/02/experience-report-so-much-for-having-a-virtual-bookstore/][Experience report: So much for having a virtual bookstore]]
 - [X] [[http://sachachua.com/blog/2012/03/adjusting/][Adjusting]]
@@ -2586,7 +2599,6 @@ See also [[blogging][Blogging]], [[writing][Writing]]
 	 :PROPERTIES:
 	 :CUSTOM_ID: testing
 	 :END:
-<<testing>>
 
 - [X] [[http://sachachua.com/blog/2014/11/first-steps-towards-javascript-testing/][First steps towards Javascript testing]] (Nov 2014)
 - [X] [[http://sachachua.com/blog/2008/06/drupal-adding-lines-to-settingsphp-in-an-installation-profile-2/][Drupal: Adding lines to settings.php in an installation profile]]
@@ -2717,7 +2729,7 @@ See [[Sketched%20Books][sketched-books]]
 - [X] [[http://sachachua.com/blog/2009/03/volunteer-opportunity-for-teachers-and-retired-teachers-in-ontario/][Volunteer opportunity for teachers and retired teachers in Ontario]]
 - [X] [[http://sachachua.com/blog/2008/01/donated-110-through-kiva-a-microcredit-site/][Donated $110 through Kiva, a microcredit site]]
 ** Weather [8/8]
-See also: [[Winter]]
+See also: [[#winter][Winter]]
 - [X] [[http://sachachua.com/blog/2011/07/dealing-with-a-heat-wave-in-toronto/][Dealing with a heat wave in Toronto]]
 - [X] [[http://sachachua.com/blog/2011/03/spring/][Spring!]]
 ** Web [1/1]
@@ -2726,6 +2738,9 @@ See also: [[Winter]]
 - [X] [[http://sachachua.com/blog/2007/12/wicked-cool-emacs-get-in-on-the-action/][Wicked Cool Emacs: get in on the action!]]
 - [X] [[http://sachachua.com/blog/2007/12/outline-for-task-management-chapter/][Outline for task management chapter]]
 ** Winter [10/10]
+   :PROPERTIES:
+   :CUSTOM_ID: winter
+   :END:
 - [X] [[http://sachachua.com/blog/2010/02/winter-2/][Winter]]
 - [X] [[http://sachachua.com/blog/2009/11/fleece-blankets-and-seasons/][Fleece blankets and seasons]]
 - [X] [[http://sachachua.com/blog/2009/01/ways-to-make-winter-better/][Ways to make winter better]]
@@ -2780,12 +2795,11 @@ See also: [[Winter]]
 	 :PROPERTIES:
 	 :CUSTOM_ID: writing
 	 :END:
-<<writing>>
 
-See also: [[blogging][Blogging]] \\
-See also: [[no-excuses-blogging][Blogging, A No-Excuses Guide to]] \\
-See also: [[Editing][Editing]] \\
-See also: [[Writing, process of]]
+See also: [[#blogging][Blogging]] \\
+See also: [[#no-excuses-blogging][Blogging, A No-Excuses Guide to]] \\
+See also: [[#editing][Editing]] \\
+See also: [[#writing-process][Writing, process of]]
 
 - [X] [[http://sachachua.com/blog/2015/01/breaking-skill-outlining/][Breaking down the skill of outlining]] (Jan 2015)
 - [X] [[http://sachachua.com/blog/2015/01/think-effectively-typing/][Think more effectively by typing to yourself]] (Jan 2015)
@@ -2829,6 +2843,9 @@ See also: [[Writing, process of]]
 - [X] [[http://sachachua.com/blog/2011/02/books-write/][Books to write]]
 
 ** Writing, process of [16/16]
+   :PROPERTIES:
+   :CUSTOM_ID: writing-process
+   :END:
 - [X] [[http://sachachua.com/blog/2014/11/thinking-word-counts-chunks/][Thinking about word counts and chunks]] (Nov 2014)
 - [X] [[http://sachachua.com/blog/2014/08/tweaking-way-write/][Tweaking the way I write]] (Aug 2014)
 - [X] [[http://sachachua.com/blog/2013/07/i-still-dont-know-what-to-call-this-post/][I still don't know what to call this post]]
@@ -2854,16 +2871,15 @@ See also: [[Writing, process of]]
 ** Emacs basics [2/2]
 - [X] [[http://sachachua.com/blog/2014/03/emacs-basics-call-commands-name-m-x-tips-better-completion-using-ido-helm/][Emacs Basics: Call commands by name with M-x (with tips for better completion using ido or helm)]] (March 2014)
 - [X] [[http://sachachua.com/blog/2014/03/emacs-basics-using-mouse/][Emacs Basics: Using the mouse]] (March 2014)
-** Emacs chats [21/21]
-- [X] [[http://sachachua.com/blog/2015/01/emacs-chat-with-steve-purcell/][Emacs Chat with Steve Purcell]] (Jan 2015)
-<<emacs-chats>>
-
-- [X] [[http://sachachua.com/blog/2014/12/emacs-chat-karl-voit-2/][Emacs Chat: Karl Voit]] (Dec 2014) Karl Voit talks about Org Mode, Memacs, Lazyblorg, Yasnippet, and other cool Emacs things.
-- [X] [[http://sachachua.com/blog/2014/09/emacs-chat-mickey-petersen/][Emacs Chat: Mickey Petersen]] (Sept 2014)
-- [X] [[http://sachachua.com/blog/2014/07/emacs-chat-harry-r-schwartz/][Emacs Chat: Harry R. Schwartz]] (July 2014)
+** Emacs chats [22/22]
 	 :PROPERTIES:
 	 :CUSTOM_ID: emacs-chats
 	 :END:
+- [X] [[http://sachachua.com/blog/2015/12/2015-12-10-emacs-chat-john-wiegley-maintaining-emacs-can-help/][2015-12-10 Emacs Chat: John Wiegley on maintaining Emacs and how you can help]] (Dec 2015)
+- [X] [[http://sachachua.com/blog/2015/01/emacs-chat-with-steve-purcell/][Emacs Chat with Steve Purcell]] (Jan 2015)
+- [X] [[http://sachachua.com/blog/2014/12/emacs-chat-karl-voit-2/][Emacs Chat: Karl Voit]] (Dec 2014) Karl Voit talks about Org Mode, Memacs, Lazyblorg, Yasnippet, and other cool Emacs things.
+- [X] [[http://sachachua.com/blog/2014/09/emacs-chat-mickey-petersen/][Emacs Chat: Mickey Petersen]] (Sept 2014)
+- [X] [[http://sachachua.com/blog/2014/07/emacs-chat-harry-r-schwartz/][Emacs Chat: Harry R. Schwartz]] (July 2014)
 - [X] [[http://sachachua.com/blog/2014/05/emacs-chat-phil-hagelberg/][Emacs Chat: Phil Hagelberg]] (May 2014)
 - [X] [[http://sachachua.com/blog/2014/05/emacs-chat-bozhidar-batsov/][Emacs Chat: Bozhidar Batsov]] (May 2014)
 - [X] [[http://sachachua.com/blog/2014/05/emacs-chat-xah-lee-ergoemacs/][Emacs Chat: Xah Lee (ErgoEmacs)]] (May 2014)
@@ -2882,9 +2898,12 @@ See also: [[Writing, process of]]
 - [X] [[http://sachachua.com/blog/2012/07/transcript-emacs-chat-john-wiegley/][Transcript: Emacs chat with John Wiegley]]
 - [X] [[http://sachachua.com/blog/2012/06/emacs-chatting-with-john-wiegley-about-the-cool-things-he-does-with-emacs/][Emacs: Chatting with John Wiegley about the cool things he does with Emacs]]
 
-** Emacs hangouts [16/16]
-<<emacs-hangouts>>
+** Emacs hangouts [17/17]
+   :PROPERTIES:
+   :CUSTOM_ID: emacs-hangouts
+   :END:
 
+- [X] [[http://sachachua.com/blog/2015/12/2015-12-21-emacs-hangout/][2015-12-21 Emacs Hangout]] (Dec 2015)
 - [X] [[http://sachachua.com/blog/2015/11/2015-11-18-emacs-hangout/][2015-11-18 Emacs Hangout]] (Nov 2015)
 - [X] [[http://sachachua.com/blog/2015/10/2015-10-14-emacs-hangout/][2015-10-14 Emacs Hangout]] (Oct 2015)
 - [X] [[http://sachachua.com/blog/2015/08/august-2015-emacs-hangout/][August 2015 Emacs Hangout]] (August 2015)
@@ -2908,9 +2927,8 @@ http://frugalfire.com
 - [X] [[http://sachachua.com/blog/2014/04/frugal-fire-003-dealing-pushback/][Frugal Fire 003: Dealing with Pushback]] (Apr 2014)
 - [X] [[http://sachachua.com/blog/2014/03/frugal-fire-002-justin-mccurry-rootofgood/][Frugal Fire 002: Justin McCurry (RootOfGood)]] (March 2014)
 - [X] [[http://sachachua.com/blog/2014/03/frugal-fire-001-introductions/][Frugal Fire 001: Introductions]] (March 2014)
-
 - [X] [[http://sachachua.com/blog/2015/08/life-as-a-31-year-old/][Life as a 31-year-old]] (August 2015)
-* Longer-term reviews [31/31]
+* Longer-term reviews [26/26]
 - [X] [[http://sachachua.com/blog/2015/01/2014-review/][2014 in review]] (Jan 2015)
 - [X] [[http://sachachua.com/blog/2014/08/turning-31/][Turning 31]] (Aug 2014)
 - [X] [[http://sachachua.com/blog/2014/01/year-in-review-2013/][Year in review: 2013]] (Jan 2014)
@@ -2936,7 +2954,8 @@ http://frugalfire.com
 - [X] [[http://sachachua.com/blog/2008/08/year-in-review-life-as-a-24-year-old/][Year in review: Life as a 24-year-old]]
 - [X] [[http://sachachua.com/blog/2008/12/2008-annus-mirabilis/][2008: Annus Mirabilis]]
 - [X] [[http://sachachua.com/blog/2008/12/sketches-2008-highlights/][Sketches: 2008 highlights]]
-* Monthly reviews [90/90]
+* Monthly reviews [74/74]
+- [X] [[http://sachachua.com/blog/2015/12/monthly-review-november-2015/][Monthly review: November 2015]] (Dec 2015)
 - [X] [[http://sachachua.com/blog/2015/06/monthly-review-may-2015/][Monthly review: May 2015]] (June 2015)
 - [X] [[http://sachachua.com/blog/2015/07/monthly-review-june-2015/][Monthly review: June 2015]] (July 2015)
 - [X] [[http://sachachua.com/blog/2015/08/monthly-review-july-2015/][Monthly review: July 2015]] (August 2015)
@@ -3008,6 +3027,10 @@ http://frugalfire.com
 - [X] [[http://sachachua.com/blog/2009/03/monthly-review-february-2009/][Monthly review: February 2009]]
 - [X] [[http://sachachua.com/blog/2009/01/monthly-review-january-2009/][Monthly review: January 2009]]
 * Weekly reviews
+- [X] [[http://sachachua.com/blog/2015/12/weekly-review-week-ending-december-4-2015/][Weekly review: Week ending December  4, 2015]] (Dec 2015)
+- [X] [[http://sachachua.com/blog/2015/12/weekly-review-week-ending-december-11-2015/][Weekly review: Week ending December 11, 2015]] (Dec 2015)
+- [X] [[http://sachachua.com/blog/2015/12/weekly-review-week-ending-december-18-2015/][Weekly review: Week ending December 18, 2015]] (Dec 2015)
+- [X] [[http://sachachua.com/blog/2015/12/weekly-review-week-ending-december-25-2015/][Weekly review: Week ending December 25, 2015]] (Dec 2015)
 - [X] [[http://sachachua.com/blog/2015/06/weekly-review-week-ending-june-5-2015/][Weekly review: Week ending June  5, 2015]] (June 2015)
 - [X] [[http://sachachua.com/blog/2015/06/weekly-review-week-ending-june-12-2015/][Weekly review: Week ending June 12, 2015]] (June 2015)
 - [X] [[http://sachachua.com/blog/2015/06/weekly-review-week-ending-june-19-2015/][Weekly review: Week ending June 19, 2015]] (June 2015)
@@ -3366,6 +3389,8 @@ http://frugalfire.com
 - [X] [[http://sachachua.com/blog/2009/12/weekly-review-week-ending-december-6-2009/][Weekly review: Week ending December 6, 2009]]
 - [X] [[http://sachachua.com/blog/2009/12/weekly-review-weeks-ending-dec-13-2009-and-dec-20-2009/][Weekly review: Weeks ending Dec 13, 2009 and Dec 20, 2009]]
 ** 2008 [43/43]
+   :PROPERTIES:
+   :END:
 - [X] [[http://sachachua.com/blog/2008/01/weekly-review-13/][Weekly review: Week ending January 13, 2008]]
 - [X] [[http://sachachua.com/blog/2008/01/weekly-review-14/][Weekly review]]
 - [X] [[http://sachachua.com/blog/2008/02/weekly-review-feb-9-2007/][Weekly review - Feb 9, 2008]]
