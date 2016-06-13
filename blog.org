@@ -6,7 +6,7 @@ get in touch with me, please check out
 http://sachachua.com/blog/contact . =)
 
 Oldest post in index: December 12, 2007
-Most recent post in index: March 31, 2016
+Most recent post in index: May 31, 2016
 
 Quick links to trails that are already logically ordered (more to come):
 - [[#no-excuses-blogging][Blogging, A No-Excuses Guide to]]
@@ -1035,11 +1035,10 @@ See also: [[#testing][Testing]]
 - [X] [[http://sachachua.com/blog/2011/11/from-the-feeds-development-food-connecting-with-people-e-books-finance/][From the feeds: Development, food, connecting with people, e-books, finance]]
 - [X] [[http://sachachua.com/blog/2010/12/xkcd-tic-tac-toe-and-fractal-goodness/][XKCD tic-tac-toe, and fractal goodness]]
 - [X] [[http://sachachua.com/blog/2008/01/from-lifehack-how-to-make-yourself-insanely-useful/][From Lifehack: How to Make Yourself INSANELY Useful]]
-** Emacs [59/59]
+** Emacs [60/60]
 See also: [[#emacs-chats][Emacs chats]] and [[#emacs-hangouts][Emacs Hangouts]]
 
 Featured:
-- [X] [[http://sachachua.com/blog/2016/02/building-today-learned-habit-displaying-documentation-random-emacs-commands/][Building a today-I-learned habit, and displaying the documentation for random Emacs commands]] 
 - [X] [[http://sachachua.com/blog/2015/09/update-on-emacs-conf-2015-videos-org-mode-tables-and-time-calculations/][Update on Emacs Conf 2015 videos; Org Mode tables and time calculations]] (Sept 2015)
 - [X] [[http://sachachua.com/blog/2015/09/emacs-conf-video-tech-notes-jit-si-twitch-tv-livestreamer-ffmpeg/][Emacs Conf video tech notes: jit.si, twitch.tv, livestreamer, ffmpeg]] (Sept 2015)
 - [X] [[http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/][How to Learn Emacs: A Hand-drawn One-pager for Beginners]] (May 2013)
@@ -1071,6 +1070,8 @@ Featured:
   - [X] [[http://sachachua.com/blog/2014/11/emacs-evaluating-javascript-css-chrome-using-skewer-mode/][Emacs: Evaluating Javascript and CSS in Chrome using Skewer Mode]] (Nov 2014)
 
 Other:
+- [X] [[http://sachachua.com/blog/2016/04/keep-emacs-alive-x-crashes-running-background-daemon/][Keep Emacs alive through X crashes by running it in the background with --daemon]] 
+- [X] [[http://sachachua.com/blog/2016/02/building-today-learned-habit-displaying-documentation-random-emacs-commands/][Building a today-I-learned habit, and displaying the documentation for random Emacs commands]] 
 - [X] [[http://sachachua.com/blog/2015/10/wow-literate-devops-with-emacs-and-org-does-actually-work-on-windows/][Wow, literate devops with Emacs and Org does actually work on Windows]] (Oct 2015)
 - [X] [[http://sachachua.com/blog/2015/04/john-wiegley-on-organizing-your-emacs-configuration-with-use-package/][John Wiegley on organizing your Emacs configuration with use-package]] (April 2015)
 - [X] [[http://sachachua.com/blog/2015/03/getting-helm-org-refile-clock-create-tasks/][Getting Helm and org-refile to clock in or create tasks]] (Mar 2015)
@@ -1168,7 +1169,16 @@ Other:
 - [X] [[http://sachachua.com/blog/2008/06/emacs-gnus-filter-spam/][Emacs Gnus: Filter Spam]]
 - [X] [[http://sachachua.com/blog/2008/04/faster-mail-with-emacs/][Faster mail with Emacs]]
 - [X] [[http://sachachua.com/blog/2008/08/emacs-and-gnus-zomg-new-chapter-out-the-door/][Emacs and Gnus: zomg, new chapter out the door!]]
-** Emacs news [22/22]
+** Emacs news [30/30]
+- [X] [[http://sachachua.com/blog/2016/05/2016-05-30-emacs-news/][2016-05-30 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/05/2016-05-23-emacs-news/][2016-05-23 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/05/2016-05-16-emacs-news/][2016-05-16 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/05/2016-05-09-emacs-news/][2016-05-09 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/05/2016-05-02-emacs-news/][2016-05-02 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/04/2016-04-25-emacs-news/][2016-04-25 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/04/2016-04-18-emacs-news/][2016-04-18 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/04/2016-04-11-emacs-news/][2016-04-11 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/04/2016-04-04-emacs-news/][2016-04-04 Emacs News]] 
 - [X] [[http://sachachua.com/blog/2016/03/2016-03-28-emacs-news/][2016-03-28 Emacs News]] 
 - [X] [[http://sachachua.com/blog/2016/03/2016-03-21-emacs-news/][2016-03-21 Emacs News]] 
 - [X] [[http://sachachua.com/blog/2016/03/2016-03-14-emacs-news/][2016-03-14 Emacs News]] 
@@ -1814,10 +1824,12 @@ Obsolete:
 - [X] [[http://sachachua.com/blog/2014/03/new-freepay-want-resource-sketchnotes-2013-also-emacs-dired-rocks/][New free/pay what you want resource: Sketchnotes 2013; also, Emacs Dired rocks]] (March 2014)
 - [X] [[http://sachachua.com/blog/2014/03/sketchnotes-2013-print-yay/][Sketchnotes 2013 in print, yay!]] (March 2014)
 
-** Parenting [/]
-** Passion [13/13]
+** Parenting [3/3]
+- [X] [[http://sachachua.com/blog/2016/05/learning-become-parent/][Learning to become a parent]] 
 - [X] [[http://sachachua.com/blog/2016/03/notes-cloth-diapering-far/][Notes on cloth diapering so far]] 
 - [X] [[http://sachachua.com/blog/2016/03/microphthalmia-small-eye/][Microphthalmia: small eye]] 
+
+** Passion [14/14]
 - [X] [[http://sachachua.com/blog/2013/04/crossing-worlds/][Crossing worlds]] (Apr 2013)
 - [X] [[http://sachachua.com/blog/2013/03/passion-and-uncertainty/][Passion and uncertainty]]
 - [X] [[http://sachachua.com/blog/2008/12/lets-talk-about-passion/][Let's talk about passion]]
@@ -2986,7 +2998,9 @@ http://frugalfire.com
 - [X] [[http://sachachua.com/blog/2008/08/year-in-review-life-as-a-24-year-old/][Year in review: Life as a 24-year-old]]
 - [X] [[http://sachachua.com/blog/2008/12/2008-annus-mirabilis/][2008: Annus Mirabilis]]
 - [X] [[http://sachachua.com/blog/2008/12/sketches-2008-highlights/][Sketches: 2008 highlights]]
-* Monthly reviews [82/82]
+* Monthly reviews [83/83]
+- [X] [[http://sachachua.com/blog/2016/05/monthly-review-april-2016/][Monthly review: April 2016]] 
+- [X] [[http://sachachua.com/blog/2016/04/monthly-review-march-2016/][Monthly review: March 2016]] 
 - [X] [[http://sachachua.com/blog/2016/03/monthly-review-february-2016/][Monthly review: February 2016]] 
 - [X] [[http://sachachua.com/blog/2016/02/monthly-review-january-2016/][Monthly review: January 2016]] 
 - [X] [[http://sachachua.com/blog/2016/01/monthly-review-december-2015/][Monthly review: December 2015]] (Jan 2016)
@@ -3062,6 +3076,15 @@ http://frugalfire.com
 - [X] [[http://sachachua.com/blog/2009/03/monthly-review-february-2009/][Monthly review: February 2009]]
 - [X] [[http://sachachua.com/blog/2009/01/monthly-review-january-2009/][Monthly review: January 2009]]
 * Weekly reviews
+- [X] [[http://sachachua.com/blog/2016/05/weekly-review-week-ending-may-27-2016/][Weekly review: Week ending May 27, 2016]]
+- [X] [[http://sachachua.com/blog/2016/05/weekly-review-week-ending-may-20-2016/][Weekly review: Week ending May 20, 2016]] 
+- [X] [[http://sachachua.com/blog/2016/05/weekly-review-week-ending-may-13-2016/][Weekly review: Week ending May 13, 2016]] 
+- [X] [[http://sachachua.com/blog/2016/05/weekly-review-week-ending-may-6-2016/][Weekly review: Week ending May  6, 2016]] 
+- [X] [[http://sachachua.com/blog/2016/05/weekly-review-week-ending-april-29-2016/][Weekly review: Week ending April 29, 2016]] 
+- [X] [[http://sachachua.com/blog/2016/04/weekly-review-week-ending-april-22-2016/][Weekly review: Week ending April 22, 2016]]
+- [X] [[http://sachachua.com/blog/2016/04/weekly-review-week-ending-april-15-2016/][Weekly review: Week ending April 15, 2016]] 
+- [X] [[http://sachachua.com/blog/2016/04/weekly-review-week-ending-april-8-2016/][Weekly review: Week ending April  8, 2016]] 
+- [X] [[http://sachachua.com/blog/2016/04/weekly-review-week-ending-april-1-2016/][Weekly review: Week ending April  1, 2016]] 
 - [X] [[http://sachachua.com/blog/2016/03/weekly-review-week-ending-march-25-2016/][Weekly review: Week ending March 25, 2016]] 
 - [X] [[http://sachachua.com/blog/2016/03/weekly-review-week-ending-march-18-2016/][Weekly review: Week ending March 18, 2016]] 
 - [X] [[http://sachachua.com/blog/2016/03/weekly-review-week-ending-march-11-2016/][Weekly review: Week ending March 11, 2016]] 
