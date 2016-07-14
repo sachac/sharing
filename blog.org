@@ -6,7 +6,7 @@ get in touch with me, please check out
 http://sachachua.com/blog/contact . =)
 
 Oldest post in index: December 12, 2007
-Most recent post in index: May 31, 2016
+Most recent post in index: June 30, 2016
 
 Quick links to trails that are already logically ordered (more to come):
 - [[#no-excuses-blogging][Blogging, A No-Excuses Guide to]]
@@ -1169,7 +1169,11 @@ Other:
 - [X] [[http://sachachua.com/blog/2008/06/emacs-gnus-filter-spam/][Emacs Gnus: Filter Spam]]
 - [X] [[http://sachachua.com/blog/2008/04/faster-mail-with-emacs/][Faster mail with Emacs]]
 - [X] [[http://sachachua.com/blog/2008/08/emacs-and-gnus-zomg-new-chapter-out-the-door/][Emacs and Gnus: zomg, new chapter out the door!]]
-** Emacs news [30/30]
+** Emacs news [35/35]
+- [X] [[http://sachachua.com/blog/2016/06/2016-06-06-emacs-news/][2016-06-06 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/06/2016-06-13-emacs-news/][2016-06-13 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/06/2016-06-20-emacs-news/][2016-06-20 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/06/2016-06-27-emacs-news/][2016-06-27 Emacs News]] 
 - [X] [[http://sachachua.com/blog/2016/05/2016-05-30-emacs-news/][2016-05-30 Emacs News]] 
 - [X] [[http://sachachua.com/blog/2016/05/2016-05-23-emacs-news/][2016-05-23 Emacs News]] 
 - [X] [[http://sachachua.com/blog/2016/05/2016-05-16-emacs-news/][2016-05-16 Emacs News]] 
@@ -2970,7 +2974,7 @@ http://frugalfire.com
 - [X] [[http://sachachua.com/blog/2014/03/frugal-fire-002-justin-mccurry-rootofgood/][Frugal Fire 002: Justin McCurry (RootOfGood)]] (March 2014)
 - [X] [[http://sachachua.com/blog/2014/03/frugal-fire-001-introductions/][Frugal Fire 001: Introductions]] (March 2014)
 - [X] [[http://sachachua.com/blog/2015/08/life-as-a-31-year-old/][Life as a 31-year-old]] (August 2015)
-* Longer-term reviews [27/27]
+* Longer-term reviews [28/28]
 - [X] [[http://sachachua.com/blog/2016/01/2015-in-review/][2015 in review]] (Jan 2016)
 - [X] [[http://sachachua.com/blog/2016/01/2015-in-photos/][2015 in photos]] (Jan 2016)
 - [X] [[http://sachachua.com/blog/2015/01/2014-review/][2014 in review]] (Jan 2015)
@@ -2998,7 +3002,9 @@ http://frugalfire.com
 - [X] [[http://sachachua.com/blog/2008/08/year-in-review-life-as-a-24-year-old/][Year in review: Life as a 24-year-old]]
 - [X] [[http://sachachua.com/blog/2008/12/2008-annus-mirabilis/][2008: Annus Mirabilis]]
 - [X] [[http://sachachua.com/blog/2008/12/sketches-2008-highlights/][Sketches: 2008 highlights]]
-* Monthly reviews [83/83]
+
+* Monthly reviews [81/81]
+- [X] [[http://sachachua.com/blog/2016/06/monthly-review-may-2016/][Monthly review: May 2016]] 
 - [X] [[http://sachachua.com/blog/2016/05/monthly-review-april-2016/][Monthly review: April 2016]] 
 - [X] [[http://sachachua.com/blog/2016/04/monthly-review-march-2016/][Monthly review: March 2016]] 
 - [X] [[http://sachachua.com/blog/2016/03/monthly-review-february-2016/][Monthly review: February 2016]] 
@@ -3076,6 +3082,10 @@ http://frugalfire.com
 - [X] [[http://sachachua.com/blog/2009/03/monthly-review-february-2009/][Monthly review: February 2009]]
 - [X] [[http://sachachua.com/blog/2009/01/monthly-review-january-2009/][Monthly review: January 2009]]
 * Weekly reviews
+- [X] [[http://sachachua.com/blog/2016/06/weekly-review-week-ending-june-24-2016/][Weekly review: Week ending June 24, 2016]] 
+- [X] [[http://sachachua.com/blog/2016/06/weekly-review-week-ending-june-17-2016/][Weekly review: Week ending June 17, 2016]] 
+- [X] [[http://sachachua.com/blog/2016/06/weekly-review-week-ending-june-10-2016/][Weekly review: Week ending June 10, 2016]] 
+- [X] [[http://sachachua.com/blog/2016/06/weekly-review-week-ending-june-3-2016/][Weekly review: Week ending June  3, 2016]] 
 - [X] [[http://sachachua.com/blog/2016/05/weekly-review-week-ending-may-27-2016/][Weekly review: Week ending May 27, 2016]]
 - [X] [[http://sachachua.com/blog/2016/05/weekly-review-week-ending-may-20-2016/][Weekly review: Week ending May 20, 2016]] 
 - [X] [[http://sachachua.com/blog/2016/05/weekly-review-week-ending-may-13-2016/][Weekly review: Week ending May 13, 2016]] 
