@@ -6,7 +6,7 @@ get in touch with me, please check out
 http://sachachua.com/blog/contact . =)
 
 Oldest post in index: December 12, 2007
-Most recent post in index: July 31, 2016
+Most recent post in index: September 30, 2016
 
 Quick links to trails that are already logically ordered (more to come):
 - [[#no-excuses-blogging][Blogging, A No-Excuses Guide to]]
@@ -1169,7 +1169,16 @@ Other:
 - [X] [[http://sachachua.com/blog/2008/06/emacs-gnus-filter-spam/][Emacs Gnus: Filter Spam]]
 - [X] [[http://sachachua.com/blog/2008/04/faster-mail-with-emacs/][Faster mail with Emacs]]
 - [X] [[http://sachachua.com/blog/2008/08/emacs-and-gnus-zomg-new-chapter-out-the-door/][Emacs and Gnus: zomg, new chapter out the door!]]
-** Emacs news [39/39]
+** Emacs news [48/48]
+- [X] [[http://sachachua.com/blog/2016/09/2016-09-26-emacs-news/][2016-09-26 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/09/2016-09-19-emacs-news/][2016-09-19 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/09/2016-09-12-emacs-news/][2016-09-12 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/09/2016-09-05-emacs-news/][2016-09-05 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/08/2016-08-29-emacs-news/][2016-08-29 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/08/2016-08-22-emacs-news/][2016-08-22 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/08/2016-08-15-emacs-news/][2016-08-15 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/08/2016-08-08-emacs-news/][2016-08-08 Emacs News]] 
+- [X] [[http://sachachua.com/blog/2016/08/2016-08-01-emacs-news/][2016-08-01 Emacs News]] 
 - [X] [[http://sachachua.com/blog/2016/07/2016-07-25-emacs-news/][2016-07-25 Emacs News]] 
 - [X] [[http://sachachua.com/blog/2016/07/2016-07-18-emacs-news/][2016-07-18 Emacs News]] 
 - [X] [[http://sachachua.com/blog/2016/07/2016-07-10-emacs-news/][2016-07-10 Emacs News]] 
@@ -2971,14 +2980,17 @@ See also: [[#writing-process][Writing, process of]]
 - [X] [[http://sachachua.com/blog/2014/11/experimental-emacs-hangout-2014-11-05/][Experimental Emacs Hangout 2014-11-05]] (Nov 2014)
 - [X] [[http://sachachua.com/blog/2014/10/emacs-hangout-notes/][Emacs hangout notes]] (Oct 2014)
 
-** Frugal FIRE [4/4]
+** Frugal FIRE [3/3]
 http://frugalfire.com
 
 - [X] [[http://sachachua.com/blog/2014/04/frugal-fire-003-dealing-pushback/][Frugal Fire 003: Dealing with Pushback]] (Apr 2014)
 - [X] [[http://sachachua.com/blog/2014/03/frugal-fire-002-justin-mccurry-rootofgood/][Frugal Fire 002: Justin McCurry (RootOfGood)]] (March 2014)
 - [X] [[http://sachachua.com/blog/2014/03/frugal-fire-001-introductions/][Frugal Fire 001: Introductions]] (March 2014)
+
+* Longer-term reviews [29/29]
+
+- [X] [[http://sachachua.com/blog/2016/08/life-33-year-old/][Life as a 33-year-old]] 
 - [X] [[http://sachachua.com/blog/2015/08/life-as-a-31-year-old/][Life as a 31-year-old]] (August 2015)
-* Longer-term reviews [28/28]
 - [X] [[http://sachachua.com/blog/2016/01/2015-in-review/][2015 in review]] (Jan 2016)
 - [X] [[http://sachachua.com/blog/2016/01/2015-in-photos/][2015 in photos]] (Jan 2016)
 - [X] [[http://sachachua.com/blog/2015/01/2014-review/][2014 in review]] (Jan 2015)
@@ -3007,7 +3019,9 @@ http://frugalfire.com
 - [X] [[http://sachachua.com/blog/2008/12/2008-annus-mirabilis/][2008: Annus Mirabilis]]
 - [X] [[http://sachachua.com/blog/2008/12/sketches-2008-highlights/][Sketches: 2008 highlights]]
 
-* Monthly reviews [81/81]
+* Monthly reviews [89/89]
+- [X] [[http://sachachua.com/blog/2016/08/monthly-review-july-2016/][Monthly review: July 2016]] 
+- [X] [[http://sachachua.com/blog/2016/09/monthly-review-august-2016/][Monthly review: August 2016]] 
 - [X] [[http://sachachua.com/blog/2016/07/monthly-review-june-2016/][Monthly review: June 2016]] 
 - [X] [[http://sachachua.com/blog/2016/06/monthly-review-may-2016/][Monthly review: May 2016]] 
 - [X] [[http://sachachua.com/blog/2016/05/monthly-review-april-2016/][Monthly review: April 2016]] 
@@ -3087,6 +3101,15 @@ http://frugalfire.com
 - [X] [[http://sachachua.com/blog/2009/03/monthly-review-february-2009/][Monthly review: February 2009]]
 - [X] [[http://sachachua.com/blog/2009/01/monthly-review-january-2009/][Monthly review: January 2009]]
 * Weekly reviews
+- [X] [[http://sachachua.com/blog/2016/09/weekly-review-week-ending-september-23-2016/][Weekly review: Week ending September 23, 2016]] 
+- [X] [[http://sachachua.com/blog/2016/09/weekly-review-week-ending-september-16-2016/][Weekly review: Week ending September 16, 2016]] 
+- [X] [[http://sachachua.com/blog/2016/09/weekly-review-week-ending-september-9-2016/][Weekly review: Week ending September  9, 2016]] 
+- [X] [[http://sachachua.com/blog/2016/09/weekly-review-week-ending-september-2-2016/][Weekly review: Week ending September  2, 2016]] 
+- [X] [[http://sachachua.com/blog/2016/09/weekly-review-week-ending-august-26-2016/][Weekly review: Week ending August 26, 2016]] 
+- [X] [[http://sachachua.com/blog/2016/08/weekly-review-week-ending-august-19-2016/][Weekly review: Week ending August 19, 2016]] 
+- [X] [[http://sachachua.com/blog/2016/08/weekly-review-week-ending-august-12-2016/][Weekly review: Week ending August 12, 2016]] 
+- [X] [[http://sachachua.com/blog/2016/08/weekly-review-week-ending-august-5-2016/][Weekly review: Week ending August  5, 2016]] 
+- [X] [[http://sachachua.com/blog/2016/08/weekly-review-week-ending-july-29-2016/][Weekly review: Week ending July 29, 2016]] 
 - [X] [[http://sachachua.com/blog/2016/07/weekly-review-week-ending-july-22-2016/][Weekly review: Week ending July 22, 2016]] 
 - [X] [[http://sachachua.com/blog/2016/07/weekly-review-week-ending-july-15-2016/][Weekly review: Week ending July 15, 2016]] 
 - [X] [[http://sachachua.com/blog/2016/07/weekly-review-week-ending-july-8-2016/][Weekly review: Week ending July  8, 2016]] 
