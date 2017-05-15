@@ -6,7 +6,7 @@ get in touch with me, please check out
 http://sachachua.com/blog/contact . =)
 
 Oldest post in index: December 12, 2007
-Most recent post in index: February 28, 2016
+Most recent post in index: April 28, 2017
 
 Quick links to trails that are already logically ordered (more to come):
 - [[#no-excuses-blogging][Blogging, A No-Excuses Guide to]]
@@ -626,7 +626,8 @@ See http://sach.ac/no-excuses-blogging
 - [X] [[http://sachachua.com/blog/2011/05/walking-comfort-zone-bike-pushkick-scooter/][Walking outside my comfort zone - bike? push/kick scooter?]]
 - [X] [[http://sachachua.com/blog/2011/04/decision-review-battery/][Decision review: Battery]]
 - [X] [[http://sachachua.com/blog/2010/04/forgot-my-keys-automating-memory/][Forgot my keys; automating memory]]
-** Decisions and decision reviews [21/21]
+** Decisions and decision reviews [22/22]
+- [X] [[http://sachachua.com/blog/2017/04/thoughts-on-getting-a-membership-to-the-royal-ontario-museum-rom/][Thoughts on getting a membership to the Royal Ontario Museum (ROM)]] 
 - [X] [[http://sachachua.com/blog/2015/10/decision-review-mid-range-phone-moto-g-and-thinking-about-how-to-get-even-more-out-of-it/][Decision review: Mid-range phone (Moto G), and thinking about how to get even more out of it]] (Oct 2015)
 - [X] [[http://sachachua.com/blog/2013/10/decision-review-seven-months-hacklab/][Decision review: Seven months at HackLab]] (Oct 2013)
 - [X] [[http://sachachua.com/blog/2013/04/analyzing-my-london-trip-decisions-what-worked-well-what-can-i-improve/][Analyzing my London trip decisions: What worked well? What can I improve?]] (Apr 2013)
@@ -1037,7 +1038,7 @@ See also: [[#testing][Testing]]
 - [X] [[http://sachachua.com/blog/2011/11/from-the-feeds-development-food-connecting-with-people-e-books-finance/][From the feeds: Development, food, connecting with people, e-books, finance]]
 - [X] [[http://sachachua.com/blog/2010/12/xkcd-tic-tac-toe-and-fractal-goodness/][XKCD tic-tac-toe, and fractal goodness]]
 - [X] [[http://sachachua.com/blog/2008/01/from-lifehack-how-to-make-yourself-insanely-useful/][From Lifehack: How to Make Yourself INSANELY Useful]]
-** Emacs [60/60]
+** Emacs [61/61]
 See also: [[#emacs-chats][Emacs chats]] and [[#emacs-hangouts][Emacs Hangouts]]
 
 Featured:
@@ -1072,6 +1073,7 @@ Featured:
   - [X] [[http://sachachua.com/blog/2014/11/emacs-evaluating-javascript-css-chrome-using-skewer-mode/][Emacs: Evaluating Javascript and CSS in Chrome using Skewer Mode]] (Nov 2014)
 
 Other:
+- [X] [[http://sachachua.com/blog/2017/04/emacs-pasting-with-the-mouse-without-moving-the-point-mouse-yank-at-point/][Emacs: Pasting with the mouse without moving the point - mouse-yank-at-point]] 
 - [X] [[http://sachachua.com/blog/2016/04/keep-emacs-alive-x-crashes-running-background-daemon/][Keep Emacs alive through X crashes by running it in the background with --daemon]] 
 - [X] [[http://sachachua.com/blog/2016/02/building-today-learned-habit-displaying-documentation-random-emacs-commands/][Building a today-I-learned habit, and displaying the documentation for random Emacs commands]] 
 - [X] [[http://sachachua.com/blog/2015/10/wow-literate-devops-with-emacs-and-org-does-actually-work-on-windows/][Wow, literate devops with Emacs and Org does actually work on Windows]] (Oct 2015)
@@ -1800,7 +1802,8 @@ Obsolete:
 - [X] [[http://sachachua.com/blog/2014/03/new-freepay-want-resource-sketchnotes-2013-also-emacs-dired-rocks/][New free/pay what you want resource: Sketchnotes 2013; also, Emacs Dired rocks]] (March 2014)
 - [X] [[http://sachachua.com/blog/2014/03/sketchnotes-2013-print-yay/][Sketchnotes 2013 in print, yay!]] (March 2014)
 
-** Parenting [9/9]
+** Parenting [10/10]
+- [X] [[http://sachachua.com/blog/2017/04/notes-from-the-parent-advocacy-workshop-my-goals/][Notes from the parent advocacy workshop - my goals]] 
 - [X] [[http://sachachua.com/blog/2017/01/feeling-better-about-developmental-milestones/][Feeling better about developmental milestones]] 
 - [X] [[http://sachachua.com/blog/2017/01/how-can-we-prepare-for-w-s-return-to-work/][How can we prepare for W-'s return to work?]] 
 - [X] [[http://sachachua.com/blog/2017/01/building-a-s-duplo-collection/][Building A-'s Duplo collection]] 
